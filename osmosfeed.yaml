@@ -5,4 +5,6 @@
 
  #cacheUrl: https://rcy1314.github.io/rssbilibili/cache.json
 sources:
-  - href: https://rss.theresa.workers.dev/bili/dynamic?uid=20503549
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCq3Ci-h945sbEYXpVlw7rJg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCYnyI0YuiJRFg2CoBOCGEaA
