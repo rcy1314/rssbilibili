@@ -1,0 +1,11 @@
+#########################
+# Full reference
+# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
+#########################
+
+ cacheUrl: https://rcy1314.github.io/rssbilibili/cache.json
+sources:
+  - href: https://rsshub.app/bilibili/user/video/403413967 # Get new feature announcement via this feed
+  - href: https://rsshub.app/bilibili/user/video/22779089
+  - href: https://rsshub.app/bilibili/user/video/29959830
+  - href: https://rsshub.app/bilibili/user/video/20503549
