@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-03T01:38:05.553Z</id>
+    <id>urn:2022-12-04T01:44:26.427Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-03T01:38:05.553Z</updated>
+    <updated>2022-12-04T01:44:26.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -120,15 +120,6 @@
         <updated>2022-11-09T02:54:17.000Z</updated>
         <author>
             <name>小广同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[口袋阅读神器！海信TOUCH Lite体验]]></title>
-        <id>https://www.youtube.com/watch?v=XWTTNzZchP8</id>
-        <link href="https://www.youtube.com/watch?v=XWTTNzZchP8"/>
-        <updated>2022-11-04T11:15:04.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
         </author>
     </entry>
 </feed>
