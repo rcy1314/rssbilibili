@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HLwGlp-XtQ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HLwGlp-XtQ4",
+          "publishedOn": "2022-12-08T16:30:36.000Z",
+          "wordCount": null,
+          "title": "MAKING MUSIC IN 2022 IS WILD... THE STORY BEHIND WISH ON AN EYELASH @Mallrat",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=B_foVU9BL0A",
           "author": null,
           "description": "",
@@ -22,6 +32,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yi_JwvUDFMc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yi_JwvUDFMc",
+          "publishedOn": "2022-12-08T03:23:16.000Z",
+          "wordCount": null,
+          "title": "一个软件搞定所有效果，适用于AE,PR,FCPX FxFactory 8视觉特效包",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=G7lj8ilWfN0",
           "author": null,
@@ -71,16 +91,6 @@
           "wordCount": null,
           "title": "【MG动画】FCPX也能制作MG动画 明亮V3动画工具包",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zFrfvKDgRc0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zFrfvKDgRc0",
-          "publishedOn": "2022-11-09T02:54:17.000Z",
-          "wordCount": null,
-          "title": "FCPX快速上字幕，收费和免费哪个更好？",
-          "imageUrl": null
         }
       ]
     },
@@ -89,6 +99,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYnyI0YuiJRFg2CoBOCGEaA",
       "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=g00WSUozoB0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g00WSUozoB0",
+          "publishedOn": "2022-12-08T10:00:18.000Z",
+          "wordCount": null,
+          "title": "Apple Music可以K歌啦",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CzWyPAzU8N4",
           "author": null,
