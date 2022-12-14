@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T01:49:21.062Z</id>
+    <id>urn:2022-12-14T01:46:56.463Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T01:49:21.063Z</updated>
+    <updated>2022-12-14T01:46:56.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[丁家生摄影后期讲座——民俗类作品的调色思路及方法]]></title>
+        <id>https://www.youtube.com/watch?v=ivkKmODbSus</id>
+        <link href="https://www.youtube.com/watch?v=ivkKmODbSus"/>
+        <updated>2022-12-14T00:00:14.000Z</updated>
+        <author>
+            <name>燕东人细说摄影后期</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmic Scythe Warrior | Best Epic Heroic Orchestral Music | Epic Music Mix 2022]]></title>
+        <id>https://www.youtube.com/watch?v=zkGVtdE17Ho</id>
+        <link href="https://www.youtube.com/watch?v=zkGVtdE17Ho"/>
+        <updated>2022-12-13T12:45:03.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM "Cực Phiêu" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2022 ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=HUSnozrhvM4</id>
+        <link href="https://www.youtube.com/watch?v=HUSnozrhvM4"/>
+        <updated>2022-12-13T11:00:08.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-T5: Thai Pham/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=nhjbaDF9eUQ</id>
+        <link href="https://www.youtube.com/watch?v=nhjbaDF9eUQ"/>
+        <updated>2022-12-13T05:00:31.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-T5: Noci Kosho/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=qkBakxD9u64</id>
+        <link href="https://www.youtube.com/watch?v=qkBakxD9u64"/>
+        <updated>2022-12-13T05:00:26.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xomu - Mannenzakura]]></title>
+        <id>https://www.youtube.com/watch?v=yKqxTkfDUX4</id>
+        <link href="https://www.youtube.com/watch?v=yKqxTkfDUX4"/>
+        <updated>2022-12-13T04:00:15.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CameraRaw第242讲：在ACR和PS里做数字中国画创意（4）]]></title>
         <id>https://www.youtube.com/watch?v=f3E-RGGKw6Y</id>
@@ -1059,15 +1113,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Chơi Game Cực Phiêu" Tuyệt Đỉnh Gây Nghiện" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2021]]></title>
-        <id>https://www.youtube.com/watch?v=OuP5kVd3GZY</id>
-        <link href="https://www.youtube.com/watch?v=OuP5kVd3GZY"/>
-        <updated>2022-11-25T11:00:22.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[213 丁家生摄影后期讲座——如何处理曝光过度的照片]]></title>
         <id>https://www.youtube.com/watch?v=dizu9Z4gM3A</id>
         <link href="https://www.youtube.com/watch?v=dizu9Z4gM3A"/>
@@ -1104,15 +1149,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Hay Cực Phiêu "Xóa Tan Mọi Cảm Xúc" ♪ ( PLAY quên lối về )]]></title>
-        <id>https://www.youtube.com/watch?v=2-jARdxE2Cs</id>
-        <link href="https://www.youtube.com/watch?v=2-jARdxE2Cs"/>
-        <updated>2022-11-24T11:00:01.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【24曲】超重低音！！アニソンリミックスメドレー【重低音強化】【作業用BGM】]]></title>
         <id>https://www.youtube.com/watch?v=1gZlSwRzC1M</id>
         <link href="https://www.youtube.com/watch?v=1gZlSwRzC1M"/>
@@ -1137,15 +1173,6 @@
         <updated>2022-11-24T05:00:15.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[217 丁家生摄影后期讲座——如何让欠曝的夜景亮丽起来]]></title>
-        <id>https://www.youtube.com/watch?v=o0Ctrc-vZYQ</id>
-        <link href="https://www.youtube.com/watch?v=o0Ctrc-vZYQ"/>
-        <updated>2022-11-24T00:00:29.000Z</updated>
-        <author>
-            <name>燕东人细说摄影后期</name>
         </author>
     </entry>
     <entry>
@@ -1212,24 +1239,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-T5: Antonio Faccilongo/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=TtohGGwh6cM</id>
-        <link href="https://www.youtube.com/watch?v=TtohGGwh6cM"/>
-        <updated>2022-11-22T05:00:13.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-T5: Karen Hutton/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=McyIH3jpJyM</id>
-        <link href="https://www.youtube.com/watch?v=McyIH3jpJyM"/>
-        <updated>2022-11-22T05:00:08.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The King Of The Kingdom | 2 hours of music the reign of the King | Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=Nx9AcXqqfps</id>
         <link href="https://www.youtube.com/watch?v=Nx9AcXqqfps"/>
@@ -1281,15 +1290,6 @@
         <updated>2022-11-20T11:05:54.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The God Of The Universe Absorbs The Energy Of The Universe | Best Epic Battle Music Of All Times]]></title>
-        <id>https://www.youtube.com/watch?v=JPwXlAxbjYY</id>
-        <link href="https://www.youtube.com/watch?v=JPwXlAxbjYY"/>
-        <updated>2022-11-19T17:03:02.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1425,33 +1425,6 @@
         <updated>2022-11-15T03:35:38.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十個情侶合照拍攝建議]]></title>
-        <id>https://www.youtube.com/watch?v=Nn8_OTWEWaI</id>
-        <link href="https://www.youtube.com/watch?v=Nn8_OTWEWaI"/>
-        <updated>2022-11-14T12:30:09.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLOG相机怎么选？6款博主超热门相机+适配镜头推荐！从新手入门到高阶！]]></title>
-        <id>https://www.youtube.com/watch?v=aB7Ru8zguLk</id>
-        <link href="https://www.youtube.com/watch?v=aB7Ru8zguLk"/>
-        <updated>2022-11-14T09:00:00.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MG动画】FCPX也能制作MG动画 明亮V3动画工具包]]></title>
-        <id>https://www.youtube.com/watch?v=onlbkvEpauA</id>
-        <link href="https://www.youtube.com/watch?v=onlbkvEpauA"/>
-        <updated>2022-11-14T02:22:49.000Z</updated>
-        <author>
-            <name>小广同学</name>
         </author>
     </entry>
 </feed>
