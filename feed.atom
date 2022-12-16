@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T01:47:17.177Z</id>
+    <id>urn:2022-12-16T01:36:24.713Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T01:47:17.177Z</updated>
+    <updated>2022-12-16T01:36:24.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[300 塊的水管鏡頭對決 30000 元的望遠鏡頭 考驗的不是技術而是運氣？]]></title>
+        <id>https://www.youtube.com/watch?v=wmYhTNV7FSg</id>
+        <link href="https://www.youtube.com/watch?v=wmYhTNV7FSg"/>
+        <updated>2022-12-15T12:30:21.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Angel | Best Epic Heroic Orchestral Music | Powerful Music Mix]]></title>
+        <id>https://www.youtube.com/watch?v=srGyRakSlsM</id>
+        <link href="https://www.youtube.com/watch?v=srGyRakSlsM"/>
+        <updated>2022-12-15T12:30:15.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM "Cực Phiêu" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2022 ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=YUCtnSi-pp4</id>
+        <link href="https://www.youtube.com/watch?v=YUCtnSi-pp4"/>
+        <updated>2022-12-15T11:00:15.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【六角學院感謝祭】新課上線 + 全課程 75 折～]]></title>
+        <id>https://www.youtube.com/watch?v=xbFThut-rOQ</id>
+        <link href="https://www.youtube.com/watch?v=xbFThut-rOQ"/>
+        <updated>2022-12-15T06:08:24.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XF30mmF2.8 Macro: Krittanun Tantraporn/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=xMb69YBNFIA</id>
+        <link href="https://www.youtube.com/watch?v=xMb69YBNFIA"/>
+        <updated>2022-12-15T05:00:19.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CameraRaw第257讲：在ACR里人文纪实片光、色的协调表现（8）]]></title>
         <id>https://www.youtube.com/watch?v=Sez0qmUl8hc</id>
@@ -1014,15 +1059,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Nhạc EDM Hay Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
-        <id>https://www.youtube.com/watch?v=L9Sh2S9NjP4</id>
-        <link href="https://www.youtube.com/watch?v=L9Sh2S9NjP4"/>
-        <updated>2022-11-28T12:30:06.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我用嘴戰勝了最終boss！]]></title>
         <id>https://www.youtube.com/watch?v=0y5wWZA8k5k</id>
         <link href="https://www.youtube.com/watch?v=0y5wWZA8k5k"/>
@@ -1221,15 +1257,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-T5: Nordica/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=d3PSkGoG4OU</id>
-        <link href="https://www.youtube.com/watch?v=d3PSkGoG4OU"/>
-        <updated>2022-11-24T05:00:15.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大=爽？文石Note X2墨水屏平板体验]]></title>
         <id>https://www.youtube.com/watch?v=raFekqRLVns</id>
         <link href="https://www.youtube.com/watch?v=raFekqRLVns"/>
@@ -1290,15 +1317,6 @@
         <updated>2022-11-22T08:40:42.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The King Of The Kingdom | 2 hours of music the reign of the King | Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=Nx9AcXqqfps</id>
-        <link href="https://www.youtube.com/watch?v=Nx9AcXqqfps"/>
-        <updated>2022-11-21T12:45:02.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1407,33 +1425,6 @@
         <updated>2022-11-17T07:01:21.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony a7s4- 發佈時間 規格預測]]></title>
-        <id>https://www.youtube.com/watch?v=jNOi4I2UQ7c</id>
-        <link href="https://www.youtube.com/watch?v=jNOi4I2UQ7c"/>
-        <updated>2022-11-16T12:41:33.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【旅拍｜黑山】巴尔干半岛旅拍第三站，探索山上的海，海中的教堂｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=yQE_5tF-0nA</id>
-        <link href="https://www.youtube.com/watch?v=yQE_5tF-0nA"/>
-        <updated>2022-11-16T12:00:46.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拯救亿万孩子！半世纪前的另一场病毒战争【寻找·顾方舟】]]></title>
-        <id>https://www.youtube.com/watch?v=WqaJJjwr2lI</id>
-        <link href="https://www.youtube.com/watch?v=WqaJJjwr2lI"/>
-        <updated>2022-11-16T05:30:41.000Z</updated>
-        <author>
-            <name>大象放映室</name>
         </author>
     </entry>
 </feed>
