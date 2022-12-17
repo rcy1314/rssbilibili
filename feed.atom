@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T01:36:24.713Z</id>
+    <id>urn:2022-12-17T01:35:15.386Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T01:36:24.713Z</updated>
+    <updated>2022-12-17T01:35:15.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CameraRaw第302讲：画意摄影表现技巧（27）荷塘清香后期创意]]></title>
+        <id>https://www.youtube.com/watch?v=-UYGdCnGJGE</id>
+        <link href="https://www.youtube.com/watch?v=-UYGdCnGJGE"/>
+        <updated>2022-12-16T23:30:00.000Z</updated>
+        <author>
+            <name>姜本平那村的人儿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warrior Has Eternal Flame In Him | Best Epic Heroic Orchestral Music | Powerful Epic Music]]></title>
+        <id>https://www.youtube.com/watch?v=Rm12yXi-t6Y</id>
+        <link href="https://www.youtube.com/watch?v=Rm12yXi-t6Y"/>
+        <updated>2022-12-16T12:30:17.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月份最新手機遊戲推薦 | Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #3]]></title>
+        <id>https://www.youtube.com/watch?v=dXbXv5duQz4</id>
+        <link href="https://www.youtube.com/watch?v=dXbXv5duQz4"/>
+        <updated>2022-12-16T12:00:31.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞越镜头怕炸机？30秒教你九宫格避障法降低炸机风险！]]></title>
+        <id>https://www.youtube.com/watch?v=eE4-vLSXWF4</id>
+        <link href="https://www.youtube.com/watch?v=eE4-vLSXWF4"/>
+        <updated>2022-12-16T04:48:15.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Thomas看看世界】城市、建筑、人像摄影师都爱的蓝调时刻，应该如何拍摄？｜摄影后期教程]]></title>
+        <id>https://www.youtube.com/watch?v=2xVJwEAz66g</id>
+        <link href="https://www.youtube.com/watch?v=2xVJwEAz66g"/>
+        <updated>2022-12-16T03:51:25.000Z</updated>
+        <author>
+            <name>Thomas Chu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CameraRaw第300讲：画意摄影表现技巧（25）拖影梦幻画意效果]]></title>
+        <id>https://www.youtube.com/watch?v=fst-IVdUlSE</id>
+        <link href="https://www.youtube.com/watch?v=fst-IVdUlSE"/>
+        <updated>2022-12-16T01:45:02.000Z</updated>
+        <author>
+            <name>姜本平那村的人儿</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[300 塊的水管鏡頭對決 30000 元的望遠鏡頭 考驗的不是技術而是運氣？]]></title>
         <id>https://www.youtube.com/watch?v=wmYhTNV7FSg</id>
@@ -663,6 +717,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
+        <id>https://www.youtube.com/watch?v=zFFw49rHikM</id>
+        <link href="https://www.youtube.com/watch?v=zFFw49rHikM"/>
+        <updated>2022-12-05T06:10:50.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CameraRaw第111讲：在ACR和PS里表现花卉小品创意效果]]></title>
         <id>https://www.youtube.com/watch?v=yq-xtFLbyTQ</id>
         <link href="https://www.youtube.com/watch?v=yq-xtFLbyTQ"/>
@@ -1023,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CameraRaw第236讲：商业人像个性化的后期表现（11）冷调]]></title>
-        <id>https://www.youtube.com/watch?v=3_5RFSAtGj4</id>
-        <link href="https://www.youtube.com/watch?v=3_5RFSAtGj4"/>
-        <updated>2022-11-29T01:00:03.000Z</updated>
-        <author>
-            <name>姜本平那村的人儿</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[158 丁家生摄影后期讲座——风光摄影后期影调调整思路]]></title>
         <id>https://www.youtube.com/watch?v=27tMSR9_XPI</id>
         <link href="https://www.youtube.com/watch?v=27tMSR9_XPI"/>
@@ -1086,15 +1140,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CameraRaw第217讲：在ACR里风光片现场后期自我挑战（22）]]></title>
-        <id>https://www.youtube.com/watch?v=x2w5H_eeftM</id>
-        <link href="https://www.youtube.com/watch?v=x2w5H_eeftM"/>
-        <updated>2022-11-28T00:30:20.000Z</updated>
-        <author>
-            <name>姜本平那村的人儿</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[170 丁家生摄影后期讲座——如何营造出清凉的环境人像]]></title>
         <id>https://www.youtube.com/watch?v=2QE2Akhty4E</id>
         <link href="https://www.youtube.com/watch?v=2QE2Akhty4E"/>
@@ -1128,15 +1173,6 @@
         <updated>2022-11-27T00:00:12.000Z</updated>
         <author>
             <name>燕东人细说摄影后期</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Female warrior protecting life | Epic Music About The Bravery Of A Female Warrior | Epic Music 2022]]></title>
-        <id>https://www.youtube.com/watch?v=vpGWBh-G5gU</id>
-        <link href="https://www.youtube.com/watch?v=vpGWBh-G5gU"/>
-        <updated>2022-11-26T12:45:04.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1416,15 +1452,6 @@
         <updated>2022-11-18T05:38:23.000Z</updated>
         <author>
             <name>小广同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【作業用BGM】ヘッドホンで聞くとすごい曲！やる気を全開にさせる超重低音アニソンミックスメドレー Strongest Remix Anime Songs Collection]]></title>
-        <id>https://www.youtube.com/watch?v=upGJiITP2Bg</id>
-        <link href="https://www.youtube.com/watch?v=upGJiITP2Bg"/>
-        <updated>2022-11-17T07:01:21.000Z</updated>
-        <author>
-            <name>Juna BGM</name>
         </author>
     </entry>
 </feed>
