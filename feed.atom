@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-17T01:35:15.386Z</id>
+    <id>urn:2022-12-18T01:38:10.744Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T01:35:15.386Z</updated>
+    <updated>2022-12-18T01:38:10.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CameraRaw第340讲：在ACR里弱光纪实摄影的后期处理]]></title>
+        <id>https://www.youtube.com/watch?v=cZr8SGlpE7g</id>
+        <link href="https://www.youtube.com/watch?v=cZr8SGlpE7g"/>
+        <updated>2022-12-18T00:15:01.000Z</updated>
+        <author>
+            <name>姜本平那村的人儿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rip Roach - Naruto Rotation [Edit/AMV]! + [Free Project File] Quick Edit !]]></title>
+        <id>https://www.youtube.com/watch?v=mT_U9k2D51k</id>
+        <link href="https://www.youtube.com/watch?v=mT_U9k2D51k"/>
+        <updated>2022-12-17T15:24:51.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
+        <id>https://www.youtube.com/watch?v=zFFw49rHikM</id>
+        <link href="https://www.youtube.com/watch?v=zFFw49rHikM"/>
+        <updated>2022-12-17T04:46:19.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CameraRaw第302讲：画意摄影表现技巧（27）荷塘清香后期创意]]></title>
         <id>https://www.youtube.com/watch?v=-UYGdCnGJGE</id>
@@ -717,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
-        <id>https://www.youtube.com/watch?v=zFFw49rHikM</id>
-        <link href="https://www.youtube.com/watch?v=zFFw49rHikM"/>
-        <updated>2022-12-05T06:10:50.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CameraRaw第111讲：在ACR和PS里表现花卉小品创意效果]]></title>
         <id>https://www.youtube.com/watch?v=yq-xtFLbyTQ</id>
         <link href="https://www.youtube.com/watch?v=yq-xtFLbyTQ"/>
@@ -975,15 +993,6 @@
         <updated>2022-11-30T12:45:05.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直播现场收到学员照片的思路分析及后期表现]]></title>
-        <id>https://www.youtube.com/watch?v=LCWBbO-nbps</id>
-        <link href="https://www.youtube.com/watch?v=LCWBbO-nbps"/>
-        <updated>2022-11-30T03:00:14.000Z</updated>
-        <author>
-            <name>姜本平那村的人儿</name>
         </author>
     </entry>
     <entry>
@@ -1407,51 +1416,6 @@
         <updated>2022-11-19T06:49:02.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拿起相机脑子空白？实拍解析，葡萄牙拍摄思路分享！｜原来这么拍 238集]]></title>
-        <id>https://www.youtube.com/watch?v=ZJF2q0A1RKQ</id>
-        <link href="https://www.youtube.com/watch?v=ZJF2q0A1RKQ"/>
-        <updated>2022-11-18T13:00:32.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年11月份最新手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #1]]></title>
-        <id>https://www.youtube.com/watch?v=1wbbd_fejqc</id>
-        <link href="https://www.youtube.com/watch?v=1wbbd_fejqc"/>
-        <updated>2022-11-18T12:15:00.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infuse使用经验分享：搭建私人影视资源库]]></title>
-        <id>https://www.youtube.com/watch?v=Z1o-UqAzjZQ</id>
-        <link href="https://www.youtube.com/watch?v=Z1o-UqAzjZQ"/>
-        <updated>2022-11-18T10:30:07.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「大神來六角」做事不能拖拖拉拉，但網頁可以：draggable js 介紹]]></title>
-        <id>https://www.youtube.com/watch?v=iUMlk_eHkzE</id>
-        <link href="https://www.youtube.com/watch?v=iUMlk_eHkzE"/>
-        <updated>2022-11-18T06:30:32.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peaky Blinders For AE·浴血黑帮·剃刀党字幕制作]]></title>
-        <id>https://www.youtube.com/watch?v=-m_9bENoZ3Q</id>
-        <link href="https://www.youtube.com/watch?v=-m_9bENoZ3Q"/>
-        <updated>2022-11-18T05:38:23.000Z</updated>
-        <author>
-            <name>小广同学</name>
         </author>
     </entry>
 </feed>
