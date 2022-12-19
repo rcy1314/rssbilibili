@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T01:35:33.702Z</id>
+    <id>urn:2022-12-19T05:16:20.087Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T01:35:33.702Z</updated>
+    <updated>2022-12-19T05:16:20.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
-        <id>https://www.youtube.com/watch?v=E-udkh_Pu1I</id>
-        <link href="https://www.youtube.com/watch?v=E-udkh_Pu1I"/>
-        <updated>2022-12-19T00:13:40.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Powerful Hybrid Orchestral ♫ Most Powerful Epic Music Mix ♫ Best Epic Battle Music Of All Times]]></title>
         <id>https://www.youtube.com/watch?v=r0gnrC8rwK8</id>
@@ -21,6 +12,15 @@
         <updated>2022-12-18T12:30:19.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rainbow – Sakura Girl (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=YR51DQO5cV4</id>
+        <link href="https://www.youtube.com/watch?v=YR51DQO5cV4"/>
+        <updated>2022-12-18T12:00:25.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -51,6 +51,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Go Away – Konqeson (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=mYCF4jlb2Lg</id>
+        <link href="https://www.youtube.com/watch?v=mYCF4jlb2Lg"/>
+        <updated>2022-12-17T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
         <id>https://www.youtube.com/watch?v=zFFw49rHikM</id>
         <link href="https://www.youtube.com/watch?v=zFFw49rHikM"/>
@@ -69,12 +78,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[看着挺NB的是吧？拍摄幕后辛酸泪谁人知！]]></title>
+        <id>https://www.youtube.com/watch?v=E0978E4NDas</id>
+        <link href="https://www.youtube.com/watch?v=E0978E4NDas"/>
+        <updated>2022-12-16T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Warrior Has Eternal Flame In Him | Best Epic Heroic Orchestral Music | Powerful Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=Rm12yXi-t6Y</id>
         <link href="https://www.youtube.com/watch?v=Rm12yXi-t6Y"/>
         <updated>2022-12-16T12:30:17.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Autumn Leaves Fall Around – Babasmas (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=gv0R2kNjHTI</id>
+        <link href="https://www.youtube.com/watch?v=gv0R2kNjHTI"/>
+        <updated>2022-12-16T12:00:33.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -114,6 +141,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ocean Tide - Jay Someday (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=OIcwdKcaEVc</id>
+        <link href="https://www.youtube.com/watch?v=OIcwdKcaEVc"/>
+        <updated>2022-12-15T16:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[room tour疫情让北京摄影师卖掉了明星都光顾的房子]]></title>
+        <id>https://www.youtube.com/watch?v=fNtLVBT-Zpw</id>
+        <link href="https://www.youtube.com/watch?v=fNtLVBT-Zpw"/>
+        <updated>2022-12-15T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[300 塊的水管鏡頭對決 30000 元的望遠鏡頭 考驗的不是技術而是運氣？]]></title>
         <id>https://www.youtube.com/watch?v=wmYhTNV7FSg</id>
         <link href="https://www.youtube.com/watch?v=wmYhTNV7FSg"/>
@@ -129,6 +174,15 @@
         <updated>2022-12-15T12:30:15.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Me – Peyruis (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=KZNLaHWDOOQ</id>
+        <link href="https://www.youtube.com/watch?v=KZNLaHWDOOQ"/>
+        <updated>2022-12-15T12:00:20.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -168,6 +222,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TZ800 - SOMM (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=SoQ2wHQZCEY</id>
+        <link href="https://www.youtube.com/watch?v=SoQ2wHQZCEY"/>
+        <updated>2022-12-14T16:00:10.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摄影器材多到爆炸的摄影师搬完家直接爆肝- iPhone12 mini昏暗环境拍摄4小时]]></title>
+        <id>https://www.youtube.com/watch?v=hS7MgNKu94g</id>
+        <link href="https://www.youtube.com/watch?v=hS7MgNKu94g"/>
+        <updated>2022-12-14T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「週三八點半」AI 修圖是趨勢嗎？可以簡單調出濱田英明的色調嗎？色差問題連續一個月有人問我再講一次]]></title>
         <id>https://www.youtube.com/watch?v=mpBtUgqYLGM</id>
         <link href="https://www.youtube.com/watch?v=mpBtUgqYLGM"/>
@@ -201,6 +273,15 @@
         <updated>2022-12-14T12:25:47.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesmerize – VDGL (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=o2xR6hS9N2M</id>
+        <link href="https://www.youtube.com/watch?v=o2xR6hS9N2M"/>
+        <updated>2022-12-14T12:00:30.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -258,12 +339,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Oxygen - Next Route (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=Ld0JOKE_NJ8</id>
+        <link href="https://www.youtube.com/watch?v=Ld0JOKE_NJ8"/>
+        <updated>2022-12-13T16:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【真知卓见】直播回放点评粉丝作品第三部分]]></title>
+        <id>https://www.youtube.com/watch?v=P3jQwQ8iLbs</id>
+        <link href="https://www.youtube.com/watch?v=P3jQwQ8iLbs"/>
+        <updated>2022-12-13T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cosmic Scythe Warrior | Best Epic Heroic Orchestral Music | Epic Music Mix 2022]]></title>
         <id>https://www.youtube.com/watch?v=zkGVtdE17Ho</id>
         <link href="https://www.youtube.com/watch?v=zkGVtdE17Ho"/>
         <updated>2022-12-13T12:45:03.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Wavy Night's Breath – Artificial.Music (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=dFQw1S0UeHY</id>
+        <link href="https://www.youtube.com/watch?v=dFQw1S0UeHY"/>
+        <updated>2022-12-13T12:00:20.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -312,6 +420,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【真知卓见】直播回放粉丝投稿作品点评第二部分]]></title>
+        <id>https://www.youtube.com/watch?v=j7CjdBXKxgA</id>
+        <link href="https://www.youtube.com/watch?v=j7CjdBXKxgA"/>
+        <updated>2022-12-12T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Solar System Warriors Burn | Most Powerful Epic Heroic Battle Orchestral Music |Greatest Of Dramatic]]></title>
         <id>https://www.youtube.com/watch?v=4exQ-v7CF5w</id>
         <link href="https://www.youtube.com/watch?v=4exQ-v7CF5w"/>
@@ -336,6 +453,15 @@
         <updated>2022-12-12T12:02:53.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adventure – Roa (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=wm5P8bU8BPo</id>
+        <link href="https://www.youtube.com/watch?v=wm5P8bU8BPo"/>
+        <updated>2022-12-12T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -402,12 +528,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【真知卓见】手机拍摄如何拥有高级感的二手物品？iphone12 promax 配合南光forza60 补光灯拍摄富士GFX 100s的祖先GF670 胶片相机]]></title>
+        <id>https://www.youtube.com/watch?v=FK3ONq14he8</id>
+        <link href="https://www.youtube.com/watch?v=FK3ONq14he8"/>
+        <updated>2022-12-11T15:01:01.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pantheon The Ultimate Warriors | Powerful Orchestral Music | Epic  Powerful Battle Music]]></title>
         <id>https://www.youtube.com/watch?v=y7zgLe2cLUM</id>
         <link href="https://www.youtube.com/watch?v=y7zgLe2cLUM"/>
         <updated>2022-12-11T12:45:03.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell Me – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=telMC7ADrDA</id>
+        <link href="https://www.youtube.com/watch?v=telMC7ADrDA"/>
+        <updated>2022-12-11T12:00:22.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -429,12 +573,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【真知卓见】直播作品点评第一部分回放]]></title>
+        <id>https://www.youtube.com/watch?v=eHXyD9K-qUo</id>
+        <link href="https://www.youtube.com/watch?v=eHXyD9K-qUo"/>
+        <updated>2022-12-10T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DARK DRAGON THREE  HEADS | Epic Music About The Darkness That Covers The World | Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=a6LgPqbvMAo</id>
         <link href="https://www.youtube.com/watch?v=a6LgPqbvMAo"/>
         <updated>2022-12-10T12:45:01.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equinox – Konqeson (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=FsE-NPQ2Mhs</id>
+        <link href="https://www.youtube.com/watch?v=FsE-NPQ2Mhs"/>
+        <updated>2022-12-10T12:00:16.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -456,6 +618,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[奔驰保姆车停在树下两个月没开杯巨了]]></title>
+        <id>https://www.youtube.com/watch?v=qKVPzeN_P68</id>
+        <link href="https://www.youtube.com/watch?v=qKVPzeN_P68"/>
+        <updated>2022-12-09T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DJI Mini 3 Review: The Longest Flight Time EVER!?!? 大疆Mini 3首发测评:画质续航两头抓，性价比还得看它！]]></title>
         <id>https://www.youtube.com/watch?v=KSgQaEOusqE</id>
         <link href="https://www.youtube.com/watch?v=KSgQaEOusqE"/>
@@ -471,6 +642,15 @@
         <updated>2022-12-09T12:37:26.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asia – Urpleactus (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=uZygVlmSlsQ</id>
+        <link href="https://www.youtube.com/watch?v=uZygVlmSlsQ"/>
+        <updated>2022-12-09T12:00:30.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -537,12 +717,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【真知卓见】这次一定的时尚大片幕后又来了Profoto顶级电箱也有设计大BUG]]></title>
+        <id>https://www.youtube.com/watch?v=y5wWcE_jXoY</id>
+        <link href="https://www.youtube.com/watch?v=y5wWcE_jXoY"/>
+        <updated>2022-12-08T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The land of the vikings | Powerful Intense Music Mix | Epic Powerful Hybrid Music]]></title>
         <id>https://www.youtube.com/watch?v=0Vomb3jSP6Q</id>
         <link href="https://www.youtube.com/watch?v=0Vomb3jSP6Q"/>
         <updated>2022-12-08T12:45:00.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move Me – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=cD5zgH5RWHU</id>
+        <link href="https://www.youtube.com/watch?v=cD5zgH5RWHU"/>
+        <updated>2022-12-08T12:00:23.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -609,6 +807,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【真知卓见】含金量超高的干货摄影评片教学群公开直播回放]]></title>
+        <id>https://www.youtube.com/watch?v=jlTxrr_BEyU</id>
+        <link href="https://www.youtube.com/watch?v=jlTxrr_BEyU"/>
+        <updated>2022-12-07T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JavaScript 面試考什麼！卡斯伯新書發表會～]]></title>
         <id>https://www.youtube.com/watch?v=XIJQNzUyeX8</id>
         <link href="https://www.youtube.com/watch?v=XIJQNzUyeX8"/>
@@ -627,6 +834,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Interstellar – VDGL (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=bv_HWQkiYCI</id>
+        <link href="https://www.youtube.com/watch?v=bv_HWQkiYCI"/>
+        <updated>2022-12-07T12:00:18.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CameraRaw第221讲：在ACR里风光片现场后期自我挑战（26）]]></title>
         <id>https://www.youtube.com/watch?v=tPvdfktMt0U</id>
         <link href="https://www.youtube.com/watch?v=tPvdfktMt0U"/>
@@ -642,6 +858,15 @@
         <updated>2022-12-07T00:00:17.000Z</updated>
         <author>
             <name>燕东人细说摄影后期</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【真知卓见】2021我劝你别做摄影师！给摄影师们的一剂中药]]></title>
+        <id>https://www.youtube.com/watch?v=JmiargYHQS8</id>
+        <link href="https://www.youtube.com/watch?v=JmiargYHQS8"/>
+        <updated>2022-12-06T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
         </author>
     </entry>
     <entry>
@@ -717,6 +942,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【真知卓见】好看不火的时尚大片幕后揭秘来啦！顺带聊聊构图颠覆你对摄影构图的认知]]></title>
+        <id>https://www.youtube.com/watch?v=mBhxCAbkYfs</id>
+        <link href="https://www.youtube.com/watch?v=mBhxCAbkYfs"/>
+        <updated>2022-12-05T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[航拍平平无奇？前后期4种创意玩法拯救无聊航拍！]]></title>
         <id>https://www.youtube.com/watch?v=DWZlSwxcQGE</id>
         <link href="https://www.youtube.com/watch?v=DWZlSwxcQGE"/>
@@ -789,6 +1023,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【真知卓见】苹果macbook M1扩展救星？八合一anker扩展坞购买避坑！typec 雷电3扩展坞评测 gen2 usb3.1 10G传输 HDMI 2.0]]></title>
+        <id>https://www.youtube.com/watch?v=s3OUnxqpFUA</id>
+        <link href="https://www.youtube.com/watch?v=s3OUnxqpFUA"/>
+        <updated>2022-12-04T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Một Chút EDM Chơi Game Hay Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
         <id>https://www.youtube.com/watch?v=hafXwxu01xw</id>
         <link href="https://www.youtube.com/watch?v=hafXwxu01xw"/>
@@ -834,6 +1077,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【真知卓见】100万的电影机如何拍摄时尚大片？探班时尚杂志的幕后 arri alexa mini 和长腿模特们的奇幻之旅 red komodo只能当备胎]]></title>
+        <id>https://www.youtube.com/watch?v=yoxYvnQDs_Q</id>
+        <link href="https://www.youtube.com/watch?v=yoxYvnQDs_Q"/>
+        <updated>2022-12-03T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Elite Army Is Full Of Goodwill | Most Powerful Epic Music Mix | THE POWER OF EPIC MUSIC]]></title>
         <id>https://www.youtube.com/watch?v=Uuh4kuc-Tgo</id>
         <link href="https://www.youtube.com/watch?v=Uuh4kuc-Tgo"/>
@@ -876,6 +1128,15 @@
         <updated>2022-12-03T00:00:20.000Z</updated>
         <author>
             <name>燕东人细说摄影后期</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【直播间搭建3声音篇】直播声卡有多香？轻松去掉环境噪音得到迷人声线？推荐性价比超高的声卡Tascam us-32/42及复古麦克风轻松拥有专业带货直播间]]></title>
+        <id>https://www.youtube.com/watch?v=a4wkbXS8gwE</id>
+        <link href="https://www.youtube.com/watch?v=a4wkbXS8gwE"/>
+        <updated>2022-12-02T15:01:00.000Z</updated>
+        <author>
+            <name>卓仑-Jollon</name>
         </author>
     </entry>
     <entry>
