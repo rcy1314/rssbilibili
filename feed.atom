@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T05:16:20.087Z</id>
+    <id>urn:2022-12-20T01:39:32.614Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T05:16:20.087Z</updated>
+    <updated>2022-12-20T01:39:32.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[262 丁家生摄影后期讲座——阴暗天气拍摄的照片如何调色]]></title>
+        <id>https://www.youtube.com/watch?v=xFlHXknLHUs</id>
+        <link href="https://www.youtube.com/watch?v=xFlHXknLHUs"/>
+        <updated>2022-12-20T00:00:29.000Z</updated>
+        <author>
+            <name>燕东人细说摄影后期</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
+        <id>https://www.youtube.com/watch?v=E-udkh_Pu1I</id>
+        <link href="https://www.youtube.com/watch?v=E-udkh_Pu1I"/>
+        <updated>2022-12-19T13:43:13.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAZY drone tech under $200?? Are they better than Mavic 4? ¥75~¥1300无人机大盘点！水上漂就很离谱了!百元大疆 Mavic 4]]></title>
+        <id>https://www.youtube.com/watch?v=8ZyUJL9RSvM</id>
+        <link href="https://www.youtube.com/watch?v=8ZyUJL9RSvM"/>
+        <updated>2022-12-19T12:32:08.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真的這麼簡單 你一定看得懂的室內打燈教學]]></title>
+        <id>https://www.youtube.com/watch?v=g4zuVP-lL3o</id>
+        <link href="https://www.youtube.com/watch?v=g4zuVP-lL3o"/>
+        <updated>2022-12-19T12:30:12.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside U – Jay Someday (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=AnV90z18KPo</id>
+        <link href="https://www.youtube.com/watch?v=AnV90z18KPo"/>
+        <updated>2022-12-19T12:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Zealand South island 4K cinematic travel video 南極之上，世界的盡頭——這才是托爾金筆下的那個「中土世界」紐西蘭旅拍 SonyA7s3]]></title>
+        <id>https://www.youtube.com/watch?v=cJTTs2MhGVw</id>
+        <link href="https://www.youtube.com/watch?v=cJTTs2MhGVw"/>
+        <updated>2022-12-19T10:00:15.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一次自己给Mac笔记本换电池，会翻车吗？]]></title>
+        <id>https://www.youtube.com/watch?v=f74C7ezW-NE</id>
+        <link href="https://www.youtube.com/watch?v=f74C7ezW-NE"/>
+        <updated>2022-12-19T09:59:46.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Powerful Hybrid Orchestral ♫ Most Powerful Epic Music Mix ♫ Best Epic Battle Music Of All Times]]></title>
         <id>https://www.youtube.com/watch?v=r0gnrC8rwK8</id>
@@ -834,15 +897,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interstellar – VDGL (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=bv_HWQkiYCI</id>
-        <link href="https://www.youtube.com/watch?v=bv_HWQkiYCI"/>
-        <updated>2022-12-07T12:00:18.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CameraRaw第221讲：在ACR里风光片现场后期自我挑战（26）]]></title>
         <id>https://www.youtube.com/watch?v=tPvdfktMt0U</id>
         <link href="https://www.youtube.com/watch?v=tPvdfktMt0U"/>
@@ -1518,15 +1572,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[213 丁家生摄影后期讲座——如何处理曝光过度的照片]]></title>
-        <id>https://www.youtube.com/watch?v=dizu9Z4gM3A</id>
-        <link href="https://www.youtube.com/watch?v=dizu9Z4gM3A"/>
-        <updated>2022-11-25T00:00:28.000Z</updated>
-        <author>
-            <name>燕东人细说摄影后期</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[你跟攝影高手的差別就在這裡- lightroom調色教學]]></title>
         <id>https://www.youtube.com/watch?v=uisEIaxnquA</id>
         <link href="https://www.youtube.com/watch?v=uisEIaxnquA"/>
@@ -1659,15 +1704,6 @@
         <updated>2022-11-20T21:54:44.000Z</updated>
         <author>
             <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可能是你看過最實用的人像攝影教學-手機攝影也適用]]></title>
-        <id>https://www.youtube.com/watch?v=41X7789Q2ig</id>
-        <link href="https://www.youtube.com/watch?v=41X7789Q2ig"/>
-        <updated>2022-11-20T11:05:54.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>
