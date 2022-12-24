@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T01:38:26.240Z</id>
+    <id>urn:2022-12-24T01:26:18.088Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T01:38:26.240Z</updated>
+    <updated>2022-12-24T01:26:18.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「大神來六角」Functional Programming 都可以當你阿公了 - 應用篇]]></title>
+        <id>https://www.youtube.com/watch?v=1y9Rz3LZdJQ</id>
+        <link href="https://www.youtube.com/watch?v=1y9Rz3LZdJQ"/>
+        <updated>2022-12-24T01:00:00.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wanderers Join The War | Epic Powerful Hybrid Music | World's Most Powerful Battle Music]]></title>
+        <id>https://www.youtube.com/watch?v=xZQv4vgJGQU</id>
+        <link href="https://www.youtube.com/watch?v=xZQv4vgJGQU"/>
+        <updated>2022-12-23T12:00:29.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You – Del. (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=sKHyertyJ1g</id>
+        <link href="https://www.youtube.com/watch?v=sKHyertyJ1g"/>
+        <updated>2022-12-23T12:00:27.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年精品手機遊戲回顧特輯！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！]]></title>
+        <id>https://www.youtube.com/watch?v=2wQrNl02PXk</id>
+        <link href="https://www.youtube.com/watch?v=2wQrNl02PXk"/>
+        <updated>2022-12-23T12:00:02.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM Hay Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
+        <id>https://www.youtube.com/watch?v=MeFgIIiZtIU</id>
+        <link href="https://www.youtube.com/watch?v=MeFgIIiZtIU"/>
+        <updated>2022-12-23T11:00:10.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO Find N2：为什么「复辟」手写笔]]></title>
+        <id>https://www.youtube.com/watch?v=iaLgnJqxA-0</id>
+        <link href="https://www.youtube.com/watch?v=iaLgnJqxA-0"/>
+        <updated>2022-12-23T09:42:47.000Z</updated>
+        <author>
+            <name>FView Official Channel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside - Amine Maxwell & Soyb (No Copyright Music) | Release Preview]]></title>
         <id>https://www.youtube.com/watch?v=6kdlbxnzYqU</id>
@@ -627,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oxygen - Next Route (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=Ld0JOKE_NJ8</id>
-        <link href="https://www.youtube.com/watch?v=Ld0JOKE_NJ8"/>
-        <updated>2022-12-13T16:00:11.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【真知卓见】直播回放点评粉丝作品第三部分]]></title>
         <id>https://www.youtube.com/watch?v=P3jQwQ8iLbs</id>
         <link href="https://www.youtube.com/watch?v=P3jQwQ8iLbs"/>
@@ -1158,15 +1203,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chơi Game Hay Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
-        <id>https://www.youtube.com/watch?v=5WUMbbWkQNs</id>
-        <link href="https://www.youtube.com/watch?v=5WUMbbWkQNs"/>
-        <updated>2022-12-05T11:00:02.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
         <id>https://www.youtube.com/watch?v=kd_Ve4Hts_M</id>
         <link href="https://www.youtube.com/watch?v=kd_Ve4Hts_M"/>
@@ -1227,15 +1263,6 @@
         <updated>2022-12-03T15:01:00.000Z</updated>
         <author>
             <name>卓仑-Jollon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Elite Army Is Full Of Goodwill | Most Powerful Epic Music Mix | THE POWER OF EPIC MUSIC]]></title>
-        <id>https://www.youtube.com/watch?v=Uuh4kuc-Tgo</id>
-        <link href="https://www.youtube.com/watch?v=Uuh4kuc-Tgo"/>
-        <updated>2022-12-03T12:45:02.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1533,42 +1560,6 @@
         <updated>2022-11-25T12:00:34.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你跟攝影高手的差別就在這裡- lightroom調色教學]]></title>
-        <id>https://www.youtube.com/watch?v=uisEIaxnquA</id>
-        <link href="https://www.youtube.com/watch?v=uisEIaxnquA"/>
-        <updated>2022-11-24T12:00:41.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【手机摄影】荣耀Magic Vs和80系列影像创作测评，折叠屏拍摄葡萄牙和西班牙｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=v94sFCj8QWs</id>
-        <link href="https://www.youtube.com/watch?v=v94sFCj8QWs"/>
-        <updated>2022-11-24T12:00:39.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當我學會運用神的規則來破局！！！]]></title>
-        <id>https://www.youtube.com/watch?v=HgIl78FQ_dc</id>
-        <link href="https://www.youtube.com/watch?v=HgIl78FQ_dc"/>
-        <updated>2022-11-24T12:00:17.000Z</updated>
-        <author>
-            <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【24曲】超重低音！！アニソンリミックスメドレー【重低音強化】【作業用BGM】]]></title>
-        <id>https://www.youtube.com/watch?v=1gZlSwRzC1M</id>
-        <link href="https://www.youtube.com/watch?v=1gZlSwRzC1M"/>
-        <updated>2022-11-24T08:11:19.000Z</updated>
-        <author>
-            <name>Juna BGM</name>
         </author>
     </entry>
 </feed>
