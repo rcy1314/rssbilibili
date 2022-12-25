@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-24T01:26:18.088Z</id>
+    <id>urn:2022-12-25T01:42:21.432Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T01:26:18.088Z</updated>
+    <updated>2022-12-25T01:42:21.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「六角線上研討會」- Functional Programming 都可以當你阿公了 - 其他語言篇]]></title>
+        <id>https://www.youtube.com/watch?v=ClLjXmv7eo4</id>
+        <link href="https://www.youtube.com/watch?v=ClLjXmv7eo4"/>
+        <updated>2022-12-25T01:00:05.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cavalry Of Hell Is On Fire | Epic Powerful Battle Music | Most Heroic Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=MC6yQ1AYtFU</id>
+        <link href="https://www.youtube.com/watch?v=MC6yQ1AYtFU"/>
+        <updated>2022-12-24T12:30:07.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pina Colada – Konqeson (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=XspqSAZlFQc</id>
+        <link href="https://www.youtube.com/watch?v=XspqSAZlFQc"/>
+        <updated>2022-12-24T12:00:17.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM Hay Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
+        <id>https://www.youtube.com/watch?v=wvpnSxoBW60</id>
+        <link href="https://www.youtube.com/watch?v=wvpnSxoBW60"/>
+        <updated>2022-12-24T11:00:29.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hobbiton movie set tour Newzealand Travel Video4K 闖入霍比特人的家鄉是什麼感覺？ ！@HobbitonMovieSetMatamata]]></title>
+        <id>https://www.youtube.com/watch?v=-0wl-5frxvk</id>
+        <link href="https://www.youtube.com/watch?v=-0wl-5frxvk"/>
+        <updated>2022-12-24T10:00:00.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[やる気を全開にさせるかっこいい曲！クセになる中毒性のある神曲アニソンメドレー【作業用BGM】Beautiful Anime Japanese Songs Collection]]></title>
+        <id>https://www.youtube.com/watch?v=9nfc7PXQPHs</id>
+        <link href="https://www.youtube.com/watch?v=9nfc7PXQPHs"/>
+        <updated>2022-12-24T07:56:34.000Z</updated>
+        <author>
+            <name>Juna BGM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FURY EDM - Moving On]]></title>
+        <id>https://www.youtube.com/watch?v=kt-ZGJf-unY</id>
+        <link href="https://www.youtube.com/watch?v=kt-ZGJf-unY"/>
+        <updated>2022-12-24T04:00:26.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[| Live 🔴 Editing (New mic, monitor)]]></title>
+        <id>https://www.youtube.com/watch?v=highmyWgBYo</id>
+        <link href="https://www.youtube.com/watch?v=highmyWgBYo"/>
+        <updated>2022-12-24T03:28:14.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「大神來六角」Functional Programming 都可以當你阿公了 - 應用篇]]></title>
         <id>https://www.youtube.com/watch?v=1y9Rz3LZdJQ</id>
@@ -627,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesmerize – VDGL (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=o2xR6hS9N2M</id>
-        <link href="https://www.youtube.com/watch?v=o2xR6hS9N2M"/>
-        <updated>2022-12-14T12:00:30.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[転生したらスライムだった件 神曲アニソンメドレー【作業用BGM】Tensei shitara Slime Datta Ken Anime Openings Endings OST Songs]]></title>
         <id>https://www.youtube.com/watch?v=Zak0Fut0f8s</id>
         <link href="https://www.youtube.com/watch?v=Zak0Fut0f8s"/>
@@ -1005,15 +1068,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Mix Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
-        <id>https://www.youtube.com/watch?v=snOClMYWNGI</id>
-        <link href="https://www.youtube.com/watch?v=snOClMYWNGI"/>
-        <updated>2022-12-08T11:00:27.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple Music可以K歌啦]]></title>
         <id>https://www.youtube.com/watch?v=g00WSUozoB0</id>
         <link href="https://www.youtube.com/watch?v=g00WSUozoB0"/>
@@ -1104,15 +1158,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Hay Cực Phiêu "Xóa Tan Mọi Cảm Xúc" ♪ ( PLAY quên lối về )]]></title>
-        <id>https://www.youtube.com/watch?v=vf_snSXVpK4</id>
-        <link href="https://www.youtube.com/watch?v=vf_snSXVpK4"/>
-        <updated>2022-12-06T11:30:18.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【作業用BGM】超重低音！！アニソンリミックスメドレー【重低音強化】]]></title>
         <id>https://www.youtube.com/watch?v=TpTSwd6zdl4</id>
         <link href="https://www.youtube.com/watch?v=TpTSwd6zdl4"/>
@@ -1173,15 +1218,6 @@
         <updated>2022-12-05T12:57:13.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warrior with blue flame  ♫ Epic Powerful Hybrid Battle Music Mix ♫ Epic Powerful Battle Music]]></title>
-        <id>https://www.youtube.com/watch?v=u9zezI7hzGk</id>
-        <link href="https://www.youtube.com/watch?v=u9zezI7hzGk"/>
-        <updated>2022-12-05T12:45:04.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1551,15 +1587,6 @@
         <updated>2022-11-25T14:27:49.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年最新 RPG 角色扮演類手機遊戲推薦 | Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #1]]></title>
-        <id>https://www.youtube.com/watch?v=iOOnCLDeThE</id>
-        <link href="https://www.youtube.com/watch?v=iOOnCLDeThE"/>
-        <updated>2022-11-25T12:00:34.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
