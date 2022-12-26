@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ywZi-CJvlKo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ywZi-CJvlKo",
+          "publishedOn": "2022-12-25T12:55:41.000Z",
+          "wordCount": null,
+          "title": "【福利】这是我用的开场，免费下载，拿去用吧",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yi_JwvUDFMc",
           "author": null,
           "description": "",
@@ -117,16 +127,6 @@
           "publishedOn": "2022-12-08T10:00:18.000Z",
           "wordCount": null,
           "title": "Apple Music可以K歌啦",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CzWyPAzU8N4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CzWyPAzU8N4",
-          "publishedOn": "2022-11-26T10:45:00.000Z",
-          "wordCount": null,
-          "title": "NAS安装OpenWrt实现旁路由科学上网",
           "imageUrl": null
         }
       ]
@@ -321,16 +321,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=MC6yQ1AYtFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MC6yQ1AYtFU",
-          "publishedOn": "2022-12-24T12:30:07.000Z",
-          "wordCount": null,
-          "title": "The Cavalry Of Hell Is On Fire | Epic Powerful Battle Music | Most Heroic Music Mix 2023",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=xZQv4vgJGQU",
           "author": null,
           "description": "",
@@ -338,26 +328,6 @@
           "publishedOn": "2022-12-23T12:00:29.000Z",
           "wordCount": null,
           "title": "The Wanderers Join The War | Epic Powerful Hybrid Music | World's Most Powerful Battle Music",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k8ilGZL_wrw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k8ilGZL_wrw",
-          "publishedOn": "2022-12-22T12:30:27.000Z",
-          "wordCount": null,
-          "title": "Samurai Warrior With Sharp Sword | Best Epic Heroic Orchestral Music | Epic Samurai Mix 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0zB4iPf91aI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0zB4iPf91aI",
-          "publishedOn": "2022-12-21T12:15:00.000Z",
-          "wordCount": null,
-          "title": "Warrior With Burning Sword | Epic Battle Dark Heroic Music | Epic Music Mix by @audiomachine",
           "imageUrl": null
         },
         {
@@ -469,6 +439,36 @@
           "wordCount": null,
           "title": "THE END of battle | Powerful Intense Music Mix | Epic Powerful Hybrid Music",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u9zezI7hzGk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u9zezI7hzGk",
+          "publishedOn": "2022-12-05T12:45:04.000Z",
+          "wordCount": null,
+          "title": "Warrior with blue flame  ♫ Epic Powerful Hybrid Battle Music Mix ♫ Epic Powerful Battle Music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Uuh4kuc-Tgo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Uuh4kuc-Tgo",
+          "publishedOn": "2022-12-03T12:45:02.000Z",
+          "wordCount": null,
+          "title": "The Elite Army Is Full Of Goodwill | Most Powerful Epic Music Mix | THE POWER OF EPIC MUSIC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rZ7mKsja2r8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rZ7mKsja2r8",
+          "publishedOn": "2022-12-02T12:45:02.000Z",
+          "wordCount": null,
+          "title": "Mighty Warrior | Dark Powerful Epic Music | Dramatic Orchestral Music",
+          "imageUrl": null
         }
       ]
     },
@@ -477,6 +477,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KTiNcjVlTAY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KTiNcjVlTAY",
+          "publishedOn": "2022-12-25T12:42:03.000Z",
+          "wordCount": null,
+          "title": "一日街拍攝影(東京篇)- 東京大學街拍/ 就跟你說台灣街道很醜了吧",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tBHJt_8dUoA",
           "author": null,
@@ -496,16 +506,6 @@
           "wordCount": null,
           "title": "我是個不喜歡穩定器的攝影師 #攝影",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H6gM_rZ7goA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H6gM_rZ7goA",
-          "publishedOn": "2022-11-26T12:18:07.000Z",
-          "wordCount": null,
-          "title": "攝影師要失業了嗎? AI修圖到底多厲害 #攝影師 #調色",
-          "imageUrl": null
         }
       ]
     },
@@ -515,13 +515,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2AXOL_nw9sk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2AXOL_nw9sk",
+          "publishedOn": "2022-12-25T04:53:07.000Z",
+          "wordCount": null,
+          "title": "| Live 🔴 Editing... Hand Cam (American Special)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=highmyWgBYo",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=highmyWgBYo",
-          "publishedOn": "2022-12-24T03:28:14.000Z",
+          "publishedOn": "2022-12-25T04:44:03.000Z",
           "wordCount": null,
-          "title": "| Live 🔴 Editing (New mic, monitor)",
+          "title": "| Live 🔴 Editing... Hand Cam",
           "imageUrl": null
         },
         {
@@ -696,16 +706,6 @@
           "wordCount": null,
           "title": "【23曲】たまに聴きたくなるアニソンメドレー！【作業用BGM】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rehj04RXJlE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rehj04RXJlE",
-          "publishedOn": "2022-11-26T08:39:31.000Z",
-          "wordCount": null,
-          "title": "【アニソン神曲】2022年超私的神曲アニソンメドレー【作業用BGM】【多くのイラスト】",
-          "imageUrl": null
         }
       ]
     },
@@ -762,16 +762,6 @@
           "publishedOn": "2022-12-07T13:27:20.000Z",
           "wordCount": null,
           "title": "JavaScript 面試考什麼！卡斯伯新書發表會～",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YY8l4qPoAqo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YY8l4qPoAqo",
-          "publishedOn": "2022-11-25T14:27:49.000Z",
-          "wordCount": null,
-          "title": "「大神來六角」互動式網頁設計工程師該具備哪些技能？.feat 吳哲宇",
           "imageUrl": null
         }
       ]
@@ -1211,16 +1201,6 @@
           "wordCount": null,
           "title": "vivo X90 Pro+影像测评，带你快速了解最强全能影像旗舰｜陈曦Stanley",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8KgFlDs6Fu4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8KgFlDs6Fu4",
-          "publishedOn": "2022-11-26T12:00:10.000Z",
-          "wordCount": null,
-          "title": "【旅拍 | 里斯本】葡萄牙里斯本，在欧陆最西端，心起波澜｜陈曦Stanley",
-          "imageUrl": null
         }
       ]
     },
@@ -1367,16 +1347,6 @@
           "publishedOn": "2022-11-27T00:00:12.000Z",
           "wordCount": null,
           "title": "188 丁家生摄影后期讲座——快速应用PS制作侧逆光冲光效果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fMf8O043EL4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fMf8O043EL4",
-          "publishedOn": "2022-11-26T00:00:20.000Z",
-          "wordCount": null,
-          "title": "189 丁家生摄影后期讲座——如何使用PS抠取毛笔字",
           "imageUrl": null
         }
       ]
@@ -1821,6 +1791,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hVWQeOF_niI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hVWQeOF_niI",
+          "publishedOn": "2022-12-25T12:00:31.000Z",
+          "wordCount": null,
+          "title": "Mariehamn – Scandinavianz (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XspqSAZlFQc",
           "author": null,
           "description": "",
@@ -1958,16 +1938,6 @@
           "publishedOn": "2022-12-15T12:00:20.000Z",
           "wordCount": null,
           "title": "Keep Me – Peyruis (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SoQ2wHQZCEY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SoQ2wHQZCEY",
-          "publishedOn": "2022-12-14T16:00:10.000Z",
-          "wordCount": null,
-          "title": "TZ800 - SOMM (No Copyright Music) | Release Preview",
           "imageUrl": null
         }
       ]

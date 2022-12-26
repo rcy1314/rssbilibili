@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-25T01:42:21.432Z</id>
+    <id>urn:2022-12-26T01:39:12.392Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T01:42:21.432Z</updated>
+    <updated>2022-12-26T01:39:12.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【福利】这是我用的开场，免费下载，拿去用吧]]></title>
+        <id>https://www.youtube.com/watch?v=ywZi-CJvlKo</id>
+        <link href="https://www.youtube.com/watch?v=ywZi-CJvlKo"/>
+        <updated>2022-12-25T12:55:41.000Z</updated>
+        <author>
+            <name>小广同学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日街拍攝影(東京篇)- 東京大學街拍/ 就跟你說台灣街道很醜了吧]]></title>
+        <id>https://www.youtube.com/watch?v=KTiNcjVlTAY</id>
+        <link href="https://www.youtube.com/watch?v=KTiNcjVlTAY"/>
+        <updated>2022-12-25T12:42:03.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mariehamn – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=hVWQeOF_niI</id>
+        <link href="https://www.youtube.com/watch?v=hVWQeOF_niI"/>
+        <updated>2022-12-25T12:00:31.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[| Live 🔴 Editing... Hand Cam (American Special)]]></title>
+        <id>https://www.youtube.com/watch?v=2AXOL_nw9sk</id>
+        <link href="https://www.youtube.com/watch?v=2AXOL_nw9sk"/>
+        <updated>2022-12-25T04:53:07.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[| Live 🔴 Editing... Hand Cam]]></title>
+        <id>https://www.youtube.com/watch?v=highmyWgBYo</id>
+        <link href="https://www.youtube.com/watch?v=highmyWgBYo"/>
+        <updated>2022-12-25T04:44:03.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「六角線上研討會」- Functional Programming 都可以當你阿公了 - 其他語言篇]]></title>
         <id>https://www.youtube.com/watch?v=ClLjXmv7eo4</id>
@@ -12,15 +57,6 @@
         <updated>2022-12-25T01:00:05.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cavalry Of Hell Is On Fire | Epic Powerful Battle Music | Most Heroic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=MC6yQ1AYtFU</id>
-        <link href="https://www.youtube.com/watch?v=MC6yQ1AYtFU"/>
-        <updated>2022-12-24T12:30:07.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -66,15 +102,6 @@
         <updated>2022-12-24T04:00:26.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[| Live 🔴 Editing (New mic, monitor)]]></title>
-        <id>https://www.youtube.com/watch?v=highmyWgBYo</id>
-        <link href="https://www.youtube.com/watch?v=highmyWgBYo"/>
-        <updated>2022-12-24T03:28:14.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
     <entry>
@@ -138,15 +165,6 @@
         <updated>2022-12-22T16:00:02.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samurai Warrior With Sharp Sword | Best Epic Heroic Orchestral Music | Epic Samurai Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=k8ilGZL_wrw</id>
-        <link href="https://www.youtube.com/watch?v=k8ilGZL_wrw"/>
-        <updated>2022-12-22T12:30:27.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -255,15 +273,6 @@
         <updated>2022-12-21T16:00:03.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warrior With Burning Sword | Epic Battle Dark Heroic Music | Epic Music Mix by @audiomachine]]></title>
-        <id>https://www.youtube.com/watch?v=0zB4iPf91aI</id>
-        <link href="https://www.youtube.com/watch?v=0zB4iPf91aI"/>
-        <updated>2022-12-21T12:15:00.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -642,15 +651,6 @@
         <updated>2022-12-15T05:00:19.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TZ800 - SOMM (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=SoQ2wHQZCEY</id>
-        <link href="https://www.youtube.com/watch?v=SoQ2wHQZCEY"/>
-        <updated>2022-12-14T16:00:10.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1221,6 +1221,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Warrior with blue flame  ♫ Epic Powerful Hybrid Battle Music Mix ♫ Epic Powerful Battle Music]]></title>
+        <id>https://www.youtube.com/watch?v=u9zezI7hzGk</id>
+        <link href="https://www.youtube.com/watch?v=u9zezI7hzGk"/>
+        <updated>2022-12-05T12:45:04.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[也該是時候去拍果貿社區了吧？]]></title>
         <id>https://www.youtube.com/watch?v=HzTRIi2dEHY</id>
         <link href="https://www.youtube.com/watch?v=HzTRIi2dEHY"/>
@@ -1302,6 +1311,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Elite Army Is Full Of Goodwill | Most Powerful Epic Music Mix | THE POWER OF EPIC MUSIC]]></title>
+        <id>https://www.youtube.com/watch?v=Uuh4kuc-Tgo</id>
+        <link href="https://www.youtube.com/watch?v=Uuh4kuc-Tgo"/>
+        <updated>2022-12-03T12:45:02.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[360° VR | South Island, New Zealand with an Insta360 Camera 全景視角下的紐西蘭，帶你一秒走進真實版《指環王》取景地！ 【6K VR視頻】]]></title>
         <id>https://www.youtube.com/watch?v=5aQWj96b4Y0</id>
         <link href="https://www.youtube.com/watch?v=5aQWj96b4Y0"/>
@@ -1335,6 +1353,15 @@
         <updated>2022-12-02T15:01:00.000Z</updated>
         <author>
             <name>卓仑-Jollon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mighty Warrior | Dark Powerful Epic Music | Dramatic Orchestral Music]]></title>
+        <id>https://www.youtube.com/watch?v=rZ7mKsja2r8</id>
+        <link href="https://www.youtube.com/watch?v=rZ7mKsja2r8"/>
+        <updated>2022-12-02T12:45:02.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1533,60 +1560,6 @@
         <updated>2022-11-27T00:00:12.000Z</updated>
         <author>
             <name>燕东人细说摄影后期</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攝影師要失業了嗎? AI修圖到底多厲害 #攝影師 #調色]]></title>
-        <id>https://www.youtube.com/watch?v=H6gM_rZ7goA</id>
-        <link href="https://www.youtube.com/watch?v=H6gM_rZ7goA"/>
-        <updated>2022-11-26T12:18:07.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【旅拍 | 里斯本】葡萄牙里斯本，在欧陆最西端，心起波澜｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=8KgFlDs6Fu4</id>
-        <link href="https://www.youtube.com/watch?v=8KgFlDs6Fu4"/>
-        <updated>2022-11-26T12:00:10.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NAS安装OpenWrt实现旁路由科学上网]]></title>
-        <id>https://www.youtube.com/watch?v=CzWyPAzU8N4</id>
-        <link href="https://www.youtube.com/watch?v=CzWyPAzU8N4"/>
-        <updated>2022-11-26T10:45:00.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アニソン神曲】2022年超私的神曲アニソンメドレー【作業用BGM】【多くのイラスト】]]></title>
-        <id>https://www.youtube.com/watch?v=rehj04RXJlE</id>
-        <link href="https://www.youtube.com/watch?v=rehj04RXJlE"/>
-        <updated>2022-11-26T08:39:31.000Z</updated>
-        <author>
-            <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[189 丁家生摄影后期讲座——如何使用PS抠取毛笔字]]></title>
-        <id>https://www.youtube.com/watch?v=fMf8O043EL4</id>
-        <link href="https://www.youtube.com/watch?v=fMf8O043EL4"/>
-        <updated>2022-11-26T00:00:20.000Z</updated>
-        <author>
-            <name>燕东人细说摄影后期</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「大神來六角」互動式網頁設計工程師該具備哪些技能？.feat 吳哲宇]]></title>
-        <id>https://www.youtube.com/watch?v=YY8l4qPoAqo</id>
-        <link href="https://www.youtube.com/watch?v=YY8l4qPoAqo"/>
-        <updated>2022-11-25T14:27:49.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
