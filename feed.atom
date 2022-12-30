@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-29T01:40:10.038Z</id>
+    <id>urn:2022-12-30T01:40:23.204Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T01:40:10.038Z</updated>
+    <updated>2022-12-30T01:40:23.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Editing Live (6ft3 oc)]]></title>
+        <id>https://www.youtube.com/watch?v=tNqkRBXpA4U</id>
+        <link href="https://www.youtube.com/watch?v=tNqkRBXpA4U"/>
+        <updated>2022-12-30T00:39:37.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SGC P120管灯开箱]]></title>
+        <id>https://www.youtube.com/watch?v=vif9eHWGREU</id>
+        <link href="https://www.youtube.com/watch?v=vif9eHWGREU"/>
+        <updated>2022-12-29T23:00:26.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcome – Jay Someday (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=j47sTsrus6A</id>
+        <link href="https://www.youtube.com/watch?v=j47sTsrus6A"/>
+        <updated>2022-12-29T12:00:32.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剪接4k画面卡机几率为零的方法｜FCPX代理媒体]]></title>
+        <id>https://www.youtube.com/watch?v=YoyLxwU349M</id>
+        <link href="https://www.youtube.com/watch?v=YoyLxwU349M"/>
+        <updated>2022-12-29T12:00:29.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【作業用BGM】超重低音！！アニソンリミックスメドレー【重低音強化】]]></title>
+        <id>https://www.youtube.com/watch?v=0pNBjnPpxwk</id>
+        <link href="https://www.youtube.com/watch?v=0pNBjnPpxwk"/>
+        <updated>2022-12-29T07:50:12.000Z</updated>
+        <author>
+            <name>Juna BGM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(ENG SUB) My Current Red Komodo Kit | TILTA & DZOFILM & EASYRIG]]></title>
+        <id>https://www.youtube.com/watch?v=fYRCY0qXaFU</id>
+        <link href="https://www.youtube.com/watch?v=fYRCY0qXaFU"/>
+        <updated>2022-12-29T02:00:19.000Z</updated>
+        <author>
+            <name>Nick and Ezzi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Army Of The Suicide Warriors | Epic Music About The Bravery And Fighting Skills Of A Mighty Army]]></title>
         <id>https://www.youtube.com/watch?v=UHsky8JvBVo</id>
@@ -636,15 +690,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go Away – Konqeson (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=mYCF4jlb2Lg</id>
-        <link href="https://www.youtube.com/watch?v=mYCF4jlb2Lg"/>
-        <updated>2022-12-17T12:00:36.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
         <id>https://www.youtube.com/watch?v=zFFw49rHikM</id>
         <link href="https://www.youtube.com/watch?v=zFFw49rHikM"/>
@@ -750,15 +795,6 @@
         <updated>2022-12-14T15:01:00.000Z</updated>
         <author>
             <name>卓仑-Jollon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「週三八點半」AI 修圖是趨勢嗎？可以簡單調出濱田英明的色調嗎？色差問題連續一個月有人問我再講一次]]></title>
-        <id>https://www.youtube.com/watch?v=mpBtUgqYLGM</id>
-        <link href="https://www.youtube.com/watch?v=mpBtUgqYLGM"/>
-        <updated>2022-12-14T14:10:45.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
@@ -1416,24 +1452,6 @@
         <updated>2022-12-01T12:00:04.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【协同工作】Final Cut Pro与compressor协同工作流程]]></title>
-        <id>https://www.youtube.com/watch?v=G7lj8ilWfN0</id>
-        <link href="https://www.youtube.com/watch?v=G7lj8ilWfN0"/>
-        <updated>2022-11-30T02:18:34.000Z</updated>
-        <author>
-            <name>小广同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D2izy x IDrxpz | Basic [Edit/AMV] Collab ! @idrxpz2511]]></title>
-        <id>https://www.youtube.com/watch?v=jHwEOieQOxo</id>
-        <link href="https://www.youtube.com/watch?v=jHwEOieQOxo"/>
-        <updated>2022-11-29T21:39:39.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
