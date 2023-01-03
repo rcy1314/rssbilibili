@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-02T01:38:41.247Z</id>
+    <id>urn:2023-01-03T01:38:14.214Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T01:38:41.247Z</updated>
+    <updated>2023-01-03T01:38:14.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[达芬奇的调色滚轮究竟怎么用？（Davinci Resolve，视频调色，剪辑，曲线）]]></title>
+        <id>https://www.youtube.com/watch?v=ikNCS7jeXDI</id>
+        <link href="https://www.youtube.com/watch?v=ikNCS7jeXDI"/>
+        <updated>2023-01-03T01:01:04.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Day We Fought Back – Babasmas (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=etmIjV4Efkc</id>
+        <link href="https://www.youtube.com/watch?v=etmIjV4Efkc"/>
+        <updated>2023-01-02T12:00:29.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=7p_WUPRzKHc</id>
+        <link href="https://www.youtube.com/watch?v=7p_WUPRzKHc"/>
+        <updated>2023-01-02T11:00:04.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆无人机调色｜普通模式缺少电影质感？]]></title>
+        <id>https://www.youtube.com/watch?v=Rhp_FzFNvDc</id>
+        <link href="https://www.youtube.com/watch?v=Rhp_FzFNvDc"/>
+        <updated>2023-01-02T03:00:17.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Live 🔴 | Editing Live / FaceCam? 👀]]></title>
         <id>https://www.youtube.com/watch?v=3vtbWfC8irU</id>
         <link href="https://www.youtube.com/watch?v=3vtbWfC8irU"/>
-        <updated>2023-01-01T23:10:47.000Z</updated>
+        <updated>2023-01-02T02:12:05.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
@@ -627,15 +663,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Far Far Away - Ferco (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=g8RSUcyZGBc</id>
-        <link href="https://www.youtube.com/watch?v=g8RSUcyZGBc"/>
-        <updated>2022-12-20T16:00:19.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【六角學院感謝祭】新課上線 + 全課程 75 折～]]></title>
         <id>https://www.youtube.com/watch?v=xbFThut-rOQ</id>
         <link href="https://www.youtube.com/watch?v=xbFThut-rOQ"/>
@@ -1011,15 +1038,6 @@
         <updated>2022-12-13T05:00:26.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xomu - Mannenzakura]]></title>
-        <id>https://www.youtube.com/watch?v=yKqxTkfDUX4</id>
-        <link href="https://www.youtube.com/watch?v=yKqxTkfDUX4"/>
-        <updated>2022-12-13T04:00:15.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1423,33 +1441,6 @@
         <id>https://www.youtube.com/watch?v=s3OUnxqpFUA</id>
         <link href="https://www.youtube.com/watch?v=s3OUnxqpFUA"/>
         <updated>2022-12-04T15:01:00.000Z</updated>
-        <author>
-            <name>卓仑-Jollon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
-        <id>https://www.youtube.com/watch?v=7zX8FSoFqF8</id>
-        <link href="https://www.youtube.com/watch?v=7zX8FSoFqF8"/>
-        <updated>2022-12-04T07:40:36.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twirling - A Silent Voice [Edit/AMV]! + [Project File] Vibe Edit]]></title>
-        <id>https://www.youtube.com/watch?v=UC9tuvgYt3E</id>
-        <link href="https://www.youtube.com/watch?v=UC9tuvgYt3E"/>
-        <updated>2022-12-03T15:45:08.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【真知卓见】100万的电影机如何拍摄时尚大片？探班时尚杂志的幕后 arri alexa mini 和长腿模特们的奇幻之旅 red komodo只能当备胎]]></title>
-        <id>https://www.youtube.com/watch?v=yoxYvnQDs_Q</id>
-        <link href="https://www.youtube.com/watch?v=yoxYvnQDs_Q"/>
-        <updated>2022-12-03T15:01:00.000Z</updated>
         <author>
             <name>卓仑-Jollon</name>
         </author>
