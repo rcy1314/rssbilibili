@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T01:36:07.510Z</id>
+    <id>urn:2023-01-15T01:46:33.545Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T01:36:07.510Z</updated>
+    <updated>2023-01-15T01:46:33.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Editing Live  / Face Cam ?]]></title>
+        <id>https://www.youtube.com/watch?v=LHcLjH82I70</id>
+        <link href="https://www.youtube.com/watch?v=LHcLjH82I70"/>
+        <updated>2023-01-14T16:24:21.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Knight Army | Epic Music Of The Machines Trying To Protect The Galaxy | Epic Music]]></title>
+        <id>https://www.youtube.com/watch?v=-4d6P0jdar4</id>
+        <link href="https://www.youtube.com/watch?v=-4d6P0jdar4"/>
+        <updated>2023-01-14T12:30:00.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Right Here (Instrumental) – Atch (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=GvoU9eD0Yps</id>
+        <link href="https://www.youtube.com/watch?v=GvoU9eD0Yps"/>
+        <updated>2023-01-14T12:00:09.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攝影新手看這部影片就對了! 最詳細的新手攝影指南]]></title>
+        <id>https://www.youtube.com/watch?v=Cd-4KP0fF1k</id>
+        <link href="https://www.youtube.com/watch?v=Cd-4KP0fF1k"/>
+        <updated>2023-01-14T12:00:06.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何平衡稳定器｜DJI RS3 Mini]]></title>
+        <id>https://www.youtube.com/watch?v=ul7TOniMxjY</id>
+        <link href="https://www.youtube.com/watch?v=ul7TOniMxjY"/>
+        <updated>2023-01-14T11:00:36.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Mix Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=09n_y-E2a_0</id>
+        <link href="https://www.youtube.com/watch?v=09n_y-E2a_0"/>
+        <updated>2023-01-14T11:00:00.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23个入手RS3Mini必知特点｜快速了解所有设计功能]]></title>
         <id>https://www.youtube.com/watch?v=Mzo5Td3c3H8</id>
@@ -636,15 +690,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[达芬奇的调色滚轮究竟怎么用？（Davinci Resolve，视频调色，剪辑，曲线）]]></title>
-        <id>https://www.youtube.com/watch?v=ikNCS7jeXDI</id>
-        <link href="https://www.youtube.com/watch?v=ikNCS7jeXDI"/>
-        <updated>2023-01-03T01:01:04.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Day We Fought Back – Babasmas (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=etmIjV4Efkc</id>
         <link href="https://www.youtube.com/watch?v=etmIjV4Efkc"/>
@@ -780,15 +825,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ocean Love – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=1PUgcFfl0d4</id>
-        <link href="https://www.youtube.com/watch?v=1PUgcFfl0d4"/>
-        <updated>2022-12-30T12:00:01.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[无人机单手起飞降落教学｜大疆迷你3Pro]]></title>
         <id>https://www.youtube.com/watch?v=-nSAgQlXo0A</id>
         <link href="https://www.youtube.com/watch?v=-nSAgQlXo0A"/>
@@ -858,15 +894,6 @@
         <updated>2022-12-28T12:45:02.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Nhạc EDM Cực Phiêu "Không Thuốc Giải" ♫ Nhạc Điện Tử Leo Rank Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=W53FbD3FQds</id>
-        <link href="https://www.youtube.com/watch?v=W53FbD3FQds"/>
-        <updated>2022-12-28T11:00:19.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1306,51 +1333,6 @@
         <id>https://www.youtube.com/watch?v=E0978E4NDas</id>
         <link href="https://www.youtube.com/watch?v=E0978E4NDas"/>
         <updated>2022-12-16T15:01:00.000Z</updated>
-        <author>
-            <name>卓仑-Jollon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warrior Has Eternal Flame In Him | Best Epic Heroic Orchestral Music | Powerful Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=Rm12yXi-t6Y</id>
-        <link href="https://www.youtube.com/watch?v=Rm12yXi-t6Y"/>
-        <updated>2022-12-16T12:30:17.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年12月份最新手機遊戲推薦 | Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #3]]></title>
-        <id>https://www.youtube.com/watch?v=dXbXv5duQz4</id>
-        <link href="https://www.youtube.com/watch?v=dXbXv5duQz4"/>
-        <updated>2022-12-16T12:00:31.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飞越镜头怕炸机？30秒教你九宫格避障法降低炸机风险！]]></title>
-        <id>https://www.youtube.com/watch?v=eE4-vLSXWF4</id>
-        <link href="https://www.youtube.com/watch?v=eE4-vLSXWF4"/>
-        <updated>2022-12-16T04:48:15.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Thomas看看世界】城市、建筑、人像摄影师都爱的蓝调时刻，应该如何拍摄？｜摄影后期教程]]></title>
-        <id>https://www.youtube.com/watch?v=2xVJwEAz66g</id>
-        <link href="https://www.youtube.com/watch?v=2xVJwEAz66g"/>
-        <updated>2022-12-16T03:51:25.000Z</updated>
-        <author>
-            <name>Thomas Chu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[room tour疫情让北京摄影师卖掉了明星都光顾的房子]]></title>
-        <id>https://www.youtube.com/watch?v=fNtLVBT-Zpw</id>
-        <link href="https://www.youtube.com/watch?v=fNtLVBT-Zpw"/>
-        <updated>2022-12-15T15:01:00.000Z</updated>
         <author>
             <name>卓仑-Jollon</name>
         </author>
