@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-15T01:46:33.545Z</id>
+    <id>urn:2023-01-16T01:41:23.146Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-15T01:46:33.545Z</updated>
+    <updated>2023-01-16T01:41:23.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[不透過 JS 也能調整 HTML 元素尺寸，好用的 CSS Resize  (可點擊 CC 字幕）- 六角學院 #前端  #網頁設計]]></title>
+        <id>https://www.youtube.com/watch?v=t1TG_s_kfrw</id>
+        <link href="https://www.youtube.com/watch?v=t1TG_s_kfrw"/>
+        <updated>2023-01-15T14:30:14.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tomorrow – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=rdZvAHZqLio</id>
+        <link href="https://www.youtube.com/watch?v=rdZvAHZqLio"/>
+        <updated>2023-01-15T12:00:27.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=53GWzPqo-sU</id>
+        <link href="https://www.youtube.com/watch?v=53GWzPqo-sU"/>
+        <updated>2023-01-15T12:00:06.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Editing Live  / Face Cam ?]]></title>
         <id>https://www.youtube.com/watch?v=LHcLjH82I70</id>
@@ -753,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rise – Konqeson (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=LonLWtmi_1A</id>
-        <link href="https://www.youtube.com/watch?v=LonLWtmi_1A"/>
-        <updated>2022-12-31T12:00:10.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[索尼S&Q实用教学｜三个实际应用技巧]]></title>
         <id>https://www.youtube.com/watch?v=e8a9AOa-7DY</id>
         <link href="https://www.youtube.com/watch?v=e8a9AOa-7DY"/>
@@ -831,15 +849,6 @@
         <updated>2022-12-30T12:00:00.000Z</updated>
         <author>
             <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=ycHWQruz7g8</id>
-        <link href="https://www.youtube.com/watch?v=ycHWQruz7g8"/>
-        <updated>2022-12-30T11:00:39.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1317,24 +1326,6 @@
         <updated>2022-12-17T15:24:51.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[| Live 🔴 Editing]]></title>
-        <id>https://www.youtube.com/watch?v=zFFw49rHikM</id>
-        <link href="https://www.youtube.com/watch?v=zFFw49rHikM"/>
-        <updated>2022-12-17T04:46:19.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看着挺NB的是吧？拍摄幕后辛酸泪谁人知！]]></title>
-        <id>https://www.youtube.com/watch?v=E0978E4NDas</id>
-        <link href="https://www.youtube.com/watch?v=E0978E4NDas"/>
-        <updated>2022-12-16T15:01:00.000Z</updated>
-        <author>
-            <name>卓仑-Jollon</name>
         </author>
     </entry>
 </feed>

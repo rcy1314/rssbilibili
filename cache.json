@@ -124,6 +124,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=53GWzPqo-sU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=53GWzPqo-sU",
+          "publishedOn": "2023-01-15T12:00:06.000Z",
+          "wordCount": null,
+          "title": "Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=09n_y-E2a_0",
           "author": null,
           "description": "",
@@ -259,16 +269,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=1x0IFpdjYYI",
           "publishedOn": "2023-01-01T11:00:02.000Z",
-          "wordCount": null,
-          "title": "Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ycHWQruz7g8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ycHWQruz7g8",
-          "publishedOn": "2022-12-30T11:00:39.000Z",
           "wordCount": null,
           "title": "Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
@@ -593,16 +593,6 @@
           "wordCount": null,
           "title": "Rip Roach - Naruto Rotation [Edit/AMV]! + [Free Project File] Quick Edit !",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zFFw49rHikM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zFFw49rHikM",
-          "publishedOn": "2022-12-17T04:46:19.000Z",
-          "wordCount": null,
-          "title": "| Live 🔴 Editing",
-          "imageUrl": null
         }
       ]
     },
@@ -845,6 +835,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=t1TG_s_kfrw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t1TG_s_kfrw",
+          "publishedOn": "2023-01-15T14:30:14.000Z",
+          "wordCount": null,
+          "title": "不透過 JS 也能調整 HTML 元素尺寸，好用的 CSS Resize  (可點擊 CC 字幕）- 六角學院 #前端  #網頁設計",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ClLjXmv7eo4",
           "author": null,
@@ -1522,24 +1522,23 @@
       "title": "卓仑-Jollon",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2F-oCj0n2IUXVochIqveQQ",
       "siteUrl": "https://www.youtube.com/channel/UC2F-oCj0n2IUXVochIqveQQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=E0978E4NDas",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E0978E4NDas",
-          "publishedOn": "2022-12-16T15:01:00.000Z",
-          "wordCount": null,
-          "title": "看着挺NB的是吧？拍摄幕后辛酸泪谁人知！",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Audio Library — Music for content creators",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rdZvAHZqLio",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rdZvAHZqLio",
+          "publishedOn": "2023-01-15T12:00:27.000Z",
+          "wordCount": null,
+          "title": "Tomorrow – Scandinavianz (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GvoU9eD0Yps",
           "author": null,
@@ -1678,16 +1677,6 @@
           "publishedOn": "2023-01-01T12:00:07.000Z",
           "wordCount": null,
           "title": "Kastelholm – Scandinavianz (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LonLWtmi_1A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LonLWtmi_1A",
-          "publishedOn": "2022-12-31T12:00:10.000Z",
-          "wordCount": null,
-          "title": "Rise – Konqeson (No Copyright Music)",
           "imageUrl": null
         }
       ]
