@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-16T01:41:23.146Z</id>
+    <id>urn:2023-01-17T01:41:24.636Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-16T01:41:23.146Z</updated>
+    <updated>2023-01-17T01:41:24.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Twilights - Zenitsu  [Edit/AMV] Quick Edit !]]></title>
+        <id>https://www.youtube.com/watch?v=jT8Q33PaFas</id>
+        <link href="https://www.youtube.com/watch?v=jT8Q33PaFas"/>
+        <updated>2023-01-16T16:44:36.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023只能选一颗主镜头？最完美的55mm镜头]]></title>
+        <id>https://www.youtube.com/watch?v=vqV_8D4f4tw</id>
+        <link href="https://www.youtube.com/watch?v=vqV_8D4f4tw"/>
+        <updated>2023-01-16T13:30:16.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《一根杆子治好了我的创作内耗》]]></title>
+        <id>https://www.youtube.com/watch?v=9YBczeXwpY0</id>
+        <link href="https://www.youtube.com/watch?v=9YBczeXwpY0"/>
+        <updated>2023-01-16T13:00:05.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Great Warrior of All Time | Epic Powerful Battle Music | Best Epic Battle Music Of All Times]]></title>
+        <id>https://www.youtube.com/watch?v=meLgoyqhdPg</id>
+        <link href="https://www.youtube.com/watch?v=meLgoyqhdPg"/>
+        <updated>2023-01-16T12:45:02.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touch You – Spiring (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=SxUw6q-poGI</id>
+        <link href="https://www.youtube.com/watch?v=SxUw6q-poGI"/>
+        <updated>2023-01-16T12:00:30.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的2022：平凡之年]]></title>
+        <id>https://www.youtube.com/watch?v=kZH02I0cNzE</id>
+        <link href="https://www.youtube.com/watch?v=kZH02I0cNzE"/>
+        <updated>2023-01-16T12:00:26.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=PtQPJPqKhpc</id>
+        <link href="https://www.youtube.com/watch?v=PtQPJPqKhpc"/>
+        <updated>2023-01-16T12:00:14.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉版Apple Music来了！]]></title>
+        <id>https://www.youtube.com/watch?v=ddzOxQUAJwE</id>
+        <link href="https://www.youtube.com/watch?v=ddzOxQUAJwE"/>
+        <updated>2023-01-16T11:15:02.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[达芬奇的色彩管理科学（Davinci Resolve Color Managed）: 什么是时间线色彩空间，输入色彩空间，输出色彩空间？什么是色彩空间感知的调色工具？曲线，调色轮，HDR色轮的色彩特性]]></title>
+        <id>https://www.youtube.com/watch?v=90PZw3lW4a4</id>
+        <link href="https://www.youtube.com/watch?v=90PZw3lW4a4"/>
+        <updated>2023-01-16T11:00:05.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澤野弘之の神戦闘曲 やる気を全開にさせるアニソンメドレー【作業用BGM】Best of Hiroyuki Sawano Anime Vocal Songs OST Collection]]></title>
+        <id>https://www.youtube.com/watch?v=j54y7k0O8c0</id>
+        <link href="https://www.youtube.com/watch?v=j54y7k0O8c0"/>
+        <updated>2023-01-16T10:06:46.000Z</updated>
+        <author>
+            <name>Juna BGM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不透過 JS 也能調整 HTML 元素尺寸，好用的 CSS Resize  (可點擊 CC 字幕）- 六角學院 #前端  #網頁設計]]></title>
         <id>https://www.youtube.com/watch?v=t1TG_s_kfrw</id>
@@ -96,7 +186,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to shoot a video when traveling alone? 一個人旅行怎麼拍？ ！三個寶藏機位+五個實用技巧分享！新手必備！ VLOG教學]]></title>
+        <title type="html"><![CDATA[一个人旅行怎么拍？ ！三个宝藏机位+五个实用技巧分享！新手必备！ VLOG教程]]></title>
         <id>https://www.youtube.com/watch?v=pUnGpmNHxag</id>
         <link href="https://www.youtube.com/watch?v=pUnGpmNHxag"/>
         <updated>2023-01-13T12:00:30.000Z</updated>
@@ -762,24 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kastelholm – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Ai72fNGaUFg</id>
-        <link href="https://www.youtube.com/watch?v=Ai72fNGaUFg"/>
-        <updated>2023-01-01T12:00:07.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=1x0IFpdjYYI</id>
-        <link href="https://www.youtube.com/watch?v=1x0IFpdjYYI"/>
-        <updated>2023-01-01T11:00:02.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[索尼S&Q实用教学｜三个实际应用技巧]]></title>
         <id>https://www.youtube.com/watch?v=e8a9AOa-7DY</id>
         <link href="https://www.youtube.com/watch?v=e8a9AOa-7DY"/>
@@ -912,15 +984,6 @@
         <updated>2022-12-28T10:00:30.000Z</updated>
         <author>
             <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speed Ramp变速剪接完整教学｜3个实际应用教学｜FCPX]]></title>
-        <id>https://www.youtube.com/watch?v=dXJm42cbUCg</id>
-        <link href="https://www.youtube.com/watch?v=dXJm42cbUCg"/>
-        <updated>2022-12-28T03:53:27.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
         </author>
     </entry>
     <entry>
@@ -1308,24 +1371,6 @@
         <updated>2022-12-19T09:59:46.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful Hybrid Orchestral ♫ Most Powerful Epic Music Mix ♫ Best Epic Battle Music Of All Times]]></title>
-        <id>https://www.youtube.com/watch?v=r0gnrC8rwK8</id>
-        <link href="https://www.youtube.com/watch?v=r0gnrC8rwK8"/>
-        <updated>2022-12-18T12:30:19.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rip Roach - Naruto Rotation [Edit/AMV]! + [Free Project File] Quick Edit !]]></title>
-        <id>https://www.youtube.com/watch?v=mT_U9k2D51k</id>
-        <link href="https://www.youtube.com/watch?v=mT_U9k2D51k"/>
-        <updated>2022-12-17T15:24:51.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
