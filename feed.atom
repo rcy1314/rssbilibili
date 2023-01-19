@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-18T01:44:28.116Z</id>
+    <id>urn:2023-01-19T01:46:44.446Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-18T01:44:28.116Z</updated>
+    <updated>2023-01-19T01:46:44.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Playing games  / Face Cam ?]]></title>
+        <id>https://www.youtube.com/watch?v=EBtyG4wrcxk</id>
+        <link href="https://www.youtube.com/watch?v=EBtyG4wrcxk"/>
+        <updated>2023-01-18T21:53:02.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Of War Epic Music 2023 | Best Epic Heroic Orchestral Music |World's Most Powerful Epic Music]]></title>
+        <id>https://www.youtube.com/watch?v=-fDStB08DZQ</id>
+        <link href="https://www.youtube.com/watch?v=-fDStB08DZQ"/>
+        <updated>2023-01-18T12:15:00.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=NS5LLrS7svM</id>
+        <link href="https://www.youtube.com/watch?v=NS5LLrS7svM"/>
+        <updated>2023-01-18T12:00:13.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Morning – Declan DP (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=ILkSVl-sGaw</id>
+        <link href="https://www.youtube.com/watch?v=ILkSVl-sGaw"/>
+        <updated>2023-01-18T12:00:12.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】一台从里到外都是国产的平板，实际体验怎么样？]]></title>
+        <id>https://www.youtube.com/watch?v=GFIcXbBJC-M</id>
+        <link href="https://www.youtube.com/watch?v=GFIcXbBJC-M"/>
+        <updated>2023-01-18T10:00:16.000Z</updated>
+        <author>
+            <name>FView Official Channel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果M2Pro M2Max值不值得升级？摄影师角度分享]]></title>
+        <id>https://www.youtube.com/watch?v=9vcn_6K5gx8</id>
+        <link href="https://www.youtube.com/watch?v=9vcn_6K5gx8"/>
+        <updated>2023-01-18T06:30:02.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editing Live  / Face Cam ?]]></title>
+        <id>https://www.youtube.com/watch?v=T3Jh_ucUNII</id>
+        <link href="https://www.youtube.com/watch?v=T3Jh_ucUNII"/>
+        <updated>2023-01-18T02:30:00.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IS THIS WHAT YOU WANT?!]]></title>
         <id>https://www.youtube.com/watch?v=EQmHdvDD9t0</id>
@@ -60,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Please, Never Forget | Filmic Short Shot on Red Komodo | Collaboration with DJI & TILTA Max]]></title>
+        <title type="html"><![CDATA[Please, Never Forget | Shot on Red Komodo | Collaboration with DJI & TILTA]]></title>
         <id>https://www.youtube.com/watch?v=fYZKC_eKp4E</id>
         <link href="https://www.youtube.com/watch?v=fYZKC_eKp4E"/>
         <updated>2023-01-17T07:38:00.000Z</updated>
@@ -798,15 +861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=tDEIlLN9TG4</id>
-        <link href="https://www.youtube.com/watch?v=tDEIlLN9TG4"/>
-        <updated>2023-01-04T11:07:04.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[无线麦克风5个购买指南｜闪克WM821无线麦克风评测]]></title>
         <id>https://www.youtube.com/watch?v=Cr4FelJmsy4</id>
         <link href="https://www.youtube.com/watch?v=Cr4FelJmsy4"/>
@@ -840,15 +894,6 @@
         <updated>2023-01-03T12:30:00.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alter – Hunter Milo (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=KjTkPO8vqGQ</id>
-        <link href="https://www.youtube.com/watch?v=KjTkPO8vqGQ"/>
-        <updated>2023-01-03T12:00:09.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -991,15 +1036,6 @@
         <id>https://www.youtube.com/watch?v=vif9eHWGREU</id>
         <link href="https://www.youtube.com/watch?v=vif9eHWGREU"/>
         <updated>2022-12-29T23:00:26.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剪接4k画面卡机几率为零的方法｜FCPX代理媒体]]></title>
-        <id>https://www.youtube.com/watch?v=YoyLxwU349M</id>
-        <link href="https://www.youtube.com/watch?v=YoyLxwU349M"/>
-        <updated>2022-12-29T12:00:29.000Z</updated>
         <author>
             <name>懶人攝影</name>
         </author>
@@ -1299,87 +1335,6 @@
         <updated>2022-12-21T12:01:01.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【六角學院感謝祭】新課上線 + 全課程 75 折～]]></title>
-        <id>https://www.youtube.com/watch?v=xbFThut-rOQ</id>
-        <link href="https://www.youtube.com/watch?v=xbFThut-rOQ"/>
-        <updated>2022-12-20T13:28:14.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优雅且强悍——哈苏X2D极寒拍摄测试｜原来这么毒 93集]]></title>
-        <id>https://www.youtube.com/watch?v=mXJJehAYPtA</id>
-        <link href="https://www.youtube.com/watch?v=mXJJehAYPtA"/>
-        <updated>2022-12-20T13:00:44.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hell Super Soldier | Powerful Epic Music | Powerful Beautiful Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=GDDBf6Eb_CM</id>
-        <link href="https://www.youtube.com/watch?v=GDDBf6Eb_CM"/>
-        <updated>2022-12-20T12:30:05.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攝影必備的3個app #攝影]]></title>
-        <id>https://www.youtube.com/watch?v=tBHJt_8dUoA</id>
-        <link href="https://www.youtube.com/watch?v=tBHJt_8dUoA"/>
-        <updated>2022-12-20T12:00:34.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當有超能力的人決定成為刺客！頂級潛行暗殺遊戲《恥辱》1究竟是一款怎樣的遊戲]]></title>
-        <id>https://www.youtube.com/watch?v=nXofeGsZzdc</id>
-        <link href="https://www.youtube.com/watch?v=nXofeGsZzdc"/>
-        <updated>2022-12-20T12:00:34.000Z</updated>
-        <author>
-            <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[やる気を全開にさせるかっこいい曲！テンション上がる最強アニソンメドレー【作業用BGM】Beautiful & Strongest Anime Songs Collection]]></title>
-        <id>https://www.youtube.com/watch?v=0i0LdBRJ--U</id>
-        <link href="https://www.youtube.com/watch?v=0i0LdBRJ--U"/>
-        <updated>2022-12-20T06:50:37.000Z</updated>
-        <author>
-            <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-T5: Shoichi Asaoka/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=jjA-ivUX_pw</id>
-        <link href="https://www.youtube.com/watch?v=jjA-ivUX_pw"/>
-        <updated>2022-12-20T05:00:16.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-T5: Arjun Kartha/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=nrwBQGUTqvs</id>
-        <link href="https://www.youtube.com/watch?v=nrwBQGUTqvs"/>
-        <updated>2022-12-20T05:00:13.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果古人有能力在这个高度，那他们能写出什么样的诗句]]></title>
-        <id>https://www.youtube.com/watch?v=6qV4OB-3ZyM</id>
-        <link href="https://www.youtube.com/watch?v=6qV4OB-3ZyM"/>
-        <updated>2022-12-20T03:53:25.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
 </feed>
