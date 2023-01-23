@@ -291,6 +291,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1ON27IzjnOI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1ON27IzjnOI",
+          "publishedOn": "2023-01-22T12:30:00.000Z",
+          "wordCount": null,
+          "title": "WAR EPIC MUSIC 2023 ♫ Epic Military Powerful Music Mix ♫ Aggressive Inspiring War Epic Music",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1gnTmwo_rDc",
           "author": null,
           "description": "",
@@ -837,16 +847,6 @@
           "wordCount": null,
           "title": "【作業用BGM】超重低音！！アニソンリミックスメドレー【重低音強化】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9nfc7PXQPHs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9nfc7PXQPHs",
-          "publishedOn": "2022-12-24T07:56:34.000Z",
-          "wordCount": null,
-          "title": "やる気を全開にさせるかっこいい曲！クセになる中毒性のある神曲アニソンメドレー【作業用BGM】Beautiful Anime Japanese Songs Collection",
-          "imageUrl": null
         }
       ]
     },
@@ -883,16 +883,6 @@
           "publishedOn": "2022-12-25T01:00:05.000Z",
           "wordCount": null,
           "title": "「六角線上研討會」- Functional Programming 都可以當你阿公了 - 其他語言篇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1y9Rz3LZdJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1y9Rz3LZdJQ",
-          "publishedOn": "2022-12-24T01:00:00.000Z",
-          "wordCount": null,
-          "title": "「大神來六角」Functional Programming 都可以當你阿公了 - 應用篇",
           "imageUrl": null
         }
       ]
@@ -1325,16 +1315,6 @@
           "wordCount": null,
           "title": "花了20万替你们踩点，澳洲纽西兰宝藏旅行地都在这里！ 2022年度盘点 4K | MY YEAR 2022 Travel in Newzealand＆Australia 4K",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-0wl-5frxvk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-0wl-5frxvk",
-          "publishedOn": "2022-12-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Hobbiton movie set tour Newzealand Travel Video4K 闖入霍比特人的家鄉是什麼感覺？ ！@HobbitonMovieSetMatamata",
-          "imageUrl": null
         }
       ]
     },
@@ -1469,6 +1449,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8Gj0YqSkjpU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8Gj0YqSkjpU",
+          "publishedOn": "2023-01-22T12:00:04.000Z",
+          "wordCount": null,
+          "title": "Crux – KV (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jA1VTP0AT7I",
           "author": null,
@@ -1607,16 +1597,6 @@
           "publishedOn": "2023-01-08T12:00:12.000Z",
           "wordCount": null,
           "title": "Dreamland – Scandinavianz (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5Uyecv7IJ7I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5Uyecv7IJ7I",
-          "publishedOn": "2023-01-07T12:00:03.000Z",
-          "wordCount": null,
-          "title": "Feel – Limujii (No Copyright Music)",
           "imageUrl": null
         }
       ]
