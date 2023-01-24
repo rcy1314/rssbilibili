@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T01:41:12.762Z</id>
+    <id>urn:2023-01-24T01:42:55.993Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T01:41:12.762Z</updated>
+    <updated>2023-01-24T01:42:55.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Secret Revealed!]]></title>
+        <id>https://www.youtube.com/watch?v=KxTr-pFDR8c</id>
+        <link href="https://www.youtube.com/watch?v=KxTr-pFDR8c"/>
+        <updated>2023-01-23T16:44:08.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Birthday Stream / FaceCam 👀]]></title>
+        <id>https://www.youtube.com/watch?v=gIkgCgFCCsI</id>
+        <link href="https://www.youtube.com/watch?v=gIkgCgFCCsI"/>
+        <updated>2023-01-23T13:55:15.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画面缩放剪接教学｜FCPX教学]]></title>
+        <id>https://www.youtube.com/watch?v=wXDyiWpAPW4</id>
+        <link href="https://www.youtube.com/watch?v=wXDyiWpAPW4"/>
+        <updated>2023-01-23T13:00:39.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[內置型濾鏡會變成主流嗎？跟裝在鏡頭前的濾鏡有什麼不同呢？ ft. STC]]></title>
+        <id>https://www.youtube.com/watch?v=64dxgeAX7mA</id>
+        <link href="https://www.youtube.com/watch?v=64dxgeAX7mA"/>
+        <updated>2023-01-23T12:30:02.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do It To Myself – Atch (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=4l8O5XwxB-M</id>
+        <link href="https://www.youtube.com/watch?v=4l8O5XwxB-M"/>
+        <updated>2023-01-23T12:00:03.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WAR EPIC MUSIC 2023 ♫ Epic Military Powerful Music Mix ♫ Aggressive Inspiring War Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=1ON27IzjnOI</id>
@@ -816,15 +861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dreamland – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=RNs0py2nxtM</id>
-        <link href="https://www.youtube.com/watch?v=RNs0py2nxtM"/>
-        <updated>2023-01-08T12:00:12.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nhạc EDM Hay Đón Tết 2023 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Game Cực Phiêu]]></title>
         <id>https://www.youtube.com/watch?v=0kwhBQqUb00</id>
         <link href="https://www.youtube.com/watch?v=0kwhBQqUb00"/>
@@ -1095,15 +1131,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[无人机单手起飞降落教学｜大疆迷你3Pro]]></title>
-        <id>https://www.youtube.com/watch?v=-nSAgQlXo0A</id>
-        <link href="https://www.youtube.com/watch?v=-nSAgQlXo0A"/>
-        <updated>2022-12-30T12:00:00.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Live 🔴 | Editing Live (6ft3 oc)]]></title>
         <id>https://www.youtube.com/watch?v=tNqkRBXpA4U</id>
         <link href="https://www.youtube.com/watch?v=tNqkRBXpA4U"/>
@@ -1218,42 +1245,6 @@
         <updated>2022-12-26T12:30:10.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【福利】这是我用的开场，免费下载，拿去用吧]]></title>
-        <id>https://www.youtube.com/watch?v=ywZi-CJvlKo</id>
-        <link href="https://www.youtube.com/watch?v=ywZi-CJvlKo"/>
-        <updated>2022-12-25T12:55:41.000Z</updated>
-        <author>
-            <name>小广同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日街拍攝影(東京篇)- 東京大學街拍/ 就跟你說台灣街道很醜了吧]]></title>
-        <id>https://www.youtube.com/watch?v=KTiNcjVlTAY</id>
-        <link href="https://www.youtube.com/watch?v=KTiNcjVlTAY"/>
-        <updated>2022-12-25T12:42:03.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[| Live 🔴 Editing... Hand Cam]]></title>
-        <id>https://www.youtube.com/watch?v=highmyWgBYo</id>
-        <link href="https://www.youtube.com/watch?v=highmyWgBYo"/>
-        <updated>2022-12-25T04:44:03.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「六角線上研討會」- Functional Programming 都可以當你阿公了 - 其他語言篇]]></title>
-        <id>https://www.youtube.com/watch?v=ClLjXmv7eo4</id>
-        <link href="https://www.youtube.com/watch?v=ClLjXmv7eo4"/>
-        <updated>2022-12-25T01:00:05.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
