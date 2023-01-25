@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T01:42:55.993Z</id>
+    <id>urn:2023-01-25T01:39:53.865Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-24T01:42:55.993Z</updated>
+    <updated>2023-01-25T01:39:53.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[稳定器环绕运镜详细教程｜学会死区跟随设定]]></title>
+        <id>https://www.youtube.com/watch?v=NHUjd_152rM</id>
+        <link href="https://www.youtube.com/watch?v=NHUjd_152rM"/>
+        <updated>2023-01-25T00:00:11.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar System Warrior ♫ Beautiful Fantasy Orchestral Music ♫ 2 HOUR Epic Music]]></title>
+        <id>https://www.youtube.com/watch?v=cNeOoLvCfZg</id>
+        <link href="https://www.youtube.com/watch?v=cNeOoLvCfZg"/>
+        <updated>2023-01-24T12:45:01.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take It Easy – Luke Bergs (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=_5g_7gQ0gnk</id>
+        <link href="https://www.youtube.com/watch?v=_5g_7gQ0gnk"/>
+        <updated>2023-01-24T12:00:17.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secret Revealed!]]></title>
         <id>https://www.youtube.com/watch?v=KxTr-pFDR8c</id>
@@ -789,15 +816,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paradise Hope – Hotham (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=2MYumORU1mY</id>
-        <link href="https://www.youtube.com/watch?v=2MYumORU1mY"/>
-        <updated>2023-01-09T12:00:03.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如何查看iPad电池健康？一个软件搞定]]></title>
         <id>https://www.youtube.com/watch?v=rj4GkJA8Fbc</id>
         <link href="https://www.youtube.com/watch?v=rj4GkJA8Fbc"/>
@@ -879,7 +897,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一日人像攝影外傳- 3個攝影師在日本鐮倉拍同一個model ft. Lance2.14  Ryannpng]]></title>
+        <title type="html"><![CDATA[一日人像攝影EP.11 外傳- 3個攝影師在日本鐮倉拍同一個model ft. Lance2.14  Ryannpng]]></title>
         <id>https://www.youtube.com/watch?v=GlJtUj7rU3Q</id>
         <link href="https://www.youtube.com/watch?v=GlJtUj7rU3Q"/>
         <updated>2023-01-07T12:00:06.000Z</updated>
@@ -1077,15 +1095,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M1 Pro 16寸 2023年还值得买吗？摄影师角度分享]]></title>
-        <id>https://www.youtube.com/watch?v=Sc080f2eF_Y</id>
-        <link href="https://www.youtube.com/watch?v=Sc080f2eF_Y"/>
-        <updated>2022-12-31T00:00:09.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Our Hurricane - Black Clover Vibe [Edit/AMV] Quick Edit !]]></title>
         <id>https://www.youtube.com/watch?v=pdw_sc713GM</id>
         <link href="https://www.youtube.com/watch?v=pdw_sc713GM"/>
@@ -1227,24 +1236,6 @@
         <updated>2022-12-26T13:52:47.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有了航点飞行，日转夜航拍也太简单了吧！]]></title>
-        <id>https://www.youtube.com/watch?v=z5hcEExe0Zw</id>
-        <link href="https://www.youtube.com/watch?v=z5hcEExe0Zw"/>
-        <updated>2022-12-26T13:00:35.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用電影鏡頭就可以拍出電影感嗎？ 50mm T2.0 七工匠]]></title>
-        <id>https://www.youtube.com/watch?v=UTpwhklENdU</id>
-        <link href="https://www.youtube.com/watch?v=UTpwhklENdU"/>
-        <updated>2022-12-26T12:30:10.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
