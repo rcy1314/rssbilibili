@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-25T01:39:53.865Z</id>
+    <id>urn:2023-01-26T01:42:15.939Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-25T01:39:53.865Z</updated>
+    <updated>2023-01-26T01:42:15.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[should we drop this?? @347aidan]]></title>
+        <id>https://www.youtube.com/watch?v=doePoR2YTfk</id>
+        <link href="https://www.youtube.com/watch?v=doePoR2YTfk"/>
+        <updated>2023-01-25T16:52:46.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「週三八點半」年都要過完了，只好來聊聊那些年接案都遇的了什麼荒唐的故事 ft. 匿名的 V 姓友人]]></title>
+        <id>https://www.youtube.com/watch?v=_CJa_HaEBiw</id>
+        <link href="https://www.youtube.com/watch?v=_CJa_HaEBiw"/>
+        <updated>2023-01-25T14:25:13.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heaven – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=QmZQptBSKFw</id>
+        <link href="https://www.youtube.com/watch?v=QmZQptBSKFw"/>
+        <updated>2023-01-25T12:00:28.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日人像攝影系列EP.12 (東京篇)- 暌違3年終於去日本了！ 富士山/ 新宿街頭]]></title>
+        <id>https://www.youtube.com/watch?v=KtiBNZld9bs</id>
+        <link href="https://www.youtube.com/watch?v=KtiBNZld9bs"/>
+        <updated>2023-01-25T11:04:35.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-H2S FW3.00 x Shelley Pearson/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=XfwmcNb9af8</id>
+        <link href="https://www.youtube.com/watch?v=XfwmcNb9af8"/>
+        <updated>2023-01-25T05:00:13.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[稳定器环绕运镜详细教程｜学会死区跟随设定]]></title>
         <id>https://www.youtube.com/watch?v=NHUjd_152rM</id>
@@ -717,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Synesthesia – GalaxyTones (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=ZkGK0YAB3bk</id>
-        <link href="https://www.youtube.com/watch?v=ZkGK0YAB3bk"/>
-        <updated>2023-01-10T12:00:16.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Warming up for SEASON 13 | League Of Legends | Live 🔴]]></title>
         <id>https://www.youtube.com/watch?v=T73wxHGv7U0</id>
         <link href="https://www.youtube.com/watch?v=T73wxHGv7U0"/>
@@ -897,7 +933,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一日人像攝影EP.11 外傳- 3個攝影師在日本鐮倉拍同一個model ft. Lance2.14  Ryannpng]]></title>
+        <title type="html"><![CDATA[一日人像攝影EP.11 (鐮倉篇)- 3個攝影師在日本鐮倉拍同一個model ft. Lance2.14  Ryannpng]]></title>
         <id>https://www.youtube.com/watch?v=GlJtUj7rU3Q</id>
         <link href="https://www.youtube.com/watch?v=GlJtUj7rU3Q"/>
         <updated>2023-01-07T12:00:06.000Z</updated>
@@ -1182,60 +1218,6 @@
         <updated>2022-12-28T10:00:30.000Z</updated>
         <author>
             <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80国旅行纪念，我做了一件最特别的平凡事。｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=t1UAH9l-sUs</id>
-        <link href="https://www.youtube.com/watch?v=t1UAH9l-sUs"/>
-        <updated>2022-12-27T12:00:36.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當超能力主角面對無法殺死的反派！頂級潛行暗殺遊戲《恥辱》2究竟是一款怎樣的遊戲]]></title>
-        <id>https://www.youtube.com/watch?v=cMuskZsMu54</id>
-        <link href="https://www.youtube.com/watch?v=cMuskZsMu54"/>
-        <updated>2022-12-27T12:00:18.000Z</updated>
-        <author>
-            <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(攝影教學)-迷幻感人像影片怎麼拍]]></title>
-        <id>https://www.youtube.com/watch?v=eHuxnsC_VRQ</id>
-        <link href="https://www.youtube.com/watch?v=eHuxnsC_VRQ"/>
-        <updated>2022-12-27T11:05:44.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Thomas看看世界】职业摄影师是如何把臭水沟拍成大瀑布的？揭秘拍摄现场，反差也太大了吧！｜摄影教程]]></title>
-        <id>https://www.youtube.com/watch?v=cHa_5RL2VUk</id>
-        <link href="https://www.youtube.com/watch?v=cHa_5RL2VUk"/>
-        <updated>2022-12-27T05:39:03.000Z</updated>
-        <author>
-            <name>Thomas Chu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[| Live 🔴 Watching Edits... Hand Cam]]></title>
-        <id>https://www.youtube.com/watch?v=lzH152SPnqY</id>
-        <link href="https://www.youtube.com/watch?v=lzH152SPnqY"/>
-        <updated>2022-12-27T03:03:30.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[| Live 🔴 Editing... Hand Cam (American Special)]]></title>
-        <id>https://www.youtube.com/watch?v=2AXOL_nw9sk</id>
-        <link href="https://www.youtube.com/watch?v=2AXOL_nw9sk"/>
-        <updated>2022-12-26T13:52:47.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
