@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-29T01:47:57.272Z</id>
+    <id>urn:2023-01-30T01:38:08.429Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T01:47:57.272Z</updated>
+    <updated>2023-01-30T01:38:08.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zine｜我的2022年度作品盘点 原来这么拍239集]]></title>
+        <id>https://www.youtube.com/watch?v=fD6fPZ1DviE</id>
+        <link href="https://www.youtube.com/watch?v=fD6fPZ1DviE"/>
+        <updated>2023-01-29T16:52:20.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Editing 👀]]></title>
+        <id>https://www.youtube.com/watch?v=x32Dv4fjQ3k</id>
+        <link href="https://www.youtube.com/watch?v=x32Dv4fjQ3k"/>
+        <updated>2023-01-29T16:16:50.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pillow Mist – Le Gang (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=KxULsLLGZZU</id>
+        <link href="https://www.youtube.com/watch?v=KxULsLLGZZU"/>
+        <updated>2023-01-29T12:00:20.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Thomas看看世界】如何智能建立选区-Photoshop选择主体教程｜摄影后期教程]]></title>
+        <id>https://www.youtube.com/watch?v=DuLWc9NPE_k</id>
+        <link href="https://www.youtube.com/watch?v=DuLWc9NPE_k"/>
+        <updated>2023-01-29T06:32:47.000Z</updated>
+        <author>
+            <name>Thomas Chu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Female Warrior of the Forest of Darkness ♫ Powerful Epic Music ♫ 3 HOUR Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=-tDyx08SUKU</id>
@@ -519,7 +555,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Thomas看看世界】魔幻暗调照片是如何后期的？原来这么简单！摄影后期教程]]></title>
+        <title type="html"><![CDATA[【Thomas看看世界】魔幻暗调照片是如何后期的？原来这么简单！｜摄影后期教程]]></title>
         <id>https://www.youtube.com/watch?v=l1yF53WwoO4</id>
         <link href="https://www.youtube.com/watch?v=l1yF53WwoO4"/>
         <updated>2023-01-17T09:42:37.000Z</updated>
@@ -678,15 +714,6 @@
         <updated>2023-01-14T12:30:00.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Right Here (Instrumental) – Atch (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=GvoU9eD0Yps</id>
-        <link href="https://www.youtube.com/watch?v=GvoU9eD0Yps"/>
-        <updated>2023-01-14T12:00:09.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1218,24 +1245,6 @@
         <updated>2023-01-01T12:45:01.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索尼S&Q实用教学｜三个实际应用技巧]]></title>
-        <id>https://www.youtube.com/watch?v=e8a9AOa-7DY</id>
-        <link href="https://www.youtube.com/watch?v=e8a9AOa-7DY"/>
-        <updated>2022-12-31T01:00:10.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Hurricane - Black Clover Vibe [Edit/AMV] Quick Edit !]]></title>
-        <id>https://www.youtube.com/watch?v=pdw_sc713GM</id>
-        <link href="https://www.youtube.com/watch?v=pdw_sc713GM"/>
-        <updated>2022-12-30T22:07:10.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
