@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T01:56:40.497Z</id>
+    <id>urn:2023-02-02T01:45:54.507Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T01:56:40.497Z</updated>
+    <updated>2023-02-02T01:45:54.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【干货】｜13种《航拍中国》城市运镜拍摄手法汇总！（附镜头表）]]></title>
+        <id>https://www.youtube.com/watch?v=OtyLuuS-r4w</id>
+        <link href="https://www.youtube.com/watch?v=OtyLuuS-r4w"/>
+        <updated>2023-02-01T13:00:25.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[God Will Give Blessings, Epic Music Of The Blessings That God Gives To Everyone, Epic About God]]></title>
+        <id>https://www.youtube.com/watch?v=O6aQvXRpk_8</id>
+        <link href="https://www.youtube.com/watch?v=O6aQvXRpk_8"/>
+        <updated>2023-02-01T12:30:10.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escape – Pokki Dj (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=6V6cIdLbDuo</id>
+        <link href="https://www.youtube.com/watch?v=6V6cIdLbDuo"/>
+        <updated>2023-02-01T12:00:04.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=e8pawaKRI84</id>
+        <link href="https://www.youtube.com/watch?v=e8pawaKRI84"/>
+        <updated>2023-02-01T11:00:30.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刘谦，在13亿人眼皮底下创造三幕奇迹！【寻找·刘谦】]]></title>
+        <id>https://www.youtube.com/watch?v=qcnYT7AM6E4</id>
+        <link href="https://www.youtube.com/watch?v=qcnYT7AM6E4"/>
+        <updated>2023-02-01T05:36:05.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 軟體工程師企業專題班]]></title>
         <id>https://www.youtube.com/watch?v=yH2SjNGY2m0</id>
@@ -627,15 +672,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It's Okay To Cry (ft. Carrie) – Leonell Cassio (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=mDLDPlXmi2o</id>
-        <link href="https://www.youtube.com/watch?v=mDLDPlXmi2o"/>
-        <updated>2023-01-17T12:00:34.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EDM ĐÓN TẾT - MỪNG XUÂN 2023 ♫ Tracks 20 Bản Nhạc EDM Mix Hay Quẩy TẾT Cực Phiêu]]></title>
         <id>https://www.youtube.com/watch?v=W5RFrR2xw9c</id>
         <link href="https://www.youtube.com/watch?v=W5RFrR2xw9c"/>
@@ -996,15 +1032,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Nhạc EDM "Cực Phiêu" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=OOYG7O_zrOk</id>
-        <link href="https://www.youtube.com/watch?v=OOYG7O_zrOk"/>
-        <updated>2023-01-10T11:00:14.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我的一週都在幹嘛? 揭秘身為自由接案攝影師的一週]]></title>
         <id>https://www.youtube.com/watch?v=Xd8SSSXS9OA</id>
         <link href="https://www.youtube.com/watch?v=Xd8SSSXS9OA"/>
@@ -1227,51 +1254,6 @@
         <updated>2023-01-04T03:28:44.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DARK CAT WINNER | Dark Powerful Battle Music | Most Heroic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=9Ln9vpSpSQM</id>
-        <link href="https://www.youtube.com/watch?v=9Ln9vpSpSQM"/>
-        <updated>2023-01-03T12:45:00.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「校園景點爭霸戰」EP.3 清大也有很多樓梯 - GRiiix]]></title>
-        <id>https://www.youtube.com/watch?v=-h2JHw-CP2Q</id>
-        <link href="https://www.youtube.com/watch?v=-h2JHw-CP2Q"/>
-        <updated>2023-01-03T12:30:00.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クセになる中毒性のある神曲アニソンメドレー【作業用BGM】Most Beautiful Anime Japanese Songs]]></title>
-        <id>https://www.youtube.com/watch?v=2khwb2mOiP4</id>
-        <link href="https://www.youtube.com/watch?v=2khwb2mOiP4"/>
-        <updated>2023-01-03T08:05:36.000Z</updated>
-        <author>
-            <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Piece - Prblms [Edit/AMV]! + [Project File] Best Edit?!]]></title>
-        <id>https://www.youtube.com/watch?v=NuDFuVEVOP0</id>
-        <link href="https://www.youtube.com/watch?v=NuDFuVEVOP0"/>
-        <updated>2023-01-03T06:36:26.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Thomas看看世界】如何在“坏”天气拍出好片？阴雨雾霾天拍摄思路分享！｜摄影教程]]></title>
-        <id>https://www.youtube.com/watch?v=ugc27l6K2FA</id>
-        <link href="https://www.youtube.com/watch?v=ugc27l6K2FA"/>
-        <updated>2023-01-03T06:31:46.000Z</updated>
-        <author>
-            <name>Thomas Chu</name>
         </author>
     </entry>
 </feed>
