@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T01:50:24.738Z</id>
+    <id>urn:2023-02-06T01:40:45.649Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-05T01:50:24.738Z</updated>
+    <updated>2023-02-06T01:40:45.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cinematic workout film- Sony a7s3/ Sony 24-70 F2.8 GM II]]></title>
+        <id>https://www.youtube.com/watch?v=jZO65NSdnNU</id>
+        <link href="https://www.youtube.com/watch?v=jZO65NSdnNU"/>
+        <updated>2023-02-05T12:32:12.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You & Me – Sakura Girl (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=FNlGb0ygxys</id>
+        <link href="https://www.youtube.com/watch?v=FNlGb0ygxys"/>
+        <updated>2023-02-05T12:00:07.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=-slXUsfjwWo</id>
+        <link href="https://www.youtube.com/watch?v=-slXUsfjwWo"/>
+        <updated>2023-02-05T12:00:01.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[やる気を全開にさせるかっこいい曲！クセになる中毒性のある神曲アニソンメドレー【作業用BGM】Most Hype Anime Japanese Songs Collection]]></title>
+        <id>https://www.youtube.com/watch?v=tsih5KF1kzw</id>
+        <link href="https://www.youtube.com/watch?v=tsih5KF1kzw"/>
+        <updated>2023-02-05T07:18:00.000Z</updated>
+        <author>
+            <name>Juna BGM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breeze – LiQWYD (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=ULOszjITbEQ</id>
@@ -582,15 +618,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feel The Wind – Roa (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=jA1VTP0AT7I</id>
-        <link href="https://www.youtube.com/watch?v=jA1VTP0AT7I"/>
-        <updated>2023-01-21T12:00:33.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【25曲】たまに聴きたくなるアニソンメドレー！【作業用BGM】]]></title>
         <id>https://www.youtube.com/watch?v=TUSZnRcRIjM</id>
         <link href="https://www.youtube.com/watch?v=TUSZnRcRIjM"/>
@@ -924,15 +951,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Mix Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=09n_y-E2a_0</id>
-        <link href="https://www.youtube.com/watch?v=09n_y-E2a_0"/>
-        <updated>2023-01-14T11:00:00.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23个入手RS3Mini必知特点｜快速了解所有设计功能]]></title>
         <id>https://www.youtube.com/watch?v=Mzo5Td3c3H8</id>
         <link href="https://www.youtube.com/watch?v=Mzo5Td3c3H8"/>
@@ -1180,51 +1198,6 @@
         <id>https://www.youtube.com/watch?v=lOoyezJxvTI</id>
         <link href="https://www.youtube.com/watch?v=lOoyezJxvTI"/>
         <updated>2023-01-08T12:45:02.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iphone14ProMax运动模式十个场景评测｜效果差强人意]]></title>
-        <id>https://www.youtube.com/watch?v=519Qx0xXkps</id>
-        <link href="https://www.youtube.com/watch?v=519Qx0xXkps"/>
-        <updated>2023-01-07T13:00:05.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日人像攝影EP.11 (鐮倉篇)- 3個攝影師在日本鐮倉拍同一個model ft. Lance2.14  Ryannpng]]></title>
-        <id>https://www.youtube.com/watch?v=GlJtUj7rU3Q</id>
-        <link href="https://www.youtube.com/watch?v=GlJtUj7rU3Q"/>
-        <updated>2023-01-07T12:00:06.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live 🔴 | Playing AKBFDJAHFVEAHJFGVAJEHF Games / FaceCam? 👀]]></title>
-        <id>https://www.youtube.com/watch?v=zhYeIawqZDg</id>
-        <link href="https://www.youtube.com/watch?v=zhYeIawqZDg"/>
-        <updated>2023-01-07T09:14:08.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bringing back the club energy in 2023...who wants it?]]></title>
-        <id>https://www.youtube.com/watch?v=UNcWRp3G9Mk</id>
-        <link href="https://www.youtube.com/watch?v=UNcWRp3G9Mk"/>
-        <updated>2023-01-06T16:06:49.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holy Fire Dragon Warrior | Best Epic Battle Music Of All Times | Epic Powerful Hybrid Battle Music]]></title>
-        <id>https://www.youtube.com/watch?v=n8VJAFyiRT4</id>
-        <link href="https://www.youtube.com/watch?v=n8VJAFyiRT4"/>
-        <updated>2023-01-06T16:00:21.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
         </author>
