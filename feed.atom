@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T01:50:09.087Z</id>
+    <id>urn:2023-02-11T01:39:13.246Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T01:50:09.087Z</updated>
+    <updated>2023-02-11T01:39:13.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Strong Winter Warrior | World's Most Powerful Battle Music | The Power Of Epic Music]]></title>
+        <id>https://www.youtube.com/watch?v=CVosq8CWmcQ</id>
+        <link href="https://www.youtube.com/watch?v=CVosq8CWmcQ"/>
+        <updated>2023-02-10T12:45:00.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年2月份最新手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #2]]></title>
+        <id>https://www.youtube.com/watch?v=s1gwfTHq7jA</id>
+        <link href="https://www.youtube.com/watch?v=s1gwfTHq7jA"/>
+        <updated>2023-02-10T12:30:34.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rough Nights – Artificial.Music & Mehul ShaRma (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=r-U3NVUQ4wQ</id>
+        <link href="https://www.youtube.com/watch?v=r-U3NVUQ4wQ"/>
+        <updated>2023-02-10T12:00:41.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活的美好，绘画的诠释！]]></title>
+        <id>https://www.youtube.com/watch?v=TA84UxVLVuQ</id>
+        <link href="https://www.youtube.com/watch?v=TA84UxVLVuQ"/>
+        <updated>2023-02-10T08:03:56.000Z</updated>
+        <author>
+            <name>小广同学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[後 chatGPT 時代   當代資料科學工具人入坑指南]]></title>
+        <id>https://www.youtube.com/watch?v=TUE67gnutLk</id>
+        <link href="https://www.youtube.com/watch?v=TUE67gnutLk"/>
+        <updated>2023-02-10T08:01:12.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guide You Home - Ferco & Andie (No Copyright Music) | Release Preview]]></title>
         <id>https://www.youtube.com/watch?v=2vZ0zDFjbcY</id>
@@ -525,15 +570,6 @@
         <updated>2023-01-29T16:16:50.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pillow Mist – Le Gang (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=KxULsLLGZZU</id>
-        <link href="https://www.youtube.com/watch?v=KxULsLLGZZU"/>
-        <updated>2023-01-29T12:00:20.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1092,69 +1128,6 @@
         <updated>2023-01-13T07:27:44.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拍攝前先思考為什麼 - 跳脫「答案」的束縛]]></title>
-        <id>https://www.youtube.com/watch?v=MyviNk0GA2Q</id>
-        <link href="https://www.youtube.com/watch?v=MyviNk0GA2Q"/>
-        <updated>2023-01-12T12:30:08.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mighty Warrior Couple  | Epic Powerful Battle Music | Powerful Beautiful Epic Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=-j9DsXG6bbY</id>
-        <link href="https://www.youtube.com/watch?v=-j9DsXG6bbY"/>
-        <updated>2023-01-12T12:30:00.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你需要大疆RS3 Mini吗？稳定器界的迷你巨人｜开箱评测]]></title>
-        <id>https://www.youtube.com/watch?v=JR3nfXKdduA</id>
-        <link href="https://www.youtube.com/watch?v=JR3nfXKdduA"/>
-        <updated>2023-01-12T07:30:03.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-H2S FW3.00 x Tadateru Takahashi/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=wtect9oDBfg</id>
-        <link href="https://www.youtube.com/watch?v=wtect9oDBfg"/>
-        <updated>2023-01-12T05:00:32.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Reflections" 10 Years with X Mount/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=i_kEPRsmC4A</id>
-        <link href="https://www.youtube.com/watch?v=i_kEPRsmC4A"/>
-        <updated>2023-01-12T05:00:16.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-H2S FW3.00 Auto Focus Promotional Video/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=YiPuNW5QWsQ</id>
-        <link href="https://www.youtube.com/watch?v=YiPuNW5QWsQ"/>
-        <updated>2023-01-12T05:00:12.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Year Greeting 2023/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=DfD_hisuamk</id>
-        <link href="https://www.youtube.com/watch?v=DfD_hisuamk"/>
-        <updated>2023-01-12T05:00:05.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
