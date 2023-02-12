@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T01:39:13.246Z</id>
+    <id>urn:2023-02-12T01:48:09.457Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T01:39:13.246Z</updated>
+    <updated>2023-02-12T01:48:09.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[想學攝影必看! 攝影新手別再犯這樣的錯了!]]></title>
+        <id>https://www.youtube.com/watch?v=rSVXsT9uaKQ</id>
+        <link href="https://www.youtube.com/watch?v=rSVXsT9uaKQ"/>
+        <updated>2023-02-11T13:12:02.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show Cooking – Alex-Productions (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=p8f35IjSIgU</id>
+        <link href="https://www.youtube.com/watch?v=p8f35IjSIgU"/>
+        <updated>2023-02-11T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=5XkqzMfAfyI</id>
+        <link href="https://www.youtube.com/watch?v=5XkqzMfAfyI"/>
+        <updated>2023-02-11T12:00:06.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samurai Warrior Epic | Greatest Of Powerful Epic Orchestral Mix |  Epic Powerful Emotional]]></title>
+        <id>https://www.youtube.com/watch?v=_erWCA5YCOA</id>
+        <link href="https://www.youtube.com/watch?v=_erWCA5YCOA"/>
+        <updated>2023-02-11T11:30:20.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[やる気を全開にさせるかっこいい曲！クセになる中毒性のある神曲アニソンメドレー【作業用BGM】Most Beautiful Anime Japanese Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qaXuTd3lLmY</id>
+        <link href="https://www.youtube.com/watch?v=qaXuTd3lLmY"/>
+        <updated>2023-02-11T08:22:56.000Z</updated>
+        <author>
+            <name>Juna BGM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strong Winter Warrior | World's Most Powerful Battle Music | The Power Of Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=CVosq8CWmcQ</id>
@@ -528,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sheherazade – VDGL (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=8-mkRI1eyWc</id>
-        <link href="https://www.youtube.com/watch?v=8-mkRI1eyWc"/>
-        <updated>2023-01-30T12:00:05.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=T5mR7yygzsY</id>
         <link href="https://www.youtube.com/watch?v=T5mR7yygzsY"/>
@@ -870,15 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=JumPbNCOIr0</id>
-        <link href="https://www.youtube.com/watch?v=JumPbNCOIr0"/>
-        <updated>2023-01-19T12:00:10.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Playing games  / Face Cam ?]]></title>
         <id>https://www.youtube.com/watch?v=EBtyG4wrcxk</id>
         <link href="https://www.youtube.com/watch?v=EBtyG4wrcxk"/>
@@ -1023,15 +1050,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[达芬奇的色彩管理科学（Davinci Resolve Color Managed）: 什么是时间线色彩空间，输入色彩空间，输出色彩空间？什么是色彩空间感知的调色工具？曲线，调色轮，HDR色轮的色彩特性]]></title>
-        <id>https://www.youtube.com/watch?v=90PZw3lW4a4</id>
-        <link href="https://www.youtube.com/watch?v=90PZw3lW4a4"/>
-        <updated>2023-01-16T11:00:05.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[澤野弘之の神戦闘曲 やる気を全開にさせるアニソンメドレー【作業用BGM】Best of Hiroyuki Sawano Anime Vocal Songs OST Collection]]></title>
         <id>https://www.youtube.com/watch?v=j54y7k0O8c0</id>
         <link href="https://www.youtube.com/watch?v=j54y7k0O8c0"/>
@@ -1092,42 +1110,6 @@
         <updated>2023-01-13T14:30:12.000Z</updated>
         <author>
             <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个人旅行怎么拍？ ！三个宝藏机位+五个实用技巧分享！新手必备！ VLOG教程]]></title>
-        <id>https://www.youtube.com/watch?v=pUnGpmNHxag</id>
-        <link href="https://www.youtube.com/watch?v=pUnGpmNHxag"/>
-        <updated>2023-01-13T12:00:30.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年1月份最新手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #1]]></title>
-        <id>https://www.youtube.com/watch?v=1AvyEFS3w_8</id>
-        <link href="https://www.youtube.com/watch?v=1AvyEFS3w_8"/>
-        <updated>2023-01-13T12:00:01.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一键生成！航拍 小人国 移轴效果#shorts #drones #小人国#dji]]></title>
-        <id>https://www.youtube.com/watch?v=EKpCGKHk3gg</id>
-        <link href="https://www.youtube.com/watch?v=EKpCGKHk3gg"/>
-        <updated>2023-01-13T08:39:25.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【作業用BGM】超重低音！！アニソンリミックスメドレー #2【重低音強化】]]></title>
-        <id>https://www.youtube.com/watch?v=WALQcjjifRA</id>
-        <link href="https://www.youtube.com/watch?v=WALQcjjifRA"/>
-        <updated>2023-01-13T07:27:44.000Z</updated>
-        <author>
-            <name>Juna BGM</name>
         </author>
     </entry>
 </feed>
