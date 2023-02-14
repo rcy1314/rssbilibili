@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T01:48:11.901Z</id>
+    <id>urn:2023-02-14T01:49:21.811Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T01:48:11.901Z</updated>
+    <updated>2023-02-14T01:49:21.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA["Cyber Drones" Sci-fi Photo Manipulation Sped Art | Photoshop Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=y-FT1_aLOb4</id>
+        <link href="https://www.youtube.com/watch?v=y-FT1_aLOb4"/>
+        <updated>2023-02-14T01:27:16.000Z</updated>
+        <author>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一鍵完成替換頭尾標籤，30 秒 VSCode 技巧 (可點擊 CC 字幕）#前端 #網頁設計]]></title>
+        <id>https://www.youtube.com/watch?v=XUonKxcB6lo</id>
+        <link href="https://www.youtube.com/watch?v=XUonKxcB6lo"/>
+        <updated>2023-02-13T14:15:01.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nikon 新手的救贖 ft. Tamron 70-300mm ｜高雄美術館必拍景點]]></title>
+        <id>https://www.youtube.com/watch?v=g9BnEbcSE2M</id>
+        <link href="https://www.youtube.com/watch?v=g9BnEbcSE2M"/>
+        <updated>2023-02-13T12:30:17.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stealth Mode – tubebackr & Rexlambo (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=GbHrrDTpfcY</id>
+        <link href="https://www.youtube.com/watch?v=GbHrrDTpfcY"/>
+        <updated>2023-02-13T12:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Epic Music Ever | World's Most Powerful Epic Music 2023 |  Epic Badass Hybrid Music]]></title>
+        <id>https://www.youtube.com/watch?v=KijtgDfnit4</id>
+        <link href="https://www.youtube.com/watch?v=KijtgDfnit4"/>
+        <updated>2023-02-13T11:45:02.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Thomas看看世界】如何拍出好看的火车车窗风景照片？摄影时竟有这么多注意事项！｜摄影教程]]></title>
+        <id>https://www.youtube.com/watch?v=r7XaVzJfuBc</id>
+        <link href="https://www.youtube.com/watch?v=r7XaVzJfuBc"/>
+        <updated>2023-02-13T05:02:01.000Z</updated>
+        <author>
+            <name>Thomas Chu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mosaic – tubebackr (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=lUTnmSljvos</id>
@@ -498,15 +552,6 @@
         <updated>2023-02-01T12:30:10.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escape – Pokki Dj (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=6V6cIdLbDuo</id>
-        <link href="https://www.youtube.com/watch?v=6V6cIdLbDuo"/>
-        <updated>2023-02-01T12:00:04.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1074,15 +1119,6 @@
         <updated>2023-01-15T14:30:14.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editing Live  / Face Cam ?]]></title>
-        <id>https://www.youtube.com/watch?v=LHcLjH82I70</id>
-        <link href="https://www.youtube.com/watch?v=LHcLjH82I70"/>
-        <updated>2023-01-14T16:24:21.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
