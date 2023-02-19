@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T01:45:10.676Z</id>
+    <id>urn:2023-02-19T01:48:18.474Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T01:45:10.676Z</updated>
+    <updated>2023-02-19T01:48:18.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Editing 👀]]></title>
+        <id>https://www.youtube.com/watch?v=t_SKyarsUmU</id>
+        <link href="https://www.youtube.com/watch?v=t_SKyarsUmU"/>
+        <updated>2023-02-18T23:29:36.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viltrox Epic 1.33X Anamorphic Lens Set | Fashion commercial on set review behind the scene (ENG SUB)]]></title>
+        <id>https://www.youtube.com/watch?v=eQw6mR8RXMc</id>
+        <link href="https://www.youtube.com/watch?v=eQw6mR8RXMc"/>
+        <updated>2023-02-18T23:09:43.000Z</updated>
+        <author>
+            <name>Nick and Ezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flux – Mehul Choudhary (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=PrkdD5PJNpg</id>
+        <link href="https://www.youtube.com/watch?v=PrkdD5PJNpg"/>
+        <updated>2023-02-18T12:00:24.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=RrYkBv2183U</id>
+        <link href="https://www.youtube.com/watch?v=RrYkBv2183U"/>
+        <updated>2023-02-18T12:00:21.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Powerful Epic Music Mix 2023 | Epic Powerful Hybrid Battle Music Mix | Powerful Epic MusiC 2023]]></title>
+        <id>https://www.youtube.com/watch?v=LHH9gWgV138</id>
+        <link href="https://www.youtube.com/watch?v=LHH9gWgV138"/>
+        <updated>2023-02-18T11:30:10.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【旅拍｜曼谷】曼谷著名景点打卡，用镜头记录这狂野与温和并存的金色都市｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=quN25ytR9Ig</id>
@@ -303,15 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WATCHING YOUR EDITS | Live 🔴 Facecam?!?]]></title>
-        <id>https://www.youtube.com/watch?v=JGE1qMQfdvY</id>
-        <link href="https://www.youtube.com/watch?v=JGE1qMQfdvY"/>
-        <updated>2023-02-12T04:36:01.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[想學攝影必看! 攝影新手別再犯這樣的錯了!]]></title>
         <id>https://www.youtube.com/watch?v=rSVXsT9uaKQ</id>
         <link href="https://www.youtube.com/watch?v=rSVXsT9uaKQ"/>
@@ -525,15 +561,6 @@
         <updated>2023-02-07T12:00:19.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start – Roa (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=I3taZ9AOySE</id>
-        <link href="https://www.youtube.com/watch?v=I3taZ9AOySE"/>
-        <updated>2023-02-07T12:00:08.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -816,15 +843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=T5mR7yygzsY</id>
-        <link href="https://www.youtube.com/watch?v=T5mR7yygzsY"/>
-        <updated>2023-01-30T11:00:28.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[静帧功能大揭秘（达芬奇静帧基本概念，用静帧调色，快速调色节点，多调色方案对比，静帧的书签定位）]]></title>
         <id>https://www.youtube.com/watch?v=V6rCD87oq7g</id>
         <link href="https://www.youtube.com/watch?v=V6rCD87oq7g"/>
@@ -1065,51 +1083,6 @@
         <updated>2023-01-20T17:18:40.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eternal Fire Warrior | 2 HOURS of The Cruel Dramatic Shadow Epic | Epic Powerful Emotional]]></title>
-        <id>https://www.youtube.com/watch?v=1gnTmwo_rDc</id>
-        <link href="https://www.youtube.com/watch?v=1gnTmwo_rDc"/>
-        <updated>2023-01-20T12:45:00.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年1月份最新手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #2]]></title>
-        <id>https://www.youtube.com/watch?v=lijikM-pUSA</id>
-        <link href="https://www.youtube.com/watch?v=lijikM-pUSA"/>
-        <updated>2023-01-20T12:00:26.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抱歉35 1.4gm......我變心了/ Sony 24-70 F2.8 GM II]]></title>
-        <id>https://www.youtube.com/watch?v=J2oCYHwLBgo</id>
-        <link href="https://www.youtube.com/watch?v=J2oCYHwLBgo"/>
-        <updated>2023-01-20T12:00:09.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这**是用手机拍的！？手机VS相机，哪个拍得爽？]]></title>
-        <id>https://www.youtube.com/watch?v=lW57cRYOMSg</id>
-        <link href="https://www.youtube.com/watch?v=lW57cRYOMSg"/>
-        <updated>2023-01-20T10:15:08.000Z</updated>
-        <author>
-            <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大光圈拍摄不再过度曝光！可调ND滤镜和黑柔滤镜？｜卡色磁吸ND滤镜, 磁吸黑柔滤镜, 滤镜包]]></title>
-        <id>https://www.youtube.com/watch?v=4zugVFZjN4k</id>
-        <link href="https://www.youtube.com/watch?v=4zugVFZjN4k"/>
-        <updated>2023-01-20T10:00:05.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
         </author>
     </entry>
 </feed>
