@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T01:48:34.573Z</id>
+    <id>urn:2023-02-21T01:49:16.670Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T01:48:34.573Z</updated>
+    <updated>2023-02-21T01:49:16.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smooth Vibe Shake Tutorial | After Effects + Free Preset]]></title>
+        <id>https://www.youtube.com/watch?v=GQ2dz-sn-lY</id>
+        <link href="https://www.youtube.com/watch?v=GQ2dz-sn-lY"/>
+        <updated>2023-02-21T00:23:02.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vì Tương Lai Của Bạn (Nho Nguyen Remix) ( FURY Cover Release)]]></title>
+        <id>https://www.youtube.com/watch?v=blWM05NFAEo</id>
+        <link href="https://www.youtube.com/watch?v=blWM05NFAEo"/>
+        <updated>2023-02-20T23:00:22.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我原本不知道這顆鏡頭的定位 直到用了後愛不釋手 ft. tamron 20-40mm f2.8]]></title>
+        <id>https://www.youtube.com/watch?v=cZ3dcckpXkk</id>
+        <link href="https://www.youtube.com/watch?v=cZ3dcckpXkk"/>
+        <updated>2023-02-20T12:30:17.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traveling around the world – Alex-Productions (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=ziy0PUmubbw</id>
+        <link href="https://www.youtube.com/watch?v=ziy0PUmubbw"/>
+        <updated>2023-02-20T12:00:41.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Epic Heroic Orchestral Music ♫ World's Most Powerful Battle Music ♫ Powerful Orchestral Music]]></title>
+        <id>https://www.youtube.com/watch?v=oWJHij6uPTo</id>
+        <link href="https://www.youtube.com/watch?v=oWJHij6uPTo"/>
+        <updated>2023-02-20T11:30:15.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】彻底解读 HomePod 2，这才是让人惊讶的隐藏绝技]]></title>
+        <id>https://www.youtube.com/watch?v=DsDwYDyP0t0</id>
+        <link href="https://www.youtube.com/watch?v=DsDwYDyP0t0"/>
+        <updated>2023-02-20T10:27:01.000Z</updated>
+        <author>
+            <name>FView Official Channel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Live 🔴 | Editing 👀]]></title>
         <id>https://www.youtube.com/watch?v=VxZ_G6cIXqY</id>
@@ -528,15 +582,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hold Me – Pokki Dj (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=yhR3MRJU_eA</id>
-        <link href="https://www.youtube.com/watch?v=yhR3MRJU_eA"/>
-        <updated>2023-02-08T12:00:51.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=9ZmAvdH0B4E</id>
         <link href="https://www.youtube.com/watch?v=9ZmAvdH0B4E"/>
@@ -825,15 +870,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chơi Game Hay Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=WO3J4PSZ1bY</id>
-        <link href="https://www.youtube.com/watch?v=WO3J4PSZ1bY"/>
-        <updated>2023-01-31T11:00:20.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[High Enough - Demon Slayer Vibe [Edit/AMV]! + [Project File]]]></title>
         <id>https://www.youtube.com/watch?v=nINXT0wWzXk</id>
         <link href="https://www.youtube.com/watch?v=nINXT0wWzXk"/>
@@ -1074,15 +1110,6 @@
         <updated>2023-01-23T12:30:02.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAR EPIC MUSIC 2023 ♫ Epic Military Powerful Music Mix ♫ Aggressive Inspiring War Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=1ON27IzjnOI</id>
-        <link href="https://www.youtube.com/watch?v=1ON27IzjnOI"/>
-        <updated>2023-01-22T12:30:00.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
 </feed>
