@@ -1,15 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T01:43:51.253Z</id>
+    <id>urn:2023-02-24T01:45:18.799Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T01:43:51.253Z</updated>
+    <updated>2023-02-24T01:45:18.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[摄影已死]]></title>
+        <id>https://www.youtube.com/watch?v=yoJUQysiIW0</id>
+        <link href="https://www.youtube.com/watch?v=yoJUQysiIW0"/>
+        <updated>2023-02-24T01:00:23.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nho Nguyen - Invader [FURY Release]]]></title>
+        <id>https://www.youtube.com/watch?v=A-g4R4naFGA</id>
+        <link href="https://www.youtube.com/watch?v=A-g4R4naFGA"/>
+        <updated>2023-02-23T23:00:04.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The untold story of The 3rd Chainsmokers 🚬]]></title>
+        <id>https://www.youtube.com/watch?v=q8G5_QsTVhg</id>
+        <link href="https://www.youtube.com/watch?v=q8G5_QsTVhg"/>
+        <updated>2023-02-23T15:50:27.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Trying new style 👀]]></title>
+        <id>https://www.youtube.com/watch?v=RMmGAFKqDXk</id>
+        <link href="https://www.youtube.com/watch?v=RMmGAFKqDXk"/>
+        <updated>2023-02-23T15:34:05.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12个免费调整层Adjustment Layer | 剪接师必备插件 | Final Cut Pro]]></title>
+        <id>https://www.youtube.com/watch?v=YhRXmBjVFwY</id>
+        <link href="https://www.youtube.com/watch?v=YhRXmBjVFwY"/>
+        <updated>2023-02-23T13:00:17.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POV&Zine｜手持一亿像素去扫街！Hasselblad X2D｜原来这么拍 240集]]></title>
+        <id>https://www.youtube.com/watch?v=1UrnEBtorO0</id>
+        <link href="https://www.youtube.com/watch?v=1UrnEBtorO0"/>
+        <updated>2023-02-23T13:00:11.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出國拍照背包怎麼選？達成這兩個條件的包必買！]]></title>
+        <id>https://www.youtube.com/watch?v=6-TwtLKXQTg</id>
+        <link href="https://www.youtube.com/watch?v=6-TwtLKXQTg"/>
+        <updated>2023-02-23T12:30:05.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絕對的恐怖遊戲天花板！“靈魂出竅”的科學釋義，《逃生》終極解說版]]></title>
+        <id>https://www.youtube.com/watch?v=uQlautxrHZs</id>
+        <link href="https://www.youtube.com/watch?v=uQlautxrHZs"/>
+        <updated>2023-02-23T12:00:40.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Always You – Declan DP (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=iC0vgP3nnyk</id>
+        <link href="https://www.youtube.com/watch?v=iC0vgP3nnyk"/>
+        <updated>2023-02-23T12:00:34.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 🔥]]></title>
+        <id>https://www.youtube.com/watch?v=6Z_e_mAbVdM</id>
+        <link href="https://www.youtube.com/watch?v=6Z_e_mAbVdM"/>
+        <updated>2023-02-23T12:00:03.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of Epic Music ♫ Beautiful Inspirational Orchestral Music Mix ♫ Powerful Orchestral Music]]></title>
+        <id>https://www.youtube.com/watch?v=ShVfAVqX7b8</id>
+        <link href="https://www.youtube.com/watch?v=ShVfAVqX7b8"/>
+        <updated>2023-02-23T11:30:09.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澤野弘之の神戦闘曲 クセになる中毒性のあるアニソンメドレー【作業用BGM】Best of Hiroyuki Sawano Anime Vocal Songs]]></title>
+        <id>https://www.youtube.com/watch?v=hzSWkYoBUpU</id>
+        <link href="https://www.youtube.com/watch?v=hzSWkYoBUpU"/>
+        <updated>2023-02-23T08:26:17.000Z</updated>
+        <author>
+            <name>Juna BGM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khẩu Thị Tâm Phi (Nho Nguyen Remix)]]></title>
+        <id>https://www.youtube.com/watch?v=fsoy06RsbRk</id>
+        <link href="https://www.youtube.com/watch?v=fsoy06RsbRk"/>
+        <updated>2023-02-23T04:00:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Betrayal - Kiznaiver [Edit/AMV]! + Project File !]]></title>
+        <id>https://www.youtube.com/watch?v=CQmjM1nbTFM</id>
+        <link href="https://www.youtube.com/watch?v=CQmjM1nbTFM"/>
+        <updated>2023-02-23T03:30:37.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Live 🔴 | Trying new style 👀]]></title>
         <id>https://www.youtube.com/watch?v=_WSQbg0bOFI</id>
         <link href="https://www.youtube.com/watch?v=_WSQbg0bOFI"/>
-        <updated>2023-02-22T22:48:51.000Z</updated>
+        <updated>2023-02-23T02:56:06.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
@@ -681,15 +807,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide You Home - Ferco & Andie (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=2vZ0zDFjbcY</id>
-        <link href="https://www.youtube.com/watch?v=2vZ0zDFjbcY"/>
-        <updated>2023-02-09T16:00:02.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[旅行鏡頭二選一？ FE 20-70mm F4G與 24-105mm F4G ￼今晚你選哪一隻 ft. SEL2070G]]></title>
         <id>https://www.youtube.com/watch?v=1pi8nlMT9kE</id>
         <link href="https://www.youtube.com/watch?v=1pi8nlMT9kE"/>
@@ -762,15 +879,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=daamMZf9Gn8</id>
-        <link href="https://www.youtube.com/watch?v=daamMZf9Gn8"/>
-        <updated>2023-02-07T12:00:19.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【旅拍｜波黑】欧洲的战争火药桶如今是否平静？｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=84ZSp_kTE90</id>
         <link href="https://www.youtube.com/watch?v=84ZSp_kTE90"/>
@@ -816,15 +924,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Top Nhạc EDM Nhiều Cảm Xúc ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=jcI5kevz5cc</id>
-        <link href="https://www.youtube.com/watch?v=jcI5kevz5cc"/>
-        <updated>2023-02-06T12:00:34.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“性感花瓶”、“烂片龙套”、江湖卷王【寻找·柳岩】]]></title>
         <id>https://www.youtube.com/watch?v=e3t1y3Hxcao</id>
         <link href="https://www.youtube.com/watch?v=e3t1y3Hxcao"/>
@@ -849,15 +948,6 @@
         <updated>2023-02-05T12:32:12.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=-slXUsfjwWo</id>
-        <link href="https://www.youtube.com/watch?v=-slXUsfjwWo"/>
-        <updated>2023-02-05T12:00:01.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -996,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3 HOUR of Epic Dark Dramatic Intense Action Music ♫ Epic Powerful Battle Music]]></title>
-        <id>https://www.youtube.com/watch?v=7cPnmRJZX4s</id>
-        <link href="https://www.youtube.com/watch?v=7cPnmRJZX4s"/>
-        <updated>2023-01-30T12:45:00.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一招教你怎麼把男生拍帥]]></title>
         <id>https://www.youtube.com/watch?v=zClibKdn6VI</id>
         <link href="https://www.youtube.com/watch?v=zClibKdn6VI"/>
@@ -1056,15 +1137,6 @@
         <updated>2023-01-28T07:14:49.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Two x Itadori - Alors On Danse [Edit/AMV]!]]></title>
-        <id>https://www.youtube.com/watch?v=DL9JLRgH_Ms</id>
-        <link href="https://www.youtube.com/watch?v=DL9JLRgH_Ms"/>
-        <updated>2023-01-28T06:44:02.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
     <entry>
@@ -1146,33 +1218,6 @@
         <updated>2023-01-25T16:52:46.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日人像攝影系列EP.12 (東京篇)- 暌違3年終於去日本了！ 富士山/ 新宿街頭]]></title>
-        <id>https://www.youtube.com/watch?v=KtiBNZld9bs</id>
-        <link href="https://www.youtube.com/watch?v=KtiBNZld9bs"/>
-        <updated>2023-01-25T11:04:35.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-H2S FW3.00 x Shelley Pearson/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=XfwmcNb9af8</id>
-        <link href="https://www.youtube.com/watch?v=XfwmcNb9af8"/>
-        <updated>2023-01-25T05:00:13.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定器环绕运镜详细教程｜学会死区跟随设定]]></title>
-        <id>https://www.youtube.com/watch?v=NHUjd_152rM</id>
-        <link href="https://www.youtube.com/watch?v=NHUjd_152rM"/>
-        <updated>2023-01-25T00:00:11.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
         </author>
     </entry>
 </feed>
