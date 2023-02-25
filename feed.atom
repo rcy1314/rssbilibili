@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T01:45:18.799Z</id>
+    <id>urn:2023-02-25T01:47:08.273Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T01:45:18.799Z</updated>
+    <updated>2023-02-25T01:47:08.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creative Codnig Taiwan 2月份社群聚會 線上直播]]></title>
+        <id>https://www.youtube.com/watch?v=_Ao3jr9EG68</id>
+        <link href="https://www.youtube.com/watch?v=_Ao3jr9EG68"/>
+        <updated>2023-02-24T13:29:06.000Z</updated>
+        <author>
+            <name>老闆,來點寇汀吧。Boss, CODING please.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 🔥]]></title>
+        <id>https://www.youtube.com/watch?v=kMQBjeWEM_I</id>
+        <link href="https://www.youtube.com/watch?v=kMQBjeWEM_I"/>
+        <updated>2023-02-24T12:06:50.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[必看! ChatGPT如何幫助攝影師更有效率的創作？]]></title>
+        <id>https://www.youtube.com/watch?v=Y0Vhi1pNS7k</id>
+        <link href="https://www.youtube.com/watch?v=Y0Vhi1pNS7k"/>
+        <updated>2023-02-24T12:04:52.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purple Moon – Di Young (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=yDlh0h2rXIo</id>
+        <link href="https://www.youtube.com/watch?v=yDlh0h2rXIo"/>
+        <updated>2023-02-24T12:00:42.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年最新MMORPG大型多人在線角色扮演手遊推薦！| Android & iOS 手機遊戲推薦 | 更多好玩推薦的手遊/遊戲作品！]]></title>
+        <id>https://www.youtube.com/watch?v=JG5jUswmUuo</id>
+        <link href="https://www.youtube.com/watch?v=JG5jUswmUuo"/>
+        <updated>2023-02-24T12:00:12.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【旅拍｜沙特阿拉伯】去一个汽油比水便宜的国家旅行，带上相机探访沙漠奇景｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=L06nHBXIrIU</id>
+        <link href="https://www.youtube.com/watch?v=L06nHBXIrIU"/>
+        <updated>2023-02-24T12:00:12.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aggressive Dark War Epic Music | Powerful Epic Heroic Music 2023 | Epic Atmospheric Orchestral Music]]></title>
+        <id>https://www.youtube.com/watch?v=RxOxjGB9iIc</id>
+        <link href="https://www.youtube.com/watch?v=RxOxjGB9iIc"/>
+        <updated>2023-02-24T11:30:12.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[摄影已死]]></title>
         <id>https://www.youtube.com/watch?v=yoJUQysiIW0</id>
@@ -780,15 +843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rough Nights – Artificial.Music & Mehul ShaRma (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=r-U3NVUQ4wQ</id>
-        <link href="https://www.youtube.com/watch?v=r-U3NVUQ4wQ"/>
-        <updated>2023-02-10T12:00:41.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[生活的美好，绘画的诠释！]]></title>
         <id>https://www.youtube.com/watch?v=TA84UxVLVuQ</id>
         <link href="https://www.youtube.com/watch?v=TA84UxVLVuQ"/>
@@ -831,15 +885,6 @@
         <updated>2023-02-08T12:30:01.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=9ZmAvdH0B4E</id>
-        <link href="https://www.youtube.com/watch?v=9ZmAvdH0B4E"/>
-        <updated>2023-02-08T12:00:09.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1032,15 +1077,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[God Will Give Blessings, Epic Music Of The Blessings That God Gives To Everyone, Epic About God]]></title>
-        <id>https://www.youtube.com/watch?v=O6aQvXRpk_8</id>
-        <link href="https://www.youtube.com/watch?v=O6aQvXRpk_8"/>
-        <updated>2023-02-01T12:30:10.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[刘谦，在13亿人眼皮底下创造三幕奇迹！【寻找·刘谦】]]></title>
         <id>https://www.youtube.com/watch?v=qcnYT7AM6E4</id>
         <link href="https://www.youtube.com/watch?v=qcnYT7AM6E4"/>
@@ -1182,42 +1218,6 @@
         <updated>2023-01-26T14:53:07.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CK #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=0cWh7kBoX_g</id>
-        <link href="https://www.youtube.com/watch?v=0cWh7kBoX_g"/>
-        <updated>2023-01-26T12:16:59.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What my phone sees vs What my camera sees #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=OQ4xWY-xLhw</id>
-        <link href="https://www.youtube.com/watch?v=OQ4xWY-xLhw"/>
-        <updated>2023-01-26T12:02:38.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop不传之秘——用黑白也能调色？（调色，光影重构，高级蒙板）]]></title>
-        <id>https://www.youtube.com/watch?v=gGjEGbD3B1s</id>
-        <link href="https://www.youtube.com/watch?v=gGjEGbD3B1s"/>
-        <updated>2023-01-26T02:31:16.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[should we drop this?? @347aidan]]></title>
-        <id>https://www.youtube.com/watch?v=doePoR2YTfk</id>
-        <link href="https://www.youtube.com/watch?v=doePoR2YTfk"/>
-        <updated>2023-01-25T16:52:46.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
