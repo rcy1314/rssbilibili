@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T01:55:13.251Z</id>
+    <id>urn:2023-02-27T01:48:36.796Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T01:55:13.251Z</updated>
+    <updated>2023-02-27T01:48:36.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FURY EDM - Inearth]]></title>
+        <id>https://www.youtube.com/watch?v=UPkcRcLasJE</id>
+        <link href="https://www.youtube.com/watch?v=UPkcRcLasJE"/>
+        <updated>2023-02-26T23:00:13.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 🔥]]></title>
+        <id>https://www.youtube.com/watch?v=dveZVF0qUAs</id>
+        <link href="https://www.youtube.com/watch?v=dveZVF0qUAs"/>
+        <updated>2023-02-26T12:06:31.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hold On – Markvard (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Ad0L1dyBZPM</id>
+        <link href="https://www.youtube.com/watch?v=Ad0L1dyBZPM"/>
+        <updated>2023-02-26T12:00:06.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人机必学10个酷炫效果｜不要只是刷锅拍摄]]></title>
+        <id>https://www.youtube.com/watch?v=6laphVcsrMc</id>
+        <link href="https://www.youtube.com/watch?v=6laphVcsrMc"/>
+        <updated>2023-02-26T12:00:03.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Powerful Battle Soundtrack 2023 | Powerful & Intense Orchestral Music | Epic Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=dzk8JYPi8mE</id>
+        <link href="https://www.youtube.com/watch?v=dzk8JYPi8mE"/>
+        <updated>2023-02-26T11:30:12.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[やる気を全開にさせるかっこいい曲！テンション上がる最強アニソンメドレー【作業用BGM】Strongest Anime Japanese Songs Collection]]></title>
         <id>https://www.youtube.com/watch?v=I8MDgV3pqZc</id>
@@ -789,24 +834,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mosaic – tubebackr (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=lUTnmSljvos</id>
-        <link href="https://www.youtube.com/watch?v=lUTnmSljvos"/>
-        <updated>2023-02-12T12:00:24.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=Zc7RxYKGQgc</id>
-        <link href="https://www.youtube.com/watch?v=Zc7RxYKGQgc"/>
-        <updated>2023-02-12T12:00:22.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用Photoshop产生3D-LUT颜色查找表]]></title>
         <id>https://www.youtube.com/watch?v=5iGXExBaxqg</id>
         <link href="https://www.youtube.com/watch?v=5iGXExBaxqg"/>
@@ -822,15 +849,6 @@
         <updated>2023-02-11T13:12:02.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming Music Mix 2023 ♫ Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=5XkqzMfAfyI</id>
-        <link href="https://www.youtube.com/watch?v=5XkqzMfAfyI"/>
-        <updated>2023-02-11T12:00:06.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -894,15 +912,6 @@
         <updated>2023-02-09T12:30:03.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Fighter Music About Warriors | THE POWER OF EPIC MUSIC | Epic Atmospheric Orchestral Music]]></title>
-        <id>https://www.youtube.com/watch?v=3KEvarVt8zw</id>
-        <link href="https://www.youtube.com/watch?v=3KEvarVt8zw"/>
-        <updated>2023-02-08T12:30:01.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1173,24 +1182,6 @@
         <updated>2023-01-29T06:32:47.000Z</updated>
         <author>
             <name>Thomas Chu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[やる気を全開にさせるかっこいい曲！テンション上がる最強アニソンメドレー【作業用BGM】Strongest Anime Japanese Songs Collection]]></title>
-        <id>https://www.youtube.com/watch?v=NJjPMfeW-MM</id>
-        <link href="https://www.youtube.com/watch?v=NJjPMfeW-MM"/>
-        <updated>2023-01-28T07:14:49.000Z</updated>
-        <author>
-            <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Works every time.]]></title>
-        <id>https://www.youtube.com/watch?v=VtECBl3lms8</id>
-        <link href="https://www.youtube.com/watch?v=VtECBl3lms8"/>
-        <updated>2023-01-27T16:31:26.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
