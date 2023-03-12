@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T01:36:12.434Z</id>
+    <id>urn:2023-03-12T01:49:37.857Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T01:36:12.434Z</updated>
+    <updated>2023-03-12T01:49:37.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Editing, Improvement Arc 👀 NEW PC!]]></title>
+        <id>https://www.youtube.com/watch?v=aFJQ14kE2KU</id>
+        <link href="https://www.youtube.com/watch?v=aFJQ14kE2KU"/>
+        <updated>2023-03-11T12:43:32.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Far From Here – GalaxyTones (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=g3BdDo64KxQ</id>
+        <link href="https://www.youtube.com/watch?v=g3BdDo64KxQ"/>
+        <updated>2023-03-11T12:00:34.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全員魔化，帥到炸裂！《臥龍·蒼天隕落》中那些令人難忘的boss戰]]></title>
+        <id>https://www.youtube.com/watch?v=STlMy6b9Wy4</id>
+        <link href="https://www.youtube.com/watch?v=STlMy6b9Wy4"/>
+        <updated>2023-03-11T12:00:17.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=pX6Cs8v0TwQ</id>
+        <link href="https://www.youtube.com/watch?v=pX6Cs8v0TwQ"/>
+        <updated>2023-03-11T11:59:21.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(攝影教學)-出國旅遊該怎麼拍影片?]]></title>
         <id>https://www.youtube.com/watch?v=2g_Wnm3x9DY</id>
@@ -672,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xomu – Mannenzakura (Zoverze Remix)]]></title>
-        <id>https://www.youtube.com/watch?v=gDOW_-ItYNM</id>
-        <link href="https://www.youtube.com/watch?v=gDOW_-ItYNM"/>
-        <updated>2023-02-25T11:59:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Most Powerful Heroic Battle Orchestral Music | Epic Badass Hybrid Music | Epic Heroic Music Mix]]></title>
         <id>https://www.youtube.com/watch?v=xLY5hr3V90M</id>
         <link href="https://www.youtube.com/watch?v=xLY5hr3V90M"/>
@@ -924,15 +951,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Cocktail In Portofino – GroovyD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=p3ob0YWBcdA</id>
-        <link href="https://www.youtube.com/watch?v=p3ob0YWBcdA"/>
-        <updated>2023-02-21T12:00:38.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【旅拍｜安道尔】微信人口两千万，实际人口九万的国家长什么样？｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=r7ter3Y0pcY</id>
         <link href="https://www.youtube.com/watch?v=r7ter3Y0pcY"/>
@@ -1002,15 +1020,6 @@
         <updated>2023-02-19T08:31:03.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live 🔴 | Editing 👀]]></title>
-        <id>https://www.youtube.com/watch?v=t_SKyarsUmU</id>
-        <link href="https://www.youtube.com/watch?v=t_SKyarsUmU"/>
-        <updated>2023-02-19T03:48:14.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
     <entry>
@@ -1200,33 +1209,6 @@
         <updated>2023-02-11T08:22:56.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年2月份最新手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #2]]></title>
-        <id>https://www.youtube.com/watch?v=s1gwfTHq7jA</id>
-        <link href="https://www.youtube.com/watch?v=s1gwfTHq7jA"/>
-        <updated>2023-02-10T12:30:34.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活的美好，绘画的诠释！]]></title>
-        <id>https://www.youtube.com/watch?v=TA84UxVLVuQ</id>
-        <link href="https://www.youtube.com/watch?v=TA84UxVLVuQ"/>
-        <updated>2023-02-10T08:03:56.000Z</updated>
-        <author>
-            <name>小广同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「大神來六角」後 chatGPT 時代   當代資料科學工具人入坑指南]]></title>
-        <id>https://www.youtube.com/watch?v=TUE67gnutLk</id>
-        <link href="https://www.youtube.com/watch?v=TUE67gnutLk"/>
-        <updated>2023-02-10T08:01:12.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>

@@ -31,18 +31,7 @@
       "title": "小广同学",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TA84UxVLVuQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TA84UxVLVuQ",
-          "publishedOn": "2023-02-10T08:03:56.000Z",
-          "wordCount": null,
-          "title": "生活的美好，绘画的诠释！",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "黄杨ME",
@@ -113,6 +102,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pX6Cs8v0TwQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pX6Cs8v0TwQ",
+          "publishedOn": "2023-03-11T11:59:21.000Z",
+          "wordCount": null,
+          "title": "Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=62J8IAjugL4",
           "author": null,
@@ -251,16 +250,6 @@
           "publishedOn": "2023-02-26T12:06:31.000Z",
           "wordCount": null,
           "title": "Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gDOW_-ItYNM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gDOW_-ItYNM",
-          "publishedOn": "2023-02-25T11:59:46.000Z",
-          "wordCount": null,
-          "title": "Xomu – Mannenzakura (Zoverze Remix)",
           "imageUrl": null
         }
       ]
@@ -475,6 +464,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aFJQ14kE2KU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aFJQ14kE2KU",
+          "publishedOn": "2023-03-11T12:43:32.000Z",
+          "wordCount": null,
+          "title": "Live 🔴 | Editing, Improvement Arc 👀 NEW PC!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ofd8yzn22i0",
           "author": null,
           "description": "",
@@ -610,16 +609,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=VxZ_G6cIXqY",
           "publishedOn": "2023-02-20T01:38:10.000Z",
-          "wordCount": null,
-          "title": "Live 🔴 | Editing 👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t_SKyarsUmU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t_SKyarsUmU",
-          "publishedOn": "2023-02-19T03:48:14.000Z",
           "wordCount": null,
           "title": "Live 🔴 | Editing 👀",
           "imageUrl": null
@@ -814,16 +803,6 @@
           "wordCount": null,
           "title": "一鍵完成替換頭尾標籤，30 秒 VSCode 技巧 (可點擊 CC 字幕）#前端 #網頁設計",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TUE67gnutLk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TUE67gnutLk",
-          "publishedOn": "2023-02-10T08:01:12.000Z",
-          "wordCount": null,
-          "title": "「大神來六角」後 chatGPT 時代   當代資料科學工具人入坑指南",
-          "imageUrl": null
         }
       ]
     },
@@ -1014,6 +993,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm4cFzs3Iotlu27fOP_KwlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=STlMy6b9Wy4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=STlMy6b9Wy4",
+          "publishedOn": "2023-03-11T12:00:17.000Z",
+          "wordCount": null,
+          "title": "全員魔化，帥到炸裂！《臥龍·蒼天隕落》中那些令人難忘的boss戰",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uQlautxrHZs",
           "author": null,
           "description": "",
@@ -1068,16 +1057,6 @@
           "publishedOn": "2023-02-17T12:00:00.000Z",
           "wordCount": null,
           "title": "2023年2月份最新手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=s1gwfTHq7jA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=s1gwfTHq7jA",
-          "publishedOn": "2023-02-10T12:30:34.000Z",
-          "wordCount": null,
-          "title": "2023年2月份最新手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #2",
           "imageUrl": null
         }
       ]
@@ -1422,6 +1401,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g3BdDo64KxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g3BdDo64KxQ",
+          "publishedOn": "2023-03-11T12:00:34.000Z",
+          "wordCount": null,
+          "title": "Far From Here – GalaxyTones (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=i-wLqwQEiK0",
           "author": null,
           "description": "",
@@ -1559,16 +1548,6 @@
           "publishedOn": "2023-02-22T12:00:32.000Z",
           "wordCount": null,
           "title": "Hold Me (Instrumental) – Pokki Dj (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p3ob0YWBcdA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p3ob0YWBcdA",
-          "publishedOn": "2023-02-21T12:00:38.000Z",
-          "wordCount": null,
-          "title": "A Cocktail In Portofino – GroovyD (No Copyright Music)",
           "imageUrl": null
         }
       ]
