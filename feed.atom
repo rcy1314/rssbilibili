@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T01:23:59.183Z</id>
+    <id>urn:2023-03-15T01:40:41.694Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T01:23:59.183Z</updated>
+    <updated>2023-03-15T01:40:41.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Editing, Improvement Arc 👀!]]></title>
+        <id>https://www.youtube.com/watch?v=TzUfC2xEBks</id>
+        <link href="https://www.youtube.com/watch?v=TzUfC2xEBks"/>
+        <updated>2023-03-15T01:27:28.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Editing, Improvement Arc 👀!]]></title>
+        <id>https://www.youtube.com/watch?v=OnqaaoEYHP8</id>
+        <link href="https://www.youtube.com/watch?v=OnqaaoEYHP8"/>
+        <updated>2023-03-15T01:02:34.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FCPX预设】非常好用的FCPX智能分屏动画预设]]></title>
+        <id>https://www.youtube.com/watch?v=rTDl5K9QfZc</id>
+        <link href="https://www.youtube.com/watch?v=rTDl5K9QfZc"/>
+        <updated>2023-03-15T00:58:52.000Z</updated>
+        <author>
+            <name>小广同学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Moon – GroovyD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=RokIzbrNXX4</id>
+        <link href="https://www.youtube.com/watch?v=RokIzbrNXX4"/>
+        <updated>2023-03-14T12:00:31.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Leo Rank Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=BE6TnzhQyqc</id>
+        <link href="https://www.youtube.com/watch?v=BE6TnzhQyqc"/>
+        <updated>2023-03-14T12:00:11.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COME FROM THE DARK ♫ Epic Orchestral Music Journey ♫ World's Most Heroic Emotional Epic Music]]></title>
+        <id>https://www.youtube.com/watch?v=ep-hSMgNwuI</id>
+        <link href="https://www.youtube.com/watch?v=ep-hSMgNwuI"/>
+        <updated>2023-03-14T11:30:13.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【校長週報】親帶 100 位軟體工程師是什麼港覺？]]></title>
+        <id>https://www.youtube.com/watch?v=Da08NBDr5Cs</id>
+        <link href="https://www.youtube.com/watch?v=Da08NBDr5Cs"/>
+        <updated>2023-03-14T07:33:31.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的摄影包器材分享｜懒人摄影]]></title>
+        <id>https://www.youtube.com/watch?v=PuR04RVL9sQ</id>
+        <link href="https://www.youtube.com/watch?v=PuR04RVL9sQ"/>
+        <updated>2023-03-14T07:12:52.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台灣工程師的平均薪資是多少？最詳細的薪資分析在這裡｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=wf62RK-16Xw</id>
+        <link href="https://www.youtube.com/watch?v=wf62RK-16Xw"/>
+        <updated>2023-03-14T03:30:16.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[婚禮紀錄器材怎麼選？]]></title>
         <id>https://www.youtube.com/watch?v=23f9dQ2HkkA</id>
@@ -726,15 +807,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FURY EDM - Inearth]]></title>
-        <id>https://www.youtube.com/watch?v=UPkcRcLasJE</id>
-        <link href="https://www.youtube.com/watch?v=UPkcRcLasJE"/>
-        <updated>2023-02-26T23:00:13.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hold On – Markvard (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=Ad0L1dyBZPM</id>
         <link href="https://www.youtube.com/watch?v=Ad0L1dyBZPM"/>
@@ -807,15 +879,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Purple Moon – Di Young (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=yDlh0h2rXIo</id>
-        <link href="https://www.youtube.com/watch?v=yDlh0h2rXIo"/>
-        <updated>2023-02-24T12:00:42.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023年最新MMORPG大型多人在線角色扮演手遊推薦！| Android & iOS 手機遊戲推薦 | 更多好玩推薦的手遊/遊戲作品！]]></title>
         <id>https://www.youtube.com/watch?v=JG5jUswmUuo</id>
         <link href="https://www.youtube.com/watch?v=JG5jUswmUuo"/>
@@ -831,15 +894,6 @@
         <updated>2023-02-24T12:00:12.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aggressive Dark War Epic Music | Powerful Epic Heroic Music 2023 | Epic Atmospheric Orchestral Music]]></title>
-        <id>https://www.youtube.com/watch?v=RxOxjGB9iIc</id>
-        <link href="https://www.youtube.com/watch?v=RxOxjGB9iIc"/>
-        <updated>2023-02-24T11:30:12.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1014,15 +1068,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smooth Vibe Shake Tutorial | After Effects + Free Preset]]></title>
-        <id>https://www.youtube.com/watch?v=GQ2dz-sn-lY</id>
-        <link href="https://www.youtube.com/watch?v=GQ2dz-sn-lY"/>
-        <updated>2023-02-21T00:23:02.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我原本不知道這顆鏡頭的定位 直到用了後愛不釋手 ft. tamron 20-40mm f2.8]]></title>
         <id>https://www.youtube.com/watch?v=cZ3dcckpXkk</id>
         <link href="https://www.youtube.com/watch?v=cZ3dcckpXkk"/>
@@ -1038,15 +1083,6 @@
         <updated>2023-02-20T10:27:01.000Z</updated>
         <author>
             <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live 🔴 | Editing 👀]]></title>
-        <id>https://www.youtube.com/watch?v=VxZ_G6cIXqY</id>
-        <link href="https://www.youtube.com/watch?v=VxZ_G6cIXqY"/>
-        <updated>2023-02-20T01:38:10.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
     <entry>
@@ -1200,24 +1236,6 @@
         <updated>2023-02-13T14:15:01.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikon 新手的救贖 ft. Tamron 70-300mm ｜高雄美術館必拍景點]]></title>
-        <id>https://www.youtube.com/watch?v=g9BnEbcSE2M</id>
-        <link href="https://www.youtube.com/watch?v=g9BnEbcSE2M"/>
-        <updated>2023-02-13T12:30:17.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Thomas看看世界】如何拍出好看的火车车窗风景照片？摄影时竟有这么多注意事项！｜摄影教程]]></title>
-        <id>https://www.youtube.com/watch?v=r7XaVzJfuBc</id>
-        <link href="https://www.youtube.com/watch?v=r7XaVzJfuBc"/>
-        <updated>2023-02-13T05:02:01.000Z</updated>
-        <author>
-            <name>Thomas Chu</name>
         </author>
     </entry>
 </feed>
