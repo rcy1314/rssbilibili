@@ -1,24 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T01:40:41.694Z</id>
+    <id>urn:2023-03-16T01:41:12.831Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T01:40:41.694Z</updated>
+    <updated>2023-03-16T01:41:12.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Live 🔴 | Editing, Improvement Arc 👀!]]></title>
-        <id>https://www.youtube.com/watch?v=TzUfC2xEBks</id>
-        <link href="https://www.youtube.com/watch?v=TzUfC2xEBks"/>
-        <updated>2023-03-15T01:27:28.000Z</updated>
+        <title type="html"><![CDATA[The Hills - Fate Stay Night [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=r5El_Du5keI</id>
+        <link href="https://www.youtube.com/watch?v=r5El_Du5keI"/>
+        <updated>2023-03-15T18:23:50.000Z</updated>
         <author>
             <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunset Walk – Roa (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=jFHtJ99ZJ34</id>
+        <link href="https://www.youtube.com/watch?v=jFHtJ99ZJ34"/>
+        <updated>2023-03-15T12:00:25.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=X8qhsPhD6d4</id>
+        <link href="https://www.youtube.com/watch?v=X8qhsPhD6d4"/>
+        <updated>2023-03-15T12:00:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aggressive Inspiring Epic Music Collection | Most Powerful Epic Music Mix | Best Of Epic Music 2023]]></title>
+        <id>https://www.youtube.com/watch?v=AGTPhVD_xb8</id>
+        <link href="https://www.youtube.com/watch?v=AGTPhVD_xb8"/>
+        <updated>2023-03-15T11:30:06.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[look别发呆！看我造型多哇塞！]]></title>
+        <id>https://www.youtube.com/watch?v=7eij12IOqqE</id>
+        <link href="https://www.youtube.com/watch?v=7eij12IOqqE"/>
+        <updated>2023-03-15T10:59:26.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【校長週報】親帶 100 位軟體工程師是什麼港覺？]]></title>
+        <id>https://www.youtube.com/watch?v=Da08NBDr5Cs</id>
+        <link href="https://www.youtube.com/watch?v=Da08NBDr5Cs"/>
+        <updated>2023-03-15T06:24:40.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The making of "Hatsune no Tsuzumi"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=kmK6vKX3LMY</id>
+        <link href="https://www.youtube.com/watch?v=kmK6vKX3LMY"/>
+        <updated>2023-03-15T05:00:16.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX short film "Hatsune no Tsuzumi"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=BEfFqNjmMPM</id>
+        <link href="https://www.youtube.com/watch?v=BEfFqNjmMPM"/>
+        <updated>2023-03-15T05:00:04.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Live 🔴 | Editing, Improvement Arc 👀!]]></title>
         <id>https://www.youtube.com/watch?v=OnqaaoEYHP8</id>
         <link href="https://www.youtube.com/watch?v=OnqaaoEYHP8"/>
-        <updated>2023-03-15T01:02:34.000Z</updated>
+        <updated>2023-03-15T04:34:29.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个大疆打造的天空之城总部大楼，你贡献了多少～#shorts]]></title>
+        <id>https://www.youtube.com/watch?v=iahJ0y9rCqI</id>
+        <link href="https://www.youtube.com/watch?v=iahJ0y9rCqI"/>
+        <updated>2023-03-15T02:54:56.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live 🔴 | Editing, Improvement Arc 👀!]]></title>
+        <id>https://www.youtube.com/watch?v=TzUfC2xEBks</id>
+        <link href="https://www.youtube.com/watch?v=TzUfC2xEBks"/>
+        <updated>2023-03-15T01:27:28.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
@@ -57,15 +138,6 @@
         <updated>2023-03-14T11:30:13.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【校長週報】親帶 100 位軟體工程師是什麼港覺？]]></title>
-        <id>https://www.youtube.com/watch?v=Da08NBDr5Cs</id>
-        <link href="https://www.youtube.com/watch?v=Da08NBDr5Cs"/>
-        <updated>2023-03-14T07:33:31.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -771,15 +843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=h9s0AP60GbA</id>
-        <link href="https://www.youtube.com/watch?v=h9s0AP60GbA"/>
-        <updated>2023-02-27T12:00:33.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Powerful Epic Orchestral Music | Epic Battle Dark Heroic Music | Best Epic Heroic Orchestral Music]]></title>
         <id>https://www.youtube.com/watch?v=M-6qiWANziM</id>
         <link href="https://www.youtube.com/watch?v=M-6qiWANziM"/>
@@ -840,24 +903,6 @@
         <updated>2023-02-25T12:16:46.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kindness – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=2OLTIbCpSm4</id>
-        <link href="https://www.youtube.com/watch?v=2OLTIbCpSm4"/>
-        <updated>2023-02-25T12:00:02.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Powerful Heroic Battle Orchestral Music | Epic Badass Hybrid Music | Epic Heroic Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=xLY5hr3V90M</id>
-        <link href="https://www.youtube.com/watch?v=xLY5hr3V90M"/>
-        <updated>2023-02-25T11:30:19.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1059,15 +1104,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Editing Live + Chilling  | Live 🔴]]></title>
-        <id>https://www.youtube.com/watch?v=cnJpqCFwA5Y</id>
-        <link href="https://www.youtube.com/watch?v=cnJpqCFwA5Y"/>
-        <updated>2023-02-21T04:54:27.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我原本不知道這顆鏡頭的定位 直到用了後愛不釋手 ft. tamron 20-40mm f2.8]]></title>
         <id>https://www.youtube.com/watch?v=cZ3dcckpXkk</id>
         <link href="https://www.youtube.com/watch?v=cZ3dcckpXkk"/>
@@ -1209,33 +1245,6 @@
         <updated>2023-02-15T01:15:01.000Z</updated>
         <author>
             <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4K】电影感旅拍| 浪漫的不是我们，是悉尼！【爱在悉尼.情人节特别版】]]></title>
-        <id>https://www.youtube.com/watch?v=Ug_sW7AFmCM</id>
-        <link href="https://www.youtube.com/watch?v=Ug_sW7AFmCM"/>
-        <updated>2023-02-14T09:30:12.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Cyber Drones" Sci-fi Photo Manipulation Speed Art | Photoshop Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=y-FT1_aLOb4</id>
-        <link href="https://www.youtube.com/watch?v=y-FT1_aLOb4"/>
-        <updated>2023-02-14T01:27:16.000Z</updated>
-        <author>
-            <name>Learning Screen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一鍵完成替換頭尾標籤，30 秒 VSCode 技巧 (可點擊 CC 字幕）#前端 #網頁設計]]></title>
-        <id>https://www.youtube.com/watch?v=XUonKxcB6lo</id>
-        <link href="https://www.youtube.com/watch?v=XUonKxcB6lo"/>
-        <updated>2023-02-13T14:15:01.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
