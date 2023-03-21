@@ -134,6 +134,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KAmgkg7vddc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KAmgkg7vddc",
+          "publishedOn": "2023-03-20T12:00:25.000Z",
+          "wordCount": null,
+          "title": "Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0KGr7-WKTAk",
           "author": null,
           "description": "",
@@ -272,16 +282,6 @@
           "wordCount": null,
           "title": "Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 🔥",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C_fL77MnKcc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C_fL77MnKcc",
-          "publishedOn": "2023-02-28T23:00:05.000Z",
-          "wordCount": null,
-          "title": "FURY EDM - Back In Time",
-          "imageUrl": null
         }
       ]
     },
@@ -290,6 +290,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCorixDN1PDR2u7dTfO2dXdQ",
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vk7McrhwQBI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vk7McrhwQBI",
+          "publishedOn": "2023-03-20T11:30:20.000Z",
+          "wordCount": null,
+          "title": "BECAUSE I ARE THE CHOSEN ONE - Best Epic Heroic Orchestral Music | Powerful Epic Orchestral Music",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RNclYC7iI7Q",
           "author": null,
@@ -429,16 +439,6 @@
           "wordCount": null,
           "title": "YOUR PROTECTOR | World's Most Heroic Emotional Music | Most Powerful Orchestral Epic Music Mix",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n0X1BACnu1U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n0X1BACnu1U",
-          "publishedOn": "2023-03-03T11:30:16.000Z",
-          "wordCount": null,
-          "title": "VICTORY IS RIGHT IN FRONT OF ME | Beautiful Epic  Orchestral Music Mix | Dark Powerful Epic Music",
-          "imageUrl": null
         }
       ]
     },
@@ -494,26 +494,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
       "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ScRCFMIBxOg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ScRCFMIBxOg",
-          "publishedOn": "2023-03-18T14:42:30.000Z",
-          "wordCount": null,
-          "title": "Live 🔴 | Raft, Pirates of the Caribbean 🏴‍☠️👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=R-w3njH78Sc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R-w3njH78Sc",
-          "publishedOn": "2023-03-18T11:11:43.000Z",
-          "wordCount": null,
-          "title": "Live 🔴 | Stranded Deep, Pirates of the Caribbean 🏴‍☠️👀",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=g2vxSyiC9fk",
           "author": null,
@@ -642,6 +622,26 @@
           "publishedOn": "2023-02-23T02:56:06.000Z",
           "wordCount": null,
           "title": "Live 🔴 | Trying new style 👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jaG8nD0GlgM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jaG8nD0GlgM",
+          "publishedOn": "2023-02-22T04:39:15.000Z",
+          "wordCount": null,
+          "title": "Live 🔴 | Trying new style 👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CL_oVPl6fNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CL_oVPl6fNY",
+          "publishedOn": "2023-02-21T12:14:56.000Z",
+          "wordCount": null,
+          "title": "Live 🔴 | Making tutorial 👀",
           "imageUrl": null
         }
       ]
@@ -797,16 +797,6 @@
           "wordCount": null,
           "title": "澤野弘之の神戦闘曲 クセになる中毒性のあるアニソンメドレー【作業用BGM】Best of Hiroyuki Sawano Anime Vocal Songs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XNwURc87JO4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XNwURc87JO4",
-          "publishedOn": "2023-02-19T08:31:03.000Z",
-          "wordCount": null,
-          "title": "やる気を全開にさせるかっこいい曲！テンション上がる最強アニソンメドレー【作業用BGM】Most Hype Anime Songs OST Collection",
-          "imageUrl": null
         }
       ]
     },
@@ -815,6 +805,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ndo1cI9uFQE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ndo1cI9uFQE",
+          "publishedOn": "2023-03-20T07:28:26.000Z",
+          "wordCount": null,
+          "title": "30天入門網頁開發！ 課程前導說明會",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZbTdl-7bDd0",
           "author": null,
@@ -915,6 +915,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
       "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=tg-xh-BJu4s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tg-xh-BJu4s",
+          "publishedOn": "2023-03-20T20:18:04.000Z",
+          "wordCount": null,
+          "title": "\"UFO- Attraction\" Photo Manipulation Sped Art | Photoshop Tutorial",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=v_qnx3F1MdA",
           "author": null,
@@ -1210,16 +1220,6 @@
           "wordCount": null,
           "title": "【电影分镜设计】- 如何打破传统，运用三分线构图拍出电影叙事性构图｜场景分镜实拍举例｜《黑客军团》构图解析",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eQw6mR8RXMc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eQw6mR8RXMc",
-          "publishedOn": "2023-02-18T23:09:43.000Z",
-          "wordCount": null,
-          "title": "(SUB) Viltrox Epic 1.33X Anamorphic Lens Set | commercial set behind the scene | Sony FX6 Red Komodo",
-          "imageUrl": null
         }
       ]
     },
@@ -1265,6 +1265,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQJTx8qeLhUFv2jhoIaM1OA",
       "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eKIGgtbq9Xo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eKIGgtbq9Xo",
+          "publishedOn": "2023-03-20T12:00:24.000Z",
+          "wordCount": null,
+          "title": "OPPO Find N2 Flip影像测评：用竖折叠屏手机拍摄三清山，探索中国最被低估的风景｜陈曦Stanley",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=L06nHBXIrIU",
           "author": null,
@@ -1331,6 +1341,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CsnSOZLdoCw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CsnSOZLdoCw",
+          "publishedOn": "2023-03-20T12:30:06.000Z",
+          "wordCount": null,
+          "title": "用平價相機拍出專業感",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=23f9dQ2HkkA",
           "author": null,
@@ -1431,6 +1451,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=D8vaBHV8Dz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D8vaBHV8Dz0",
+          "publishedOn": "2023-03-20T12:00:08.000Z",
+          "wordCount": null,
+          "title": "Winter – Roa (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1JaGpxuG9YE",
           "author": null,
@@ -1569,16 +1599,6 @@
           "publishedOn": "2023-03-07T12:00:16.000Z",
           "wordCount": null,
           "title": "Contigo – GroovyD (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-tPlIz3eov4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-tPlIz3eov4",
-          "publishedOn": "2023-03-06T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Deja Vu – Cykarl (No Copyright Music)",
           "imageUrl": null
         }
       ]
