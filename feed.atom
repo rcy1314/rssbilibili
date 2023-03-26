@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T01:32:44.820Z</id>
+    <id>urn:2023-03-26T01:42:24.698Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T01:32:44.820Z</updated>
+    <updated>2023-03-26T01:42:24.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=pludXjDpD84</id>
+        <link href="https://www.youtube.com/watch?v=pludXjDpD84"/>
+        <updated>2023-03-25T12:30:33.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closer – Spiring (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=lQRfyZ7B20Q</id>
+        <link href="https://www.youtube.com/watch?v=lQRfyZ7B20Q"/>
+        <updated>2023-03-25T12:00:35.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful Epic Music to Lift Your Spirits | Best Epic Heroic Orchestral Music | Best Epic Music Mix]]></title>
+        <id>https://www.youtube.com/watch?v=3jaX5NiuvkA</id>
+        <link href="https://www.youtube.com/watch?v=3jaX5NiuvkA"/>
+        <updated>2023-03-25T11:30:01.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30天入門網頁開發！ 課程前導說明會]]></title>
         <id>https://www.youtube.com/watch?v=ndo1cI9uFQE</id>
@@ -762,15 +789,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Far From Here – GalaxyTones (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=g3BdDo64KxQ</id>
-        <link href="https://www.youtube.com/watch?v=g3BdDo64KxQ"/>
-        <updated>2023-03-11T12:00:34.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全員魔化，帥到炸裂！《臥龍·蒼天隕落》中那些令人難忘的boss戰]]></title>
         <id>https://www.youtube.com/watch?v=STlMy6b9Wy4</id>
         <link href="https://www.youtube.com/watch?v=STlMy6b9Wy4"/>
@@ -897,15 +915,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PROTECT US FROM | World's Most Powerful Battle Music | Epic Music for Legends and Heroes]]></title>
-        <id>https://www.youtube.com/watch?v=IEWzqaBIHa8</id>
-        <link href="https://www.youtube.com/watch?v=IEWzqaBIHa8"/>
-        <updated>2023-03-07T11:30:06.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我的新工作台，相当满意！]]></title>
         <id>https://www.youtube.com/watch?v=dRsMiYGSECg</id>
         <link href="https://www.youtube.com/watch?v=dRsMiYGSECg"/>
@@ -1011,15 +1020,6 @@
         <updated>2023-03-03T12:00:53.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=jPKun1aNjbI</id>
-        <link href="https://www.youtube.com/watch?v=jPKun1aNjbI"/>
-        <updated>2023-03-03T12:00:26.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1209,69 +1209,6 @@
         <updated>2023-02-25T12:16:46.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative Codnig Taiwan 2月份社群聚會 線上直播]]></title>
-        <id>https://www.youtube.com/watch?v=_Ao3jr9EG68</id>
-        <link href="https://www.youtube.com/watch?v=_Ao3jr9EG68"/>
-        <updated>2023-02-24T13:29:06.000Z</updated>
-        <author>
-            <name>老闆,來點寇汀吧。Boss, CODING please.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[必看! ChatGPT如何幫助攝影師更有效率的創作？]]></title>
-        <id>https://www.youtube.com/watch?v=Y0Vhi1pNS7k</id>
-        <link href="https://www.youtube.com/watch?v=Y0Vhi1pNS7k"/>
-        <updated>2023-02-24T12:04:52.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年最新MMORPG大型多人在線角色扮演手遊推薦！| Android & iOS 手機遊戲推薦 | 更多好玩推薦的手遊/遊戲作品！]]></title>
-        <id>https://www.youtube.com/watch?v=JG5jUswmUuo</id>
-        <link href="https://www.youtube.com/watch?v=JG5jUswmUuo"/>
-        <updated>2023-02-24T12:00:12.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【旅拍｜沙特阿拉伯】去一个汽油比水便宜的国家旅行，带上相机探访沙漠奇景｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=L06nHBXIrIU</id>
-        <link href="https://www.youtube.com/watch?v=L06nHBXIrIU"/>
-        <updated>2023-02-24T12:00:12.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄影已死]]></title>
-        <id>https://www.youtube.com/watch?v=yoJUQysiIW0</id>
-        <link href="https://www.youtube.com/watch?v=yoJUQysiIW0"/>
-        <updated>2023-02-24T01:00:23.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The untold story of The 3rd Chainsmokers 🚬]]></title>
-        <id>https://www.youtube.com/watch?v=q8G5_QsTVhg</id>
-        <link href="https://www.youtube.com/watch?v=q8G5_QsTVhg"/>
-        <updated>2023-02-23T15:50:27.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live 🔴 | Trying new style 👀]]></title>
-        <id>https://www.youtube.com/watch?v=RMmGAFKqDXk</id>
-        <link href="https://www.youtube.com/watch?v=RMmGAFKqDXk"/>
-        <updated>2023-02-23T15:34:05.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
