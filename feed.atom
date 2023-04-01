@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T01:36:52.728Z</id>
+    <id>urn:2023-04-01T01:35:18.086Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T01:36:52.728Z</updated>
+    <updated>2023-04-01T01:35:18.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=0nOK1NLzkkk</id>
+        <link href="https://www.youtube.com/watch?v=0nOK1NLzkkk"/>
+        <updated>2023-03-31T13:03:48.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年最新 Survival 生存建造類手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！]]></title>
+        <id>https://www.youtube.com/watch?v=KsxD6SQugts</id>
+        <link href="https://www.youtube.com/watch?v=KsxD6SQugts"/>
+        <updated>2023-03-31T12:00:15.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【旅拍｜卢克索】探索古埃及神庙与陵墓，世界上最大的露天博物馆｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=P-4d1qYsbiE</id>
+        <link href="https://www.youtube.com/watch?v=P-4d1qYsbiE"/>
+        <updated>2023-03-31T12:00:14.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take Off – GroovyD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=5h8yc7_tWw4</id>
+        <link href="https://www.youtube.com/watch?v=5h8yc7_tWw4"/>
+        <updated>2023-03-31T12:00:09.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Epic Badass Hybrid Music ✩ Most Powerful Battle Music Mix of All Time ✩ Demonic Battle Music]]></title>
+        <id>https://www.youtube.com/watch?v=drH2VuZXFsM</id>
+        <link href="https://www.youtube.com/watch?v=drH2VuZXFsM"/>
+        <updated>2023-03-31T11:00:28.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone14Pro电影模式10个必知功能]]></title>
+        <id>https://www.youtube.com/watch?v=3uNk_iPvTrI</id>
+        <link href="https://www.youtube.com/watch?v=3uNk_iPvTrI"/>
+        <updated>2023-03-31T01:39:56.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新手也能駕馭的平價電影級相機！Sony Cinema Line FX30]]></title>
         <id>https://www.youtube.com/watch?v=GmEmURRr9Sg</id>
@@ -834,30 +888,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Moon – GroovyD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=RokIzbrNXX4</id>
-        <link href="https://www.youtube.com/watch?v=RokIzbrNXX4"/>
-        <updated>2023-03-14T12:00:31.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Một Chút EDM Leo Rank Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=BE6TnzhQyqc</id>
         <link href="https://www.youtube.com/watch?v=BE6TnzhQyqc"/>
         <updated>2023-03-14T12:00:11.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COME FROM THE DARK ♫ Epic Orchestral Music Journey ♫ World's Most Heroic Emotional Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=ep-hSMgNwuI</id>
-        <link href="https://www.youtube.com/watch?v=ep-hSMgNwuI"/>
-        <updated>2023-03-14T11:30:13.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -966,15 +1002,6 @@
         <updated>2023-03-10T12:00:17.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Leo Rank Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=62J8IAjugL4</id>
-        <link href="https://www.youtube.com/watch?v=62J8IAjugL4"/>
-        <updated>2023-03-10T12:00:09.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1137,42 +1164,6 @@
         <updated>2023-03-03T06:59:23.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🙌🏻六角會員頻道開通啦🙌🏻 大神來六角直播任你看！快來加入六角粉粉一家｜六角學院]]></title>
-        <id>https://www.youtube.com/watch?v=eypfrEwlxac</id>
-        <link href="https://www.youtube.com/watch?v=eypfrEwlxac"/>
-        <updated>2023-03-02T13:30:13.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2次在同一条街区扫街也大有不同！｜POV街拍 #原来这么拍#241集]]></title>
-        <id>https://www.youtube.com/watch?v=ftcsabjNm54</id>
-        <link href="https://www.youtube.com/watch?v=ftcsabjNm54"/>
-        <updated>2023-03-02T13:00:07.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士都買了你還拍raw檔嗎？]]></title>
-        <id>https://www.youtube.com/watch?v=HjTiyYgp4d4</id>
-        <link href="https://www.youtube.com/watch?v=HjTiyYgp4d4"/>
-        <updated>2023-03-02T12:30:08.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Full-Screen Loading Effect 30 seconds - #css #frontend #webdesign]]></title>
-        <id>https://www.youtube.com/watch?v=chbw-9JOfPk</id>
-        <link href="https://www.youtube.com/watch?v=chbw-9JOfPk"/>
-        <updated>2023-03-02T09:00:32.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
