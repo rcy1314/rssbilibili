@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T01:36:53.387Z</id>
+    <id>urn:2023-04-05T01:14:59.246Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T01:36:53.387Z</updated>
+    <updated>2023-04-05T01:14:59.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[21 – Gun Boi Kaz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=DPkZiwa2Nl0</id>
+        <link href="https://www.youtube.com/watch?v=DPkZiwa2Nl0"/>
+        <updated>2023-04-04T12:00:10.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEGENDS NEVER DIE | Epic Orchestral Music for Intense Action and Adventure | Epic Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=qAUiPoanVEE</id>
+        <link href="https://www.youtube.com/watch?v=qAUiPoanVEE"/>
+        <updated>2023-04-04T11:01:57.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIVE | Editing Live]]></title>
         <id>https://www.youtube.com/watch?v=w7dKKaLR7JU</id>
         <link href="https://www.youtube.com/watch?v=w7dKKaLR7JU"/>
-        <updated>2023-04-03T21:24:02.000Z</updated>
+        <updated>2023-04-04T04:43:16.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloody Mary - Hell's Paradise [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=4fKe78spsp4</id>
+        <link href="https://www.youtube.com/watch?v=4fKe78spsp4"/>
+        <updated>2023-04-04T04:41:01.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
@@ -798,15 +825,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE POWER OF EPIC MUSIC | Epic Cinematic Music, Battle Music, Heroic Music, Powerful Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=eFwOpSRID68</id>
-        <link href="https://www.youtube.com/watch?v=eFwOpSRID68"/>
-        <updated>2023-03-18T11:30:25.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Final Cut Pro也能做出媲美AE动态字幕效果｜关键帧教学]]></title>
         <id>https://www.youtube.com/watch?v=p7S3oAVsfEM</id>
         <link href="https://www.youtube.com/watch?v=p7S3oAVsfEM"/>
@@ -831,15 +849,6 @@
         <updated>2023-03-18T02:42:58.000Z</updated>
         <author>
             <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midnight - Declan DP (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=j8sTlIKM2Nc</id>
-        <link href="https://www.youtube.com/watch?v=j8sTlIKM2Nc"/>
-        <updated>2023-03-17T16:00:34.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1164,51 +1173,6 @@
         <updated>2023-03-06T15:14:01.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拍照攝影大對決！價差40倍的魚眼鏡頭，拍起來有差別嗎？]]></title>
-        <id>https://www.youtube.com/watch?v=EkXLI6s9UDw</id>
-        <link href="https://www.youtube.com/watch?v=EkXLI6s9UDw"/>
-        <updated>2023-03-06T12:30:10.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄影是一首生活的诗|摄影作品点评2023年2月]]></title>
-        <id>https://www.youtube.com/watch?v=FnhvCLVuPlQ</id>
-        <link href="https://www.youtube.com/watch?v=FnhvCLVuPlQ"/>
-        <updated>2023-03-06T11:00:10.000Z</updated>
-        <author>
-            <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShenZhen • China: 1995 vs 2023 #dji #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=3XMH2GNuZdw</id>
-        <link href="https://www.youtube.com/watch?v=3XMH2GNuZdw"/>
-        <updated>2023-03-06T10:44:32.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Takt Op Destiny - I just wanna be loved  [Edit/AMV]! + [ Project File] Quick Edit !]]></title>
-        <id>https://www.youtube.com/watch?v=jBStILW1-9w</id>
-        <link href="https://www.youtube.com/watch?v=jBStILW1-9w"/>
-        <updated>2023-03-06T03:41:20.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么才是有价值的门槛]]></title>
-        <id>https://www.youtube.com/watch?v=cR3yjMmwUF0</id>
-        <link href="https://www.youtube.com/watch?v=cR3yjMmwUF0"/>
-        <updated>2023-03-06T00:54:34.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
         </author>
     </entry>
 </feed>
