@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T01:14:59.246Z</id>
+    <id>urn:2023-04-06T01:25:13.493Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T01:14:59.246Z</updated>
+    <updated>2023-04-06T01:25:13.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「週三八點半」空氣感該怎麼定義？中午頂光怎麼拍？黑卡怎麼搖？]]></title>
+        <id>https://www.youtube.com/watch?v=Tof9e8a7GZY</id>
+        <link href="https://www.youtube.com/watch?v=Tof9e8a7GZY"/>
+        <updated>2023-04-05T14:38:56.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[remember – Rexlambo (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=3kDksN0vreE</id>
+        <link href="https://www.youtube.com/watch?v=3kDksN0vreE"/>
+        <updated>2023-04-05T12:00:03.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=-ACj5kOiABk</id>
+        <link href="https://www.youtube.com/watch?v=-ACj5kOiABk"/>
+        <updated>2023-04-05T12:00:00.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21 – Gun Boi Kaz (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=DPkZiwa2Nl0</id>
@@ -798,15 +825,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Journey – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=UUL65fzQz24</id>
-        <link href="https://www.youtube.com/watch?v=UUL65fzQz24"/>
-        <updated>2023-03-18T12:00:18.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=0KGr7-WKTAk</id>
         <link href="https://www.youtube.com/watch?v=0KGr7-WKTAk"/>
@@ -1023,15 +1041,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Một Chút EDM Leo Rank Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=t105rQIm_Ao</id>
-        <link href="https://www.youtube.com/watch?v=t105rQIm_Ao"/>
-        <updated>2023-03-13T12:00:39.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mac mini M2：花最少的钱用最强的芯片]]></title>
         <id>https://www.youtube.com/watch?v=4STwjkc6dYg</id>
         <link href="https://www.youtube.com/watch?v=4STwjkc6dYg"/>
@@ -1137,42 +1146,6 @@
         <updated>2023-03-07T14:00:11.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的新工作台，相当满意！]]></title>
-        <id>https://www.youtube.com/watch?v=dRsMiYGSECg</id>
-        <link href="https://www.youtube.com/watch?v=dRsMiYGSECg"/>
-        <updated>2023-03-07T11:15:04.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大理市集治好了我的「人群恐惧症」|一小时街拍挑战 云南大理市集 Xiaomi 13pro]]></title>
-        <id>https://www.youtube.com/watch?v=WrrwLCg12T4</id>
-        <link href="https://www.youtube.com/watch?v=WrrwLCg12T4"/>
-        <updated>2023-03-07T11:00:11.000Z</updated>
-        <author>
-            <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[やる気を全開にさせるかっこいい曲！クセになる中毒性のある神曲アニソンメドレー【作業用BGM】Most Hype Anime Japanese Songs OST]]></title>
-        <id>https://www.youtube.com/watch?v=RPRTBtDNdlc</id>
-        <link href="https://www.youtube.com/watch?v=RPRTBtDNdlc"/>
-        <updated>2023-03-07T06:46:34.000Z</updated>
-        <author>
-            <name>Juna BGM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雪國迷走- Lost in snow 北海道自駕八天七夜之旅]]></title>
-        <id>https://www.youtube.com/watch?v=TFDXUPR4Tqk</id>
-        <link href="https://www.youtube.com/watch?v=TFDXUPR4Tqk"/>
-        <updated>2023-03-06T15:14:01.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>
