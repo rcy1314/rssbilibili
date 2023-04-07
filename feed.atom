@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T01:25:13.493Z</id>
+    <id>urn:2023-04-07T01:22:03.634Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T01:25:13.493Z</updated>
+    <updated>2023-04-07T01:22:03.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mystical River Photo Manipulation Sped Art | Photoshop Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=rMbwEhvhRkQ</id>
+        <link href="https://www.youtube.com/watch?v=rMbwEhvhRkQ"/>
+        <updated>2023-04-06T15:54:55.000Z</updated>
+        <author>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[who’s laughing now]]></title>
+        <id>https://www.youtube.com/watch?v=795GmdNEvig</id>
+        <link href="https://www.youtube.com/watch?v=795GmdNEvig"/>
+        <updated>2023-04-06T14:38:27.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大神都那麼有天份，我似乎不適合寫程式？｜有效學習這樣做｜先備知識｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=v7Mk_pxPkCs</id>
+        <link href="https://www.youtube.com/watch?v=v7Mk_pxPkCs"/>
+        <updated>2023-04-06T13:30:33.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overtime – Ferco (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=VMZ-5FNjOu4</id>
+        <link href="https://www.youtube.com/watch?v=VMZ-5FNjOu4"/>
+        <updated>2023-04-06T12:00:23.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳定器画面太摇晃｜6招教你轻松解决]]></title>
+        <id>https://www.youtube.com/watch?v=TMxIAYrcUdc</id>
+        <link href="https://www.youtube.com/watch?v=TMxIAYrcUdc"/>
+        <updated>2023-04-06T11:30:16.000Z</updated>
+        <author>
+            <name>懶人攝影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video podcast 10- 你從來沒有真正的認識自己]]></title>
+        <id>https://www.youtube.com/watch?v=WpJ6kHuF39k</id>
+        <link href="https://www.youtube.com/watch?v=WpJ6kHuF39k"/>
+        <updated>2023-04-06T11:25:48.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs That Make You Motivational Powerful |Best Epic Heroic Orchestral Music | Epic Battle Music Mix]]></title>
+        <id>https://www.youtube.com/watch?v=6mhOMjdAbMw</id>
+        <link href="https://www.youtube.com/watch?v=6mhOMjdAbMw"/>
+        <updated>2023-04-06T11:00:08.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拒绝“感动中国”提名，一个德国人在广西深山的“教育实验”【寻找·卢安克】]]></title>
+        <id>https://www.youtube.com/watch?v=wN1CZzAHs7Y</id>
+        <link href="https://www.youtube.com/watch?v=wN1CZzAHs7Y"/>
+        <updated>2023-04-06T08:17:28.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折腾一天，美金一千～～（自力更生，泳池换水）]]></title>
+        <id>https://www.youtube.com/watch?v=fiL6XgQYflU</id>
+        <link href="https://www.youtube.com/watch?v=fiL6XgQYflU"/>
+        <updated>2023-04-06T04:36:07.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isolation - Anime Mix [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=xVIN6XrVgJI</id>
+        <link href="https://www.youtube.com/watch?v=xVIN6XrVgJI"/>
+        <updated>2023-04-06T01:32:19.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「週三八點半」空氣感該怎麼定義？中午頂光怎麼拍？黑卡怎麼搖？]]></title>
         <id>https://www.youtube.com/watch?v=Tof9e8a7GZY</id>
@@ -789,24 +879,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Craving – Markvard (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=1JaGpxuG9YE</id>
-        <link href="https://www.youtube.com/watch?v=1JaGpxuG9YE"/>
-        <updated>2023-03-19T12:00:01.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If You Need The Most Awesome Epic Music, Hear This ♫ Most Powerful Epic Music ♫ Epic Dramatic Music]]></title>
-        <id>https://www.youtube.com/watch?v=RNclYC7iI7Q</id>
-        <link href="https://www.youtube.com/watch?v=RNclYC7iI7Q"/>
-        <updated>2023-03-19T11:30:09.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cyberpunk City #lumafusion]]></title>
         <id>https://www.youtube.com/watch?v=0gutPsPyn_E</id>
         <link href="https://www.youtube.com/watch?v=0gutPsPyn_E"/>
@@ -1128,24 +1200,6 @@
         <updated>2023-03-09T01:41:03.000Z</updated>
         <author>
             <name>Nick and Ezzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live 🔴 | Editing, Improvement Arc 👀]]></title>
-        <id>https://www.youtube.com/watch?v=Ofd8yzn22i0</id>
-        <link href="https://www.youtube.com/watch?v=Ofd8yzn22i0"/>
-        <updated>2023-03-08T01:03:14.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devil Eyes - MEP [Edit/AMV]]]></title>
-        <id>https://www.youtube.com/watch?v=L4kNSPtMUQM</id>
-        <link href="https://www.youtube.com/watch?v=L4kNSPtMUQM"/>
-        <updated>2023-03-07T14:00:11.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
