@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T01:22:58.158Z</id>
+    <id>urn:2023-04-09T01:34:56.654Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T01:22:58.158Z</updated>
+    <updated>2023-04-09T01:34:56.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Video podcast 11- 用大光圈拍妹子根本不是攝影師 Ft. @louishsiehmov]]></title>
+        <id>https://www.youtube.com/watch?v=M1n3QyjQDvE</id>
+        <link href="https://www.youtube.com/watch?v=M1n3QyjQDvE"/>
+        <updated>2023-04-08T14:29:52.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time – jiglr (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=M6qxvT7JFNM</id>
+        <link href="https://www.youtube.com/watch?v=M6qxvT7JFNM"/>
+        <updated>2023-04-08T12:00:22.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=0uq5T_8k9nA</id>
+        <link href="https://www.youtube.com/watch?v=0uq5T_8k9nA"/>
+        <updated>2023-04-08T11:00:01.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLAMES OF VICTORY | Epic Heroic Music Mix | Most Powerful Orchestral Music for Battle and Adventure]]></title>
+        <id>https://www.youtube.com/watch?v=TentlmSnILo</id>
+        <link href="https://www.youtube.com/watch?v=TentlmSnILo"/>
+        <updated>2023-04-08T10:00:17.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4K治愈春日旅拍短片| 把春天拍成电影，与你在山野里相见吧！]]></title>
+        <id>https://www.youtube.com/watch?v=ijkBODIsk8Y</id>
+        <link href="https://www.youtube.com/watch?v=ijkBODIsk8Y"/>
+        <updated>2023-04-08T08:00:17.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[理光GR3记录春日北京，28mm定焦在街头能拍出什么样的照片？｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=uXoJSgAYBhQ</id>
@@ -825,30 +870,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Night In Cuba – GroovyD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=b4ULGbq0ULM</id>
-        <link href="https://www.youtube.com/watch?v=b4ULGbq0ULM"/>
-        <updated>2023-03-21T12:00:20.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OPPO Find X6 Pro：摄像头不分主次，但旗舰机要问配置 #oppo]]></title>
         <id>https://www.youtube.com/watch?v=PsRd8iiPRKU</id>
         <link href="https://www.youtube.com/watch?v=PsRd8iiPRKU"/>
         <updated>2023-03-21T12:00:17.000Z</updated>
         <author>
             <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WARRIORS OF HEAVEN | Most Heroic Orchestral Music - Most Powerful Epic Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=aOcGXqev8Xw</id>
-        <link href="https://www.youtube.com/watch?v=aOcGXqev8Xw"/>
-        <updated>2023-03-21T11:26:24.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1041,15 +1068,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=X8qhsPhD6d4</id>
-        <link href="https://www.youtube.com/watch?v=X8qhsPhD6d4"/>
-        <updated>2023-03-15T12:00:18.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[look别发呆！看我造型多哇塞！]]></title>
         <id>https://www.youtube.com/watch?v=7eij12IOqqE</id>
         <link href="https://www.youtube.com/watch?v=7eij12IOqqE"/>
@@ -1173,24 +1191,6 @@
         <updated>2023-03-11T12:00:17.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(攝影教學)-出國旅遊該怎麼拍影片?]]></title>
-        <id>https://www.youtube.com/watch?v=2g_Wnm3x9DY</id>
-        <link href="https://www.youtube.com/watch?v=2g_Wnm3x9DY"/>
-        <updated>2023-03-10T13:13:29.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年3月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2]]></title>
-        <id>https://www.youtube.com/watch?v=SxE0vdFZ2Rs</id>
-        <link href="https://www.youtube.com/watch?v=SxE0vdFZ2Rs"/>
-        <updated>2023-03-10T12:00:17.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
