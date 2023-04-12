@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T01:26:23.307Z</id>
+    <id>urn:2023-04-12T01:27:03.407Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T01:26:23.307Z</updated>
+    <updated>2023-04-12T01:27:03.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[After Dark - Demon Slayer Season 3 [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=pNi3KbTjZxg</id>
+        <link href="https://www.youtube.com/watch?v=pNi3KbTjZxg"/>
+        <updated>2023-04-12T00:05:03.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我終於買了自己的第一輛車！ Ft. Ford Focus ST-line lommel x]]></title>
+        <id>https://www.youtube.com/watch?v=vzvjnkHu-Ho</id>
+        <link href="https://www.youtube.com/watch?v=vzvjnkHu-Ho"/>
+        <updated>2023-04-11T12:30:15.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanilla – Johny Grimes (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=UXuavDsbULo</id>
+        <link href="https://www.youtube.com/watch?v=UXuavDsbULo"/>
+        <updated>2023-04-11T12:00:31.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Heroic Battle Music Collection 2023 | Epic Orchestral Music for Epic Battles |Epic Battle Music]]></title>
+        <id>https://www.youtube.com/watch?v=8vJ7PlBGvjk</id>
+        <link href="https://www.youtube.com/watch?v=8vJ7PlBGvjk"/>
+        <updated>2023-04-11T11:00:06.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8大影像对决，手机超越相机？华为P60 Pro、iphone14promax  对抗 佳能R10、富士X-T3！]]></title>
+        <id>https://www.youtube.com/watch?v=k3x8OpWm4Jo</id>
+        <link href="https://www.youtube.com/watch?v=k3x8OpWm4Jo"/>
+        <updated>2023-04-11T04:31:02.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 搭配 Figma 進行網頁設計 － 實戰提詞大公開]]></title>
+        <id>https://www.youtube.com/watch?v=DjzKQXuaUoM</id>
+        <link href="https://www.youtube.com/watch?v=DjzKQXuaUoM"/>
+        <updated>2023-04-11T02:10:49.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best FREE Editing Pack  2023 - After Effects | Prests, Overlays, PFs, SFXs etc.]]></title>
+        <id>https://www.youtube.com/watch?v=V58sGRVW9Xw</id>
+        <link href="https://www.youtube.com/watch?v=V58sGRVW9Xw"/>
+        <updated>2023-04-11T02:06:59.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Powerful Heroic Music for the Brave | THE DARK KNIGHT LEGEND | Epic Heroic Motivational Music 2023]]></title>
         <id>https://www.youtube.com/watch?v=Sw9MlSDbNXY</id>
@@ -195,7 +258,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大神都那麼有天份，我似乎不適合寫程式？｜有效學習這樣做｜先備知識｜六角學院]]></title>
+        <title type="html"><![CDATA[大神都那麼有天份，我似乎不適合寫程式？｜有效學習這樣做｜聽說工程師｜六角學院]]></title>
         <id>https://www.youtube.com/watch?v=v7Mk_pxPkCs</id>
         <link href="https://www.youtube.com/watch?v=v7Mk_pxPkCs"/>
         <updated>2023-04-06T13:30:33.000Z</updated>
@@ -753,15 +816,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Powerful Epic Music to Lift Your Spirits | Best Epic Heroic Orchestral Music | Best Epic Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=3jaX5NiuvkA</id>
-        <link href="https://www.youtube.com/watch?v=3jaX5NiuvkA"/>
-        <updated>2023-03-25T11:30:01.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[30天入門網頁開發！ 課程前導說明會]]></title>
         <id>https://www.youtube.com/watch?v=ndo1cI9uFQE</id>
         <link href="https://www.youtube.com/watch?v=ndo1cI9uFQE"/>
@@ -834,7 +888,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 CSS @container query 容器決定模板規則 可適應網頁大小調整版型｜前端小萌新｜六角學院]]></title>
+        <title type="html"><![CDATA[用 CSS @container query 容器決定模板規則 可適應網頁大小調整版型｜老師陪我 Coding｜六角學院]]></title>
         <id>https://www.youtube.com/watch?v=IlzfVQmUjwM</id>
         <link href="https://www.youtube.com/watch?v=IlzfVQmUjwM"/>
         <updated>2023-03-23T14:00:09.000Z</updated>
@@ -849,15 +903,6 @@
         <updated>2023-03-23T12:30:32.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=8huKqH14Iw0</id>
-        <link href="https://www.youtube.com/watch?v=8huKqH14Iw0"/>
-        <updated>2023-03-23T12:00:06.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1198,33 +1243,6 @@
         <id>https://www.youtube.com/watch?v=wf62RK-16Xw</id>
         <link href="https://www.youtube.com/watch?v=wf62RK-16Xw"/>
         <updated>2023-03-14T03:30:16.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[婚禮紀錄器材怎麼選？]]></title>
-        <id>https://www.youtube.com/watch?v=23f9dQ2HkkA</id>
-        <link href="https://www.youtube.com/watch?v=23f9dQ2HkkA"/>
-        <updated>2023-03-13T12:30:03.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac mini M2：花最少的钱用最强的芯片]]></title>
-        <id>https://www.youtube.com/watch?v=4STwjkc6dYg</id>
-        <link href="https://www.youtube.com/watch?v=4STwjkc6dYg"/>
-        <updated>2023-03-13T11:00:07.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台灣工程師的平均薪資是多少？最詳細的薪資分析在這裡｜記得開啟右上角CC字幕｜六角學院]]></title>
-        <id>https://www.youtube.com/watch?v=s7nGwgmMl8k</id>
-        <link href="https://www.youtube.com/watch?v=s7nGwgmMl8k"/>
-        <updated>2023-03-12T13:30:17.000Z</updated>
         <author>
             <name>六角學院</name>
         </author>
