@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T01:27:03.407Z</id>
+    <id>urn:2023-04-13T01:25:22.489Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T01:27:03.407Z</updated>
+    <updated>2023-04-13T01:25:22.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LIVE | Editing 🔥]]></title>
+        <id>https://www.youtube.com/watch?v=DgyAxME5qoQ</id>
+        <link href="https://www.youtube.com/watch?v=DgyAxME5qoQ"/>
+        <updated>2023-04-12T20:51:56.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[（SUB) Internal VND for your Red Komodo & Sony FX3! | Mofage Poco VND PL Adapter]]></title>
+        <id>https://www.youtube.com/watch?v=AQnyNGnDgqk</id>
+        <link href="https://www.youtube.com/watch?v=AQnyNGnDgqk"/>
+        <updated>2023-04-12T17:42:02.000Z</updated>
+        <author>
+            <name>Nick and Ezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best of Dark Epic Music 2023 - Powerful Orchestral Soundtracks for Adventure and Battle]]></title>
+        <id>https://www.youtube.com/watch?v=4af2BOIzDYQ</id>
+        <link href="https://www.youtube.com/watch?v=4af2BOIzDYQ"/>
+        <updated>2023-04-12T12:25:28.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreamcatcher – Onycs (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=2ulu1diX_kg</id>
+        <link href="https://www.youtube.com/watch?v=2ulu1diX_kg"/>
+        <updated>2023-04-12T12:00:02.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=XoMW5zRjsd0</id>
+        <link href="https://www.youtube.com/watch?v=XoMW5zRjsd0"/>
+        <updated>2023-04-12T11:00:31.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2023 軟體工程師體驗營】線上說明會｜首度釋出設計稿]]></title>
+        <id>https://www.youtube.com/watch?v=FkNrb-qn_Hg</id>
+        <link href="https://www.youtube.com/watch?v=FkNrb-qn_Hg"/>
+        <updated>2023-04-12T10:11:16.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【校長週報】軟體工程師面試技巧！]]></title>
+        <id>https://www.youtube.com/watch?v=khmdolXKEQA</id>
+        <link href="https://www.youtube.com/watch?v=khmdolXKEQA"/>
+        <updated>2023-04-12T06:42:08.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Dark - Demon Slayer Season 3 [Edit/AMV] 4K!]]></title>
         <id>https://www.youtube.com/watch?v=pNi3KbTjZxg</id>
@@ -105,15 +168,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【校長週報】軟體工程師面試技巧！]]></title>
-        <id>https://www.youtube.com/watch?v=khmdolXKEQA</id>
-        <link href="https://www.youtube.com/watch?v=khmdolXKEQA"/>
-        <updated>2023-04-10T02:30:52.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Callin' – Peyruis (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=e2Jf5Fha-Gg</id>
         <link href="https://www.youtube.com/watch?v=e2Jf5Fha-Gg"/>
@@ -128,7 +182,7 @@
         <link href="https://www.youtube.com/watch?v=--CyvPDtuJY"/>
         <updated>2023-04-09T12:00:00.000Z</updated>
         <author>
-            <name>懶人攝影</name>
+            <name>懒人摄影</name>
         </author>
     </entry>
     <entry>
@@ -281,7 +335,7 @@
         <link href="https://www.youtube.com/watch?v=TMxIAYrcUdc"/>
         <updated>2023-04-06T11:30:16.000Z</updated>
         <author>
-            <name>懶人攝影</name>
+            <name>懒人摄影</name>
         </author>
     </entry>
     <entry>
@@ -425,7 +479,7 @@
         <link href="https://www.youtube.com/watch?v=Xdk2rKznZJ8"/>
         <updated>2023-04-03T12:00:22.000Z</updated>
         <author>
-            <name>懶人攝影</name>
+            <name>懒人摄影</name>
         </author>
     </entry>
     <entry>
@@ -578,7 +632,7 @@
         <link href="https://www.youtube.com/watch?v=3uNk_iPvTrI"/>
         <updated>2023-03-31T01:39:56.000Z</updated>
         <author>
-            <name>懶人攝影</name>
+            <name>懒人摄影</name>
         </author>
     </entry>
     <entry>
@@ -789,15 +843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LEGENDS NEVER DIE | Best Epic Heroic Music Mix 2023 | Powerful Orchestral Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=s8M4ybZcbEk</id>
-        <link href="https://www.youtube.com/watch?v=s8M4ybZcbEk"/>
-        <updated>2023-03-26T11:30:27.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=pludXjDpD84</id>
         <link href="https://www.youtube.com/watch?v=pludXjDpD84"/>
@@ -861,15 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Garden – KV (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=KXnN2jiODeE</id>
-        <link href="https://www.youtube.com/watch?v=KXnN2jiODeE"/>
-        <updated>2023-03-24T12:00:13.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2000年的中国发生了什么？【激荡四十年·2000】]]></title>
         <id>https://www.youtube.com/watch?v=4LBtnfLZhzA</id>
         <link href="https://www.youtube.com/watch?v=4LBtnfLZhzA"/>
@@ -884,7 +920,7 @@
         <link href="https://www.youtube.com/watch?v=SzC7pGMtC0g"/>
         <updated>2023-03-23T14:00:25.000Z</updated>
         <author>
-            <name>懶人攝影</name>
+            <name>懒人摄影</name>
         </author>
     </entry>
     <entry>
@@ -965,7 +1001,7 @@
         <link href="https://www.youtube.com/watch?v=5K79c7Jx0jQ"/>
         <updated>2023-03-21T13:00:03.000Z</updated>
         <author>
-            <name>懶人攝影</name>
+            <name>懒人摄影</name>
         </author>
     </entry>
     <entry>
@@ -1050,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=0KGr7-WKTAk</id>
-        <link href="https://www.youtube.com/watch?v=0KGr7-WKTAk"/>
-        <updated>2023-03-18T12:00:00.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(攝影教學)- 接案攝影師3步驟教你如何從頭到尾完成一部商案影片]]></title>
         <id>https://www.youtube.com/watch?v=txdq6FkZQbM</id>
         <link href="https://www.youtube.com/watch?v=txdq6FkZQbM"/>
@@ -1073,7 +1100,7 @@
         <link href="https://www.youtube.com/watch?v=p7S3oAVsfEM"/>
         <updated>2023-03-18T05:00:16.000Z</updated>
         <author>
-            <name>懶人攝影</name>
+            <name>懒人摄影</name>
         </author>
     </entry>
     <entry>
@@ -1136,7 +1163,7 @@
         <link href="https://www.youtube.com/watch?v=MgvTtHRKrA4"/>
         <updated>2023-03-16T12:30:09.000Z</updated>
         <author>
-            <name>懶人攝影</name>
+            <name>懒人摄影</name>
         </author>
     </entry>
     <entry>
@@ -1227,24 +1254,6 @@
         <updated>2023-03-15T00:58:52.000Z</updated>
         <author>
             <name>小广同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的摄影包器材分享｜懒人摄影]]></title>
-        <id>https://www.youtube.com/watch?v=PuR04RVL9sQ</id>
-        <link href="https://www.youtube.com/watch?v=PuR04RVL9sQ"/>
-        <updated>2023-03-14T07:12:52.000Z</updated>
-        <author>
-            <name>懶人攝影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台灣工程師的平均薪資是多少？最詳細的薪資分析在這裡｜六角學院]]></title>
-        <id>https://www.youtube.com/watch?v=wf62RK-16Xw</id>
-        <link href="https://www.youtube.com/watch?v=wf62RK-16Xw"/>
-        <updated>2023-03-14T03:30:16.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
