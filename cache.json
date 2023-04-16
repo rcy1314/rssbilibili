@@ -75,24 +75,23 @@
       "title": "左手+",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvqg0fyR1cE_PsuFEgKJpgg",
       "siteUrl": "https://www.youtube.com/channel/UCvqg0fyR1cE_PsuFEgKJpgg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=xuACZRcFukc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xuACZRcFukc",
-          "publishedOn": "2023-03-17T12:00:10.000Z",
-          "wordCount": null,
-          "title": "标准变焦镜头的新标准？索尼FE 20-70mm F4 G实拍测试｜原来这么毒 第96集",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "FURY EDM",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4HaOtOaef64",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4HaOtOaef64",
+          "publishedOn": "2023-04-15T11:00:02.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Quân Cực Phiêu",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=dhbyvVjL9VY",
           "author": null,
@@ -232,16 +231,6 @@
           "wordCount": null,
           "title": "Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RVLIq90n7Gw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RVLIq90n7Gw",
-          "publishedOn": "2023-03-24T12:30:25.000Z",
-          "wordCount": null,
-          "title": "Say Đắm Những Bản Nhạc EDM Thư Giãn Cực Hay ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -250,6 +239,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCorixDN1PDR2u7dTfO2dXdQ",
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=p5aEEGuyvtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p5aEEGuyvtE",
+          "publishedOn": "2023-04-15T11:00:25.000Z",
+          "wordCount": null,
+          "title": "The Legend Of Epic Music | Epic Battle Music Mix | Most Powerful Orchestral Music Mix 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EOUnwzDOo1Q",
           "author": null,
@@ -389,16 +388,6 @@
           "wordCount": null,
           "title": "Best Epic Badass Hybrid Music ✩ Most Powerful Battle Music Mix of All Time ✩ Demonic Battle Music",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KPyNzWs2pBU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KPyNzWs2pBU",
-          "publishedOn": "2023-03-30T11:00:13.000Z",
-          "wordCount": null,
-          "title": "MAJESTIC WARRIORS |Epic Heroic Music for the Heavenly Warriors | World's Most Heroic Emotional Music",
-          "imageUrl": null
         }
       ]
     },
@@ -407,6 +396,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RE-BJfDRGiM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RE-BJfDRGiM",
+          "publishedOn": "2023-04-15T12:41:11.000Z",
+          "wordCount": null,
+          "title": "攝影中最重要的是什麼? Ft. RICOH GRIII",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vzvjnkHu-Ho",
           "author": null,
@@ -678,6 +677,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DjzKQXuaUoM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DjzKQXuaUoM",
+          "publishedOn": "2023-04-15T01:33:58.000Z",
+          "wordCount": null,
+          "title": "AI 搭配 Figma 進行網頁設計 － 實戰提詞大公開",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FkNrb-qn_Hg",
           "author": null,
@@ -1061,16 +1070,6 @@
           "wordCount": null,
           "title": "2023年最新 Open World 大型開放世界手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LrJhGTMDSe4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LrJhGTMDSe4",
-          "publishedOn": "2023-03-17T12:00:26.000Z",
-          "wordCount": null,
-          "title": "2023年3月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #3",
-          "imageUrl": null
         }
       ]
     },
@@ -1230,6 +1229,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=B93bF7IjJoI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B93bF7IjJoI",
+          "publishedOn": "2023-04-15T08:00:04.000Z",
+          "wordCount": null,
+          "title": "教程|旅拍大神都爱用的八个万能运镜公式+幕后BTS拆解！新手必备！RS3 Mini",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ijkBODIsk8Y",
           "author": null,
           "description": "",
@@ -1382,6 +1391,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kkN1CCQsuMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kkN1CCQsuMk",
+          "publishedOn": "2023-04-15T12:00:37.000Z",
+          "wordCount": null,
+          "title": "Happy Days – Scandinavianz (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Q9gtu5uqKDs",
           "author": null,
           "description": "",
@@ -1519,16 +1538,6 @@
           "publishedOn": "2023-04-01T12:00:45.000Z",
           "wordCount": null,
           "title": "Morning Sun – LiQWYD (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5h8yc7_tWw4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5h8yc7_tWw4",
-          "publishedOn": "2023-03-31T12:00:09.000Z",
-          "wordCount": null,
-          "title": "Take Off – GroovyD (No Copyright Music)",
           "imageUrl": null
         }
       ]

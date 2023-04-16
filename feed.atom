@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T01:34:31.247Z</id>
+    <id>urn:2023-04-16T01:39:44.913Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T01:34:31.247Z</updated>
+    <updated>2023-04-16T01:39:44.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[攝影中最重要的是什麼? Ft. RICOH GRIII]]></title>
+        <id>https://www.youtube.com/watch?v=RE-BJfDRGiM</id>
+        <link href="https://www.youtube.com/watch?v=RE-BJfDRGiM"/>
+        <updated>2023-04-15T12:41:11.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Days – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=kkN1CCQsuMk</id>
+        <link href="https://www.youtube.com/watch?v=kkN1CCQsuMk"/>
+        <updated>2023-04-15T12:00:37.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Legend Of Epic Music | Epic Battle Music Mix | Most Powerful Orchestral Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=p5aEEGuyvtE</id>
+        <link href="https://www.youtube.com/watch?v=p5aEEGuyvtE"/>
+        <updated>2023-04-15T11:00:25.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Quân Cực Phiêu]]></title>
+        <id>https://www.youtube.com/watch?v=4HaOtOaef64</id>
+        <link href="https://www.youtube.com/watch?v=4HaOtOaef64"/>
+        <updated>2023-04-15T11:00:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教程|旅拍大神都爱用的八个万能运镜公式+幕后BTS拆解！新手必备！RS3 Mini]]></title>
+        <id>https://www.youtube.com/watch?v=B93bF7IjJoI</id>
+        <link href="https://www.youtube.com/watch?v=B93bF7IjJoI"/>
+        <updated>2023-04-15T08:00:04.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 搭配 Figma 進行網頁設計 － 實戰提詞大公開]]></title>
+        <id>https://www.youtube.com/watch?v=DjzKQXuaUoM</id>
+        <link href="https://www.youtube.com/watch?v=DjzKQXuaUoM"/>
+        <updated>2023-04-15T01:33:58.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Dark Angel Music | Powerful Orchestral Battle Soundtracks | Epic Battle Music Mix 2023]]></title>
         <id>https://www.youtube.com/watch?v=EOUnwzDOo1Q</id>
@@ -744,15 +798,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Take Off – GroovyD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=5h8yc7_tWw4</id>
-        <link href="https://www.youtube.com/watch?v=5h8yc7_tWw4"/>
-        <updated>2023-03-31T12:00:09.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Epic Badass Hybrid Music ✩ Most Powerful Battle Music Mix of All Time ✩ Demonic Battle Music]]></title>
         <id>https://www.youtube.com/watch?v=drH2VuZXFsM</id>
         <link href="https://www.youtube.com/watch?v=drH2VuZXFsM"/>
@@ -786,15 +831,6 @@
         <updated>2023-03-30T12:00:27.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAJESTIC WARRIORS |Epic Heroic Music for the Heavenly Warriors | World's Most Heroic Emotional Music]]></title>
-        <id>https://www.youtube.com/watch?v=KPyNzWs2pBU</id>
-        <link href="https://www.youtube.com/watch?v=KPyNzWs2pBU"/>
-        <updated>2023-03-30T11:00:13.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -957,15 +993,6 @@
         <updated>2023-03-24T13:18:34.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say Đắm Những Bản Nhạc EDM Thư Giãn Cực Hay ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=RVLIq90n7Gw</id>
-        <link href="https://www.youtube.com/watch?v=RVLIq90n7Gw"/>
-        <updated>2023-03-24T12:30:25.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1182,24 +1209,6 @@
         <updated>2023-03-18T03:10:22.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年3月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #3]]></title>
-        <id>https://www.youtube.com/watch?v=LrJhGTMDSe4</id>
-        <link href="https://www.youtube.com/watch?v=LrJhGTMDSe4"/>
-        <updated>2023-03-17T12:00:26.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[标准变焦镜头的新标准？索尼FE 20-70mm F4 G实拍测试｜原来这么毒 第96集]]></title>
-        <id>https://www.youtube.com/watch?v=xuACZRcFukc</id>
-        <link href="https://www.youtube.com/watch?v=xuACZRcFukc"/>
-        <updated>2023-03-17T12:00:10.000Z</updated>
-        <author>
-            <name>左手+</name>
         </author>
     </entry>
 </feed>
