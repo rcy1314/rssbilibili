@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TVVACPwSFG8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TVVACPwSFG8",
+          "publishedOn": "2023-04-17T15:43:20.000Z",
+          "wordCount": null,
+          "title": "A new chapter starts on Friday @347aidan",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=td_DrdVj9MA",
           "author": null,
           "description": "",
@@ -31,28 +41,7 @@
       "title": "小广同学",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=0gutPsPyn_E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0gutPsPyn_E",
-          "publishedOn": "2023-03-19T06:00:30.000Z",
-          "wordCount": null,
-          "title": "Cyberpunk City #lumafusion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TlrWtIc8s94",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TlrWtIc8s94",
-          "publishedOn": "2023-03-19T05:52:22.000Z",
-          "wordCount": null,
-          "title": "iPad版达芬奇和LumaFusion如何使用LUT预设",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "黄杨ME",
@@ -93,6 +82,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gr1gnGrJ3m0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gr1gnGrJ3m0",
+          "publishedOn": "2023-04-17T11:00:34.000Z",
+          "wordCount": null,
+          "title": "Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1etu7umEWV4",
           "author": null,
@@ -232,16 +231,6 @@
           "wordCount": null,
           "title": "Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yMz5mZxrgZg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yMz5mZxrgZg",
-          "publishedOn": "2023-03-26T12:00:41.000Z",
-          "wordCount": null,
-          "title": "Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -250,6 +239,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCorixDN1PDR2u7dTfO2dXdQ",
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ww88MryBG4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ww88MryBG4I",
+          "publishedOn": "2023-04-17T12:30:32.000Z",
+          "wordCount": null,
+          "title": "Epic Dark Dramatic Orchestral Music ♫ The Power of Resilience | Epic Music Mix 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=70ahR5tuFLo",
           "author": null,
@@ -388,16 +387,6 @@
           "publishedOn": "2023-04-02T12:14:04.000Z",
           "wordCount": null,
           "title": "HEART of THE BRAVE - Most Powerful Orchestral Music | Best Epic Heroic Orchestral Music",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C_ZlAzAl0V0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C_ZlAzAl0V0",
-          "publishedOn": "2023-04-01T11:00:16.000Z",
-          "wordCount": null,
-          "title": "The Rise of Legends: Emotional Epic Music Mix | Epic Battle Music Mix 2023 | Epic Orchestral Music",
           "imageUrl": null
         }
       ]
@@ -689,13 +678,43 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FkNrb-qn_Hg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FkNrb-qn_Hg",
+          "publishedOn": "2023-04-17T15:32:35.000Z",
+          "wordCount": null,
+          "title": "【2023 軟體工程師體驗營】線上說明會｜首度釋出設計稿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CHHdeEOc5L8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CHHdeEOc5L8",
+          "publishedOn": "2023-04-17T09:00:05.000Z",
+          "wordCount": null,
+          "title": "【校長週報 #5】如何準備程式作品集？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RmEFFzXz8rs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RmEFFzXz8rs",
+          "publishedOn": "2023-04-17T03:17:01.000Z",
+          "wordCount": null,
+          "title": "【校長週報 #5】如何準備程式作品集？ 4/19 12:00",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uncWs5w6aVg",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=uncWs5w6aVg",
           "publishedOn": "2023-04-16T13:30:21.000Z",
           "wordCount": null,
-          "title": "卡斯伯 Vlog 初體驗｜Node.js 企業專題班 線下見面會｜特別企劃｜六角學院",
+          "title": "Node.js 企業專題班 線下見面會｜軟體工程師的專題班｜特別企劃｜六角學院",
           "imageUrl": null
         },
         {
@@ -706,16 +725,6 @@
           "publishedOn": "2023-04-15T01:33:58.000Z",
           "wordCount": null,
           "title": "AI 搭配 Figma 進行網頁設計 － 實戰提詞大公開",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FkNrb-qn_Hg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FkNrb-qn_Hg",
-          "publishedOn": "2023-04-12T10:11:16.000Z",
-          "wordCount": null,
-          "title": "【2023 軟體工程師體驗營】線上說明會｜首度釋出設計稿",
           "imageUrl": null
         },
         {
@@ -1026,6 +1035,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm4cFzs3Iotlu27fOP_KwlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tJjVqO_DXQo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tJjVqO_DXQo",
+          "publishedOn": "2023-04-17T12:00:40.000Z",
+          "wordCount": null,
+          "title": "“我看到世界在崩裂，但我看到你”·頂級恐怖遊戲【OUTLAST2】到底講了什麼樣的故事",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RDPndG5ECu0",
           "author": null,
           "description": "",
@@ -1292,6 +1311,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ycX8-OKallM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ycX8-OKallM",
+          "publishedOn": "2023-04-17T12:30:35.000Z",
+          "wordCount": null,
+          "title": "貴的保護鏡就一定好嗎？保護鏡殘酷大對決！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Rak2B3FW76I",
           "author": null,
