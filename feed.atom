@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T01:35:21.555Z</id>
+    <id>urn:2023-04-20T01:25:39.104Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T01:35:21.555Z</updated>
+    <updated>2023-04-20T01:25:39.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【校長週報 #5】如何準備程式作品集？ 4/19 12:00]]></title>
+        <id>https://www.youtube.com/watch?v=RmEFFzXz8rs</id>
+        <link href="https://www.youtube.com/watch?v=RmEFFzXz8rs"/>
+        <updated>2023-04-19T17:48:34.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the time has come. up & down out friday @347aidan]]></title>
+        <id>https://www.youtube.com/watch?v=_wR6jca9clo</id>
+        <link href="https://www.youtube.com/watch?v=_wR6jca9clo"/>
+        <updated>2023-04-19T15:00:14.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太难为人了！索尼FE 50mm F1.4 GM硬刚F1.2 GM｜原来这么毒 98集]]></title>
+        <id>https://www.youtube.com/watch?v=BSlqG-Qkrwg</id>
+        <link href="https://www.youtube.com/watch?v=BSlqG-Qkrwg"/>
+        <updated>2023-04-19T14:45:28.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Victory's Call" | Powerful Orchestral Music Mix | Epic Battle Music for Triumphant Battles]]></title>
+        <id>https://www.youtube.com/watch?v=gJirA0-ywb4</id>
+        <link href="https://www.youtube.com/watch?v=gJirA0-ywb4"/>
+        <updated>2023-04-19T13:30:15.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=eFnfUQ_bnmU</id>
+        <link href="https://www.youtube.com/watch?v=eFnfUQ_bnmU"/>
+        <updated>2023-04-19T12:30:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rave – Peyruis (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=2tGUvgxnkVE</id>
+        <link href="https://www.youtube.com/watch?v=2tGUvgxnkVE"/>
+        <updated>2023-04-19T12:00:03.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米 13 Utra 评测：从热爱拍照到热爱一切]]></title>
+        <id>https://www.youtube.com/watch?v=zff1h37nwaQ</id>
+        <link href="https://www.youtube.com/watch?v=zff1h37nwaQ"/>
+        <updated>2023-04-19T11:30:19.000Z</updated>
+        <author>
+            <name>FView Official Channel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Warrior's Anthem" | Epic Orchestral Music Mix | Powerful Battle Music for 2023]]></title>
         <id>https://www.youtube.com/watch?v=k4aXXyLMC4c</id>
@@ -118,15 +181,6 @@
         <id>https://www.youtube.com/watch?v=CHHdeEOc5L8</id>
         <link href="https://www.youtube.com/watch?v=CHHdeEOc5L8"/>
         <updated>2023-04-17T09:00:05.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【校長週報 #5】如何準備程式作品集？ 4/19 12:00]]></title>
-        <id>https://www.youtube.com/watch?v=RmEFFzXz8rs</id>
-        <link href="https://www.youtube.com/watch?v=RmEFFzXz8rs"/>
-        <updated>2023-04-17T03:17:01.000Z</updated>
         <author>
             <name>六角學院</name>
         </author>
@@ -825,24 +879,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UNSTOPPABLE FORCE | Most Epic Aggressive Hybrid Music Mix of 2023 | Epic Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=VI5q_AcY74U</id>
-        <link href="https://www.youtube.com/watch?v=VI5q_AcY74U"/>
-        <updated>2023-04-03T12:14:34.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trinidad – GroovyD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=t3snlY5O4II</id>
-        <link href="https://www.youtube.com/watch?v=t3snlY5O4II"/>
-        <updated>2023-04-03T12:00:36.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lightroom照片调色｜索尼50mmF1.2镜头]]></title>
         <id>https://www.youtube.com/watch?v=Xdk2rKznZJ8</id>
         <link href="https://www.youtube.com/watch?v=Xdk2rKznZJ8"/>
@@ -1032,15 +1068,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=7R5ClLmnmX4</id>
-        <link href="https://www.youtube.com/watch?v=7R5ClLmnmX4"/>
-        <updated>2023-03-28T12:14:19.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[佳能EOS R50人像创作测评，入门相机领师傅进门｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=XUuqHB7_3r0</id>
         <link href="https://www.youtube.com/watch?v=XUuqHB7_3r0"/>
@@ -1209,51 +1236,6 @@
         <updated>2023-03-22T02:24:37.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定器25种运镜｜到底真正有几种稳定器玩法？]]></title>
-        <id>https://www.youtube.com/watch?v=5K79c7Jx0jQ</id>
-        <link href="https://www.youtube.com/watch?v=5K79c7Jx0jQ"/>
-        <updated>2023-03-21T13:00:03.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO Find X6 Pro：摄像头不分主次，但旗舰机要问配置 #oppo]]></title>
-        <id>https://www.youtube.com/watch?v=PsRd8iiPRKU</id>
-        <link href="https://www.youtube.com/watch?v=PsRd8iiPRKU"/>
-        <updated>2023-03-21T12:00:17.000Z</updated>
-        <author>
-            <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攝影新手常犯錯誤大集合! 來看看你中了幾個]]></title>
-        <id>https://www.youtube.com/watch?v=Kn5JvuudPWI</id>
-        <link href="https://www.youtube.com/watch?v=Kn5JvuudPWI"/>
-        <updated>2023-03-21T10:22:57.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真我 GT Neo5 评测：没有补贴一亿，价格还是合理]]></title>
-        <id>https://www.youtube.com/watch?v=QYZewNJo0w4</id>
-        <link href="https://www.youtube.com/watch?v=QYZewNJo0w4"/>
-        <updated>2023-03-21T10:06:54.000Z</updated>
-        <author>
-            <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["UFO- Attraction" Photo Manipulation Sped Art | Photoshop Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=tg-xh-BJu4s</id>
-        <link href="https://www.youtube.com/watch?v=tg-xh-BJu4s"/>
-        <updated>2023-03-20T20:18:04.000Z</updated>
-        <author>
-            <name>Learning Screen</name>
         </author>
     </entry>
 </feed>
