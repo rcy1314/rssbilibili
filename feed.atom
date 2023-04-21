@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T01:25:39.104Z</id>
+    <id>urn:2023-04-21T01:26:21.284Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T01:25:39.104Z</updated>
+    <updated>2023-04-21T01:26:21.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[深度体验大疆Action 3 （DJI Action 3: 对焦，画质，磁吸块装，防抖，触屏，交互，过热，续航，USB）]]></title>
+        <id>https://www.youtube.com/watch?v=raisKxSSFLQ</id>
+        <link href="https://www.youtube.com/watch?v=raisKxSSFLQ"/>
+        <updated>2023-04-21T01:00:27.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Powerful Of War Epic Music Epic - Dark Dramatic Intense Action Music -Epic Battle Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=Lw4z61AehRE</id>
+        <link href="https://www.youtube.com/watch?v=Lw4z61AehRE"/>
+        <updated>2023-04-20T14:56:32.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人像攝影新手常見6大錯誤修正，構圖、引導、美感、分鏡拍照功力加倍！]]></title>
+        <id>https://www.youtube.com/watch?v=s_6GWs5uK0I</id>
+        <link href="https://www.youtube.com/watch?v=s_6GWs5uK0I"/>
+        <updated>2023-04-20T12:30:22.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The One – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=jJGL2EzzPZc</id>
+        <link href="https://www.youtube.com/watch?v=jJGL2EzzPZc"/>
+        <updated>2023-04-20T12:00:29.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023剪接不可少的5大插件｜Final Cut Pro]]></title>
+        <id>https://www.youtube.com/watch?v=kFbCqR7nlOY</id>
+        <link href="https://www.youtube.com/watch?v=kFbCqR7nlOY"/>
+        <updated>2023-04-20T12:00:27.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
+        <id>https://www.youtube.com/watch?v=TCN-ro0NBRk</id>
+        <link href="https://www.youtube.com/watch?v=TCN-ro0NBRk"/>
+        <updated>2023-04-20T11:00:30.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[輕鬆學會Chat GPT API！新手也能打造 AI 神器｜老師陪我 Coding｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=Cau9LA2fwaU</id>
+        <link href="https://www.youtube.com/watch?v=Cau9LA2fwaU"/>
+        <updated>2023-04-20T06:36:23.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer: "Harlem Fragments"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=Iatyd-VJlyI</id>
+        <link href="https://www.youtube.com/watch?v=Iatyd-VJlyI"/>
+        <updated>2023-04-20T05:18:14.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-H2S: Camera to cloud x Cameron Carr/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=s09gTdp2u6U</id>
+        <link href="https://www.youtube.com/watch?v=s09gTdp2u6U"/>
+        <updated>2023-04-20T05:02:42.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【校長週報 #5】如何準備程式作品集？ 4/19 12:00]]></title>
         <id>https://www.youtube.com/watch?v=RmEFFzXz8rs</id>
@@ -807,15 +888,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「週三八點半」空氣感該怎麼定義？中午頂光怎麼拍？黑卡怎麼搖？]]></title>
-        <id>https://www.youtube.com/watch?v=Tof9e8a7GZY</id>
-        <link href="https://www.youtube.com/watch?v=Tof9e8a7GZY"/>
-        <updated>2023-04-05T14:38:56.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[remember – Rexlambo (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=3kDksN0vreE</id>
         <link href="https://www.youtube.com/watch?v=3kDksN0vreE"/>
@@ -831,24 +903,6 @@
         <updated>2023-04-05T12:00:00.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 – Gun Boi Kaz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=DPkZiwa2Nl0</id>
-        <link href="https://www.youtube.com/watch?v=DPkZiwa2Nl0"/>
-        <updated>2023-04-04T12:00:10.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEGENDS NEVER DIE | Epic Orchestral Music for Intense Action and Adventure | Epic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=qAUiPoanVEE</id>
-        <link href="https://www.youtube.com/watch?v=qAUiPoanVEE"/>
-        <updated>2023-04-04T11:01:57.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1032,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=gvdsWDKejpw</id>
-        <link href="https://www.youtube.com/watch?v=gvdsWDKejpw"/>
-        <updated>2023-03-29T12:00:36.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Redmi Note 12 Turbo ：性价比从「7」开始]]></title>
         <id>https://www.youtube.com/watch?v=kKD5bAby4NQ</id>
         <link href="https://www.youtube.com/watch?v=kKD5bAby4NQ"/>
@@ -1209,33 +1254,6 @@
         <updated>2023-03-22T17:54:19.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【校長週報】如何成為開會達人？]]></title>
-        <id>https://www.youtube.com/watch?v=0ZDaEApcQE8</id>
-        <link href="https://www.youtube.com/watch?v=0ZDaEApcQE8"/>
-        <updated>2023-03-22T05:22:47.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studio Display平替？适合Mac的平价显示器推荐]]></title>
-        <id>https://www.youtube.com/watch?v=CG8d8ix0Vuc</id>
-        <link href="https://www.youtube.com/watch?v=CG8d8ix0Vuc"/>
-        <updated>2023-03-22T04:00:08.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【校長週報 #2】如何成為開會達人？]]></title>
-        <id>https://www.youtube.com/watch?v=roWYX50kO2k</id>
-        <link href="https://www.youtube.com/watch?v=roWYX50kO2k"/>
-        <updated>2023-03-22T02:24:37.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
