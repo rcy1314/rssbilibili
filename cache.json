@@ -102,6 +102,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TO9gOLrBKOo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TO9gOLrBKOo",
+          "publishedOn": "2023-04-24T11:01:59.000Z",
+          "wordCount": null,
+          "title": "Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-Q_UpQw26Ps",
           "author": null,
           "description": "",
@@ -240,16 +250,6 @@
           "wordCount": null,
           "title": "Nhạc EDM Nhiều Cảm Xúc Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fJ9gDpNSQi0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fJ9gDpNSQi0",
-          "publishedOn": "2023-04-07T12:00:30.000Z",
-          "wordCount": null,
-          "title": "Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -258,6 +258,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCorixDN1PDR2u7dTfO2dXdQ",
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2TGMFNbLqI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2TGMFNbLqI0",
+          "publishedOn": "2023-04-24T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Epic Fantasy Battle Music | EPIC HEROIC FANTASY ORCHESTRAL MUSIC",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BbvAB2DEXKE",
           "author": null,
@@ -396,16 +406,6 @@
           "publishedOn": "2023-04-09T10:26:24.000Z",
           "wordCount": null,
           "title": "Best Epic Heroic Orchestral Music | Beautiful Atmospheric Ambient Orchestral Music | Epic Music Mix",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TentlmSnILo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TentlmSnILo",
-          "publishedOn": "2023-04-08T10:00:17.000Z",
-          "wordCount": null,
-          "title": "FLAMES OF VICTORY | Epic Heroic Music Mix | Most Powerful Orchestral Music for Battle and Adventure",
           "imageUrl": null
         }
       ]
@@ -687,13 +687,43 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LaggKtmihh4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LaggKtmihh4",
+          "publishedOn": "2023-04-24T11:00:14.000Z",
+          "wordCount": null,
+          "title": "【洧杰校長的一天】六角學院新辦公室開箱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=B37GlKzp-hs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B37GlKzp-hs",
+          "publishedOn": "2023-04-24T09:46:01.000Z",
+          "wordCount": null,
+          "title": "【校長週報 #6】POS 產業分享｜六角學院 x 軟工聊溝通 ｜4/28 (五） 中午12:00",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=68grvimfJl8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=68grvimfJl8",
+          "publishedOn": "2023-04-24T07:58:43.000Z",
+          "wordCount": null,
+          "title": "AWS 校園大使 - 帶你使用爽用 AWS 雲服務",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KSBqjD9VQDk",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=KSBqjD9VQDk",
           "publishedOn": "2023-04-23T13:30:06.000Z",
           "wordCount": null,
-          "title": "每天都感覺好累？ 4個生活習慣 擁有高精力人生｜聽說工程師｜六角學院",
+          "title": "每天都感覺好累？ 4個生活習慣 擁有高精力人生｜聽說工程師 #3｜六角學院",
           "imageUrl": null
         },
         {
@@ -703,7 +733,7 @@
           "link": "https://www.youtube.com/watch?v=Cau9LA2fwaU",
           "publishedOn": "2023-04-20T06:36:23.000Z",
           "wordCount": null,
-          "title": "輕鬆學會Chat GPT API！新手也能打造 AI 神器｜老師陪我 Coding｜六角學院",
+          "title": "輕鬆學會Chat GPT API！新手也能打造 AI 神器｜老師陪我 Coding #2｜六角學院",
           "imageUrl": null
         },
         {
@@ -783,7 +813,7 @@
           "link": "https://www.youtube.com/watch?v=v7Mk_pxPkCs",
           "publishedOn": "2023-04-06T13:30:33.000Z",
           "wordCount": null,
-          "title": "大神都那麼有天份，我似乎不適合寫程式？｜有效學習這樣做｜聽說工程師｜六角學院",
+          "title": "大神都那麼有天份，我似乎不適合寫程式？｜有效學習這樣做｜聽說工程師 #2｜六角學院",
           "imageUrl": null
         },
         {
@@ -794,26 +824,6 @@
           "publishedOn": "2023-03-29T05:42:04.000Z",
           "wordCount": null,
           "title": "【校長週報】如何有效管理精力？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tDwP3Y2hxr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tDwP3Y2hxr0",
-          "publishedOn": "2023-03-29T02:51:27.000Z",
-          "wordCount": null,
-          "title": "【校長週報 #3】如何有效管理精力？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NawB8IZrIrI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NawB8IZrIrI",
-          "publishedOn": "2023-03-27T09:00:13.000Z",
-          "wordCount": null,
-          "title": "如何使用 ChatGPT 製作 WebSocket 聊天室｜想成為工程師？找火箭隊｜特別企劃｜六角學院",
           "imageUrl": null
         }
       ]
@@ -1311,6 +1321,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1k_2wm3Sl7o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1k_2wm3Sl7o",
+          "publishedOn": "2023-04-24T12:30:01.000Z",
+          "wordCount": null,
+          "title": "攝影師一開場就叫 model 做這件事情可以嗎！？ 校園景點爭霸戰 - 朝陽科技大學",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=s_6GWs5uK0I",
           "author": null,
