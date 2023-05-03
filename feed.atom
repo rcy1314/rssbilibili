@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T01:34:05.109Z</id>
+    <id>urn:2023-05-03T01:33:34.514Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T01:34:05.109Z</updated>
+    <updated>2023-05-03T01:33:34.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Most Powerful and Epic Battle Music | Powerful Orchestral Music | Collection Epic War Music 2023]]></title>
+        <id>https://www.youtube.com/watch?v=4827iRcneKU</id>
+        <link href="https://www.youtube.com/watch?v=4827iRcneKU"/>
+        <updated>2023-05-02T16:20:10.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shimmer – Mehul Choudhary (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=VbHe_8OxDGY</id>
+        <link href="https://www.youtube.com/watch?v=VbHe_8OxDGY"/>
+        <updated>2023-05-02T12:00:22.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=9zalquMsLqw</id>
+        <link href="https://www.youtube.com/watch?v=9zalquMsLqw"/>
+        <updated>2023-05-02T11:02:28.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【校長週報 #7】軟體工程師體驗營開營啦！完整直播點擊頭貼 ｜5/3 (三） 中午12:00]]></title>
+        <id>https://www.youtube.com/watch?v=RpWWDqlqaHQ</id>
+        <link href="https://www.youtube.com/watch?v=RpWWDqlqaHQ"/>
+        <updated>2023-05-02T01:49:39.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Lost City" Apocalypse Cinematic Photo Manipulation Sped Art | Photoshop Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=ni1n4DKoxEM</id>
@@ -219,6 +255,15 @@
         <updated>2023-04-28T11:00:38.000Z</updated>
         <author>
             <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【校長週報 #7】軟體工程師體驗營開營啦！完整直播點擊頭貼 ｜5/3 (三） 中午12:00]]></title>
+        <id>https://www.youtube.com/watch?v=8qVVbtf1JPg</id>
+        <link href="https://www.youtube.com/watch?v=8qVVbtf1JPg"/>
+        <updated>2023-04-28T10:03:28.000Z</updated>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -888,15 +933,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=1etu7umEWV4</id>
-        <link href="https://www.youtube.com/watch?v=1etu7umEWV4"/>
-        <updated>2023-04-16T12:00:01.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[VICTORIOUS WARRIOR - Powerful Orchestral Music for Epic Moments | Epic Battle Music for Warriors]]></title>
         <id>https://www.youtube.com/watch?v=70ahR5tuFLo</id>
         <link href="https://www.youtube.com/watch?v=70ahR5tuFLo"/>
@@ -930,15 +966,6 @@
         <updated>2023-04-15T12:00:37.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Legend Of Epic Music | Epic Battle Music Mix | Most Powerful Orchestral Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=p5aEEGuyvtE</id>
-        <link href="https://www.youtube.com/watch?v=p5aEEGuyvtE"/>
-        <updated>2023-04-15T11:00:25.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -993,15 +1020,6 @@
         <updated>2023-04-14T07:40:24.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Like You - Declan DP (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=Kj7JNXp8eL0</id>
-        <link href="https://www.youtube.com/watch?v=Kj7JNXp8eL0"/>
-        <updated>2023-04-13T16:00:12.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1131,15 +1149,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【校長週報 #4】軟體工程師面試技巧！]]></title>
-        <id>https://www.youtube.com/watch?v=f7ULJt1Bt0o</id>
-        <link href="https://www.youtube.com/watch?v=f7ULJt1Bt0o"/>
-        <updated>2023-04-10T02:53:16.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[无人机应该用自动曝光拍摄｜专业摄影师不要怕使用自动曝光]]></title>
         <id>https://www.youtube.com/watch?v=--CyvPDtuJY</id>
         <link href="https://www.youtube.com/watch?v=--CyvPDtuJY"/>
@@ -1212,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大神都那麼有天份，我似乎不適合寫程式？｜有效學習這樣做｜聽說工程師 #2｜六角學院]]></title>
-        <id>https://www.youtube.com/watch?v=v7Mk_pxPkCs</id>
-        <link href="https://www.youtube.com/watch?v=v7Mk_pxPkCs"/>
-        <updated>2023-04-06T13:30:33.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[稳定器画面太摇晃｜6招教你轻松解决]]></title>
         <id>https://www.youtube.com/watch?v=TMxIAYrcUdc</id>
         <link href="https://www.youtube.com/watch?v=TMxIAYrcUdc"/>
@@ -1279,42 +1279,6 @@
         <id>https://www.youtube.com/watch?v=4fKe78spsp4</id>
         <link href="https://www.youtube.com/watch?v=4fKe78spsp4"/>
         <updated>2023-04-04T04:41:01.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手補光到底該選閃燈還是持續燈？先確定這兩個需求]]></title>
-        <id>https://www.youtube.com/watch?v=5vYDAQjgJyE</id>
-        <link href="https://www.youtube.com/watch?v=5vYDAQjgJyE"/>
-        <updated>2023-04-03T12:30:05.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightroom照片调色｜索尼50mmF1.2镜头]]></title>
-        <id>https://www.youtube.com/watch?v=Xdk2rKznZJ8</id>
-        <link href="https://www.youtube.com/watch?v=Xdk2rKznZJ8"/>
-        <updated>2023-04-03T12:00:22.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[达芬奇交付页面的8个技巧]]></title>
-        <id>https://www.youtube.com/watch?v=vvJwIbXiTGQ</id>
-        <link href="https://www.youtube.com/watch?v=vvJwIbXiTGQ"/>
-        <updated>2023-04-03T05:04:05.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Damage - Naruto [Edit/AMV] 4K!]]></title>
-        <id>https://www.youtube.com/watch?v=ORUBFBpwBPg</id>
-        <link href="https://www.youtube.com/watch?v=ORUBFBpwBPg"/>
-        <updated>2023-04-02T22:35:30.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
