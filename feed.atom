@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T01:33:34.514Z</id>
+    <id>urn:2023-05-04T01:26:24.362Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T01:33:34.514Z</updated>
+    <updated>2023-05-04T01:26:24.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【校長週報 #7】軟體工程師體驗營開營啦！完整直播點擊頭貼 ｜5/3 (三） 中午12:00]]></title>
+        <id>https://www.youtube.com/watch?v=8qVVbtf1JPg</id>
+        <link href="https://www.youtube.com/watch?v=8qVVbtf1JPg"/>
+        <updated>2023-05-03T17:49:16.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE NEW EARTH - Most Dramatic Emotional Orchestral Music | Epic Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=IG7h8mpIKcM</id>
+        <link href="https://www.youtube.com/watch?v=IG7h8mpIKcM"/>
+        <updated>2023-05-03T15:30:28.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubbles – Sakura Girl (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=1otx4u5HlRQ</id>
+        <link href="https://www.youtube.com/watch?v=1otx4u5HlRQ"/>
+        <updated>2023-05-03T12:00:01.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=3V16-nEXELE</id>
+        <link href="https://www.youtube.com/watch?v=3V16-nEXELE"/>
+        <updated>2023-05-03T11:00:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most Powerful and Epic Battle Music | Powerful Orchestral Music | Collection Epic War Music 2023]]></title>
         <id>https://www.youtube.com/watch?v=4827iRcneKU</id>
@@ -255,15 +291,6 @@
         <updated>2023-04-28T11:00:38.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【校長週報 #7】軟體工程師體驗營開營啦！完整直播點擊頭貼 ｜5/3 (三） 中午12:00]]></title>
-        <id>https://www.youtube.com/watch?v=8qVVbtf1JPg</id>
-        <link href="https://www.youtube.com/watch?v=8qVVbtf1JPg"/>
-        <updated>2023-04-28T10:03:28.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -879,15 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=gr1gnGrJ3m0</id>
-        <link href="https://www.youtube.com/watch?v=gr1gnGrJ3m0"/>
-        <updated>2023-04-17T11:00:34.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【校長週報 #5】如何準備程式作品集？]]></title>
         <id>https://www.youtube.com/watch?v=CHHdeEOc5L8</id>
         <link href="https://www.youtube.com/watch?v=CHHdeEOc5L8"/>
@@ -930,15 +948,6 @@
         <updated>2023-04-16T12:00:23.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VICTORIOUS WARRIOR - Powerful Orchestral Music for Epic Moments | Epic Battle Music for Warriors]]></title>
-        <id>https://www.youtube.com/watch?v=70ahR5tuFLo</id>
-        <link href="https://www.youtube.com/watch?v=70ahR5tuFLo"/>
-        <updated>2023-04-16T11:00:04.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -993,15 +1002,6 @@
         <updated>2023-04-14T12:00:31.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solitude – Ghostrifter Official (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Q9gtu5uqKDs</id>
-        <link href="https://www.youtube.com/watch?v=Q9gtu5uqKDs"/>
-        <updated>2023-04-14T12:00:14.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1261,24 +1261,6 @@
         <id>https://www.youtube.com/watch?v=xVIN6XrVgJI</id>
         <link href="https://www.youtube.com/watch?v=xVIN6XrVgJI"/>
         <updated>2023-04-06T01:32:19.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE | Editing Live]]></title>
-        <id>https://www.youtube.com/watch?v=w7dKKaLR7JU</id>
-        <link href="https://www.youtube.com/watch?v=w7dKKaLR7JU"/>
-        <updated>2023-04-04T04:43:16.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloody Mary - Hell's Paradise [Edit/AMV] 4K!]]></title>
-        <id>https://www.youtube.com/watch?v=4fKe78spsp4</id>
-        <link href="https://www.youtube.com/watch?v=4fKe78spsp4"/>
-        <updated>2023-04-04T04:41:01.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
