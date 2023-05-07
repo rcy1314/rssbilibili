@@ -64,16 +64,6 @@
           "wordCount": null,
           "title": "Thank you for the adventure. The end. It’s time for TCS5.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=795GmdNEvig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=795GmdNEvig",
-          "publishedOn": "2023-04-06T14:38:27.000Z",
-          "wordCount": null,
-          "title": "who’s laughing now",
-          "imageUrl": null
         }
       ]
     },
@@ -182,6 +172,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=K_rMIZbIGEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K_rMIZbIGEA",
+          "publishedOn": "2023-05-06T13:00:24.000Z",
+          "wordCount": null,
+          "title": "Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wLUO0LigmoE",
           "author": null,
@@ -321,16 +321,6 @@
           "wordCount": null,
           "title": "Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TCN-ro0NBRk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TCN-ro0NBRk",
-          "publishedOn": "2023-04-20T11:00:30.000Z",
-          "wordCount": null,
-          "title": "Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022",
-          "imageUrl": null
         }
       ]
     },
@@ -339,6 +329,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCorixDN1PDR2u7dTfO2dXdQ",
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2qKMqt2tP0o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2qKMqt2tP0o",
+          "publishedOn": "2023-05-06T16:00:03.000Z",
+          "wordCount": null,
+          "title": "Aggressive War Epic Music Collection | Most Powerful Military soundtracks |  War Epic Music",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=k2z9o7G6V2w",
           "author": null,
@@ -477,16 +477,6 @@
           "publishedOn": "2023-04-20T14:56:32.000Z",
           "wordCount": null,
           "title": "The Powerful Of War Epic Music Epic - Dark Dramatic Intense Action Music -Epic Battle Music Mix 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gJirA0-ywb4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gJirA0-ywb4",
-          "publishedOn": "2023-04-19T13:30:15.000Z",
-          "wordCount": null,
-          "title": "\"Victory's Call\" | Powerful Orchestral Music Mix | Epic Battle Music for Triumphant Battles",
           "imageUrl": null
         }
       ]
@@ -640,6 +630,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRw_v-JH01tU3cGy_x4nJw",
       "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ysLTFCqKvx0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ysLTFCqKvx0",
+          "publishedOn": "2023-05-06T12:00:49.000Z",
+          "wordCount": null,
+          "title": "一片看懂大疆无人机延时摄影｜我一直都拍错了延时摄影",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=dirGprp0dcs",
           "author": null,
@@ -856,6 +856,16 @@
           "wordCount": null,
           "title": "AI 搭配 Figma 進行網頁設計 － 實戰提詞大公開",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=khmdolXKEQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=khmdolXKEQA",
+          "publishedOn": "2023-04-12T06:42:08.000Z",
+          "wordCount": null,
+          "title": "【校長週報 #4】軟體工程師面試技巧！",
+          "imageUrl": null
         }
       ]
     },
@@ -866,10 +876,57 @@
       "articles": []
     },
     {
-      "title": "老闆,來點寇汀吧。Boss, CODING please.",
+      "title": "哲宇寇汀吧 CheYu's Coding Bar",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHX_XMhPrtvOmgGOnA2eTmA",
       "siteUrl": "https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA",
       "articles": []
+    },
+    {
+      "title": "Learning Screen",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
+      "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ni1n4DKoxEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ni1n4DKoxEM",
+          "publishedOn": "2023-05-01T23:40:34.000Z",
+          "wordCount": null,
+          "title": "\"Lost City\" Apocalypse Cinematic Photo Manipulation Sped Art | Photoshop Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YhXC0eBMrA8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YhXC0eBMrA8",
+          "publishedOn": "2023-04-29T09:56:05.000Z",
+          "wordCount": null,
+          "title": "Smoke Effect Photoshop Tutorial #smoke",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZJm6SpuQZJk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZJm6SpuQZJk",
+          "publishedOn": "2023-04-26T08:51:29.000Z",
+          "wordCount": null,
+          "title": "Easy Cinematic Color Photo  Photoshop Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qeQbtsB5psI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qeQbtsB5psI",
+          "publishedOn": "2023-04-18T01:54:25.000Z",
+          "wordCount": null,
+          "title": "\"THE UMBRELLA\" Photo Manipulation Speed Art | Photoshop Tutorial",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "巫师后期.Wizard Retouch",
@@ -903,6 +960,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UoaYsLUtFaM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UoaYsLUtFaM",
+          "publishedOn": "2023-05-06T06:20:19.000Z",
+          "wordCount": null,
+          "title": "能让我看看你五一拍摄的大片吗？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aelRjh3HQGI",
           "author": null,
@@ -1123,16 +1190,6 @@
           "wordCount": null,
           "title": "2023年4月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VDaalmb8f0k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VDaalmb8f0k",
-          "publishedOn": "2023-04-07T12:00:21.000Z",
-          "wordCount": null,
-          "title": "2023年4月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品 | #1",
-          "imageUrl": null
         }
       ]
     },
@@ -1237,16 +1294,6 @@
           "wordCount": null,
           "title": "【手机摄影】发挥小米13 Pro的拍摄潜能，记录南京夜樱缤纷｜陈曦Stanley",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uXoJSgAYBhQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uXoJSgAYBhQ",
-          "publishedOn": "2023-04-07T12:00:41.000Z",
-          "wordCount": null,
-          "title": "理光GR3记录春日北京，28mm定焦在街头能拍出什么样的照片？｜陈曦Stanley",
-          "imageUrl": null
         }
       ]
     },
@@ -1321,7 +1368,7 @@
           "link": "https://www.youtube.com/watch?v=XlMYYP-FdyM",
           "publishedOn": "2023-05-04T12:30:15.000Z",
           "wordCount": null,
-          "title": "這是日本的第一集，先暖場一下",
+          "title": "這是日本的第一集，先暖場一下｜東京自由行",
           "imageUrl": null
         },
         {
@@ -1434,6 +1481,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Lo2Q4FChWpQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Lo2Q4FChWpQ",
+          "publishedOn": "2023-05-06T12:00:11.000Z",
+          "wordCount": null,
+          "title": "searching – Pold (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=f0Rgkk1V69g",
           "author": null,
@@ -1572,16 +1629,6 @@
           "publishedOn": "2023-04-18T12:00:20.000Z",
           "wordCount": null,
           "title": "Inspiration – Roa (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZGo6a56CiPc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZGo6a56CiPc",
-          "publishedOn": "2023-04-16T12:00:23.000Z",
-          "wordCount": null,
-          "title": "Getting Warmer – Tokyo Music Walker (No Copyright Music)",
           "imageUrl": null
         }
       ]
