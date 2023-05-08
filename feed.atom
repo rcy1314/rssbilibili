@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T01:40:06.903Z</id>
+    <id>urn:2023-05-08T01:26:33.254Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T01:40:06.903Z</updated>
+    <updated>2023-05-08T01:26:33.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[THE POWER OF WAR EPIC MUSIC | Epic War Music Mix | Epic Powerful Dramatic Orchestral Music]]></title>
+        <id>https://www.youtube.com/watch?v=hfrFj68u_8Q</id>
+        <link href="https://www.youtube.com/watch?v=hfrFj68u_8Q"/>
+        <updated>2023-05-07T14:26:04.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新手轉職 UI 設計師，快速入門的 4 個小秘訣｜聽說 工程師]]></title>
+        <id>https://www.youtube.com/watch?v=RaeydgARe0U</id>
+        <link href="https://www.youtube.com/watch?v=RaeydgARe0U"/>
+        <updated>2023-05-07T13:00:29.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sailing to the sunset- Boracay, Philippine/ Sony a7s3 cinematic vlog]]></title>
+        <id>https://www.youtube.com/watch?v=WRl8yExPinQ</id>
+        <link href="https://www.youtube.com/watch?v=WRl8yExPinQ"/>
+        <updated>2023-05-07T12:04:27.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher – Mehul Choudhary (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=hqD4S9gIVrc</id>
+        <link href="https://www.youtube.com/watch?v=hqD4S9gIVrc"/>
+        <updated>2023-05-07T12:00:30.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硬科普——如何对HLG、Slog进行正确的向右曝光（视频曝光策略，实验设计，如何用斑马线定量曝光，如何读懂波形图，图片配置文件，HLG，Slog 2，向右曝光，信噪比，ISO一致性，还有很多）]]></title>
+        <id>https://www.youtube.com/watch?v=yCt6QAqkp-o</id>
+        <link href="https://www.youtube.com/watch?v=yCt6QAqkp-o"/>
+        <updated>2023-05-07T03:19:33.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aggressive War Epic Music Collection | Most Powerful Military soundtracks |  War Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=2qKMqt2tP0o</id>
@@ -852,15 +897,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Powerful Of War Epic Music Epic - Dark Dramatic Intense Action Music -Epic Battle Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=Lw4z61AehRE</id>
-        <link href="https://www.youtube.com/watch?v=Lw4z61AehRE"/>
-        <updated>2023-04-20T14:56:32.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[人像攝影新手常見6大錯誤修正，構圖、引導、美感、分鏡拍照功力加倍！]]></title>
         <id>https://www.youtube.com/watch?v=s_6GWs5uK0I</id>
         <link href="https://www.youtube.com/watch?v=s_6GWs5uK0I"/>
@@ -957,15 +993,6 @@
         <updated>2023-04-19T11:30:19.000Z</updated>
         <author>
             <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspiration – Roa (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=WTudQwniPjY</id>
-        <link href="https://www.youtube.com/watch?v=WTudQwniPjY"/>
-        <updated>2023-04-18T12:00:20.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1203,15 +1230,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【校長週報 #4】軟體工程師面試技巧！]]></title>
-        <id>https://www.youtube.com/watch?v=khmdolXKEQA</id>
-        <link href="https://www.youtube.com/watch?v=khmdolXKEQA"/>
-        <updated>2023-04-12T06:42:08.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[After Dark - Demon Slayer Season 3 [Edit/AMV] 4K!]]></title>
         <id>https://www.youtube.com/watch?v=pNi3KbTjZxg</id>
         <link href="https://www.youtube.com/watch?v=pNi3KbTjZxg"/>
@@ -1281,15 +1299,6 @@
         <updated>2023-04-08T14:29:52.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4K治愈春日旅拍短片| 把春天拍成电影，与你在山野里相见吧！]]></title>
-        <id>https://www.youtube.com/watch?v=ijkBODIsk8Y</id>
-        <link href="https://www.youtube.com/watch?v=ijkBODIsk8Y"/>
-        <updated>2023-04-08T08:00:17.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
         </author>
     </entry>
 </feed>
