@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-21T01:41:49.557Z</id>
+    <id>urn:2023-05-22T01:40:54.428Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-21T01:41:49.557Z</updated>
+    <updated>2023-05-22T01:40:54.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[iPad版Final Cut Pro和Logic Pro能代替电脑吗]]></title>
+        <id>https://www.youtube.com/watch?v=3XOwXw0q-u8</id>
+        <link href="https://www.youtube.com/watch?v=3XOwXw0q-u8"/>
+        <updated>2023-05-22T01:00:07.000Z</updated>
+        <author>
+            <name>我是小广同学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE POWER OF EPIC MUSIC - 1 HOUR of Epic Dark Dramatic Action Music | Epic Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=-f4WgqHDGhE</id>
+        <link href="https://www.youtube.com/watch?v=-f4WgqHDGhE"/>
+        <updated>2023-05-21T13:54:46.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunset Sax – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=eXz00MvVo_s</id>
+        <link href="https://www.youtube.com/watch?v=eXz00MvVo_s"/>
+        <updated>2023-05-21T12:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 15 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=w7SvvGobxc8</id>
+        <link href="https://www.youtube.com/watch?v=w7SvvGobxc8"/>
+        <updated>2023-05-21T11:00:44.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Songs That Make You Motivational | Best Epic Heroic Orchestral Music | Most Powerful Epic Music Mix]]></title>
         <id>https://www.youtube.com/watch?v=IwQ0TvP9UM0</id>
@@ -708,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aggressive War Epic Music Collection | Most Powerful Military soundtracks |  War Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=2qKMqt2tP0o</id>
-        <link href="https://www.youtube.com/watch?v=2qKMqt2tP0o"/>
-        <updated>2023-05-06T16:00:03.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=K_rMIZbIGEA</id>
         <link href="https://www.youtube.com/watch?v=K_rMIZbIGEA"/>
@@ -777,15 +804,6 @@
         <updated>2023-05-05T12:00:28.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=wLUO0LigmoE</id>
-        <link href="https://www.youtube.com/watch?v=wLUO0LigmoE"/>
-        <updated>2023-05-05T11:00:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -858,15 +876,6 @@
         <updated>2023-05-03T17:49:16.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubbles – Sakura Girl (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=1otx4u5HlRQ</id>
-        <link href="https://www.youtube.com/watch?v=1otx4u5HlRQ"/>
-        <updated>2023-05-03T12:00:01.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1173,15 +1182,6 @@
         <updated>2023-04-23T00:49:02.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手教程| 一招让你的视频颜色变好看！高级感秘籍 学会玩透光]]></title>
-        <id>https://www.youtube.com/watch?v=bamMQabBruc</id>
-        <link href="https://www.youtube.com/watch?v=bamMQabBruc"/>
-        <updated>2023-04-22T08:00:24.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
         </author>
     </entry>
 </feed>
