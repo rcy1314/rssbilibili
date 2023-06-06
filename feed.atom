@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T01:53:37.059Z</id>
+    <id>urn:2023-06-06T01:54:00.759Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T01:53:37.059Z</updated>
+    <updated>2023-06-06T01:54:00.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2023 切版直播班說明會#2】｜今晚九點準時開賣｜直播提供快閃3小時折扣]]></title>
+        <id>https://www.youtube.com/watch?v=c6gw-XFE5b0</id>
+        <link href="https://www.youtube.com/watch?v=c6gw-XFE5b0"/>
+        <updated>2023-06-05T14:38:39.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【熱烈報名中】2023 網頁切版直播班｜全面提升網頁設計技能｜新手也沒問題]]></title>
+        <id>https://www.youtube.com/watch?v=FT-wBkGck6U</id>
+        <link href="https://www.youtube.com/watch?v=FT-wBkGck6U"/>
+        <updated>2023-06-05T13:06:59.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful Orchestral Music - "Beautiful Emotional Epic Ambient Music " - Epic Batlle Music 2023]]></title>
+        <id>https://www.youtube.com/watch?v=-9eCJc7mpGE</id>
+        <link href="https://www.youtube.com/watch?v=-9eCJc7mpGE"/>
+        <updated>2023-06-05T13:00:00.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[繼承經典之後革新 Nikon Z8，三個初次上手可以調整的設定，錄影的規格分享]]></title>
+        <id>https://www.youtube.com/watch?v=juHkH4IUkTk</id>
+        <link href="https://www.youtube.com/watch?v=juHkH4IUkTk"/>
+        <updated>2023-06-05T12:30:01.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Times – Pold (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=SMvM54OGIGk</id>
+        <link href="https://www.youtube.com/watch?v=SMvM54OGIGk"/>
+        <updated>2023-06-05T12:00:21.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 15 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=pAtKqg-gZMM</id>
+        <link href="https://www.youtube.com/watch?v=pAtKqg-gZMM"/>
+        <updated>2023-06-05T11:00:37.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轉職工程師的那些困擾、那些煩惱【校長週報#12】｜6/7(三） 中午12:00]]></title>
+        <id>https://www.youtube.com/watch?v=eKHobRqmai4</id>
+        <link href="https://www.youtube.com/watch?v=eKHobRqmai4"/>
+        <updated>2023-06-05T07:37:16.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-H2 camera to cloud x Karen Jerzyk/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=88uLc2K9pHA</id>
+        <link href="https://www.youtube.com/watch?v=88uLc2K9pHA"/>
+        <updated>2023-06-05T05:00:03.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desire "Akane" - Oshi No Ko [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=n4w2p67z9DU</id>
+        <link href="https://www.youtube.com/watch?v=n4w2p67z9DU"/>
+        <updated>2023-06-05T03:33:51.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Powerful Epic Space Orchestral Music | Best Epic Heroic Orchestral Music | Epic Music Mix 2023]]></title>
         <id>https://www.youtube.com/watch?v=AiTMa-OeepM</id>
@@ -492,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2023 切版直播班說明會#2】｜今晚九點準時開賣｜直播提供快閃3小時折扣]]></title>
-        <id>https://www.youtube.com/watch?v=c6gw-XFE5b0</id>
-        <link href="https://www.youtube.com/watch?v=c6gw-XFE5b0"/>
-        <updated>2023-05-26T07:54:36.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X-H2 camera to cloud x Yolanda Hoskey/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=MdidNIF9YmU</id>
         <link href="https://www.youtube.com/watch?v=MdidNIF9YmU"/>
@@ -870,24 +942,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE POWER OF EPIC MUSIC - 1 HOUR of Epic Dark Dramatic Action Music | Epic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=-f4WgqHDGhE</id>
-        <link href="https://www.youtube.com/watch?v=-f4WgqHDGhE"/>
-        <updated>2023-05-21T13:54:46.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunset Sax – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=eXz00MvVo_s</id>
-        <link href="https://www.youtube.com/watch?v=eXz00MvVo_s"/>
-        <updated>2023-05-21T12:00:26.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔥 Top 15 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=w7SvvGobxc8</id>
         <link href="https://www.youtube.com/watch?v=w7SvvGobxc8"/>
@@ -1002,15 +1056,6 @@
         <updated>2023-05-17T13:46:37.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=5VqHdh439lw</id>
-        <link href="https://www.youtube.com/watch?v=5VqHdh439lw"/>
-        <updated>2023-05-17T11:00:06.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1158,15 +1203,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[making of 8K short film x Yusuke Suzuki/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=EX0owls9uOQ</id>
-        <link href="https://www.youtube.com/watch?v=EX0owls9uOQ"/>
-        <updated>2023-05-10T05:00:06.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is crazy… watch until the end]]></title>
         <id>https://www.youtube.com/watch?v=LOWm7VzaJVc</id>
         <link href="https://www.youtube.com/watch?v=LOWm7VzaJVc"/>
@@ -1218,42 +1254,6 @@
         <updated>2023-05-08T02:14:19.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【校長週報 #8】切個版要多久？切版秘訣大公開]]></title>
-        <id>https://www.youtube.com/watch?v=NoiG2zlfGV8</id>
-        <link href="https://www.youtube.com/watch?v=NoiG2zlfGV8"/>
-        <updated>2023-05-08T01:26:38.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手轉職 UI 設計師，快速入門的 4 個小秘訣｜聽說 工程師]]></title>
-        <id>https://www.youtube.com/watch?v=RaeydgARe0U</id>
-        <link href="https://www.youtube.com/watch?v=RaeydgARe0U"/>
-        <updated>2023-05-07T13:00:29.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sailing to the sunset- Boracay, Philippine/ Sony a7s3 cinematic vlog]]></title>
-        <id>https://www.youtube.com/watch?v=WRl8yExPinQ</id>
-        <link href="https://www.youtube.com/watch?v=WRl8yExPinQ"/>
-        <updated>2023-05-07T12:04:27.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硬科普——如何对HLG、Slog进行正确的向右曝光（视频曝光策略，实验设计，如何用斑马线定量曝光，如何读懂波形图，图片配置文件，HLG，Slog 2，向右曝光，信噪比，ISO一致性，还有很多）]]></title>
-        <id>https://www.youtube.com/watch?v=yCt6QAqkp-o</id>
-        <link href="https://www.youtube.com/watch?v=yCt6QAqkp-o"/>
-        <updated>2023-05-07T03:19:33.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
         </author>
     </entry>
 </feed>
