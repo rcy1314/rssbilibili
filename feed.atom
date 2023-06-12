@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T02:00:51.734Z</id>
+    <id>urn:2023-06-12T01:53:41.332Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T02:00:51.734Z</updated>
+    <updated>2023-06-12T01:53:41.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[原來履歷這樣寫！輔導近萬人履歷修改經驗分享 社會新鮮人必看｜聽說工程師 #6｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=BoqMg0L7rmY</id>
+        <link href="https://www.youtube.com/watch?v=BoqMg0L7rmY"/>
+        <updated>2023-06-11T13:08:41.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Powerful Orchestral Music | Most Epic Battle Music | World's Most Heroic Emotional Epic Music]]></title>
+        <id>https://www.youtube.com/watch?v=2-FN5_kiS00</id>
+        <link href="https://www.youtube.com/watch?v=2-FN5_kiS00"/>
+        <updated>2023-06-11T13:00:01.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neon – KV (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Jo1KD2VxsHg</id>
+        <link href="https://www.youtube.com/watch?v=Jo1KD2VxsHg"/>
+        <updated>2023-06-11T12:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6個習慣徹底改變你對攝影的理解]]></title>
+        <id>https://www.youtube.com/watch?v=nqP8_b24wzA</id>
+        <link href="https://www.youtube.com/watch?v=nqP8_b24wzA"/>
+        <updated>2023-06-11T11:09:18.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=_r_vS7P6XGg</id>
+        <link href="https://www.youtube.com/watch?v=_r_vS7P6XGg"/>
+        <updated>2023-06-11T11:00:32.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CONQUER THE WORLD: Collection Epic Battle Music 2023 | Most Powerful Epic Music You'll Hear 2023]]></title>
         <id>https://www.youtube.com/watch?v=yIg0dYu42pg</id>
@@ -816,24 +861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Epic Heroic Orchestral Music Mix | Powerful Epic Orchestral Music | Epic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=OJPMQTYK_Cw</id>
-        <link href="https://www.youtube.com/watch?v=OJPMQTYK_Cw"/>
-        <updated>2023-05-27T13:00:20.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost – Peyruis (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=rFZuphnJyYA</id>
-        <link href="https://www.youtube.com/watch?v=rFZuphnJyYA"/>
-        <updated>2023-05-27T12:00:45.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔥 Top 15 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=QA2PLQHFI0U</id>
         <link href="https://www.youtube.com/watch?v=QA2PLQHFI0U"/>
@@ -1059,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 15 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=avq1uFZBmDM</id>
-        <link href="https://www.youtube.com/watch?v=avq1uFZBmDM"/>
-        <updated>2023-05-23T11:00:02.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[导演，你怎么把我的镜头剪掉了]]></title>
         <id>https://www.youtube.com/watch?v=0JMQ0IMmX6g</id>
         <link href="https://www.youtube.com/watch?v=0JMQ0IMmX6g"/>
@@ -1254,24 +1272,6 @@
         <updated>2023-05-15T12:30:28.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【校長週報 #9】軟體工程師，如何拓展人脈？@hexschool]]></title>
-        <id>https://www.youtube.com/watch?v=fc0gHHeUJv8</id>
-        <link href="https://www.youtube.com/watch?v=fc0gHHeUJv8"/>
-        <updated>2023-05-15T01:25:43.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【絕對自由！】超級開放大世界沙盒 MMO 遊戲《阿爾比恩Online》，讓你創造自己的傳奇！| 遊戲介紹和體驗 | PC & Android & iOS 跨平台遊戲介紹！]]></title>
-        <id>https://www.youtube.com/watch?v=qkmNl3gs0NY</id>
-        <link href="https://www.youtube.com/watch?v=qkmNl3gs0NY"/>
-        <updated>2023-05-13T12:00:40.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
