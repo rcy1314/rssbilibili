@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-21T01:41:38.980Z</id>
+    <id>urn:2023-06-22T01:46:21.992Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-21T01:41:38.980Z</updated>
+    <updated>2023-06-22T01:46:21.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【校長週報#12】求職前端工程師の焦慮]]></title>
+        <id>https://www.youtube.com/watch?v=aRm9snj6YW0</id>
+        <link href="https://www.youtube.com/watch?v=aRm9snj6YW0"/>
+        <updated>2023-06-21T17:54:18.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Powerful Epic Music | Beautiful Epic Orchestral Music | Aggressive War Epic Music Collection]]></title>
+        <id>https://www.youtube.com/watch?v=zWH3T2C6-ss</id>
+        <link href="https://www.youtube.com/watch?v=zWH3T2C6-ss"/>
+        <updated>2023-06-21T13:00:49.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Never Existed - Hyouka [Edit/AMV] 8K Special!🎈🎊🥳]]></title>
+        <id>https://www.youtube.com/watch?v=uUW8mEd3pBM</id>
+        <link href="https://www.youtube.com/watch?v=uUW8mEd3pBM"/>
+        <updated>2023-06-21T13:00:10.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heaven – Cykarl (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=XMmFx0Mi6gc</id>
+        <link href="https://www.youtube.com/watch?v=XMmFx0Mi6gc"/>
+        <updated>2023-06-21T12:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這絕對是所有攝影師的噩夢....]]></title>
+        <id>https://www.youtube.com/watch?v=eiz8sDy8daw</id>
+        <link href="https://www.youtube.com/watch?v=eiz8sDy8daw"/>
+        <updated>2023-06-21T11:16:06.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=Gv5IjuEY9vo</id>
+        <link href="https://www.youtube.com/watch?v=Gv5IjuEY9vo"/>
+        <updated>2023-06-21T11:00:15.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-S20: Family Portrait x Marisa Kraft/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=tjJXDkggiH8</id>
+        <link href="https://www.youtube.com/watch?v=tjJXDkggiH8"/>
+        <updated>2023-06-21T05:00:34.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-S20: Climbing x William Hamilton & Matilda Söderlund/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=YMkbqhesRLE</id>
+        <link href="https://www.youtube.com/watch?v=YMkbqhesRLE"/>
+        <updated>2023-06-21T05:00:14.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-S20: Travel x Osman Yesilbas/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=N9bYf3Jbx4w</id>
+        <link href="https://www.youtube.com/watch?v=N9bYf3Jbx4w"/>
+        <updated>2023-06-21T05:00:08.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【干货】如何用1台无人机完成旅拍vlog拍摄？Mini3Pro的8种极限玩法！]]></title>
         <id>https://www.youtube.com/watch?v=0hkwp_u3R-g</id>
@@ -30,15 +111,6 @@
         <updated>2023-06-20T12:00:44.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【校長週報#12】求職前端工程師の焦慮]]></title>
-        <id>https://www.youtube.com/watch?v=aRm9snj6YW0</id>
-        <link href="https://www.youtube.com/watch?v=aRm9snj6YW0"/>
-        <updated>2023-06-20T05:40:31.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -825,30 +897,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BATTLE OF THE DARK KNIGHT - The World's Strongest Battle Music | Best Epic Heroic Orchestral Music]]></title>
-        <id>https://www.youtube.com/watch?v=xAGr1x897WM</id>
-        <link href="https://www.youtube.com/watch?v=xAGr1x897WM"/>
-        <updated>2023-06-06T13:00:47.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[云发布？画饼还是 iPhone 时刻？Vision Pro 真机体验评测]]></title>
         <id>https://www.youtube.com/watch?v=cs_wHQprzLc</id>
         <link href="https://www.youtube.com/watch?v=cs_wHQprzLc"/>
         <updated>2023-06-06T12:46:07.000Z</updated>
         <author>
             <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tropical Dreams – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=WbVLMqDmDjI</id>
-        <link href="https://www.youtube.com/watch?v=WbVLMqDmDjI"/>
-        <updated>2023-06-06T12:00:16.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -1032,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=GaVSu7opO9U</id>
-        <link href="https://www.youtube.com/watch?v=GaVSu7opO9U"/>
-        <updated>2023-06-01T11:00:10.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【FView】iQOO 手机加平板，天玑 9 系合体，体验如何？ #iqoo ##iQOOPad]]></title>
         <id>https://www.youtube.com/watch?v=rL1pB24C7dQ</id>
         <link href="https://www.youtube.com/watch?v=rL1pB24C7dQ"/>
@@ -1203,15 +1248,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-S20: Music x Noxz/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=2PUMSv5Qxyo</id>
-        <link href="https://www.youtube.com/watch?v=2PUMSv5Qxyo"/>
-        <updated>2023-05-26T05:00:02.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LIVE | Editing 🔥 FACECAM ???]]></title>
         <id>https://www.youtube.com/watch?v=uxh04MqWvsE</id>
         <link href="https://www.youtube.com/watch?v=uxh04MqWvsE"/>
@@ -1266,24 +1302,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing FUJIFILM X-S20 Key Features / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=wnhx34LQhz8</id>
-        <link href="https://www.youtube.com/watch?v=wnhx34LQhz8"/>
-        <updated>2023-05-24T10:00:48.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XF8mmF3.5: Landscape x Seth K. Hughes / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=y607H8zTnoQ</id>
-        <link href="https://www.youtube.com/watch?v=y607H8zTnoQ"/>
-        <updated>2023-05-24T10:00:48.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LIVE | Editing 🔥 FACECAM ???]]></title>
         <id>https://www.youtube.com/watch?v=3AVb07XGs1c</id>
         <link href="https://www.youtube.com/watch?v=3AVb07XGs1c"/>
@@ -1308,42 +1326,6 @@
         <updated>2023-05-23T15:28:28.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「旅行攻略，相机推荐，个人生活」你们好奇的这里都有｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=wqQe3YFUTtU</id>
-        <link href="https://www.youtube.com/watch?v=wqQe3YFUTtU"/>
-        <updated>2023-05-23T12:00:50.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[导演，你怎么把我的镜头剪掉了]]></title>
-        <id>https://www.youtube.com/watch?v=0JMQ0IMmX6g</id>
-        <link href="https://www.youtube.com/watch?v=0JMQ0IMmX6g"/>
-        <updated>2023-05-23T10:03:35.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【免費預約中】2023 網頁切版直播班｜全面提升網頁設計技能｜新手也沒問題]]></title>
-        <id>https://www.youtube.com/watch?v=CCilJtRt-2s</id>
-        <link href="https://www.youtube.com/watch?v=CCilJtRt-2s"/>
-        <updated>2023-05-23T09:57:46.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在美国雇5个人剪树是啥行情（@大疆请付一下广告费）]]></title>
-        <id>https://www.youtube.com/watch?v=9mury4Si7LM</id>
-        <link href="https://www.youtube.com/watch?v=9mury4Si7LM"/>
-        <updated>2023-05-23T04:02:25.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
         </author>
     </entry>
 </feed>
