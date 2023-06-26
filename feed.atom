@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-25T02:08:08.104Z</id>
+    <id>urn:2023-06-26T02:00:39.787Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-25T02:08:08.104Z</updated>
+    <updated>2023-06-26T02:00:39.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hook Your Dream——我的第一条钓鱼小短片]]></title>
+        <id>https://www.youtube.com/watch?v=gU0YAdbqDVs</id>
+        <link href="https://www.youtube.com/watch?v=gU0YAdbqDVs"/>
+        <updated>2023-06-26T00:34:57.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面試好緊張！這7點帶你贏在起跑點｜聽說工程師 #6｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=MShz5P70uEY</id>
+        <link href="https://www.youtube.com/watch?v=MShz5P70uEY"/>
+        <updated>2023-06-26T00:30:16.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Nick和Ezzi】时尚广告片场拍摄幕后讲解｜索尼FX6，东正，唯卓仕，灯光，运镜花园温室场景）]]></title>
+        <id>https://www.youtube.com/watch?v=sspi3wQzpBM</id>
+        <link href="https://www.youtube.com/watch?v=sspi3wQzpBM"/>
+        <updated>2023-06-25T21:41:15.000Z</updated>
+        <author>
+            <name>Nick and Ezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video podcast 12-  我可能是對攝影失去熱情了​]]></title>
+        <id>https://www.youtube.com/watch?v=aJtT6PFds1o</id>
+        <link href="https://www.youtube.com/watch?v=aJtT6PFds1o"/>
+        <updated>2023-06-25T17:29:29.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当无人机遇上“AI”Drone meets "AI"#dji #drones #lumafusion #ai#mavic3#shots]]></title>
+        <id>https://www.youtube.com/watch?v=vUNgvvRiZKU</id>
+        <link href="https://www.youtube.com/watch?v=vUNgvvRiZKU"/>
+        <updated>2023-06-25T12:17:29.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whisper – jiglr (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=QH0WBYsmVls</id>
+        <link href="https://www.youtube.com/watch?v=QH0WBYsmVls"/>
+        <updated>2023-06-25T12:00:27.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=5lCkGyKsXX0</id>
+        <link href="https://www.youtube.com/watch?v=5lCkGyKsXX0"/>
+        <updated>2023-06-25T12:00:07.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life in Boracay #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=RRvAw4bAgkw</id>
+        <link href="https://www.youtube.com/watch?v=RRvAw4bAgkw"/>
+        <updated>2023-06-25T08:20:54.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most Epic Dramatic Powerful Orchestral Music | Epic Battle Music 2023 | Powerful Orchestral Music]]></title>
         <id>https://www.youtube.com/watch?v=x0YnRAccBxI</id>
@@ -717,15 +789,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skysurf – Pold (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=I8N4sN2kYYg</id>
-        <link href="https://www.youtube.com/watch?v=I8N4sN2kYYg"/>
-        <updated>2023-06-10T12:00:11.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Figma 與 CSS 的元件建構策略]]></title>
         <id>https://www.youtube.com/watch?v=x_oJKjhpWhI</id>
         <link href="https://www.youtube.com/watch?v=x_oJKjhpWhI"/>
@@ -867,15 +930,6 @@
         <updated>2023-06-08T12:00:39.000Z</updated>
         <author>
             <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=ra3K2VjcGJw</id>
-        <link href="https://www.youtube.com/watch?v=ra3K2VjcGJw"/>
-        <updated>2023-06-08T11:00:42.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1225,33 +1279,6 @@
         <id>https://www.youtube.com/watch?v=dQnV7Hz2cWM</id>
         <link href="https://www.youtube.com/watch?v=dQnV7Hz2cWM"/>
         <updated>2023-05-28T00:31:30.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有了它！航拍机也能飞出穿越机的感觉！]]></title>
-        <id>https://www.youtube.com/watch?v=_LMVQCRERaM</id>
-        <link href="https://www.youtube.com/watch?v=_LMVQCRERaM"/>
-        <updated>2023-05-27T03:30:10.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISO多高都行！——Adobe Camera Raw 15.3 AI 去噪（星空党，打鸟党，以及夜拍党的福音）Photoshop]]></title>
-        <id>https://www.youtube.com/watch?v=JnBbb_Oc2P0</id>
-        <link href="https://www.youtube.com/watch?v=JnBbb_Oc2P0"/>
-        <updated>2023-05-27T00:57:03.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從 Figma 到 HTML、CSS，手把手轉換將設計轉成程式碼]]></title>
-        <id>https://www.youtube.com/watch?v=VXvfqoxx32w</id>
-        <link href="https://www.youtube.com/watch?v=VXvfqoxx32w"/>
-        <updated>2023-05-26T15:14:03.000Z</updated>
         <author>
             <name>六角學院</name>
         </author>
