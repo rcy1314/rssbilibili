@@ -1,10 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-30T01:51:42.763Z</id>
+    <id>urn:2023-07-01T02:03:07.679Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T01:51:42.763Z</updated>
+    <updated>2023-07-01T02:03:07.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[INSTA 360 GO3首发| 它真的是单人旅拍神器？六大创意旅拍思路分享！# insta 360 # insta360 go3]]></title>
+        <id>https://www.youtube.com/watch?v=aXm-PnjtYiI</id>
+        <link href="https://www.youtube.com/watch?v=aXm-PnjtYiI"/>
+        <updated>2023-07-01T02:00:00.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弄懂Photoshop的图层混合（明度，颜色，正片叠底，滤色，叠加，柔光，调色，合成，高反差保留锐化）]]></title>
+        <id>https://www.youtube.com/watch?v=G-l61h4nRlQ</id>
+        <link href="https://www.youtube.com/watch?v=G-l61h4nRlQ"/>
+        <updated>2023-07-01T01:00:09.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MALA "Denji x Power" - Chainsaw Man [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=NeqtK-ABaQQ</id>
+        <link href="https://www.youtube.com/watch?v=NeqtK-ABaQQ"/>
+        <updated>2023-06-30T14:45:37.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroic Powerful Orchestral Music | Battle Music Action Epic, Dramatic, Intense | Epic Battle Music]]></title>
+        <id>https://www.youtube.com/watch?v=z69w1L6oyGE</id>
+        <link href="https://www.youtube.com/watch?v=z69w1L6oyGE"/>
+        <updated>2023-06-30T13:36:08.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年10款你可能沒玩過的最新好玩寶藏手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！]]></title>
+        <id>https://www.youtube.com/watch?v=STswbh1yKMQ</id>
+        <link href="https://www.youtube.com/watch?v=STswbh1yKMQ"/>
+        <updated>2023-06-30T12:00:18.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aqua – Mehul Choudhary (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=CYhwWAZs2No</id>
+        <link href="https://www.youtube.com/watch?v=CYhwWAZs2No"/>
+        <updated>2023-06-30T12:00:16.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【旅拍 | 吉隆坡】吉隆坡全攻略，混血都市，领略来自马来西亚的独特魅力｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=Ifb2viEO49g</id>
+        <link href="https://www.youtube.com/watch?v=Ifb2viEO49g"/>
+        <updated>2023-06-30T12:00:14.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[战天斗地，重塑淮河！70年前的超级工程]]></title>
+        <id>https://www.youtube.com/watch?v=ZHBFkGSmi-M</id>
+        <link href="https://www.youtube.com/watch?v=ZHBFkGSmi-M"/>
+        <updated>2023-06-30T11:00:27.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unfold - Monogatari [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=6ghmuLqbFco</id>
+        <link href="https://www.youtube.com/watch?v=6ghmuLqbFco"/>
+        <updated>2023-06-30T09:33:09.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[革命圣地，英雄故乡！一座山头走出36个将军]]></title>
+        <id>https://www.youtube.com/watch?v=nCoBvpGQ77w</id>
+        <link href="https://www.youtube.com/watch?v=nCoBvpGQ77w"/>
+        <updated>2023-06-30T06:36:06.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-S20: Travel x Mindy Tan/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=Zu-nEEh3eDM</id>
+        <link href="https://www.youtube.com/watch?v=Zu-nEEh3eDM"/>
+        <updated>2023-06-30T05:00:25.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-S20: Portrait x Julia Trotti/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=7Y7cbTUH_Yg</id>
+        <link href="https://www.youtube.com/watch?v=7Y7cbTUH_Yg"/>
+        <updated>2023-06-30T05:00:04.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-S20: Documentary x Angelo Mendoza/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=4RTwjCtbU6s</id>
+        <link href="https://www.youtube.com/watch?v=4RTwjCtbU6s"/>
+        <updated>2023-06-30T05:00:03.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XF8mmF3.5 x Rafa Perez/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=-5SOLmKIj4k</id>
+        <link href="https://www.youtube.com/watch?v=-5SOLmKIj4k"/>
+        <updated>2023-06-30T05:00:00.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Powerful Orchestral Music | Best Epic Heroic Orchestral Music | Powerful Orchestral Music Mix]]></title>
         <id>https://www.youtube.com/watch?v=IslVfHzMZjc</id>
@@ -681,15 +807,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pirate Ship – Declan DP (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=ZJ8wap949zY</id>
-        <link href="https://www.youtube.com/watch?v=ZJ8wap949zY"/>
-        <updated>2023-06-15T12:00:23.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=mGO25I2sLWs</id>
         <link href="https://www.youtube.com/watch?v=mGO25I2sLWs"/>
@@ -795,15 +912,6 @@
         <updated>2023-06-14T05:00:13.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World's most powerful Epic Music Mix | Powerful Battle Music | Best Epic Battle Music Of All Times]]></title>
-        <id>https://www.youtube.com/watch?v=OUWvaC2TJGg</id>
-        <link href="https://www.youtube.com/watch?v=OUWvaC2TJGg"/>
-        <updated>2023-06-13T13:00:16.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1113,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-H2 camera to cloud x Karen Jerzyk/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=88uLc2K9pHA</id>
-        <link href="https://www.youtube.com/watch?v=88uLc2K9pHA"/>
-        <updated>2023-06-05T05:00:03.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Desire "Akane" - Oshi No Ko [Edit/AMV] 4K!]]></title>
         <id>https://www.youtube.com/watch?v=n4w2p67z9DU</id>
         <link href="https://www.youtube.com/watch?v=n4w2p67z9DU"/>
@@ -1200,42 +1299,6 @@
         <updated>2023-06-01T18:03:15.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【街头摄影】在吉隆坡偶遇友人，胶片vs数码，究竟那种风格更胜一筹？｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=RQQzRu5roJg</id>
-        <link href="https://www.youtube.com/watch?v=RQQzRu5roJg"/>
-        <updated>2023-06-01T12:00:18.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI剪辑能取代我们吗？万兴喵影剪辑软件三大功能]]></title>
-        <id>https://www.youtube.com/watch?v=4m_zkDZW1ZU</id>
-        <link href="https://www.youtube.com/watch?v=4m_zkDZW1ZU"/>
-        <updated>2023-06-01T12:00:04.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【FView】iQOO 手机加平板，天玑 9 系合体，体验如何？ #iqoo ##iQOOPad]]></title>
-        <id>https://www.youtube.com/watch?v=rL1pB24C7dQ</id>
-        <link href="https://www.youtube.com/watch?v=rL1pB24C7dQ"/>
-        <updated>2023-06-01T10:34:01.000Z</updated>
-        <author>
-            <name>FView Official Channel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學到哪個階段才能開始投履歷？我還有機會嗎？【校長週報#11】｜5/31(三） 中午12:00]]></title>
-        <id>https://www.youtube.com/watch?v=mxHF22H8Ffg</id>
-        <link href="https://www.youtube.com/watch?v=mxHF22H8Ffg"/>
-        <updated>2023-05-31T17:36:24.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
