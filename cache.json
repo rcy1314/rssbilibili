@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=12mJrRnPb1o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=12mJrRnPb1o",
+          "publishedOn": "2023-07-02T11:00:00.000Z",
+          "wordCount": null,
+          "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HZuHFJTJwXg",
           "author": null,
           "description": "",
@@ -218,16 +228,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=mGO25I2sLWs",
           "publishedOn": "2023-06-15T11:00:36.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J4nbVf4Dnic",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J4nbVf4Dnic",
-          "publishedOn": "2023-06-14T11:00:09.000Z",
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
@@ -572,16 +572,6 @@
           "wordCount": null,
           "title": "Desire \"Akane\" - Oshi No Ko [Edit/AMV] 4K!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hKLiiCR3m64",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hKLiiCR3m64",
-          "publishedOn": "2023-06-02T19:25:58.000Z",
-          "wordCount": null,
-          "title": "Consume🔥  [Edit/AMV] 4K!",
-          "imageUrl": null
         }
       ]
     },
@@ -726,6 +716,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
       "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zU1L03YZV6U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zU1L03YZV6U",
+          "publishedOn": "2023-07-02T16:02:49.000Z",
+          "wordCount": null,
+          "title": "Epic Cinematic Photo Manipulation Speed Art | Photoshop Tutorial",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=n8wD9nAoPuk",
           "author": null,
@@ -1100,16 +1100,6 @@
           "wordCount": null,
           "title": "Sony FX6 & Viltrox Anamorphic & DZOFILM | A Moment With Aprés｜Gel-X 2.0 Launch SS23 dir cut",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IFba21Yb0LQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IFba21Yb0LQ",
-          "publishedOn": "2023-06-02T18:40:42.000Z",
-          "wordCount": null,
-          "title": "（SUB) Red Komodo Long-Term Experience",
-          "imageUrl": null
         }
       ]
     },
@@ -1451,6 +1441,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Zr-YJ82vONc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zr-YJ82vONc",
+          "publishedOn": "2023-07-02T12:00:21.000Z",
+          "wordCount": null,
+          "title": "Odyssey's End – Jonas Fill (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=418jbc4Bd3g",
           "author": null,
           "description": "",
@@ -1588,16 +1588,6 @@
           "publishedOn": "2023-06-18T12:00:02.000Z",
           "wordCount": null,
           "title": "Nature's Beauty – Tokyo Music Walker (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZJ4w81pLz-o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZJ4w81pLz-o",
-          "publishedOn": "2023-06-17T12:00:35.000Z",
-          "wordCount": null,
-          "title": "Affinity – Johny Grimes (No Copyright Music)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-02T02:03:46.541Z</id>
+    <id>urn:2023-07-03T01:56:49.982Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-02T02:03:46.541Z</updated>
+    <updated>2023-07-03T01:56:49.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Epic Cinematic Photo Manipulation Speed Art | Photoshop Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=zU1L03YZV6U</id>
+        <link href="https://www.youtube.com/watch?v=zU1L03YZV6U"/>
+        <updated>2023-07-02T16:02:49.000Z</updated>
+        <author>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odyssey's End – Jonas Fill (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Zr-YJ82vONc</id>
+        <link href="https://www.youtube.com/watch?v=Zr-YJ82vONc"/>
+        <updated>2023-07-02T12:00:21.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=12mJrRnPb1o</id>
+        <link href="https://www.youtube.com/watch?v=12mJrRnPb1o"/>
+        <updated>2023-07-02T11:00:00.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most Powerful Epic Music | Epic Powerful Hybrid Battle Music | Best Epic Battle Music Of All Times]]></title>
         <id>https://www.youtube.com/watch?v=uSvYpi6hnfw</id>
@@ -753,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Affinity – Johny Grimes (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=ZJ4w81pLz-o</id>
-        <link href="https://www.youtube.com/watch?v=ZJ4w81pLz-o"/>
-        <updated>2023-06-17T12:00:35.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[即將開服的末日生存題材新作《Garena 黎明覺醒》是一款什麼樣的手遊？不只是末日生存那麼簡單！還有許多驚喜等著各位玩家！]]></title>
         <id>https://www.youtube.com/watch?v=Kk3WzvlUiY4</id>
         <link href="https://www.youtube.com/watch?v=Kk3WzvlUiY4"/>
@@ -894,15 +912,6 @@
         <updated>2023-06-14T12:00:13.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=J4nbVf4Dnic</id>
-        <link href="https://www.youtube.com/watch?v=J4nbVf4Dnic"/>
-        <updated>2023-06-14T11:00:09.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1245,24 +1254,6 @@
         <updated>2023-06-05T03:33:51.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consume🔥  [Edit/AMV] 4K!]]></title>
-        <id>https://www.youtube.com/watch?v=hKLiiCR3m64</id>
-        <link href="https://www.youtube.com/watch?v=hKLiiCR3m64"/>
-        <updated>2023-06-02T19:25:58.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（SUB) Red Komodo Long-Term Experience]]></title>
-        <id>https://www.youtube.com/watch?v=IFba21Yb0LQ</id>
-        <link href="https://www.youtube.com/watch?v=IFba21Yb0LQ"/>
-        <updated>2023-06-02T18:40:42.000Z</updated>
-        <author>
-            <name>Nick and Ezzi</name>
         </author>
     </entry>
 </feed>
