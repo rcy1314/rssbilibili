@@ -578,6 +578,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iyPTBPRy3xk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iyPTBPRy3xk",
+          "publishedOn": "2023-07-09T12:00:37.000Z",
+          "wordCount": null,
+          "title": "2023 Figma 新功能介紹 - Variables & Adv Prototype - 變數以及進階原型 | 六角學院 | 老師陪我coding #6",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MShz5P70uEY",
           "author": null,
           "description": "",
@@ -626,16 +636,6 @@
           "wordCount": null,
           "title": "原來履歷這樣寫！輔導近萬人履歷修改經驗分享 社會新鮮人必看｜聽說工程師 #5｜六角學院",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x_oJKjhpWhI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x_oJKjhpWhI",
-          "publishedOn": "2023-06-10T01:36:50.000Z",
-          "wordCount": null,
-          "title": "Figma 與 CSS 的元件建構策略",
-          "imageUrl": null
         }
       ]
     },
@@ -656,6 +656,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
       "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3rXNpGGIPWo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3rXNpGGIPWo",
+          "publishedOn": "2023-07-09T06:42:28.000Z",
+          "wordCount": null,
+          "title": "Block Face Effect Quick & Easy Photoshop Tutorial",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zU1L03YZV6U",
           "author": null,
@@ -692,16 +702,6 @@
           "wordCount": null,
           "title": "创成式填充的3个隐藏技巧（Photohsop AI 生成式填充使用技巧：如何突破分辨率的限制，如何用选区形状控制生成结果，如何更好的融入原始画面）",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pE7PG26-Goo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pE7PG26-Goo",
-          "publishedOn": "2023-06-10T01:00:31.000Z",
-          "wordCount": null,
-          "title": "引爆点——Photoshop核弹级更新（创成式AI填充）彻底改变图片行业！",
-          "imageUrl": null
         }
       ]
     },
@@ -710,6 +710,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=H4n4_knjevQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H4n4_knjevQ",
+          "publishedOn": "2023-07-09T04:00:14.000Z",
+          "wordCount": null,
+          "title": "千万别买三个摄像头的无人机......DON'T BUY DRONES WITH 3 CAMERAS...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=p6A_4NNPsyk",
           "author": null,
@@ -1331,6 +1341,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vY3fEFGqBa0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vY3fEFGqBa0",
+          "publishedOn": "2023-07-09T12:00:48.000Z",
+          "wordCount": null,
+          "title": "Float – Pold (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=s9Fm6J4B59E",
           "author": null,
           "description": "",
@@ -1468,16 +1488,6 @@
           "publishedOn": "2023-06-26T12:00:21.000Z",
           "wordCount": null,
           "title": "Cocounut Grove – Hotham (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QH0WBYsmVls",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QH0WBYsmVls",
-          "publishedOn": "2023-06-25T12:00:27.000Z",
-          "wordCount": null,
-          "title": "Whisper – jiglr (No Copyright Music)",
           "imageUrl": null
         }
       ]
