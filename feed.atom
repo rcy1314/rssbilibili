@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T01:48:49.498Z</id>
+    <id>urn:2023-07-12T01:57:16.053Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T01:48:49.498Z</updated>
+    <updated>2023-07-12T01:57:16.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=1zGP5Y8kn0I</id>
+        <link href="https://www.youtube.com/watch?v=1zGP5Y8kn0I"/>
+        <updated>2023-07-11T13:12:56.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Battle Music | Most Powerful Heroic Trailer Music Ever | Best Epic Orchestral Music Compilation]]></title>
+        <id>https://www.youtube.com/watch?v=sYpez2OcTTY</id>
+        <link href="https://www.youtube.com/watch?v=sYpez2OcTTY"/>
+        <updated>2023-07-11T13:04:52.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳定器竖拍15种运镜｜竖拍到底有什么不一样？]]></title>
+        <id>https://www.youtube.com/watch?v=AVxnU_q2grE</id>
+        <link href="https://www.youtube.com/watch?v=AVxnU_q2grE"/>
+        <updated>2023-07-11T13:00:15.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watching anime (Piano version) – sakura Hz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=l7NiM2cvagE</id>
+        <link href="https://www.youtube.com/watch?v=l7NiM2cvagE"/>
+        <updated>2023-07-11T12:00:38.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新手怎麼學好前端三大框架？掌握一招輕鬆面對 React、Vue、Angular]]></title>
+        <id>https://www.youtube.com/watch?v=xpUi90NlekE</id>
+        <link href="https://www.youtube.com/watch?v=xpUi90NlekE"/>
+        <updated>2023-07-11T03:09:30.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Cinematic Spectacle - Most Powerful Heroic Epic Music Ever | Best Epic Heroic Orchestral Music]]></title>
         <id>https://www.youtube.com/watch?v=x3Kh0FwmR4M</id>
@@ -690,15 +735,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Care – Jay Someday (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=CRVTO6Xeo8k</id>
-        <link href="https://www.youtube.com/watch?v=CRVTO6Xeo8k"/>
-        <updated>2023-06-27T12:00:15.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[¥200-¥1500手机稳定器全系推荐与选购指南！（内附运镜干货表）大疆OM6｜Insta360 Flow｜智云Q4｜浩瀚M6｜大疆RS3 Mini｜飞宇Vimble]]></title>
         <id>https://www.youtube.com/watch?v=f60mA1427qU</id>
         <link href="https://www.youtube.com/watch?v=f60mA1427qU"/>
@@ -825,15 +861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=HJpIY9M3IDg</id>
-        <link href="https://www.youtube.com/watch?v=HJpIY9M3IDg"/>
-        <updated>2023-06-23T13:01:31.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023年6月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #4]]></title>
         <id>https://www.youtube.com/watch?v=-BiqXzAIMbU</id>
         <link href="https://www.youtube.com/watch?v=-BiqXzAIMbU"/>
@@ -876,15 +903,6 @@
         <updated>2023-06-21T17:54:18.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Powerful Epic Music | Beautiful Epic Orchestral Music | Aggressive War Epic Music Collection]]></title>
-        <id>https://www.youtube.com/watch?v=zWH3T2C6-ss</id>
-        <link href="https://www.youtube.com/watch?v=zWH3T2C6-ss"/>
-        <updated>2023-06-21T13:00:49.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1164,15 +1182,6 @@
         <updated>2023-06-13T00:30:17.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雲嘉南好好拍 四個台南推薦濱海景點]]></title>
-        <id>https://www.youtube.com/watch?v=cI8__CKkB-Y</id>
-        <link href="https://www.youtube.com/watch?v=cI8__CKkB-Y"/>
-        <updated>2023-06-12T12:37:04.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
