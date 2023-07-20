@@ -1,17 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-19T02:55:15.314Z</id>
+    <id>urn:2023-07-20T01:37:26.512Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T02:55:15.314Z</updated>
+    <updated>2023-07-20T01:37:26.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best Epic Battle Orchestral Music | Epic Atmospheric Orchestral Music | Most Epic Battle Music]]></title>
+        <id>https://www.youtube.com/watch?v=lBUyMtQfRfg</id>
+        <link href="https://www.youtube.com/watch?v=lBUyMtQfRfg"/>
+        <updated>2023-07-19T13:30:30.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2023 React 入門攻略工作坊】線上說明會｜7/19 (三） 晚上20:00｜預約直播 開播不怕沒跟上]]></title>
+        <id>https://www.youtube.com/watch?v=XxYIQ2v68vI</id>
+        <link href="https://www.youtube.com/watch?v=XxYIQ2v68vI"/>
+        <updated>2023-07-19T13:14:19.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klaipeda – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=tEnNpHB8GjQ</id>
+        <link href="https://www.youtube.com/watch?v=tEnNpHB8GjQ"/>
+        <updated>2023-07-19T12:00:52.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Silent Skies - Hunter X Hunter [Edit/AMV] 4K!]]></title>
         <id>https://www.youtube.com/watch?v=Oppg9F7mvvM</id>
         <link href="https://www.youtube.com/watch?v=Oppg9F7mvvM"/>
-        <updated>2023-07-19T01:38:09.000Z</updated>
+        <updated>2023-07-19T12:00:10.000Z</updated>
         <author>
             <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【旅拍 | 保加利亚】旅行第八十国，保加利亚，东欧奇幻想象，玫瑰在此绽放 ｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=2AYbAvQzJ1k</id>
+        <link href="https://www.youtube.com/watch?v=2AYbAvQzJ1k"/>
+        <updated>2023-07-19T12:00:03.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=T-YRgcSD4Hc</id>
+        <link href="https://www.youtube.com/watch?v=T-YRgcSD4Hc"/>
+        <updated>2023-07-19T11:00:20.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【干货】航拍夜景神器？一键降噪，720p变4k！（送降噪参数表）]]></title>
+        <id>https://www.youtube.com/watch?v=yXx-9YUiIF8</id>
+        <link href="https://www.youtube.com/watch?v=yXx-9YUiIF8"/>
+        <updated>2023-07-19T10:34:44.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -456,15 +510,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2023 React 入門攻略工作坊】線上說明會｜7/19 (三） 晚上20:00｜預約直播 開播不怕沒跟上]]></title>
-        <id>https://www.youtube.com/watch?v=XxYIQ2v68vI</id>
-        <link href="https://www.youtube.com/watch?v=XxYIQ2v68vI"/>
-        <updated>2023-07-10T02:11:12.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Float – Pold (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=vY3fEFGqBa0</id>
         <link href="https://www.youtube.com/watch?v=vY3fEFGqBa0"/>
@@ -663,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Sky – Ferco (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=XJtnnfz3h7M</id>
-        <link href="https://www.youtube.com/watch?v=XJtnnfz3h7M"/>
-        <updated>2023-07-05T12:00:32.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X-S20: Travel x Yuri Nanasaki/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=hqJOJ6s0qDI</id>
         <link href="https://www.youtube.com/watch?v=hqJOJ6s0qDI"/>
@@ -777,24 +813,6 @@
         <updated>2023-07-02T16:02:49.000Z</updated>
         <author>
             <name>Learning Screen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=12mJrRnPb1o</id>
-        <link href="https://www.youtube.com/watch?v=12mJrRnPb1o"/>
-        <updated>2023-07-02T11:00:00.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Powerful Epic Music | Epic Powerful Hybrid Battle Music | Best Epic Battle Music Of All Times]]></title>
-        <id>https://www.youtube.com/watch?v=uSvYpi6hnfw</id>
-        <link href="https://www.youtube.com/watch?v=uSvYpi6hnfw"/>
-        <updated>2023-07-01T13:47:28.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1119,33 +1137,6 @@
         <updated>2023-06-21T05:00:08.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【干货】如何用1台无人机完成旅拍vlog拍摄？Mini3Pro的8种极限玩法！]]></title>
-        <id>https://www.youtube.com/watch?v=0hkwp_u3R-g</id>
-        <link href="https://www.youtube.com/watch?v=0hkwp_u3R-g"/>
-        <updated>2023-06-20T13:16:39.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创成式填充的3个隐藏技巧（Photohsop AI 生成式填充使用技巧：如何突破分辨率的限制，如何用选区形状控制生成结果，如何更好的融入原始画面）]]></title>
-        <id>https://www.youtube.com/watch?v=P_4orHfjf1M</id>
-        <link href="https://www.youtube.com/watch?v=P_4orHfjf1M"/>
-        <updated>2023-06-20T01:43:34.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tanjiro & Nezuko Reunite - Resonance]]></title>
-        <id>https://www.youtube.com/watch?v=yFbRbaATgTc</id>
-        <link href="https://www.youtube.com/watch?v=yFbRbaATgTc"/>
-        <updated>2023-06-20T00:44:42.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
