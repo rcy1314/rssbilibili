@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T01:23:02.607Z</id>
+    <id>urn:2023-08-03T01:25:33.303Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-02T01:23:02.607Z</updated>
+    <updated>2023-08-03T01:25:33.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[首发] 大疆新品 ACTION 4 上手体验, 运动相机抗造王者?The most resistant action camera?]]></title>
+        <id>https://www.youtube.com/watch?v=b6m_CqigcYU</id>
+        <link href="https://www.youtube.com/watch?v=b6m_CqigcYU"/>
+        <updated>2023-08-02T13:01:01.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World's Most Powerful Epic Music | Most Beautiful Orchestral | Best Epic Heroic Orchestral Music]]></title>
+        <id>https://www.youtube.com/watch?v=5yfN3WAGR6E</id>
+        <link href="https://www.youtube.com/watch?v=5yfN3WAGR6E"/>
+        <updated>2023-08-02T13:00:04.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=fRhohlbjPms</id>
+        <link href="https://www.youtube.com/watch?v=fRhohlbjPms"/>
+        <updated>2023-08-02T12:05:59.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airballoon – Waesto (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=t44OtVhQrlY</id>
+        <link href="https://www.youtube.com/watch?v=t44OtVhQrlY"/>
+        <updated>2023-08-02T12:00:51.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆这么多飞机，我最爱的还是AVATA，你最爱哪款呢？#camera  #drone #dji  #fpv  #avatar]]></title>
+        <id>https://www.youtube.com/watch?v=gJrxL048juY</id>
+        <link href="https://www.youtube.com/watch?v=gJrxL048juY"/>
+        <updated>2023-08-02T10:30:20.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AE教程】在AE中制作简单好看的天空云动画]]></title>
+        <id>https://www.youtube.com/watch?v=RQ3HGCMAK4Y</id>
+        <link href="https://www.youtube.com/watch?v=RQ3HGCMAK4Y"/>
+        <updated>2023-08-02T08:21:58.000Z</updated>
+        <author>
+            <name>我是小广同学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轉職講座】前後端工程師選擇？掌握成功關鍵技能樹 ｜六角學院洧杰校長直播]]></title>
+        <id>https://www.youtube.com/watch?v=ceB2UjHbaHE</id>
+        <link href="https://www.youtube.com/watch?v=ceB2UjHbaHE"/>
+        <updated>2023-08-02T03:37:42.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Power of Epic Orchestral Music - Emotional Dramatic Orchestral Music | THE NEW EARTH]]></title>
         <id>https://www.youtube.com/watch?v=r3u4jOSWy38</id>
@@ -663,24 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circles – Johny Grimes (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=AlKcKXC1UMc</id>
-        <link href="https://www.youtube.com/watch?v=AlKcKXC1UMc"/>
-        <updated>2023-07-18T12:00:08.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=GfxioR7Zvp8</id>
-        <link href="https://www.youtube.com/watch?v=GfxioR7Zvp8"/>
-        <updated>2023-07-18T11:29:37.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如何在一台Mac上安装两个macOS？新系统放心尝鲜]]></title>
         <id>https://www.youtube.com/watch?v=Zty49n_BXlg</id>
         <link href="https://www.youtube.com/watch?v=Zty49n_BXlg"/>
@@ -741,15 +786,6 @@
         <updated>2023-07-16T13:15:02.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful War Orchestral Music | Epic Music Mix For The Best Epic Battle | Epic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=rci2-zuMlJw</id>
-        <link href="https://www.youtube.com/watch?v=rci2-zuMlJw"/>
-        <updated>2023-07-16T13:00:46.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -993,33 +1029,6 @@
         <updated>2023-07-05T05:00:07.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[定焦是一种修行——我的第十次古巴人文拍摄｜#原来这么拍# 243集]]></title>
-        <id>https://www.youtube.com/watch?v=Xq2BPx7NeM0</id>
-        <link href="https://www.youtube.com/watch?v=Xq2BPx7NeM0"/>
-        <updated>2023-07-04T12:15:12.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[航拍镜头=无聊？NoNoNo~快试试这些电影感航拍技巧吧！DJI MAVIC 3 PRO, HOW TO GET CINEMATIC FOOTAGE?]]></title>
-        <id>https://www.youtube.com/watch?v=7fRMZ3GfTvw</id>
-        <link href="https://www.youtube.com/watch?v=7fRMZ3GfTvw"/>
-        <updated>2023-07-04T11:30:03.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stay - Naruto [Edit/AMV] 4K! ft.@exoticeditz7980]]></title>
-        <id>https://www.youtube.com/watch?v=UbQo582PmiU</id>
-        <link href="https://www.youtube.com/watch?v=UbQo582PmiU"/>
-        <updated>2023-07-04T09:42:19.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
