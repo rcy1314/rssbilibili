@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T01:25:33.303Z</id>
+    <id>urn:2023-08-04T01:26:35.243Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-03T01:25:33.303Z</updated>
+    <updated>2023-08-04T01:26:35.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers, Shenseea - My Bad (Official Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=ap0NYd6Wm84</id>
+        <link href="https://www.youtube.com/watch?v=ap0NYd6Wm84"/>
+        <updated>2023-08-03T16:00:02.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow Me - Declan DP (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=0Huh7OTb2P0</id>
+        <link href="https://www.youtube.com/watch?v=0Huh7OTb2P0"/>
+        <updated>2023-08-03T16:00:00.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful Orchestral Music | Heroic Powerful Orchestral Music | Epic Heroic Motivational Music 2023]]></title>
+        <id>https://www.youtube.com/watch?v=I-yhNxijIRc</id>
+        <link href="https://www.youtube.com/watch?v=I-yhNxijIRc"/>
+        <updated>2023-08-03T13:30:12.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒朋友晚上怎麼打燈拍人像？ - 散步人像 ft. 智雲 x100  @ChengSengGroup @ZhiyunTechGlobal]]></title>
+        <id>https://www.youtube.com/watch?v=5dCeVlMjr5k</id>
+        <link href="https://www.youtube.com/watch?v=5dCeVlMjr5k"/>
+        <updated>2023-08-03T12:30:03.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kochi – Lucjo (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=ckVl-c4z-W8</id>
+        <link href="https://www.youtube.com/watch?v=ckVl-c4z-W8"/>
+        <updated>2023-08-03T12:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Mix Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
+        <id>https://www.youtube.com/watch?v=REn0i0TFVB0</id>
+        <link href="https://www.youtube.com/watch?v=REn0i0TFVB0"/>
+        <updated>2023-08-03T11:00:15.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[首发] 大疆新品 ACTION 4 上手体验, 运动相机抗造王者?The most resistant action camera?]]></title>
         <id>https://www.youtube.com/watch?v=b6m_CqigcYU</id>
@@ -627,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Your Eyes – Tobjan (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=EGCi4ktlhg0</id>
-        <link href="https://www.youtube.com/watch?v=EGCi4ktlhg0"/>
-        <updated>2023-07-20T12:00:09.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Epic Battle Orchestral Music | Epic Atmospheric Orchestral Music | Most Epic Battle Music]]></title>
         <id>https://www.youtube.com/watch?v=lBUyMtQfRfg</id>
         <link href="https://www.youtube.com/watch?v=lBUyMtQfRfg"/>
@@ -654,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Klaipeda – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=tEnNpHB8GjQ</id>
-        <link href="https://www.youtube.com/watch?v=tEnNpHB8GjQ"/>
-        <updated>2023-07-19T12:00:52.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Silent Skies - Hunter X Hunter [Edit/AMV] 4K!]]></title>
         <id>https://www.youtube.com/watch?v=Oppg9F7mvvM</id>
         <link href="https://www.youtube.com/watch?v=Oppg9F7mvvM"/>
@@ -678,15 +714,6 @@
         <updated>2023-07-19T12:00:03.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=T-YRgcSD4Hc</id>
-        <link href="https://www.youtube.com/watch?v=T-YRgcSD4Hc"/>
-        <updated>2023-07-19T11:00:20.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -750,15 +777,6 @@
         <updated>2023-07-17T15:04:11.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroic Powerful Orchestral Music | The Most Epic Music Powerful Motivational Compilation |Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=YenfrDVSggM</id>
-        <link href="https://www.youtube.com/watch?v=YenfrDVSggM"/>
-        <updated>2023-07-17T13:03:23.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1002,33 +1020,6 @@
         <updated>2023-07-06T04:00:33.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-S20: Travel x Yuri Nanasaki/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=hqJOJ6s0qDI</id>
-        <link href="https://www.youtube.com/watch?v=hqJOJ6s0qDI"/>
-        <updated>2023-07-05T05:00:20.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-S20: Portrait x Natalie Dunn/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=L9BG_Q-yktE</id>
-        <link href="https://www.youtube.com/watch?v=L9BG_Q-yktE"/>
-        <updated>2023-07-05T05:00:15.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-S20: Action x Carolin Thiergart/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=BI0x7JDLGJM</id>
-        <link href="https://www.youtube.com/watch?v=BI0x7JDLGJM"/>
-        <updated>2023-07-05T05:00:07.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
