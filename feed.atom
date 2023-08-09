@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-08T01:24:01.520Z</id>
+    <id>urn:2023-08-09T01:29:03.195Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T01:24:01.520Z</updated>
+    <updated>2023-08-09T01:29:03.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Epic Music Mix 2023 | Beautiful Inspirational Orchestral Music | Epic Cinematic Inspirational Music]]></title>
+        <id>https://www.youtube.com/watch?v=v3wSVDzyKUI</id>
+        <link href="https://www.youtube.com/watch?v=v3wSVDzyKUI"/>
+        <updated>2023-08-08T13:00:51.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venice Beach – TVARI (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=ctC9r9gvt08</id>
+        <link href="https://www.youtube.com/watch?v=ctC9r9gvt08"/>
+        <updated>2023-08-08T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=LWCJtqZnHlQ</id>
+        <link href="https://www.youtube.com/watch?v=LWCJtqZnHlQ"/>
+        <updated>2023-08-08T12:00:15.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【干货】学会这5个航拍摄影玩法，秒出大片！The ONLY 5 DRONE MOVES You Will Ever Need | DJI Air 3 Tips For Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=_4BjieOdV8U</id>
+        <link href="https://www.youtube.com/watch?v=_4BjieOdV8U"/>
+        <updated>2023-08-08T11:30:23.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人机滤镜全面讲解｜你真的需要滤镜吗？｜大疆迷你3Pro]]></title>
+        <id>https://www.youtube.com/watch?v=qcJVAv9WEKI</id>
+        <link href="https://www.youtube.com/watch?v=qcJVAv9WEKI"/>
+        <updated>2023-08-08T02:45:53.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【轉職講座】前後端工程師選擇？掌握成功關鍵技能樹 ｜六角學院洧杰校長直播]]></title>
         <id>https://www.youtube.com/watch?v=ceB2UjHbaHE</id>
@@ -609,15 +654,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forever – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=ZleFCnHYGBo</id>
-        <link href="https://www.youtube.com/watch?v=ZleFCnHYGBo"/>
-        <updated>2023-07-25T12:00:34.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=7RJpIEsJV9A</id>
         <link href="https://www.youtube.com/watch?v=7RJpIEsJV9A"/>
@@ -651,15 +687,6 @@
         <updated>2023-07-24T12:30:15.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=EQCUK-OjpJ8</id>
-        <link href="https://www.youtube.com/watch?v=EQCUK-OjpJ8"/>
-        <updated>2023-07-24T12:00:16.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -759,15 +786,6 @@
         <updated>2023-07-20T14:00:22.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE POWER OF EPIC MUSIC | Epic Inspirational Orchestral Music | Epic Powerful Battle Heroic Music]]></title>
-        <id>https://www.youtube.com/watch?v=ox-u8E-JqRg</id>
-        <link href="https://www.youtube.com/watch?v=ox-u8E-JqRg"/>
-        <updated>2023-07-20T13:58:12.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -984,15 +1002,6 @@
         <updated>2023-07-11T13:00:15.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CCD相機，4位攝影師拍人像，1分鐘攝影，【照片直出不修圖】大挑戰！]]></title>
-        <id>https://www.youtube.com/watch?v=I61bWwLT3zo</id>
-        <link href="https://www.youtube.com/watch?v=I61bWwLT3zo"/>
-        <updated>2023-07-10T12:30:12.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
