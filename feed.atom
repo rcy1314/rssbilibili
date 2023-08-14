@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-13T01:16:29.870Z</id>
+    <id>urn:2023-08-14T01:13:46.001Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-13T01:16:29.870Z</updated>
+    <updated>2023-08-14T01:13:46.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[久坐族的痠痛救星！工程師必買好物 提高工作效率 卡斯伯桌面大公開｜聽說工程師 #6｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=j1YFUhRuiuw</id>
+        <link href="https://www.youtube.com/watch?v=j1YFUhRuiuw"/>
+        <updated>2023-08-13T12:01:56.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top EDM Leo Rank Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=ftGDZ0pFC7s</id>
+        <link href="https://www.youtube.com/watch?v=ftGDZ0pFC7s"/>
+        <updated>2023-08-13T12:00:26.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023必学无人机20个运镜｜称霸无人机指日可待｜大疆迷你3Pro]]></title>
+        <id>https://www.youtube.com/watch?v=F3ir43KL6_U</id>
+        <link href="https://www.youtube.com/watch?v=F3ir43KL6_U"/>
+        <updated>2023-08-13T12:00:18.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunshine – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=8iAaGMamO1o</id>
+        <link href="https://www.youtube.com/watch?v=8iAaGMamO1o"/>
+        <updated>2023-08-13T12:00:06.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AE教程】4分钟学会用AE制作图片动态效果]]></title>
+        <id>https://www.youtube.com/watch?v=xMGel99mWng</id>
+        <link href="https://www.youtube.com/watch?v=xMGel99mWng"/>
+        <updated>2023-08-13T05:42:24.000Z</updated>
+        <author>
+            <name>小广Alpha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#aetutorial #ae教程 #healingmusic]]></title>
+        <id>https://www.youtube.com/watch?v=SuvnGaMwsR4</id>
+        <link href="https://www.youtube.com/watch?v=SuvnGaMwsR4"/>
+        <updated>2023-08-13T02:31:58.000Z</updated>
+        <author>
+            <name>小广Alpha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
         <id>https://www.youtube.com/watch?v=g6jZwNE2ze0</id>
@@ -645,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[xoxo – Nettson (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=9jpfWK6ptMA</id>
-        <link href="https://www.youtube.com/watch?v=9jpfWK6ptMA"/>
-        <updated>2023-07-31T12:00:08.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DJI AIR 3 Image Quality Test: Shenzhen, The Coolest City in China!]]></title>
         <id>https://www.youtube.com/watch?v=lfteu5TUh8U</id>
         <link href="https://www.youtube.com/watch?v=lfteu5TUh8U"/>
@@ -714,15 +759,6 @@
         <updated>2023-07-28T12:00:32.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=fax6D5D75NQ</id>
-        <link href="https://www.youtube.com/watch?v=fax6D5D75NQ"/>
-        <updated>2023-07-28T12:00:29.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1036,33 +1072,6 @@
         <id>https://www.youtube.com/watch?v=6CwonlI2jIc</id>
         <link href="https://www.youtube.com/watch?v=6CwonlI2jIc"/>
         <updated>2023-07-15T18:27:38.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无人机如何拍摄高楼建筑？运镜解说与打杆]]></title>
-        <id>https://www.youtube.com/watch?v=stwMiHhCwBY</id>
-        <link href="https://www.youtube.com/watch?v=stwMiHhCwBY"/>
-        <updated>2023-07-15T11:30:32.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手怎麼學好 React？掌握一招輕鬆面對！]]></title>
-        <id>https://www.youtube.com/watch?v=xpUi90NlekE</id>
-        <link href="https://www.youtube.com/watch?v=xpUi90NlekE"/>
-        <updated>2023-07-15T01:20:42.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
-        <id>https://www.youtube.com/watch?v=n5fCR6jI4-0</id>
-        <link href="https://www.youtube.com/watch?v=n5fCR6jI4-0"/>
-        <updated>2023-07-14T19:16:53.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
