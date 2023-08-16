@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-15T01:13:00.287Z</id>
+    <id>urn:2023-08-16T01:12:39.574Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T01:13:00.287Z</updated>
+    <updated>2023-08-16T01:12:39.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MOST EPIC MUSIC: The Power Of Epic Orchestral Music | Epic Inspirational Orchestral Music]]></title>
+        <id>https://www.youtube.com/watch?v=bLc8TKVJvgU</id>
+        <link href="https://www.youtube.com/watch?v=bLc8TKVJvgU"/>
+        <updated>2023-08-15T13:57:59.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM Gaming Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=pNyVS2jWTaM</id>
+        <link href="https://www.youtube.com/watch?v=pNyVS2jWTaM"/>
+        <updated>2023-08-15T12:09:30.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hawaii Vacation – TVARI (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=XBNYhF_8BEs</id>
+        <link href="https://www.youtube.com/watch?v=XBNYhF_8BEs"/>
+        <updated>2023-08-15T12:00:32.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Octopus Photo Manipulation Speed Art | Photoshop Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=49NyWuLfBBY</id>
+        <link href="https://www.youtube.com/watch?v=49NyWuLfBBY"/>
+        <updated>2023-08-15T06:24:19.000Z</updated>
+        <author>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World's Most Powerful Battle Music | The Best Heroic Concert Music | Epic Music Mix 2023]]></title>
         <id>https://www.youtube.com/watch?v=J1kH5ntJKu4</id>
@@ -33,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大疆 Air 3 极限暴力测试：飞机对撞！高空炸机！8 级风！无人机能否扛的住？Drones Battle! DJI Air 3 Crashing Test]]></title>
+        <title type="html"><![CDATA[大疆 Air 3 极限暴力测试：飞机对撞！高空炸机！无人机能否扛的住？Drones Battle! DJI Air 3 Crashing Test]]></title>
         <id>https://www.youtube.com/watch?v=aYWaXCzUtu0</id>
         <link href="https://www.youtube.com/watch?v=aYWaXCzUtu0"/>
         <updated>2023-08-14T12:00:01.000Z</updated>
@@ -672,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Airballoon – Waesto (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=t44OtVhQrlY</id>
-        <link href="https://www.youtube.com/watch?v=t44OtVhQrlY"/>
-        <updated>2023-08-02T12:00:51.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大疆这么多飞机，我最爱的还是AVATA，你最爱哪款呢？#camera  #drone #dji  #fpv  #avatar]]></title>
         <id>https://www.youtube.com/watch?v=gJrxL048juY</id>
         <link href="https://www.youtube.com/watch?v=gJrxL048juY"/>
@@ -780,15 +807,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=EGqqiBM9Du8</id>
-        <link href="https://www.youtube.com/watch?v=EGqqiBM9Du8"/>
-        <updated>2023-07-29T12:00:17.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Air 3的避障能力你能打几分？]]></title>
         <id>https://www.youtube.com/watch?v=eVzan03Q42E</id>
         <link href="https://www.youtube.com/watch?v=eVzan03Q42E"/>
@@ -813,15 +831,6 @@
         <updated>2023-07-28T04:00:11.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHITE WOLF WARRIOR | Best Epic Heroic Orchestral Music | Powerful Epic Orchestral Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=xMWPwNn-5Eg</id>
-        <link href="https://www.youtube.com/watch?v=xMWPwNn-5Eg"/>
-        <updated>2023-07-27T13:15:26.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1074,33 +1083,6 @@
         <updated>2023-07-17T15:04:11.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微距小教室來啦！對焦距離跟放大倍率居然有關！？ ft. SEL70200G2]]></title>
-        <id>https://www.youtube.com/watch?v=JhtavBVs6VE</id>
-        <link href="https://www.youtube.com/watch?v=JhtavBVs6VE"/>
-        <updated>2023-07-17T12:30:08.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Editing Pack 2023 - After Effects | Presets, Overlays, PFs, SFXs etc.]]></title>
-        <id>https://www.youtube.com/watch?v=Xzt2XIpTFFE</id>
-        <link href="https://www.youtube.com/watch?v=Xzt2XIpTFFE"/>
-        <updated>2023-07-17T11:00:09.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS 14 Sonoma预览版来啦！动态壁纸超美]]></title>
-        <id>https://www.youtube.com/watch?v=lMlmUzEOmnI</id>
-        <link href="https://www.youtube.com/watch?v=lMlmUzEOmnI"/>
-        <updated>2023-07-16T13:15:02.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
         </author>
     </entry>
 </feed>
