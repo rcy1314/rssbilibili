@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-16T01:12:39.574Z</id>
+    <id>urn:2023-08-17T01:11:29.452Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T01:12:39.574Z</updated>
+    <updated>2023-08-17T01:11:29.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MOST EPIC MUSIC: Beautiful | Most Beautiful Orchestral Music | Powerful Orchestral Music Collection]]></title>
+        <id>https://www.youtube.com/watch?v=jQcv9021T0Y</id>
+        <link href="https://www.youtube.com/watch?v=jQcv9021T0Y"/>
+        <updated>2023-08-16T13:12:12.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=-Vy-_nRGQ80</id>
+        <link href="https://www.youtube.com/watch?v=-Vy-_nRGQ80"/>
+        <updated>2023-08-16T13:02:33.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cherry Blossom – Filo Starquez (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=BaCAu58nEd0</id>
+        <link href="https://www.youtube.com/watch?v=BaCAu58nEd0"/>
+        <updated>2023-08-16T12:00:07.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加 Ace 2 Pro：四百区别在哪里？]]></title>
+        <id>https://www.youtube.com/watch?v=yWdftqcswlI</id>
+        <link href="https://www.youtube.com/watch?v=yWdftqcswlI"/>
+        <updated>2023-08-16T10:12:32.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redmi K60 至尊版上手：在性价比上遥遥领先]]></title>
+        <id>https://www.youtube.com/watch?v=kT4uxst8A54</id>
+        <link href="https://www.youtube.com/watch?v=kT4uxst8A54"/>
+        <updated>2023-08-16T10:11:18.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最「正常」一代的MIX —— 小米MIX Fold 3 开箱评测]]></title>
+        <id>https://www.youtube.com/watch?v=RkMPavXQuR0</id>
+        <link href="https://www.youtube.com/watch?v=RkMPavXQuR0"/>
+        <updated>2023-08-16T10:10:58.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【JS 直播班說明會】九週如何培養程式邏輯｜六角學院洧杰校長直播]]></title>
+        <id>https://www.youtube.com/watch?v=__Yd6e0Azwc</id>
+        <link href="https://www.youtube.com/watch?v=__Yd6e0Azwc"/>
+        <updated>2023-08-16T08:35:22.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MOST EPIC MUSIC: The Power Of Epic Orchestral Music | Epic Inspirational Orchestral Music]]></title>
         <id>https://www.youtube.com/watch?v=bLc8TKVJvgU</id>
@@ -222,7 +285,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daniel Lindskog "An Image of the Past" - GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
+        <title type="html"><![CDATA[[BTS] Daniel Lindskog "An Image of the Past" - GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=U4YClI7sMnA</id>
         <link href="https://www.youtube.com/watch?v=U4YClI7sMnA"/>
         <updated>2023-08-11T13:00:22.000Z</updated>
@@ -267,7 +330,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jan Mayo "The Philippine Flora" -GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
+        <title type="html"><![CDATA[[BTS] Jan Mayo "The Philippine Flora" -GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=p-Zn_c1xcKM</id>
         <link href="https://www.youtube.com/watch?v=p-Zn_c1xcKM"/>
         <updated>2023-08-11T09:00:43.000Z</updated>
@@ -303,7 +366,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qingjun Huang "Family Stuff" - GFX Challenge Grant Program 2022/ FUJIFILM]]></title>
+        <title type="html"><![CDATA[[BTS] Qingjun Huang "Family Stuff" - GFX Challenge Grant Program 2022/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=sEnWpxrSyVs</id>
         <link href="https://www.youtube.com/watch?v=sEnWpxrSyVs"/>
         <updated>2023-08-10T12:00:52.000Z</updated>
@@ -321,7 +384,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kazuma Obara "Calvary Island - Tracing the memories of humanity" / GFX Challenge Grant Program 2022]]></title>
+        <title type="html"><![CDATA[[BTS] Kazuma Obara "Calvary Island - Tracing the memories of humanity" / GFX Challenge Grant Program]]></title>
         <id>https://www.youtube.com/watch?v=pvpSg-_5Vsk</id>
         <link href="https://www.youtube.com/watch?v=pvpSg-_5Vsk"/>
         <updated>2023-08-10T11:00:52.000Z</updated>
@@ -330,7 +393,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[David Gaberle "The Whisper of Soil" - GFX Challenge Grant Program 2022/ FUJIFILM]]></title>
+        <title type="html"><![CDATA[[BTS] David Gaberle "The Whisper of Soil" - GFX Challenge Grant Program 2022/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=Awni9G-VA2g</id>
         <link href="https://www.youtube.com/watch?v=Awni9G-VA2g"/>
         <updated>2023-08-10T11:00:12.000Z</updated>
@@ -663,15 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kochi – Lucjo (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=ckVl-c4z-W8</id>
-        <link href="https://www.youtube.com/watch?v=ckVl-c4z-W8"/>
-        <updated>2023-08-03T12:00:26.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nhạc EDM Mix Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
         <id>https://www.youtube.com/watch?v=REn0i0TFVB0</id>
         <link href="https://www.youtube.com/watch?v=REn0i0TFVB0"/>
@@ -784,24 +838,6 @@
         <id>https://www.youtube.com/watch?v=dN1R4inpHdM</id>
         <link href="https://www.youtube.com/watch?v=dN1R4inpHdM"/>
         <updated>2023-07-30T15:37:31.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=gi1VtFE4EzE</id>
-        <link href="https://www.youtube.com/watch?v=gi1VtFE4EzE"/>
-        <updated>2023-07-30T12:00:37.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful Beautiful Orchestral Music 2023 | Emotional Heroic Orchestral Music | Inspiration Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=UHSGsx4Mn7A</id>
-        <link href="https://www.youtube.com/watch?v=UHSGsx4Mn7A"/>
-        <updated>2023-07-29T13:00:32.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
         </author>
@@ -1056,33 +1092,6 @@
         <updated>2023-07-18T16:00:07.000Z</updated>
         <author>
             <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在一台Mac上安装两个macOS？新系统放心尝鲜]]></title>
-        <id>https://www.youtube.com/watch?v=Zty49n_BXlg</id>
-        <link href="https://www.youtube.com/watch?v=Zty49n_BXlg"/>
-        <updated>2023-07-18T11:00:31.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APSC 之王來臨! Sony α6700 # #SonyAlpha #α6700 #智慧創意新境界]]></title>
-        <id>https://www.youtube.com/watch?v=kcC8IAM81JM</id>
-        <link href="https://www.youtube.com/watch?v=kcC8IAM81JM"/>
-        <updated>2023-07-18T09:00:33.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[can y’all guess the feature 👀🧐]]></title>
-        <id>https://www.youtube.com/watch?v=7oqMp3NYrRs</id>
-        <link href="https://www.youtube.com/watch?v=7oqMp3NYrRs"/>
-        <updated>2023-07-17T15:04:11.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
