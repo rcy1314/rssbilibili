@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T01:12:54.180Z</id>
+    <id>urn:2023-08-22T01:13:52.477Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T01:12:54.180Z</updated>
+    <updated>2023-08-22T01:13:52.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【JS 直播班說明會】九週如何培養程式邏輯｜六角學院洧杰校長直播]]></title>
+        <id>https://www.youtube.com/watch?v=__Yd6e0Azwc</id>
+        <link href="https://www.youtube.com/watch?v=__Yd6e0Azwc"/>
+        <updated>2023-08-21T16:11:01.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#2分鐘告訴你 想成為前後端工程師，學歷跟年紀會有影響嗎？]]></title>
+        <id>https://www.youtube.com/watch?v=riDp5JF46Ns</id>
+        <link href="https://www.youtube.com/watch?v=riDp5JF46Ns"/>
+        <updated>2023-08-21T15:30:14.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory- Cinematic video/ Sony a7s3 S-log3]]></title>
+        <id>https://www.youtube.com/watch?v=S3FzBGfVYQc</id>
+        <link href="https://www.youtube.com/watch?v=S3FzBGfVYQc"/>
+        <updated>2023-08-21T15:05:10.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful Battle Music | Best Epic Battle Music Of All Times | Epic Powerful Battle Heroic Music]]></title>
+        <id>https://www.youtube.com/watch?v=GqsFbvJqaQE</id>
+        <link href="https://www.youtube.com/watch?v=GqsFbvJqaQE"/>
+        <updated>2023-08-21T13:00:13.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用最廣的鏡頭在最亂的場景拍照 ft. Nikon Z8 + 14-24mm f2.8 S]]></title>
+        <id>https://www.youtube.com/watch?v=poWcSNvslI4</id>
+        <link href="https://www.youtube.com/watch?v=poWcSNvslI4"/>
+        <updated>2023-08-21T12:30:23.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=m14ldQBPX_s</id>
+        <link href="https://www.youtube.com/watch?v=m14ldQBPX_s"/>
+        <updated>2023-08-21T12:14:52.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【黑神話：悟空】2023線下試玩報告：神珍百煉，鋒芒初露！]]></title>
+        <id>https://www.youtube.com/watch?v=klv8dLEtZac</id>
+        <link href="https://www.youtube.com/watch?v=klv8dLEtZac"/>
+        <updated>2023-08-21T12:00:40.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflakes – Tomh. (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=dzrjU1mnmeM</id>
+        <link href="https://www.youtube.com/watch?v=dzrjU1mnmeM"/>
+        <updated>2023-08-21T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大家觉得延时摄影 是前期大于后期 还是后期大于前期呢？]]></title>
+        <id>https://www.youtube.com/watch?v=UmertZYIqfM</id>
+        <link href="https://www.youtube.com/watch?v=UmertZYIqfM"/>
+        <updated>2023-08-21T11:03:01.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学者、才女、慈母，105年的生命征程【寻找·杨绛】]]></title>
+        <id>https://www.youtube.com/watch?v=iq4zlgre-2M</id>
+        <link href="https://www.youtube.com/watch?v=iq4zlgre-2M"/>
+        <updated>2023-08-21T06:15:05.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免費獲得 #一小時的轉職QA影片 一起為年底的轉職做準備！]]></title>
+        <id>https://www.youtube.com/watch?v=KN9Kle_mrU8</id>
+        <link href="https://www.youtube.com/watch?v=KN9Kle_mrU8"/>
+        <updated>2023-08-21T06:02:29.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔥 Top EDM Leo Rank Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=LkxR2O-L4-s</id>
@@ -228,15 +327,6 @@
         <updated>2023-08-16T10:10:58.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【JS 直播班說明會】九週如何培養程式邏輯｜六角學院洧杰校長直播]]></title>
-        <id>https://www.youtube.com/watch?v=__Yd6e0Azwc</id>
-        <link href="https://www.youtube.com/watch?v=__Yd6e0Azwc"/>
-        <updated>2023-08-16T08:35:22.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -654,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Venice Beach – TVARI (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=ctC9r9gvt08</id>
-        <link href="https://www.youtube.com/watch?v=ctC9r9gvt08"/>
-        <updated>2023-08-08T12:00:36.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=LWCJtqZnHlQ</id>
         <link href="https://www.youtube.com/watch?v=LWCJtqZnHlQ"/>
@@ -852,15 +933,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Mix Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2022]]></title>
-        <id>https://www.youtube.com/watch?v=REn0i0TFVB0</id>
-        <link href="https://www.youtube.com/watch?v=REn0i0TFVB0"/>
-        <updated>2023-08-03T11:00:15.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[首发] 大疆新品 ACTION 4 上手体验, 运动相机抗造王者?The most resistant action camera?]]></title>
         <id>https://www.youtube.com/watch?v=b6m_CqigcYU</id>
         <link href="https://www.youtube.com/watch?v=b6m_CqigcYU"/>
@@ -892,15 +964,6 @@
         <id>https://www.youtube.com/watch?v=r3u4jOSWy38</id>
         <link href="https://www.youtube.com/watch?v=r3u4jOSWy38"/>
         <updated>2023-08-01T13:06:41.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[War Epic Music From The Future - Epic Powerful Battle Orchestral Music - Epic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=_gQRzqw1PIE</id>
-        <link href="https://www.youtube.com/watch?v=_gQRzqw1PIE"/>
-        <updated>2023-07-31T13:25:58.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
         </author>
