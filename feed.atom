@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T01:13:52.477Z</id>
+    <id>urn:2023-08-23T01:12:56.885Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T01:13:52.477Z</updated>
+    <updated>2023-08-23T01:12:56.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[did someone say ‘dracarys’?]]></title>
+        <id>https://www.youtube.com/watch?v=No4sXTRm2O8</id>
+        <link href="https://www.youtube.com/watch?v=No4sXTRm2O8"/>
+        <updated>2023-08-22T15:28:55.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Inspirational Orchestral Music | Epic Music Mix 2023 |  Epic Heroic Orchestral Battle Music Mix]]></title>
+        <id>https://www.youtube.com/watch?v=KrDfoUWK5uw</id>
+        <link href="https://www.youtube.com/watch?v=KrDfoUWK5uw"/>
+        <updated>2023-08-22T13:00:26.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lose You – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=c20D_NNEIik</id>
+        <link href="https://www.youtube.com/watch?v=c20D_NNEIik"/>
+        <updated>2023-08-22T12:00:25.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[升降桌還能這樣用？！久坐族必備辦公室神器 減緩你的腰痠背痛｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=R-TWj5zI30w</id>
+        <link href="https://www.youtube.com/watch?v=R-TWj5zI30w"/>
+        <updated>2023-08-22T11:00:27.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【JS 直播班說明會】九週如何培養程式邏輯｜六角學院洧杰校長直播]]></title>
         <id>https://www.youtube.com/watch?v=__Yd6e0Azwc</id>
@@ -708,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Groovy – KV (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=FjnMfAAbkec</id>
-        <link href="https://www.youtube.com/watch?v=FjnMfAAbkec"/>
-        <updated>2023-08-09T12:00:14.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=Z1dMfQh5Q2g</id>
         <link href="https://www.youtube.com/watch?v=Z1dMfQh5Q2g"/>
@@ -960,15 +987,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Power of Epic Orchestral Music - Emotional Dramatic Orchestral Music | THE NEW EARTH]]></title>
-        <id>https://www.youtube.com/watch?v=r3u4jOSWy38</id>
-        <link href="https://www.youtube.com/watch?v=r3u4jOSWy38"/>
-        <updated>2023-08-01T13:06:41.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3個攝影師超推好物! 大幅提升工作效率]]></title>
         <id>https://www.youtube.com/watch?v=QIWmr5ozFYo</id>
         <link href="https://www.youtube.com/watch?v=QIWmr5ozFYo"/>
@@ -1110,33 +1128,6 @@
         <updated>2023-07-24T15:32:32.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這是京都的第一集 ｜左京區、瑠璃光院、烏龜跳石、惠文社！這樣的拍貼機真的沒問題嗎！？｜京都自由行 EP.1]]></title>
-        <id>https://www.youtube.com/watch?v=_02wrWKituI</id>
-        <link href="https://www.youtube.com/watch?v=_02wrWKituI"/>
-        <updated>2023-07-24T12:30:15.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手想學 React ？你需要【2023 React 入門攻略工作坊】四週帶你掌握主流前端框架｜晚鳥最後上車機會｜六角學院]]></title>
-        <id>https://www.youtube.com/watch?v=9xpoMBH2w1g</id>
-        <link href="https://www.youtube.com/watch?v=9xpoMBH2w1g"/>
-        <updated>2023-07-24T12:00:11.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac系统（抹盘）重装指南｜2023版]]></title>
-        <id>https://www.youtube.com/watch?v=nlkCW8dB4yk</id>
-        <link href="https://www.youtube.com/watch?v=nlkCW8dB4yk"/>
-        <updated>2023-07-24T04:00:19.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
         </author>
     </entry>
 </feed>
