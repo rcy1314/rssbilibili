@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-23T01:12:56.885Z</id>
+    <id>urn:2023-08-24T01:12:41.059Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T01:12:56.885Z</updated>
+    <updated>2023-08-24T01:12:41.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=KFJaAfQTQTI</id>
+        <link href="https://www.youtube.com/watch?v=KFJaAfQTQTI"/>
+        <updated>2023-08-23T13:00:22.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloom – Onycs (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=b15HrA8MMj0</id>
+        <link href="https://www.youtube.com/watch?v=b15HrA8MMj0"/>
+        <updated>2023-08-23T12:00:27.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#2分鐘告訴你 不辭職也能成為工程師？@hexschool]]></title>
+        <id>https://www.youtube.com/watch?v=mZajqLjsTdE</id>
+        <link href="https://www.youtube.com/watch?v=mZajqLjsTdE"/>
+        <updated>2023-08-23T09:00:35.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轉職講座】火箭隊工程師培訓營- 七個月可以學到什麼程度？｜#六角學院 洧杰校長直播]]></title>
+        <id>https://www.youtube.com/watch?v=YqIykM_4ye4</id>
+        <link href="https://www.youtube.com/watch?v=YqIykM_4ye4"/>
+        <updated>2023-08-23T06:58:04.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10亿像素不是梦——Luminar NEO的全景拼接]]></title>
+        <id>https://www.youtube.com/watch?v=VyaKcE1xmnk</id>
+        <link href="https://www.youtube.com/watch?v=VyaKcE1xmnk"/>
+        <updated>2023-08-23T03:22:45.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[did someone say ‘dracarys’?]]></title>
         <id>https://www.youtube.com/watch?v=No4sXTRm2O8</id>
@@ -672,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=BonjsLrCGcQ</id>
-        <link href="https://www.youtube.com/watch?v=BonjsLrCGcQ"/>
-        <updated>2023-08-10T12:00:10.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[BTS] Kazuma Obara "Calvary Island - Tracing the memories of humanity" / GFX Challenge Grant Program]]></title>
         <id>https://www.youtube.com/watch?v=pvpSg-_5Vsk</id>
         <link href="https://www.youtube.com/watch?v=pvpSg-_5Vsk"/>
@@ -897,15 +933,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=TKU3dPZBBhY</id>
-        <link href="https://www.youtube.com/watch?v=TKU3dPZBBhY"/>
-        <updated>2023-08-04T13:30:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[时隔六年再度爆火，他的人生不只有《成都》【寻找·赵雷】]]></title>
         <id>https://www.youtube.com/watch?v=QoTpFqhOI40</id>
         <link href="https://www.youtube.com/watch?v=QoTpFqhOI40"/>
@@ -1099,33 +1126,6 @@
         <id>https://www.youtube.com/watch?v=i8MqOLr-Bz0</id>
         <link href="https://www.youtube.com/watch?v=i8MqOLr-Bz0"/>
         <updated>2023-07-25T13:49:20.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆Air 3首发测评：最均衡的旅拍无人机！极致的性价比！DJI AIR 3 REVIEW: THE MOST BALANCED DRONE WITH A COMPETITIVE PRICE!]]></title>
-        <id>https://www.youtube.com/watch?v=PKOW-OjMxEQ</id>
-        <link href="https://www.youtube.com/watch?v=PKOW-OjMxEQ"/>
-        <updated>2023-07-25T13:00:30.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆迷你3Pro这样做不安全！无人机3个基本设定]]></title>
-        <id>https://www.youtube.com/watch?v=RtM5AXRQ9wE</id>
-        <link href="https://www.youtube.com/watch?v=RtM5AXRQ9wE"/>
-        <updated>2023-07-25T12:30:13.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drowning- Cinematic video Sony a7s3/ S-log3]]></title>
-        <id>https://www.youtube.com/watch?v=2QWI-RrTjHM</id>
-        <link href="https://www.youtube.com/watch?v=2QWI-RrTjHM"/>
-        <updated>2023-07-24T15:32:32.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
         </author>
