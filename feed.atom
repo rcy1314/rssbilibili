@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-02T01:12:03.128Z</id>
+    <id>urn:2023-09-03T01:18:08.481Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T01:12:03.128Z</updated>
+    <updated>2023-09-03T01:18:08.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[BTS] Lydia Matata "Pepo Kali" - GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=GiXEyBcedxc</id>
+        <link href="https://www.youtube.com/watch?v=GiXEyBcedxc"/>
+        <updated>2023-09-02T17:00:07.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Epic Inspiring Cinematic Music | Best Epic Heroic Orchestral Music | Epic Inspirational Music]]></title>
+        <id>https://www.youtube.com/watch?v=PL9bTbQbip8</id>
+        <link href="https://www.youtube.com/watch?v=PL9bTbQbip8"/>
+        <updated>2023-09-02T12:13:58.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beach – Sakura Girl (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=pQROEn4XbQk</id>
+        <link href="https://www.youtube.com/watch?v=pQROEn4XbQk"/>
+        <updated>2023-09-02T12:00:42.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=cm2la5BqGo4</id>
+        <link href="https://www.youtube.com/watch?v=cm2la5BqGo4"/>
+        <updated>2023-09-02T11:00:35.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #1]]></title>
         <id>https://www.youtube.com/watch?v=6xHX5d6zl44</id>
@@ -726,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voyager – Onycs (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=CpRjFn1xfZU</id>
-        <link href="https://www.youtube.com/watch?v=CpRjFn1xfZU"/>
-        <updated>2023-08-20T12:00:08.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[準備跟錢錢說再見! Sony新產品一次看-a7cII a7cR 16-35 f2.8 GM II]]></title>
         <id>https://www.youtube.com/watch?v=ZTsBJnXlslQ</id>
         <link href="https://www.youtube.com/watch?v=ZTsBJnXlslQ"/>
@@ -906,15 +933,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Nhạc EDM Gaming Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=pNyVS2jWTaM</id>
-        <link href="https://www.youtube.com/watch?v=pNyVS2jWTaM"/>
-        <updated>2023-08-15T12:09:30.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Octopus Photo Manipulation Speed Art | Photoshop Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=49NyWuLfBBY</id>
         <link href="https://www.youtube.com/watch?v=49NyWuLfBBY"/>
@@ -1047,15 +1065,6 @@
         <updated>2023-08-11T21:37:32.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful Epic Heroic Orchestral Music | Epic Music Mix | Emotional & Powerful Orchestral Music - AI]]></title>
-        <id>https://www.youtube.com/watch?v=q8FKu8DR77I</id>
-        <link href="https://www.youtube.com/watch?v=q8FKu8DR77I"/>
-        <updated>2023-08-11T15:17:56.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1245,42 +1254,6 @@
         <updated>2023-08-05T00:30:18.000Z</updated>
         <author>
             <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时隔六年再度爆火，他的人生不只有《成都》【寻找·赵雷】]]></title>
-        <id>https://www.youtube.com/watch?v=QoTpFqhOI40</id>
-        <link href="https://www.youtube.com/watch?v=QoTpFqhOI40"/>
-        <updated>2023-08-04T12:37:07.000Z</updated>
-        <author>
-            <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年8月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #1]]></title>
-        <id>https://www.youtube.com/watch?v=kcUlcxMwzQI</id>
-        <link href="https://www.youtube.com/watch?v=kcUlcxMwzQI"/>
-        <updated>2023-08-04T12:00:41.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把你的苹果设备送给孩子前，先帮ta创建一个儿童帐户吧]]></title>
-        <id>https://www.youtube.com/watch?v=km_EXUZt2YI</id>
-        <link href="https://www.youtube.com/watch?v=km_EXUZt2YI"/>
-        <updated>2023-08-04T11:00:41.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers, Shenseea - My Bad (Official Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=ap0NYd6Wm84</id>
-        <link href="https://www.youtube.com/watch?v=ap0NYd6Wm84"/>
-        <updated>2023-08-03T16:00:02.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
