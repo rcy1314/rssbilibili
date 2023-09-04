@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-03T01:18:08.481Z</id>
+    <id>urn:2023-09-04T01:15:29.999Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-03T01:18:08.481Z</updated>
+    <updated>2023-09-04T01:15:29.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Power of Epic Orchestral Music | Epic Inspirational Orchestral Music | Epic Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=P4cAWoD1QT8</id>
+        <link href="https://www.youtube.com/watch?v=P4cAWoD1QT8"/>
+        <updated>2023-09-03T13:00:13.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compromised – Ghostrifter Avalon (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=E5NzjQWFnwk</id>
+        <link href="https://www.youtube.com/watch?v=E5NzjQWFnwk"/>
+        <updated>2023-09-03T12:00:08.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=6TaodFL7cu0</id>
+        <link href="https://www.youtube.com/watch?v=6TaodFL7cu0"/>
+        <updated>2023-09-03T11:00:04.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[BTS] Lydia Matata "Pepo Kali" - GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=GiXEyBcedxc</id>
@@ -717,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snowflakes – Tomh. (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=dzrjU1mnmeM</id>
-        <link href="https://www.youtube.com/watch?v=dzrjU1mnmeM"/>
-        <updated>2023-08-21T12:00:36.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大家觉得延时摄影 是前期大于后期 还是后期大于前期呢？]]></title>
         <id>https://www.youtube.com/watch?v=UmertZYIqfM</id>
         <link href="https://www.youtube.com/watch?v=UmertZYIqfM"/>
@@ -888,15 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=-Vy-_nRGQ80</id>
-        <link href="https://www.youtube.com/watch?v=-Vy-_nRGQ80"/>
-        <updated>2023-08-16T13:02:33.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一加 Ace 2 Pro：四百区别在哪里？]]></title>
         <id>https://www.youtube.com/watch?v=yWdftqcswlI</id>
         <link href="https://www.youtube.com/watch?v=yWdftqcswlI"/>
@@ -1029,15 +1038,6 @@
         <updated>2023-08-12T20:18:52.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful Epic Orchestral Music - Epic Orchestral Music | Emotional Dramatic Ambient Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=Ep-VpW62kqw</id>
-        <link href="https://www.youtube.com/watch?v=Ep-VpW62kqw"/>
-        <updated>2023-08-12T13:00:09.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1245,15 +1245,6 @@
         <updated>2023-08-06T11:00:31.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[进化——大疆运动相机Osmo Action 4深度评测（外观，续航，过热，近距对焦，画质，夜拍，水下摄影）]]></title>
-        <id>https://www.youtube.com/watch?v=Szxn6kESBy0</id>
-        <link href="https://www.youtube.com/watch?v=Szxn6kESBy0"/>
-        <updated>2023-08-05T00:30:18.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
         </author>
     </entry>
 </feed>
