@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T01:15:29.999Z</id>
+    <id>urn:2023-09-05T01:13:32.964Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T01:15:29.999Z</updated>
+    <updated>2023-09-05T01:13:32.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[BTS] Carly Jakins - GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=IwddEZ72bQ0</id>
+        <link href="https://www.youtube.com/watch?v=IwddEZ72bQ0"/>
+        <updated>2023-09-04T23:00:10.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
+        <id>https://www.youtube.com/watch?v=g6jZwNE2ze0</id>
+        <link href="https://www.youtube.com/watch?v=g6jZwNE2ze0"/>
+        <updated>2023-09-04T15:42:44.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【轉職講座】年底想轉職？準備面試作品必做的7件事｜#六角學院 洧杰校長直播]]></title>
+        <id>https://www.youtube.com/watch?v=6ppeusxBNTM</id>
+        <link href="https://www.youtube.com/watch?v=6ppeusxBNTM"/>
+        <updated>2023-09-04T14:58:11.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] Elizabeth Moreno "Umbra" GFX Challenge Grant Program 2022/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=fc_wFhtOENY</id>
+        <link href="https://www.youtube.com/watch?v=fc_wFhtOENY"/>
+        <updated>2023-09-04T14:00:23.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小孩子才做選擇！16-35mm f2.8 v.s. 24-70mm f2.8 GM II 一次搞懂怎麼用 & 怎麼選?]]></title>
+        <id>https://www.youtube.com/watch?v=LMK1V-mmd4Q</id>
+        <link href="https://www.youtube.com/watch?v=LMK1V-mmd4Q"/>
+        <updated>2023-09-04T12:30:16.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exotic Fruit – Spiring (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=GjKnS1eKBsc</id>
+        <link href="https://www.youtube.com/watch?v=GjKnS1eKBsc"/>
+        <updated>2023-09-04T12:00:10.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做出懸浮卡片的魔法特效 用 code 寫出互動網頁特效｜老師陪我 Coding #7]]></title>
+        <id>https://www.youtube.com/watch?v=xGWf9CUk0jM</id>
+        <link href="https://www.youtube.com/watch?v=xGWf9CUk0jM"/>
+        <updated>2023-09-04T11:36:19.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top EDM Leo Rank Mix Alan Walker "Buff Cảm Hứng Cực Mạnh" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=qDiHOSwa6ms</id>
+        <link href="https://www.youtube.com/watch?v=qDiHOSwa6ms"/>
+        <updated>2023-09-04T11:00:37.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从“北大差生”到“留学教父”，新东方是如何诞生的？【奔流·俞敏洪】P1]]></title>
+        <id>https://www.youtube.com/watch?v=YOnKn8HKEWA</id>
+        <link href="https://www.youtube.com/watch?v=YOnKn8HKEWA"/>
+        <updated>2023-09-04T05:46:08.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
+        <id>https://www.youtube.com/watch?v=64JrQaNujkw</id>
+        <link href="https://www.youtube.com/watch?v=64JrQaNujkw"/>
+        <updated>2023-09-04T03:37:54.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Power of Epic Orchestral Music | Epic Inspirational Orchestral Music | Epic Music Mix 2023]]></title>
         <id>https://www.youtube.com/watch?v=P4cAWoD1QT8</id>
@@ -210,15 +300,6 @@
         <updated>2023-08-30T11:00:39.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【轉職講座】年底想轉職？準備面試作品必做的7件事｜#六角學院 洧杰校長直播]]></title>
-        <id>https://www.youtube.com/watch?v=6ppeusxBNTM</id>
-        <link href="https://www.youtube.com/watch?v=6ppeusxBNTM"/>
-        <updated>2023-08-30T02:05:42.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -663,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lose You – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=c20D_NNEIik</id>
-        <link href="https://www.youtube.com/watch?v=c20D_NNEIik"/>
-        <updated>2023-08-22T12:00:25.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[升降桌還能這樣用？！久坐族必備辦公室神器 減緩你的腰痠背痛｜六角學院]]></title>
         <id>https://www.youtube.com/watch?v=R-TWj5zI30w</id>
         <link href="https://www.youtube.com/watch?v=R-TWj5zI30w"/>
@@ -870,15 +942,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=8iYQ6SKtrNg</id>
-        <link href="https://www.youtube.com/watch?v=8iYQ6SKtrNg"/>
-        <updated>2023-08-17T12:00:06.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[玩法驚豔！小惡魔和魔女的冒險遊戲【環遊星】]]></title>
         <id>https://www.youtube.com/watch?v=1l53B-PzDX4</id>
         <link href="https://www.youtube.com/watch?v=1l53B-PzDX4"/>
@@ -1029,15 +1092,6 @@
         <updated>2023-08-13T02:31:58.000Z</updated>
         <author>
             <name>小广同学Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
-        <id>https://www.youtube.com/watch?v=g6jZwNE2ze0</id>
-        <link href="https://www.youtube.com/watch?v=g6jZwNE2ze0"/>
-        <updated>2023-08-12T20:18:52.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
     <entry>
@@ -1236,15 +1290,6 @@
         <updated>2023-08-07T11:43:38.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[送外卖的诗人，30万里路，4000首诗歌【寻找·王计兵】]]></title>
-        <id>https://www.youtube.com/watch?v=Z8hTMT9ZJfs</id>
-        <link href="https://www.youtube.com/watch?v=Z8hTMT9ZJfs"/>
-        <updated>2023-08-06T11:00:31.000Z</updated>
-        <author>
-            <name>大象放映室</name>
         </author>
     </entry>
 </feed>
