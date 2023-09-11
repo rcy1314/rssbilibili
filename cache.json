@@ -54,16 +54,6 @@
           "wordCount": null,
           "title": "did someone say ‘dracarys’?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jFtM2keg9L4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jFtM2keg9L4",
-          "publishedOn": "2023-08-11T21:37:32.000Z",
-          "wordCount": null,
-          "title": "Who wants a FREE apartment 🙋‍♂️😳",
-          "imageUrl": null
         }
       ]
     },
@@ -224,6 +214,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TlAS6YLPGog",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TlAS6YLPGog",
+          "publishedOn": "2023-09-10T12:34:43.000Z",
+          "wordCount": null,
+          "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=A-zPM01TnVg",
           "author": null,
           "description": "",
@@ -361,16 +361,6 @@
           "publishedOn": "2023-08-26T12:00:43.000Z",
           "wordCount": null,
           "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TPLdpyTkr2Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TPLdpyTkr2Y",
-          "publishedOn": "2023-08-25T12:04:33.000Z",
-          "wordCount": null,
-          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại",
           "imageUrl": null
         }
       ]
@@ -642,6 +632,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z2ExNBWcI-k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z2ExNBWcI-k",
+          "publishedOn": "2023-09-10T09:00:44.000Z",
+          "wordCount": null,
+          "title": "如果Final Cut Pro有这5个功能...... | FCP 10.6.8",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=44IrBLacvks",
           "author": null,
           "description": "",
@@ -840,7 +840,18 @@
       "title": "哲宇寇汀吧 CheYu's Coding Bar",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHX_XMhPrtvOmgGOnA2eTmA",
       "siteUrl": "https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=J99tOkS0a44",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J99tOkS0a44",
+          "publishedOn": "2023-09-11T00:00:09.000Z",
+          "wordCount": null,
+          "title": "《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 宣傳短片",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Learning Screen",
@@ -882,16 +893,6 @@
           "publishedOn": "2023-08-23T03:22:45.000Z",
           "wordCount": null,
           "title": "10亿像素不是梦——Luminar NEO的全景拼接",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8EMvFMSyljY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8EMvFMSyljY",
-          "publishedOn": "2023-08-12T05:15:54.000Z",
-          "wordCount": null,
-          "title": "绝美——奥林匹克国家公园深度游攻略（Olympic National Park）（西雅图附近的明珠：雪山、湖区、雨林、海滩）",
           "imageUrl": null
         }
       ]
@@ -1036,16 +1037,6 @@
           "publishedOn": "2023-08-21T06:15:05.000Z",
           "wordCount": null,
           "title": "学者、才女、慈母，105年的生命征程【寻找·杨绛】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LF_0aRtjgoY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LF_0aRtjgoY",
-          "publishedOn": "2023-08-12T11:21:14.000Z",
-          "wordCount": null,
-          "title": "郎朗，一个极端勤奋的天才【寻找·郎朗】",
           "imageUrl": null
         }
       ]
@@ -1492,6 +1483,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UUlMjdpt1uE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UUlMjdpt1uE",
+          "publishedOn": "2023-09-10T12:00:18.000Z",
+          "wordCount": null,
+          "title": "Vision – Mehul Choudhary (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kC4IczhnbXY",
           "author": null,
           "description": "",
@@ -1629,16 +1630,6 @@
           "publishedOn": "2023-08-29T12:00:10.000Z",
           "wordCount": null,
           "title": "I Go Beyond The Day – Pyrosion (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=svb7pdhrL_k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=svb7pdhrL_k",
-          "publishedOn": "2023-08-28T12:00:45.000Z",
-          "wordCount": null,
-          "title": "Twinkle – Roa (No Copyright Music)",
           "imageUrl": null
         }
       ]
