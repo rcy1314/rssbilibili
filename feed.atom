@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T01:14:52.590Z</id>
+    <id>urn:2023-09-22T01:15:34.354Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T01:14:52.590Z</updated>
+    <updated>2023-09-22T01:15:34.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[who’s ready for the “jungle”???]]></title>
+        <id>https://www.youtube.com/watch?v=xDnOLjBgvLQ</id>
+        <link href="https://www.youtube.com/watch?v=xDnOLjBgvLQ"/>
+        <updated>2023-09-21T16:10:14.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clouds - Next Route (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=NxOUEAD2E4s</id>
+        <link href="https://www.youtube.com/watch?v=NxOUEAD2E4s"/>
+        <updated>2023-09-21T16:00:19.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UI、前端工程師必看】The F2E 前端& UI 修煉精神時光屋｜網頁設計｜接案學｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=rb7J28_-U9E</id>
+        <link href="https://www.youtube.com/watch?v=rb7J28_-U9E"/>
+        <updated>2023-09-21T14:08:35.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Powerful Orchestral Music | Best Epic War Powerful Orchestral Music | Fighting Music 2023]]></title>
+        <id>https://www.youtube.com/watch?v=zxSiXcBTQII</id>
+        <link href="https://www.youtube.com/watch?v=zxSiXcBTQII"/>
+        <updated>2023-09-21T13:15:44.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Late Hours – Devyzed (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=YrMn4P4ryzY</id>
+        <link href="https://www.youtube.com/watch?v=YrMn4P4ryzY"/>
+        <updated>2023-09-21T12:00:24.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=YteJX2An_hc</id>
+        <link href="https://www.youtube.com/watch?v=YteJX2An_hc"/>
+        <updated>2023-09-21T11:00:31.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tvOS 17重磅功能来了！]]></title>
+        <id>https://www.youtube.com/watch?v=IeNE4-Iqv4k</id>
+        <link href="https://www.youtube.com/watch?v=IeNE4-Iqv4k"/>
+        <updated>2023-09-21T10:11:41.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebSocket 實現 1 對 1、1 對多即時通訊｜六角學院｜2023 鐵人賽 #7]]></title>
+        <id>https://www.youtube.com/watch?v=1JH3tLhyzl8</id>
+        <link href="https://www.youtube.com/watch?v=1JH3tLhyzl8"/>
+        <updated>2023-09-21T07:53:53.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GF55mmF1.7 R WR : Street photography x Alex Liverani/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=8Cs-QzqC_2c</id>
+        <link href="https://www.youtube.com/watch?v=8Cs-QzqC_2c"/>
+        <updated>2023-09-21T05:00:03.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掌握这4种创意航拍运镜，解锁国庆旅拍新玩法！｜旱地拔葱｜希区柯克｜甩尾运镜｜九宫格避障｜]]></title>
+        <id>https://www.youtube.com/watch?v=8B-bCzvkz0c</id>
+        <link href="https://www.youtube.com/watch?v=8B-bCzvkz0c"/>
+        <updated>2023-09-21T04:35:55.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[墜樓人，我可以救到你嗎？充滿反轉的遊戲【紅弦俱樂部】]]></title>
         <id>https://www.youtube.com/watch?v=fxK09k3qxJY</id>
@@ -555,24 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FUJIFILM GFX100 II Promotional Video / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=A7Av4w7RuyE</id>
-        <link href="https://www.youtube.com/watch?v=A7Av4w7RuyE"/>
-        <updated>2023-09-12T10:00:07.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UI、前端工程師必看】The F2E 前端& UI 修煉精神時光屋｜網頁設計｜接案學｜六角學院]]></title>
-        <id>https://www.youtube.com/watch?v=rb7J28_-U9E</id>
-        <link href="https://www.youtube.com/watch?v=rb7J28_-U9E"/>
-        <updated>2023-09-12T09:40:13.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[当无人机桨叶遇上西瓜会有多刺激?Crash Test #shorts #drone #dji #camera]]></title>
         <id>https://www.youtube.com/watch?v=rWCUUbYAfzA</id>
         <link href="https://www.youtube.com/watch?v=rWCUUbYAfzA"/>
@@ -744,15 +816,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Escape – Onycs (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=E1V4DMqgGXM</id>
-        <link href="https://www.youtube.com/watch?v=E1V4DMqgGXM"/>
-        <updated>2023-09-08T12:00:19.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2]]></title>
         <id>https://www.youtube.com/watch?v=J3P7-FE4y18</id>
         <link href="https://www.youtube.com/watch?v=J3P7-FE4y18"/>
@@ -795,15 +858,6 @@
         <updated>2023-09-08T04:00:10.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forest - Next Route (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=FZlSGj8xSVk</id>
-        <link href="https://www.youtube.com/watch?v=FZlSGj8xSVk"/>
-        <updated>2023-09-07T16:00:11.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -930,15 +984,6 @@
         <updated>2023-09-05T13:15:02.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=eJat7-fcB2E</id>
-        <link href="https://www.youtube.com/watch?v=eJat7-fcB2E"/>
-        <updated>2023-09-05T11:01:47.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1194,15 +1239,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 AI 做離線小恐龍、跑跑薑餅人遊戲！居然不到 4 小時就完工！｜老師陪我 Coding #6]]></title>
-        <id>https://www.youtube.com/watch?v=jEQtW26_h0o</id>
-        <link href="https://www.youtube.com/watch?v=jEQtW26_h0o"/>
-        <updated>2023-08-28T11:30:27.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【AE Landscape Dynamic Tutorial】Introduction，Join YouTube member to watch full tutorial]]></title>
         <id>https://www.youtube.com/watch?v=ejXjVt6BL6w</id>
         <link href="https://www.youtube.com/watch?v=ejXjVt6BL6w"/>
@@ -1227,15 +1263,6 @@
         <updated>2023-08-28T01:47:53.000Z</updated>
         <author>
             <name>小广同学Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Always By My Side When I Need | Epic Inspirational Orchestral Music | Powerful Epic Orchestral Musix]]></title>
-        <id>https://www.youtube.com/watch?v=ZTg8STFQl3c</id>
-        <link href="https://www.youtube.com/watch?v=ZTg8STFQl3c"/>
-        <updated>2023-08-27T13:00:32.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
     <entry>
@@ -1317,24 +1344,6 @@
         <updated>2023-08-24T07:00:16.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10亿像素不是梦——Luminar NEO的全景拼接]]></title>
-        <id>https://www.youtube.com/watch?v=VyaKcE1xmnk</id>
-        <link href="https://www.youtube.com/watch?v=VyaKcE1xmnk"/>
-        <updated>2023-08-23T03:22:45.000Z</updated>
-        <author>
-            <name>巫师后期.Wizard Retouch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[did someone say ‘dracarys’?]]></title>
-        <id>https://www.youtube.com/watch?v=No4sXTRm2O8</id>
-        <link href="https://www.youtube.com/watch?v=No4sXTRm2O8"/>
-        <updated>2023-08-22T15:28:55.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
