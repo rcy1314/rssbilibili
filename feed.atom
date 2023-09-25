@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-24T01:19:31.204Z</id>
+    <id>urn:2023-09-25T01:16:20.702Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T01:19:31.205Z</updated>
+    <updated>2023-09-25T01:16:20.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Nick和Ezzi】生态系统完整了｜DJI Transmission大疆图传接收器使用体验 对比 Teradek]]></title>
+        <id>https://www.youtube.com/watch?v=SlCiMwYmQvg</id>
+        <link href="https://www.youtube.com/watch?v=SlCiMwYmQvg"/>
+        <updated>2023-09-24T17:58:25.000Z</updated>
+        <author>
+            <name>Nick and Ezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM Leo Rank Mix Cực Phiêu "Buff Cảm Hứng Cực Mạnh" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=r_9ENFhSdtw</id>
+        <link href="https://www.youtube.com/watch?v=r_9ENFhSdtw"/>
+        <updated>2023-09-24T12:16:06.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breathing – Freddie Oliver (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=2Wyq61bdqpA</id>
+        <link href="https://www.youtube.com/watch?v=2Wyq61bdqpA"/>
+        <updated>2023-09-24T12:00:01.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheer.io 實作 Node.js 爬蟲工具｜六角學院｜2023 鐵人賽 #10]]></title>
+        <id>https://www.youtube.com/watch?v=A-Rfk8yDc2Q</id>
+        <link href="https://www.youtube.com/watch?v=A-Rfk8yDc2Q"/>
+        <updated>2023-09-24T10:41:46.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Battle Powerful Orchestral Music - WARRIOR | Inspiring Motivational Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=YTiMl48RtlU</id>
@@ -816,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Venture – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=HYZPoOTX6VI</id>
-        <link href="https://www.youtube.com/watch?v=HYZPoOTX6VI"/>
-        <updated>2023-09-11T12:00:09.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top Nhạc EDM Chơi Game "Cực Phiêu" 0 Thuốc Giải ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=OULY2UkwY7M</id>
         <link href="https://www.youtube.com/watch?v=OULY2UkwY7M"/>
@@ -939,15 +966,6 @@
         <updated>2023-09-08T12:00:16.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=oUARxxnBLOc</id>
-        <link href="https://www.youtube.com/watch?v=oUARxxnBLOc"/>
-        <updated>2023-09-08T11:01:35.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1194,15 +1212,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[履歷排列順序這麼重要！大神教你三招寫出吸睛履歷｜六角學院]]></title>
-        <id>https://www.youtube.com/watch?v=ehk88rC9K1I</id>
-        <link href="https://www.youtube.com/watch?v=ehk88rC9K1I"/>
-        <updated>2023-08-31T11:00:33.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[恒林工学椅上臀体验：椅子一放，午睡更香]]></title>
         <id>https://www.youtube.com/watch?v=--LZ_h-In5o</id>
         <link href="https://www.youtube.com/watch?v=--LZ_h-In5o"/>
@@ -1344,33 +1353,6 @@
         <updated>2023-08-26T14:28:24.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[平静、放松、自然]]></title>
-        <id>https://www.youtube.com/watch?v=VF6fYXCNMe8</id>
-        <link href="https://www.youtube.com/watch?v=VF6fYXCNMe8"/>
-        <updated>2023-08-26T08:15:34.000Z</updated>
-        <author>
-            <name>小广同学Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常見的3個新手調色錯誤! 快來看看你犯了幾個]]></title>
-        <id>https://www.youtube.com/watch?v=l2XMnJj4G98</id>
-        <link href="https://www.youtube.com/watch?v=l2XMnJj4G98"/>
-        <updated>2023-08-25T13:38:34.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原来这么拍】City Walk最佳拍档——哈苏中画幅X2D+XCD 28P旅行试机#原来这么毒 101集#]]></title>
-        <id>https://www.youtube.com/watch?v=xRQeJ_L-4OM</id>
-        <link href="https://www.youtube.com/watch?v=xRQeJ_L-4OM"/>
-        <updated>2023-08-25T13:22:03.000Z</updated>
-        <author>
-            <name>左手+</name>
         </author>
     </entry>
 </feed>
