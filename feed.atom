@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T01:16:22.050Z</id>
+    <id>urn:2023-09-27T01:16:10.926Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-26T01:16:22.050Z</updated>
+    <updated>2023-09-27T01:16:10.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I got a jungle in my 💚]]></title>
+        <id>https://www.youtube.com/watch?v=_NMiouIAODw</id>
+        <link href="https://www.youtube.com/watch?v=_NMiouIAODw"/>
+        <updated>2023-09-26T18:11:49.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Inspiration Dramatic Orchestral Music | Epic Inspirational Orchestral Music | Epic Music 2023]]></title>
+        <id>https://www.youtube.com/watch?v=vQSyPAr1yUo</id>
+        <link href="https://www.youtube.com/watch?v=vQSyPAr1yUo"/>
+        <updated>2023-09-26T14:38:16.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=DnJ7RyKr-_8</id>
+        <link href="https://www.youtube.com/watch?v=DnJ7RyKr-_8"/>
+        <updated>2023-09-26T14:37:06.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[會是今年最推薦的相機嗎？ 快速檢視 Sony Alpha 7C II基本性能、優勢以及推薦的按鈕設置]]></title>
+        <id>https://www.youtube.com/watch?v=WIfe9WQNhJs</id>
+        <link href="https://www.youtube.com/watch?v=WIfe9WQNhJs"/>
+        <updated>2023-09-26T12:30:31.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue Nights – Amine Maxwell (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Nx7nyIYzE5c</id>
+        <link href="https://www.youtube.com/watch?v=Nx7nyIYzE5c"/>
+        <updated>2023-09-26T12:00:23.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆Mini 4 Pro全向避障测试，这效果你打几分？]]></title>
+        <id>https://www.youtube.com/watch?v=4c2zLLG0fFQ</id>
+        <link href="https://www.youtube.com/watch?v=4c2zLLG0fFQ"/>
+        <updated>2023-09-26T10:00:05.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 串接第三方支付 - 藍新金流｜六角學院｜2023 鐵人賽 #12]]></title>
+        <id>https://www.youtube.com/watch?v=-eg-fRDWNFg</id>
+        <link href="https://www.youtube.com/watch?v=-eg-fRDWNFg"/>
+        <updated>2023-09-26T07:55:43.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II : the making of "CHISPA" by Karina Ripper/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=GpFtEFY2yz0</id>
+        <link href="https://www.youtube.com/watch?v=GpFtEFY2yz0"/>
+        <updated>2023-09-26T05:00:10.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II : Action Photography by Michael Clark/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=B8vPDS5JxBM</id>
+        <link href="https://www.youtube.com/watch?v=B8vPDS5JxBM"/>
+        <updated>2023-09-26T05:00:07.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II:  Short film trailer  "CHISPA"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=9JNzQxAPMsg</id>
+        <link href="https://www.youtube.com/watch?v=9JNzQxAPMsg"/>
+        <updated>2023-09-26T05:00:03.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大疆Mini 4 Pro首发体验：航拍新手？我有10个理由让你选它！]]></title>
         <id>https://www.youtube.com/watch?v=GYpUYOKrfJ8</id>
@@ -744,15 +834,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bali – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=N8A2fCb3OaM</id>
-        <link href="https://www.youtube.com/watch?v=N8A2fCb3OaM"/>
-        <updated>2023-09-13T12:00:31.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【干货】一键去除频闪！让你的延时作品丝滑流畅！]]></title>
         <id>https://www.youtube.com/watch?v=pZylSKOBedY</id>
         <link href="https://www.youtube.com/watch?v=pZylSKOBedY"/>
@@ -843,33 +924,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FUJINON GF55mmF1.7 R WR Promotional video / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=QpC6OTIgz58</id>
-        <link href="https://www.youtube.com/watch?v=QpC6OTIgz58"/>
-        <updated>2023-09-12T10:00:23.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II x Ahmet Bayer "Tempting Runic" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=ZuY8Ni2eGAw</id>
-        <link href="https://www.youtube.com/watch?v=ZuY8Ni2eGAw"/>
-        <updated>2023-09-12T10:00:20.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GF110mmF5.6 T/S Macro Promotional video/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=OqBcb82aG6c</id>
-        <link href="https://www.youtube.com/watch?v=OqBcb82aG6c"/>
-        <updated>2023-09-12T10:00:19.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[当无人机桨叶遇上西瓜会有多刺激?Crash Test #shorts #drone #dji #camera]]></title>
         <id>https://www.youtube.com/watch?v=rWCUUbYAfzA</id>
         <link href="https://www.youtube.com/watch?v=rWCUUbYAfzA"/>
@@ -939,15 +993,6 @@
         <updated>2023-09-11T00:00:09.000Z</updated>
         <author>
             <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=TlAS6YLPGog</id>
-        <link href="https://www.youtube.com/watch?v=TlAS6YLPGog"/>
-        <updated>2023-09-10T12:34:43.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1167,15 +1212,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【轉職講座】年底想轉職？準備面試作品必做的7件事｜#六角學院 洧杰校長直播]]></title>
-        <id>https://www.youtube.com/watch?v=6ppeusxBNTM</id>
-        <link href="https://www.youtube.com/watch?v=6ppeusxBNTM"/>
-        <updated>2023-09-04T14:58:11.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小孩子才做選擇！16-35mm f2.8 v.s. 24-70mm f2.8 GM II 一次搞懂怎麼用 & 怎麼選?]]></title>
         <id>https://www.youtube.com/watch?v=LMK1V-mmd4Q</id>
         <link href="https://www.youtube.com/watch?v=LMK1V-mmd4Q"/>
@@ -1311,15 +1347,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most Of Epic Music Mix 2023 | Powerful Orchestral Music Collection |World's Most Powerful Epic Music]]></title>
-        <id>https://www.youtube.com/watch?v=GMUcoDFjuRU</id>
-        <link href="https://www.youtube.com/watch?v=GMUcoDFjuRU"/>
-        <updated>2023-08-29T13:50:54.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【航拍极限挑战】赌上职业生涯的battle，我没开玩笑！Drones Extreme Battle Challenge , I'm not kidding! ！#mavic3 #Avata #dji]]></title>
         <id>https://www.youtube.com/watch?v=n5Xt7TKkijE</id>
         <link href="https://www.youtube.com/watch?v=n5Xt7TKkijE"/>
@@ -1344,42 +1371,6 @@
         <updated>2023-08-29T09:33:58.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【旅拍 | 宁夏】宁夏，风景被低估的省份，vivo X Fold2星空拍摄指南｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=dbpibFL0eZw</id>
-        <link href="https://www.youtube.com/watch?v=dbpibFL0eZw"/>
-        <updated>2023-08-28T12:00:34.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AE Landscape Dynamic Tutorial】Introduction，Join YouTube member to watch full tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=ejXjVt6BL6w</id>
-        <link href="https://www.youtube.com/watch?v=ejXjVt6BL6w"/>
-        <updated>2023-08-28T02:59:16.000Z</updated>
-        <author>
-            <name>小广同学Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[calm, relaxing, natural #aetutorial]]></title>
-        <id>https://www.youtube.com/watch?v=CgERlBqeXkE</id>
-        <link href="https://www.youtube.com/watch?v=CgERlBqeXkE"/>
-        <updated>2023-08-28T02:53:43.000Z</updated>
-        <author>
-            <name>小广同学Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AE风景动态教程】简介]]></title>
-        <id>https://www.youtube.com/watch?v=0JPr_Zrv32c</id>
-        <link href="https://www.youtube.com/watch?v=0JPr_Zrv32c"/>
-        <updated>2023-08-28T01:47:53.000Z</updated>
-        <author>
-            <name>小广同学Studio</name>
         </author>
     </entry>
 </feed>
