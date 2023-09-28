@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-27T01:16:10.926Z</id>
+    <id>urn:2023-09-28T01:15:49.325Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-27T01:16:10.926Z</updated>
+    <updated>2023-09-28T01:15:49.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[guess we chose the right man for the job]]></title>
+        <id>https://www.youtube.com/watch?v=v-1T_VMpKUg</id>
+        <link href="https://www.youtube.com/watch?v=v-1T_VMpKUg"/>
+        <updated>2023-09-27T17:28:19.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aggressive Inspiring Battle Epic Music Collection | Powerful Orchestral Music | Epic Music Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=QIkAQFKAPT4</id>
+        <link href="https://www.youtube.com/watch?v=QIkAQFKAPT4"/>
+        <updated>2023-09-27T13:04:18.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【干货】11个万能运镜合集，旅拍航拍必备！11 Drone Photography Tips]]></title>
+        <id>https://www.youtube.com/watch?v=Lq8NT-L-YLA</id>
+        <link href="https://www.youtube.com/watch?v=Lq8NT-L-YLA"/>
+        <updated>2023-09-27T12:30:10.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[86 Up – tubebackr & HiLau (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=btaqidRcxV8</id>
+        <link href="https://www.youtube.com/watch?v=btaqidRcxV8"/>
+        <updated>2023-09-27T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【旅拍 | 洛杉矶】勇闯洛杉矶，白天GTA，晚上La La Land｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=2RcHPupHiz4</id>
+        <link href="https://www.youtube.com/watch?v=2RcHPupHiz4"/>
+        <updated>2023-09-27T12:00:03.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=uiRCC8ZsjjY</id>
+        <link href="https://www.youtube.com/watch?v=uiRCC8ZsjjY"/>
+        <updated>2023-09-27T11:00:46.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[綠界科技金流串接 - Node.js｜六角學院｜2023 鐵人賽 #13]]></title>
+        <id>https://www.youtube.com/watch?v=qVaVvesLgus</id>
+        <link href="https://www.youtube.com/watch?v=qVaVvesLgus"/>
+        <updated>2023-09-27T10:51:49.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当你在大风天的山顶飞无人机……#dji #drone  #diy #djidrone #creative]]></title>
+        <id>https://www.youtube.com/watch?v=8fbL-8rPki0</id>
+        <link href="https://www.youtube.com/watch?v=8fbL-8rPki0"/>
+        <updated>2023-09-27T04:40:02.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
+        <id>https://www.youtube.com/watch?v=JNXCr2mZtpc</id>
+        <link href="https://www.youtube.com/watch?v=JNXCr2mZtpc"/>
+        <updated>2023-09-27T02:17:04.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I got a jungle in my 💚]]></title>
         <id>https://www.youtube.com/watch?v=_NMiouIAODw</id>
@@ -753,15 +834,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spark – Declan DP (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=avhPOdRbpLw</id>
-        <link href="https://www.youtube.com/watch?v=avhPOdRbpLw"/>
-        <updated>2023-09-14T12:00:02.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top Nhạc EDM Leo Rank Mix Cực Phiêu "Buff Cảm Hứng Cực Mạnh" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=nkM-Mz16Uzo</id>
         <link href="https://www.youtube.com/watch?v=nkM-Mz16Uzo"/>
@@ -933,15 +1005,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【秘密活動公布】美化網頁必看！100 份現成設計稿都在這｜網頁設計｜前端、UI ｜六角學院]]></title>
-        <id>https://www.youtube.com/watch?v=K2gjo9fvS_U</id>
-        <link href="https://www.youtube.com/watch?v=K2gjo9fvS_U"/>
-        <updated>2023-09-11T14:56:35.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Epic Powerful Orchestral Music | Powerful Heroic Epic Music Mix | Epic Cinematic Battle Music 2023]]></title>
         <id>https://www.youtube.com/watch?v=RXAcua6kYks</id>
         <link href="https://www.youtube.com/watch?v=RXAcua6kYks"/>
@@ -957,15 +1020,6 @@
         <updated>2023-09-11T12:30:02.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Nhạc EDM Chơi Game "Cực Phiêu" 0 Thuốc Giải ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=OULY2UkwY7M</id>
-        <link href="https://www.youtube.com/watch?v=OULY2UkwY7M"/>
-        <updated>2023-09-11T11:59:58.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1302,15 +1356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epic Adventure Orchestral Music | Best Epic Heroic Orchestral Music | Epic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=f3ldh_dZ5eU</id>
-        <link href="https://www.youtube.com/watch?v=f3ldh_dZ5eU"/>
-        <updated>2023-08-30T13:01:34.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[相机滤镜有必要吗？卡色磁吸圆镜视频套装]]></title>
         <id>https://www.youtube.com/watch?v=VgkHDdV8yyc</id>
         <link href="https://www.youtube.com/watch?v=VgkHDdV8yyc"/>
@@ -1344,33 +1389,6 @@
         <updated>2023-08-29T14:30:03.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【航拍极限挑战】赌上职业生涯的battle，我没开玩笑！Drones Extreme Battle Challenge , I'm not kidding! ！#mavic3 #Avata #dji]]></title>
-        <id>https://www.youtube.com/watch?v=n5Xt7TKkijE</id>
-        <link href="https://www.youtube.com/watch?v=n5Xt7TKkijE"/>
-        <updated>2023-08-29T11:30:16.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studio tour- 攝影師工作室整修開箱！]]></title>
-        <id>https://www.youtube.com/watch?v=_YvP5B2ABLU</id>
-        <link href="https://www.youtube.com/watch?v=_YvP5B2ABLU"/>
-        <updated>2023-08-29T11:02:21.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爱否】智能指纹锁，新功能对比评测，3000和300的有什么不一样？]]></title>
-        <id>https://www.youtube.com/watch?v=DnEpxJLUcAg</id>
-        <link href="https://www.youtube.com/watch?v=DnEpxJLUcAg"/>
-        <updated>2023-08-29T09:33:58.000Z</updated>
-        <author>
-            <name>爱否科技</name>
         </author>
     </entry>
 </feed>
