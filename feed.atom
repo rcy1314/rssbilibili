@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T01:15:49.325Z</id>
+    <id>urn:2023-09-29T01:15:42.587Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T01:15:49.325Z</updated>
+    <updated>2023-09-29T01:15:42.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It's Christmas Already - WOMA (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=rchy6V_4GK8</id>
+        <link href="https://www.youtube.com/watch?v=rchy6V_4GK8"/>
+        <updated>2023-09-28T16:00:43.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I kicked out 2 tennis players to film this]]></title>
+        <id>https://www.youtube.com/watch?v=bWEI6VkiROU</id>
+        <link href="https://www.youtube.com/watch?v=bWEI6VkiROU"/>
+        <updated>2023-09-28T15:00:34.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Floating – Soyb (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=UTX12uC5ExE</id>
+        <link href="https://www.youtube.com/watch?v=UTX12uC5ExE"/>
+        <updated>2023-09-28T12:00:33.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆无人机15个经典必学运镜｜DJI Mini 4 Pro]]></title>
+        <id>https://www.youtube.com/watch?v=FVpoW6u0DNI</id>
+        <link href="https://www.youtube.com/watch?v=FVpoW6u0DNI"/>
+        <updated>2023-09-28T12:00:20.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=MDeAzFl685w</id>
+        <link href="https://www.youtube.com/watch?v=MDeAzFl685w"/>
+        <updated>2023-09-28T11:15:46.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亲情告急、公司内斗、版权危机，俞敏洪的九死一生【奔流·俞敏洪】P2]]></title>
+        <id>https://www.youtube.com/watch?v=1zINl8AFjT8</id>
+        <link href="https://www.youtube.com/watch?v=1zINl8AFjT8"/>
+        <updated>2023-09-28T09:27:46.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從零開始 AWS S3 檔案上傳範例（包含 IAM 設定）｜六角學院｜2023 鐵人賽 #14]]></title>
+        <id>https://www.youtube.com/watch?v=y12KO8XM6jw</id>
+        <link href="https://www.youtube.com/watch?v=y12KO8XM6jw"/>
+        <updated>2023-09-28T08:55:36.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GF30mmF5.6 T/S x Serkan Günes / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=rtVTIyrVj1o</id>
+        <link href="https://www.youtube.com/watch?v=rtVTIyrVj1o"/>
+        <updated>2023-09-28T08:21:20.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GF55mmF1.7 R WR : Wedding photography x Caroline Tran/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=vtwP97KH3_Y</id>
+        <link href="https://www.youtube.com/watch?v=vtwP97KH3_Y"/>
+        <updated>2023-09-28T05:00:33.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEST MINI DRONE EVER! AM I RIGHT? #dji #drone #djidrone]]></title>
+        <id>https://www.youtube.com/watch?v=q0156tKT6ak</id>
+        <link href="https://www.youtube.com/watch?v=q0156tKT6ak"/>
+        <updated>2023-09-28T03:45:03.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[guess we chose the right man for the job]]></title>
         <id>https://www.youtube.com/watch?v=v-1T_VMpKUg</id>
@@ -24,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【干货】11个万能运镜合集，旅拍航拍必备！11 Drone Photography Tips]]></title>
+        <title type="html"><![CDATA[【干货】11个万能航拍运镜，旅拍vlog必备！Mini 4 Pro - 11 Drone Photography Tips]]></title>
         <id>https://www.youtube.com/watch?v=Lq8NT-L-YLA</id>
         <link href="https://www.youtube.com/watch?v=Lq8NT-L-YLA"/>
         <updated>2023-09-27T12:30:10.000Z</updated>
@@ -150,7 +240,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GFX100 II : the making of "CHISPA" by Karina Ripper/ FUJIFILM]]></title>
+        <title type="html"><![CDATA[GFX100 II : the making of "CHISPA" by Karina Lomelin Ripper / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=GpFtEFY2yz0</id>
         <link href="https://www.youtube.com/watch?v=GpFtEFY2yz0"/>
         <updated>2023-09-26T05:00:10.000Z</updated>
@@ -798,15 +888,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Healing – GalaxyTones (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=3SNcNskPFLs</id>
-        <link href="https://www.youtube.com/watch?v=3SNcNskPFLs"/>
-        <updated>2023-09-15T12:00:04.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP Nhạc EDM Mix Phiêu "Thăng Hoa Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=DgQ3SvSFW9c</id>
         <link href="https://www.youtube.com/watch?v=DgQ3SvSFW9c"/>
@@ -822,15 +903,6 @@
         <updated>2023-09-15T09:45:00.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beach - Next Route (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=QpXpeelI-FQ</id>
-        <link href="https://www.youtube.com/watch?v=QpXpeelI-FQ"/>
-        <updated>2023-09-14T16:00:27.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -924,30 +996,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[看懂原理，AJAX 原來那麼簡單！【額外提供 CRUD API 練習】]]></title>
-        <id>https://www.youtube.com/watch?v=guCdLHyEHPQ</id>
-        <link href="https://www.youtube.com/watch?v=guCdLHyEHPQ"/>
-        <updated>2023-09-13T02:13:31.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Party Never Ends - Chapter 2 - Red Rocks]]></title>
         <id>https://www.youtube.com/watch?v=h65J8XI4tu4</id>
         <link href="https://www.youtube.com/watch?v=h65J8XI4tu4"/>
         <updated>2023-09-12T14:27:55.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=Rxe1VizEeWI</id>
-        <link href="https://www.youtube.com/watch?v=Rxe1VizEeWI"/>
-        <updated>2023-09-12T13:30:09.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -973,24 +1027,6 @@
         <id>https://www.youtube.com/watch?v=ZEaLScFSumE</id>
         <link href="https://www.youtube.com/watch?v=ZEaLScFSumE"/>
         <updated>2023-09-12T10:00:34.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GF55mmF1.7 R WR: Documentary x Nora Lorek / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=S5ZEYe62tOo</id>
-        <link href="https://www.youtube.com/watch?v=S5ZEYe62tOo"/>
-        <updated>2023-09-12T10:00:29.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GF30mmF5.6 T/S Promotional video / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=bBFS3_ARzoo</id>
-        <link href="https://www.youtube.com/watch?v=bBFS3_ARzoo"/>
-        <updated>2023-09-12T10:00:28.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
         </author>
@@ -1239,15 +1275,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[无人机"倒车影像"功能上线！大疆御3黑科技来了~]]></title>
-        <id>https://www.youtube.com/watch?v=d1mfyN5tm2g</id>
-        <link href="https://www.youtube.com/watch?v=d1mfyN5tm2g"/>
-        <updated>2023-09-05T13:15:02.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用手机修大片，小米13Ultra后期思路及效果分享]]></title>
         <id>https://www.youtube.com/watch?v=xboz_2Sgf9g</id>
         <link href="https://www.youtube.com/watch?v=xboz_2Sgf9g"/>
@@ -1353,42 +1380,6 @@
         <updated>2023-08-31T03:07:47.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相机滤镜有必要吗？卡色磁吸圆镜视频套装]]></title>
-        <id>https://www.youtube.com/watch?v=VgkHDdV8yyc</id>
-        <link href="https://www.youtube.com/watch?v=VgkHDdV8yyc"/>
-        <updated>2023-08-30T12:00:25.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原来这么拍】性能几乎拉满？索尼A7CR/A7CM2/FE 16-35mm F2.8 GM II旅行拍摄测试  #原来这么毒# 102集]]></title>
-        <id>https://www.youtube.com/watch?v=FTbRrRsPsWQ</id>
-        <link href="https://www.youtube.com/watch?v=FTbRrRsPsWQ"/>
-        <updated>2023-08-29T16:09:27.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Party Never Ends - Chapter 1 - Los Angeles]]></title>
-        <id>https://www.youtube.com/watch?v=uKGMgneCMew</id>
-        <link href="https://www.youtube.com/watch?v=uKGMgneCMew"/>
-        <updated>2023-08-29T15:00:41.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邊角畫質大提升 重量大減輕 Sony 16-35mm f2.8 GM II 發表]]></title>
-        <id>https://www.youtube.com/watch?v=D1eqLFJ8GZo</id>
-        <link href="https://www.youtube.com/watch?v=D1eqLFJ8GZo"/>
-        <updated>2023-08-29T14:30:03.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
