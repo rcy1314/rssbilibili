@@ -203,6 +203,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=q48_LvHBbk0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q48_LvHBbk0",
+          "publishedOn": "2023-09-30T11:00:42.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BISjAq-40Yk",
           "author": null,
           "description": "",
@@ -341,16 +351,6 @@
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DgQ3SvSFW9c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DgQ3SvSFW9c",
-          "publishedOn": "2023-09-15T11:00:10.000Z",
-          "wordCount": null,
-          "title": "TOP Nhạc EDM Mix Phiêu \"Thăng Hoa Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -359,6 +359,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCorixDN1PDR2u7dTfO2dXdQ",
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DVqNvMk3i7A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DVqNvMk3i7A",
+          "publishedOn": "2023-09-30T14:00:07.000Z",
+          "wordCount": null,
+          "title": "Powerful Battle Orchestral Music | Best Inspiration Dramatic Orchestral Music | Epic Music Mix 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QIkAQFKAPT4",
           "author": null,
@@ -497,16 +507,6 @@
           "publishedOn": "2023-09-03T13:00:13.000Z",
           "wordCount": null,
           "title": "The Power of Epic Orchestral Music | Epic Inspirational Orchestral Music | Epic Music Mix 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PL9bTbQbip8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PL9bTbQbip8",
-          "publishedOn": "2023-09-02T12:13:58.000Z",
-          "wordCount": null,
-          "title": "Best Epic Inspiring Cinematic Music | Best Epic Heroic Orchestral Music | Epic Inspirational Music",
           "imageUrl": null
         }
       ]
@@ -718,6 +718,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=A7s8sqitq50",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A7s8sqitq50",
+          "publishedOn": "2023-09-30T02:08:49.000Z",
+          "wordCount": null,
+          "title": "GitHub OAuth 第三方登入超簡單｜六角學院｜2023 鐵人賽 #16",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=H4GmskFhSJQ",
           "author": null,
           "description": "",
@@ -855,16 +865,6 @@
           "publishedOn": "2023-09-17T05:08:05.000Z",
           "wordCount": null,
           "title": "27 分鐘示範 MVC 架構｜六角學院｜2023 鐵人賽 #3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DKulVqlQYa8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DKulVqlQYa8",
-          "publishedOn": "2023-09-16T04:33:58.000Z",
-          "wordCount": null,
-          "title": "還在用 npm？使用 pnpm 解決 node_module 塞爆硬碟的問題｜六角學院｜2023 鐵人賽 #2",
           "imageUrl": null
         }
       ]
@@ -1138,7 +1138,7 @@
           "link": "https://www.youtube.com/watch?v=d3jcmta12eU",
           "publishedOn": "2023-09-29T12:00:34.000Z",
           "wordCount": null,
-          "title": "2023年 10 款 ANIME 動漫改編手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #1",
+          "title": "2023年10款最新 ANIME 動漫改編手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #1",
           "imageUrl": null
         },
         {
@@ -1169,16 +1169,6 @@
           "publishedOn": "2023-09-08T12:00:16.000Z",
           "wordCount": null,
           "title": "2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6xHX5d6zl44",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6xHX5d6zl44",
-          "publishedOn": "2023-09-01T12:00:08.000Z",
-          "wordCount": null,
-          "title": "2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #1",
           "imageUrl": null
         }
       ]
@@ -1337,18 +1327,7 @@
       "title": "Cruising Cat风光喵",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzemv5Hi8z-G2Vb_0r2CTxw",
       "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=vvy417_UIfE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vvy417_UIfE",
-          "publishedOn": "2023-09-01T08:00:34.000Z",
-          "wordCount": null,
-          "title": "“日升月落，要再爱一次人间” | Canon R6 Mark II『4K』",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "姜本平那村的人儿",
@@ -1566,6 +1545,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UxccBBTea7I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UxccBBTea7I",
+          "publishedOn": "2023-09-30T12:00:23.000Z",
+          "wordCount": null,
+          "title": "Peach – Sakura Girl (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=W8jpfUvUA_8",
           "author": null,
           "description": "",
@@ -1703,16 +1692,6 @@
           "publishedOn": "2023-09-18T12:00:35.000Z",
           "wordCount": null,
           "title": "in my head – Rexlambo (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_2cVrHX8IVI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_2cVrHX8IVI",
-          "publishedOn": "2023-09-17T12:00:20.000Z",
-          "wordCount": null,
-          "title": "Starlight – Mehul Choudhary (No Copyright Music)",
           "imageUrl": null
         }
       ]
