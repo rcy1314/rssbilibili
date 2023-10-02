@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-01T01:25:10.222Z</id>
+    <id>urn:2023-10-02T01:16:36.655Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T01:25:10.222Z</updated>
+    <updated>2023-10-02T01:16:36.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【干货】学会这4种航拍运镜，国庆一个人也能拍大片❗️❗️Mini 4 Pro | Mavic 3 | Air 3 | Drones |Travel Video]]></title>
+        <id>https://www.youtube.com/watch?v=eYQuuzbGWLI</id>
+        <link href="https://www.youtube.com/watch?v=eYQuuzbGWLI"/>
+        <updated>2023-10-01T16:00:34.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6招用XCD 28P拍出电影感Xpan照片｜#原来这么拍# 244集]]></title>
+        <id>https://www.youtube.com/watch?v=Xty9i156qHI</id>
+        <link href="https://www.youtube.com/watch?v=Xty9i156qHI"/>
+        <updated>2023-10-01T15:08:04.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP Nhạc EDM Mix Phiêu "Thăng Hoa Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=DY7d-18oHDY</id>
+        <link href="https://www.youtube.com/watch?v=DY7d-18oHDY"/>
+        <updated>2023-10-01T14:13:06.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fading – Devyzed (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=dkZHIu81bqQ</id>
+        <link href="https://www.youtube.com/watch?v=dkZHIu81bqQ"/>
+        <updated>2023-10-01T12:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發者不可不會 Google OAuth 實作｜六角學院｜2023 鐵人賽 #17]]></title>
+        <id>https://www.youtube.com/watch?v=75brbKarbn0</id>
+        <link href="https://www.youtube.com/watch?v=75brbKarbn0"/>
+        <updated>2023-10-01T06:52:44.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Powerful Battle Orchestral Music | Best Inspiration Dramatic Orchestral Music | Epic Music Mix 2023]]></title>
         <id>https://www.youtube.com/watch?v=DVqNvMk3i7A</id>
@@ -843,15 +888,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[in my head – Rexlambo (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=dWys-lUe15E</id>
-        <link href="https://www.youtube.com/watch?v=dWys-lUe15E"/>
-        <updated>2023-09-18T12:00:35.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top Nhạc EDM Mix Cực Phiêu "Nghe Là Nghiện" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=CntxlqPmROU</id>
         <link href="https://www.youtube.com/watch?v=CntxlqPmROU"/>
@@ -888,30 +924,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[27 分鐘示範 MVC 架構｜六角學院｜2023 鐵人賽 #3]]></title>
-        <id>https://www.youtube.com/watch?v=kgcoikKc-74</id>
-        <link href="https://www.youtube.com/watch?v=kgcoikKc-74"/>
-        <updated>2023-09-17T05:08:05.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如何注册美区苹果账号？2023最新]]></title>
         <id>https://www.youtube.com/watch?v=dLnwJXJLGW8</id>
         <link href="https://www.youtube.com/watch?v=dLnwJXJLGW8"/>
         <updated>2023-09-17T03:30:18.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=OK2D6nb4Lis</id>
-        <link href="https://www.youtube.com/watch?v=OK2D6nb4Lis"/>
-        <updated>2023-09-16T12:00:15.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1272,15 +1290,6 @@
         <updated>2023-09-06T06:08:39.000Z</updated>
         <author>
             <name>小广同学Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无人机有”倒车影像“了？！遥遥领先！]]></title>
-        <id>https://www.youtube.com/watch?v=d-4OLqoJRQU</id>
-        <link href="https://www.youtube.com/watch?v=d-4OLqoJRQU"/>
-        <updated>2023-09-06T03:44:38.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
