@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T01:16:36.655Z</id>
+    <id>urn:2023-10-03T01:16:38.730Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T01:16:36.655Z</updated>
+    <updated>2023-10-03T01:16:38.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Make It Right - Vermeil In Gold [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=2oV_YjLKWww</id>
+        <link href="https://www.youtube.com/watch?v=2oV_YjLKWww"/>
+        <updated>2023-10-02T17:58:53.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高速連拍可以解決拍攝人像的困境嗎？簡單拍出 model 自然瞬間的方法  ft.潤橙實業 @reunstudio4152]]></title>
+        <id>https://www.youtube.com/watch?v=cEGgRBFRCjY</id>
+        <link href="https://www.youtube.com/watch?v=cEGgRBFRCjY"/>
+        <updated>2023-10-02T12:30:31.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feels – Roa (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=likXyYo5nlM</id>
+        <link href="https://www.youtube.com/watch?v=likXyYo5nlM"/>
+        <updated>2023-10-02T12:00:44.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=0pjtKvEUHyU</id>
+        <link href="https://www.youtube.com/watch?v=0pjtKvEUHyU"/>
+        <updated>2023-10-02T11:00:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IaaS、PaaS 是什麼？新手雲端主機怎麼選？｜六角學院｜2023 鐵人賽 #18]]></title>
+        <id>https://www.youtube.com/watch?v=Gj27EIv5Xhk</id>
+        <link href="https://www.youtube.com/watch?v=Gj27EIv5Xhk"/>
+        <updated>2023-10-02T07:43:02.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【干货】学会这4种航拍运镜，国庆一个人也能拍大片❗️❗️Mini 4 Pro | Mavic 3 | Air 3 | Drones |Travel Video]]></title>
         <id>https://www.youtube.com/watch?v=eYQuuzbGWLI</id>
@@ -807,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Escalation – Ghostrifter Avalon (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=ZH9ZhOPl6As</id>
-        <link href="https://www.youtube.com/watch?v=ZH9ZhOPl6As"/>
-        <updated>2023-09-19T12:00:32.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[别再嫌弃无人机大师镜头｜大疆迷你3Pro电影感太容易拍了]]></title>
         <id>https://www.youtube.com/watch?v=Y6yrjSCpyAE</id>
         <link href="https://www.youtube.com/watch?v=Y6yrjSCpyAE"/>
@@ -897,30 +933,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jest 單元測試 |增加應用程式穩定性｜六角學院｜2023 鐵人賽 #4]]></title>
-        <id>https://www.youtube.com/watch?v=t6gmcGENJTw</id>
-        <link href="https://www.youtube.com/watch?v=t6gmcGENJTw"/>
-        <updated>2023-09-18T08:00:41.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Powerful Epic Orchestral Music | Best Epic Battle Orchestral Music | Epic Heroic Inspiration Music]]></title>
         <id>https://www.youtube.com/watch?v=bipVIFBYKeM</id>
         <link href="https://www.youtube.com/watch?v=bipVIFBYKeM"/>
         <updated>2023-09-17T13:23:40.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=2jxO0WDTyOU</id>
-        <link href="https://www.youtube.com/watch?v=2jxO0WDTyOU"/>
-        <updated>2023-09-17T12:00:04.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1353,15 +1371,6 @@
         <updated>2023-09-04T05:46:08.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of Epic Orchestral Music | Epic Inspirational Orchestral Music | Epic Music Mix 2023]]></title>
-        <id>https://www.youtube.com/watch?v=P4cAWoD1QT8</id>
-        <link href="https://www.youtube.com/watch?v=P4cAWoD1QT8"/>
-        <updated>2023-09-03T13:00:13.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
 </feed>
