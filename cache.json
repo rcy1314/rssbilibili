@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nn1QumZXTVo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nn1QumZXTVo",
+          "publishedOn": "2023-10-04T17:11:21.000Z",
+          "wordCount": null,
+          "title": "did we miss any cities?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bWEI6VkiROU",
           "author": null,
           "description": "",
@@ -120,6 +130,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EmffPpvOPRw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EmffPpvOPRw",
+          "publishedOn": "2023-10-04T02:12:10.000Z",
+          "wordCount": null,
+          "title": "假装在旅行🛫：跟飞机舷窗有关的app",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hoC3fFCdUno",
           "author": null,
           "description": "",
@@ -213,6 +233,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uh7w-YXeqgo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uh7w-YXeqgo",
+          "publishedOn": "2023-10-04T13:30:25.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=x9svOH8bfb0",
           "author": null,
@@ -351,16 +381,6 @@
           "publishedOn": "2023-09-20T12:00:40.000Z",
           "wordCount": null,
           "title": "Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M9Bh0vQltpg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M9Bh0vQltpg",
-          "publishedOn": "2023-09-19T11:00:16.000Z",
-          "wordCount": null,
-          "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
           "imageUrl": null
         }
       ]
@@ -623,16 +643,6 @@
           "wordCount": null,
           "title": "LIVE | Editing🔥 FACECAM ???",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g6jZwNE2ze0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g6jZwNE2ze0",
-          "publishedOn": "2023-09-04T15:42:44.000Z",
-          "wordCount": null,
-          "title": "LIVE | Editing🔥 FACECAM ???",
-          "imageUrl": null
         }
       ]
     },
@@ -748,6 +758,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cUmSAGtP-70",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cUmSAGtP-70",
+          "publishedOn": "2023-10-04T12:00:37.000Z",
+          "wordCount": null,
+          "title": "使用 GitHub Action 部署 Node.js 應用｜六角學院｜2023 鐵人賽 #20",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=e9Y4sWcwsn8",
           "author": null,
@@ -886,16 +906,6 @@
           "publishedOn": "2023-09-21T07:53:53.000Z",
           "wordCount": null,
           "title": "WebSocket 實現 1 對 1、1 對多即時通訊｜六角學院｜2023 鐵人賽 #7",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0ZWo22vF4uU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0ZWo22vF4uU",
-          "publishedOn": "2023-09-20T11:07:36.000Z",
-          "wordCount": null,
-          "title": "從零開始介紹 JWT 驗證｜六角學院｜2023 鐵人賽 #6",
           "imageUrl": null
         }
       ]
@@ -1208,16 +1218,6 @@
           "wordCount": null,
           "title": "日式庭院有多美？ | 日本三大庭院之一兼六园游记",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xboz_2Sgf9g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xboz_2Sgf9g",
-          "publishedOn": "2023-09-05T09:30:09.000Z",
-          "wordCount": null,
-          "title": "用手机修大片，小米13Ultra后期思路及效果分享",
-          "imageUrl": null
         }
       ]
     },
@@ -1409,6 +1409,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-pbQuX9G8nM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-pbQuX9G8nM",
+          "publishedOn": "2023-10-04T05:00:00.000Z",
+          "wordCount": null,
+          "title": "GFX100 II: Adventure sports x Rémi Flament / FUJIFILM",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O6Eb0OMeHB8",
           "author": null,
           "description": "",
@@ -1547,16 +1557,6 @@
           "wordCount": null,
           "title": "GF55mmF1.7 R WR : Street photography x Angkul Sungthong/ FUJIFILM",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ykSI0Hevp5s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ykSI0Hevp5s",
-          "publishedOn": "2023-09-12T10:00:53.000Z",
-          "wordCount": null,
-          "title": "GF55mmF1.7 R WR: Fashion x Anushka Menon/ FUJIFILM",
-          "imageUrl": null
         }
       ]
     },
@@ -1565,6 +1565,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KoJJyRmj8s0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KoJJyRmj8s0",
+          "publishedOn": "2023-10-04T16:00:12.000Z",
+          "wordCount": null,
+          "title": "Love Poem - Soyb (No Copyright Music) | Release Preview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vA-b9cvZNLc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vA-b9cvZNLc",
+          "publishedOn": "2023-10-04T12:00:50.000Z",
+          "wordCount": null,
+          "title": "soar – Rexlambo (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=exYpZiuD3rc",
           "author": null,
@@ -1693,26 +1713,6 @@
           "publishedOn": "2023-09-22T12:00:14.000Z",
           "wordCount": null,
           "title": "Panorama – Riyhsal (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NxOUEAD2E4s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NxOUEAD2E4s",
-          "publishedOn": "2023-09-21T16:00:19.000Z",
-          "wordCount": null,
-          "title": "Clouds - Next Route (No Copyright Music) | Release Preview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YrMn4P4ryzY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YrMn4P4ryzY",
-          "publishedOn": "2023-09-21T12:00:24.000Z",
-          "wordCount": null,
-          "title": "Late Hours – Devyzed (No Copyright Music)",
           "imageUrl": null
         }
       ]
