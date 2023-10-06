@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T01:16:18.028Z</id>
+    <id>urn:2023-10-06T01:16:17.326Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T01:16:18.028Z</updated>
+    <updated>2023-10-06T01:16:17.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WARRIOR/AGGRESSIVE WAR EPIC MUSIC | Beautiful Epic Heroic Orchestral Music | Epic War Music MIX]]></title>
+        <id>https://www.youtube.com/watch?v=_h5F4ZGEnwU</id>
+        <link href="https://www.youtube.com/watch?v=_h5F4ZGEnwU"/>
+        <updated>2023-10-05T17:30:31.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reels畫質超級好的方法 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=tfNtzxCQXRE</id>
+        <link href="https://www.youtube.com/watch?v=tfNtzxCQXRE"/>
+        <updated>2023-10-05T16:06:16.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flight – Declan DP (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=h-nPgpVvctw</id>
+        <link href="https://www.youtube.com/watch?v=h-nPgpVvctw"/>
+        <updated>2023-10-05T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《霓虹深淵：無限》手遊版試玩！賽博朋克像素風格的 Roguelike 平臺射擊遊戲！帶你探索深淵中的奧秘！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！]]></title>
+        <id>https://www.youtube.com/watch?v=XOWVpdS4re4</id>
+        <link href="https://www.youtube.com/watch?v=XOWVpdS4re4"/>
+        <updated>2023-10-05T12:00:34.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何安装VPN软件实现Apple TV看网飞YouTube]]></title>
+        <id>https://www.youtube.com/watch?v=nbwouaiju0k</id>
+        <link href="https://www.youtube.com/watch?v=nbwouaiju0k"/>
+        <updated>2023-10-05T11:11:53.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=OQGkzEVqhVE</id>
+        <link href="https://www.youtube.com/watch?v=OQGkzEVqhVE"/>
+        <updated>2023-10-05T11:00:26.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain 如何運作？從零註冊一個網址並綁定至 VPS 主機｜六角學院｜2023 鐵人賽 #21]]></title>
+        <id>https://www.youtube.com/watch?v=xfoyZn0LeqQ</id>
+        <link href="https://www.youtube.com/watch?v=xfoyZn0LeqQ"/>
+        <updated>2023-10-05T08:32:17.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GF55mmF1.7 R WR: Still Life x Nando Esteva/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=uhJYRUNRStM</id>
+        <link href="https://www.youtube.com/watch?v=uhJYRUNRStM"/>
+        <updated>2023-10-05T05:00:34.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GF55mmF1.7 R WR : Street photography x Evaan Kheraj/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=iF_Ao8WK2EM</id>
+        <link href="https://www.youtube.com/watch?v=iF_Ao8WK2EM"/>
+        <updated>2023-10-05T05:00:20.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[did we miss any cities?]]></title>
         <id>https://www.youtube.com/watch?v=nn1QumZXTVo</id>
@@ -744,15 +825,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Panorama – Riyhsal (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Hz87Ulv1r_M</id>
-        <link href="https://www.youtube.com/watch?v=Hz87Ulv1r_M"/>
-        <updated>2023-09-22T12:00:14.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【旅拍 | 斯里兰卡（下）】斯里兰卡，一元的海边火车，探访印度洋眼泪｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=HnSQmsr67PQ</id>
         <link href="https://www.youtube.com/watch?v=HnSQmsr67PQ"/>
@@ -852,15 +924,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebSocket 實現 1 對 1、1 對多即時通訊｜六角學院｜2023 鐵人賽 #7]]></title>
-        <id>https://www.youtube.com/watch?v=1JH3tLhyzl8</id>
-        <link href="https://www.youtube.com/watch?v=1JH3tLhyzl8"/>
-        <updated>2023-09-21T07:53:53.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GF55mmF1.7 R WR : Street photography x Alex Liverani/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=8Cs-QzqC_2c</id>
         <link href="https://www.youtube.com/watch?v=8Cs-QzqC_2c"/>
@@ -885,15 +948,6 @@
         <updated>2023-09-20T12:00:41.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=g_kCEzXFFHc</id>
-        <link href="https://www.youtube.com/watch?v=g_kCEzXFFHc"/>
-        <updated>2023-09-20T12:00:40.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1063,24 +1117,6 @@
         <id>https://www.youtube.com/watch?v=_yjGvh-30QA</id>
         <link href="https://www.youtube.com/watch?v=_yjGvh-30QA"/>
         <updated>2023-09-14T05:00:26.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GF30mmF5.6 T/S : Architecture x Joseph Goh/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=xSVKGk2MpjE</id>
-        <link href="https://www.youtube.com/watch?v=xSVKGk2MpjE"/>
-        <updated>2023-09-14T05:00:25.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GF55mmF1.7 R WR : Street photography x Angkul Sungthong/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=XNZoIwD87P4</id>
-        <link href="https://www.youtube.com/watch?v=XNZoIwD87P4"/>
-        <updated>2023-09-14T05:00:24.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
         </author>
@@ -1308,69 +1344,6 @@
         <updated>2023-09-06T15:22:51.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【旅拍 | 阿拉善】中国不为人知的沙漠绝景，世界沙漠巡礼｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=4ovyKHHYQds</id>
-        <link href="https://www.youtube.com/watch?v=4ovyKHHYQds"/>
-        <updated>2023-09-06T12:00:04.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日式庭院有多美？ | 日本三大庭院之一兼六园游记]]></title>
-        <id>https://www.youtube.com/watch?v=j8_2TcPonS0</id>
-        <link href="https://www.youtube.com/watch?v=j8_2TcPonS0"/>
-        <updated>2023-09-06T11:00:10.000Z</updated>
-        <author>
-            <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士相机变身电脑4K摄像头（采集卡方案）]]></title>
-        <id>https://www.youtube.com/watch?v=KMXky3bwIoA</id>
-        <link href="https://www.youtube.com/watch?v=KMXky3bwIoA"/>
-        <updated>2023-09-06T10:00:22.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 After Effects 中制作风景动画视频]]></title>
-        <id>https://www.youtube.com/watch?v=7oxDSBOXns8</id>
-        <link href="https://www.youtube.com/watch?v=7oxDSBOXns8"/>
-        <updated>2023-09-06T06:08:39.000Z</updated>
-        <author>
-            <name>小广同学Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
-        <id>https://www.youtube.com/watch?v=wbThdOMs-vk</id>
-        <link href="https://www.youtube.com/watch?v=wbThdOMs-vk"/>
-        <updated>2023-09-05T16:07:32.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Heroic Powerful Orchestral Music - LEGENDARY Powerful Motivational Music Best Epic Music Hits]]></title>
-        <id>https://www.youtube.com/watch?v=d7IR33hDRFI</id>
-        <link href="https://www.youtube.com/watch?v=d7IR33hDRFI"/>
-        <updated>2023-09-05T14:00:33.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12个必学布光技巧｜别再只说三点布光了]]></title>
-        <id>https://www.youtube.com/watch?v=44IrBLacvks</id>
-        <link href="https://www.youtube.com/watch?v=44IrBLacvks"/>
-        <updated>2023-09-05T14:00:02.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
         </author>
     </entry>
 </feed>
