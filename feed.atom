@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-07T01:15:17.424Z</id>
+    <id>urn:2023-10-08T01:20:53.615Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T01:15:17.424Z</updated>
+    <updated>2023-10-08T01:20:53.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
+        <id>https://www.youtube.com/watch?v=i9bZKhYuBSk</id>
+        <link href="https://www.youtube.com/watch?v=i9bZKhYuBSk"/>
+        <updated>2023-10-07T15:24:46.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purple Sky – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=srtgmnnVdCA</id>
+        <link href="https://www.youtube.com/watch?v=srtgmnnVdCA"/>
+        <updated>2023-10-07T12:00:44.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=CEUSIA5evFU</id>
+        <link href="https://www.youtube.com/watch?v=CEUSIA5evFU"/>
+        <updated>2023-10-07T12:00:14.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人群隱匿，袖劍必殺【刺客信條：幻景】首發深度體驗]]></title>
+        <id>https://www.youtube.com/watch?v=57YAh8KdD4A</id>
+        <link href="https://www.youtube.com/watch?v=57YAh8KdD4A"/>
+        <updated>2023-10-07T12:00:07.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 分鐘入門 Docker，建立屬於你自己的 Docker Image｜六角學院｜2023 鐵人賽 #23]]></title>
+        <id>https://www.youtube.com/watch?v=RsY5cCc9RGM</id>
+        <link href="https://www.youtube.com/watch?v=RsY5cCc9RGM"/>
+        <updated>2023-10-07T09:02:15.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无人机3D字幕跟踪｜mTracker 3D]]></title>
         <id>https://www.youtube.com/watch?v=FnuWwhYfo0I</id>
@@ -807,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breathing – Freddie Oliver (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=2Wyq61bdqpA</id>
-        <link href="https://www.youtube.com/watch?v=2Wyq61bdqpA"/>
-        <updated>2023-09-24T12:00:01.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cheer.io 實作 Node.js 爬蟲工具｜六角學院｜2023 鐵人賽 #10]]></title>
         <id>https://www.youtube.com/watch?v=A-Rfk8yDc2Q</id>
         <link href="https://www.youtube.com/watch?v=A-Rfk8yDc2Q"/>
@@ -870,15 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=nWwF2Np0ODw</id>
-        <link href="https://www.youtube.com/watch?v=nWwF2Np0ODw"/>
-        <updated>2023-09-22T14:00:40.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #4]]></title>
         <id>https://www.youtube.com/watch?v=rE9QAFJxxBI</id>
         <link href="https://www.youtube.com/watch?v=rE9QAFJxxBI"/>
@@ -912,15 +939,6 @@
         <updated>2023-09-22T10:34:54.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Promise 解決 Node.js 伺服器終止運作的問題｜六角學院｜2023 鐵人賽 #8]]></title>
-        <id>https://www.youtube.com/watch?v=PQ5sFBS2HNY</id>
-        <link href="https://www.youtube.com/watch?v=PQ5sFBS2HNY"/>
-        <updated>2023-09-22T07:10:39.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -1299,60 +1317,6 @@
         <updated>2023-09-09T11:45:02.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful Heroic Epic Music | Epic Orchestral Music For Powerful Motivation | Epic Battle Music Mix]]></title>
-        <id>https://www.youtube.com/watch?v=8NEDqUx66P0</id>
-        <link href="https://www.youtube.com/watch?v=8NEDqUx66P0"/>
-        <updated>2023-09-08T13:08:51.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拍出城市烟火气，索尼新大三元使用指南｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=loADTkn9yDM</id>
-        <link href="https://www.youtube.com/watch?v=loADTkn9yDM"/>
-        <updated>2023-09-08T12:00:49.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2]]></title>
-        <id>https://www.youtube.com/watch?v=J3P7-FE4y18</id>
-        <link href="https://www.youtube.com/watch?v=J3P7-FE4y18"/>
-        <updated>2023-09-08T12:00:16.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出手销量即超千万册，爆火的当年明月为何不出新作？【寻找·当年明月】]]></title>
-        <id>https://www.youtube.com/watch?v=KuLjSs736ts</id>
-        <link href="https://www.youtube.com/watch?v=KuLjSs736ts"/>
-        <updated>2023-09-08T07:16:29.000Z</updated>
-        <author>
-            <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[价值25W的运载无人机对撞！ Drones Crash Test!#short #drone #dji #camera]]></title>
-        <id>https://www.youtube.com/watch?v=qgSK4_REd1k</id>
-        <link href="https://www.youtube.com/watch?v=qgSK4_REd1k"/>
-        <updated>2023-09-08T05:21:31.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - Summertime Friends (Official Video)]]></title>
-        <id>https://www.youtube.com/watch?v=tZdMX7ohw1I</id>
-        <link href="https://www.youtube.com/watch?v=tZdMX7ohw1I"/>
-        <updated>2023-09-08T04:00:10.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>

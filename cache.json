@@ -84,16 +84,6 @@
           "wordCount": null,
           "title": "The Party Never Ends - Chapter 2 - Red Rocks",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tZdMX7ohw1I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tZdMX7ohw1I",
-          "publishedOn": "2023-09-08T04:00:10.000Z",
-          "wordCount": null,
-          "title": "The Chainsmokers - Summertime Friends (Official Video)",
-          "imageUrl": null
         }
       ]
     },
@@ -212,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CEUSIA5evFU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CEUSIA5evFU",
+          "publishedOn": "2023-10-07T12:00:14.000Z",
+          "wordCount": null,
+          "title": "Nhạc EDM Mix Alan Walker Cực Phiêu Nhiều Cảm Xúc ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UwziWhuf0tk",
           "author": null,
@@ -350,16 +350,6 @@
           "publishedOn": "2023-09-23T12:00:12.000Z",
           "wordCount": null,
           "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nWwF2Np0ODw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nWwF2Np0ODw",
-          "publishedOn": "2023-09-22T14:00:40.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
         }
       ]
@@ -508,16 +498,6 @@
           "wordCount": null,
           "title": "100 Years War - Best Epic Heroic Orchestral Music | Epic Powerful Orchestral Battle Mix",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8NEDqUx66P0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8NEDqUx66P0",
-          "publishedOn": "2023-09-08T13:08:51.000Z",
-          "wordCount": null,
-          "title": "Powerful Heroic Epic Music | Epic Orchestral Music For Powerful Motivation | Epic Battle Music Mix",
-          "imageUrl": null
         }
       ]
     },
@@ -603,6 +583,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
       "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i9bZKhYuBSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i9bZKhYuBSk",
+          "publishedOn": "2023-10-07T15:24:46.000Z",
+          "wordCount": null,
+          "title": "LIVE | Editing🔥 FACECAM ???",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2oV_YjLKWww",
           "author": null,
@@ -748,6 +738,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RsY5cCc9RGM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RsY5cCc9RGM",
+          "publishedOn": "2023-10-07T09:02:15.000Z",
+          "wordCount": null,
+          "title": "20 分鐘入門 Docker，建立屬於你自己的 Docker Image｜六角學院｜2023 鐵人賽 #23",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JZf_Z8p5IJo",
           "author": null,
           "description": "",
@@ -885,16 +885,6 @@
           "publishedOn": "2023-09-23T06:33:31.000Z",
           "wordCount": null,
           "title": "使用 Puppeteer 實現自動化測試｜六角學院｜2023 鐵人賽 #9",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PQ5sFBS2HNY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PQ5sFBS2HNY",
-          "publishedOn": "2023-09-22T07:10:39.000Z",
-          "wordCount": null,
-          "title": "使用 Promise 解決 Node.js 伺服器終止運作的問題｜六角學院｜2023 鐵人賽 #8",
           "imageUrl": null
         }
       ]
@@ -1079,16 +1069,6 @@
           "wordCount": null,
           "title": "【干货】60s学会一键增稳！航拍延时必学！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qgSK4_REd1k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qgSK4_REd1k",
-          "publishedOn": "2023-09-08T05:21:31.000Z",
-          "wordCount": null,
-          "title": "价值25W的运载无人机对撞！ Drones Crash Test!#short #drone #dji #camera",
-          "imageUrl": null
         }
       ]
     },
@@ -1106,16 +1086,6 @@
           "wordCount": null,
           "title": "亲情告急、公司内斗、版权危机，俞敏洪的九死一生【奔流·俞敏洪】P2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KuLjSs736ts",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KuLjSs736ts",
-          "publishedOn": "2023-09-08T07:16:29.000Z",
-          "wordCount": null,
-          "title": "出手销量即超千万册，爆火的当年明月为何不出新作？【寻找·当年明月】",
-          "imageUrl": null
         }
       ]
     },
@@ -1124,6 +1094,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm4cFzs3Iotlu27fOP_KwlA",
       "siteUrl": "https://www.youtube.com/channel/UCm4cFzs3Iotlu27fOP_KwlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=57YAh8KdD4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=57YAh8KdD4A",
+          "publishedOn": "2023-10-07T12:00:07.000Z",
+          "wordCount": null,
+          "title": "人群隱匿，袖劍必殺【刺客信條：幻景】首發深度體驗",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fxK09k3qxJY",
           "author": null,
@@ -1189,16 +1169,6 @@
           "publishedOn": "2023-09-15T12:00:45.000Z",
           "wordCount": null,
           "title": "2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J3P7-FE4y18",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J3P7-FE4y18",
-          "publishedOn": "2023-09-08T12:00:16.000Z",
-          "wordCount": null,
-          "title": "2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2",
           "imageUrl": null
         }
       ]
@@ -1302,16 +1272,6 @@
           "publishedOn": "2023-09-20T12:00:33.000Z",
           "wordCount": null,
           "title": "【旅拍 | 斯里兰卡（上）】斯里兰卡，破产国家的意外惊喜之旅｜陈曦Stanley",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=loADTkn9yDM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=loADTkn9yDM",
-          "publishedOn": "2023-09-08T12:00:49.000Z",
-          "wordCount": null,
-          "title": "拍出城市烟火气，索尼新大三元使用指南｜陈曦Stanley",
           "imageUrl": null
         }
       ]
@@ -1544,6 +1504,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=srtgmnnVdCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=srtgmnnVdCA",
+          "publishedOn": "2023-10-07T12:00:44.000Z",
+          "wordCount": null,
+          "title": "Purple Sky – Scandinavianz (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mSlVaa1Ivuc",
           "author": null,
           "description": "",
@@ -1681,16 +1651,6 @@
           "publishedOn": "2023-09-25T12:00:06.000Z",
           "wordCount": null,
           "title": "Eternity – Roa (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2Wyq61bdqpA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2Wyq61bdqpA",
-          "publishedOn": "2023-09-24T12:00:01.000Z",
-          "wordCount": null,
-          "title": "Breathing – Freddie Oliver (No Copyright Music)",
           "imageUrl": null
         }
       ]
