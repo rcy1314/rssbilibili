@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-09T01:16:02.514Z</id>
+    <id>urn:2023-10-10T01:15:43.323Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T01:16:02.514Z</updated>
+    <updated>2023-10-10T01:15:43.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Docker 搭配 GitHub Action，git push 達成自動化部屬｜六角學院｜2023 鐵人賽 #26]]></title>
+        <id>https://www.youtube.com/watch?v=NXhTMrlooic</id>
+        <link href="https://www.youtube.com/watch?v=NXhTMrlooic"/>
+        <updated>2023-10-10T01:12:59.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【防炸机指南】无人机10条航拍安全守则，新手看它就够了！]]></title>
+        <id>https://www.youtube.com/watch?v=KJSO6MwyDxU</id>
+        <link href="https://www.youtube.com/watch?v=KJSO6MwyDxU"/>
+        <updated>2023-10-09T12:44:49.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要追焦就追最快的！F1 拍攝初體驗 - Nikon 180-600mm f/5.6-6.3 VR 開箱 ｜除了運動、飛羽還能拍人像]]></title>
+        <id>https://www.youtube.com/watch?v=01siF_7EEXQ</id>
+        <link href="https://www.youtube.com/watch?v=01siF_7EEXQ"/>
+        <updated>2023-10-09T12:30:00.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Motion – Pold & Baribal (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=4sMHVzfZ5yo</id>
+        <link href="https://www.youtube.com/watch?v=4sMHVzfZ5yo"/>
+        <updated>2023-10-09T12:00:04.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP Nhạc EDM Mix Phiêu "Thăng Hoa Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 ♫ EDM Alan Walker]]></title>
+        <id>https://www.youtube.com/watch?v=9VT8-SPy_AI</id>
+        <link href="https://www.youtube.com/watch?v=9VT8-SPy_AI"/>
+        <updated>2023-10-09T11:00:14.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你觉得好画质是拍出来的，还是调出来的？ #dji #drone #djimini4pro #colorgrading]]></title>
+        <id>https://www.youtube.com/watch?v=Dun4y8Vpm_o</id>
+        <link href="https://www.youtube.com/watch?v=Dun4y8Vpm_o"/>
+        <updated>2023-10-09T03:49:22.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV做旁路实现全家设备愉快上网]]></title>
+        <id>https://www.youtube.com/watch?v=VIZmcmhvv24</id>
+        <link href="https://www.youtube.com/watch?v=VIZmcmhvv24"/>
+        <updated>2023-10-09T03:45:02.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超容易！10 分鐘透過 Docker hub 部署 image｜六角學院｜2023 鐵人賽 #25]]></title>
+        <id>https://www.youtube.com/watch?v=hxX5MIohy1Q</id>
+        <link href="https://www.youtube.com/watch?v=hxX5MIohy1Q"/>
+        <updated>2023-10-09T01:44:45.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=RTjkEKM1fV0</id>
@@ -762,15 +834,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Nights – Amine Maxwell (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Nx7nyIYzE5c</id>
-        <link href="https://www.youtube.com/watch?v=Nx7nyIYzE5c"/>
-        <updated>2023-09-26T12:00:23.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大疆Mini 4 Pro全向避障测试，这效果你打几分？]]></title>
         <id>https://www.youtube.com/watch?v=4c2zLLG0fFQ</id>
         <link href="https://www.youtube.com/watch?v=4c2zLLG0fFQ"/>
@@ -843,15 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上手無門檻、部署超快速的雲服務 (ft. Zeabur)｜六角學院｜2023 鐵人賽 #11]]></title>
-        <id>https://www.youtube.com/watch?v=OoLqwr7vYsk</id>
-        <link href="https://www.youtube.com/watch?v=OoLqwr7vYsk"/>
-        <updated>2023-09-25T11:33:11.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=qZ0K3BRUUAc</id>
         <link href="https://www.youtube.com/watch?v=qZ0K3BRUUAc"/>
@@ -876,24 +930,6 @@
         <updated>2023-09-24T17:58:25.000Z</updated>
         <author>
             <name>Nick and Ezzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Nhạc EDM Leo Rank Mix Cực Phiêu "Buff Cảm Hứng Cực Mạnh" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=r_9ENFhSdtw</id>
-        <link href="https://www.youtube.com/watch?v=r_9ENFhSdtw"/>
-        <updated>2023-09-24T12:16:06.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheer.io 實作 Node.js 爬蟲工具｜六角學院｜2023 鐵人賽 #10]]></title>
-        <id>https://www.youtube.com/watch?v=A-Rfk8yDc2Q</id>
-        <link href="https://www.youtube.com/watch?v=A-Rfk8yDc2Q"/>
-        <updated>2023-09-24T10:41:46.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -1299,24 +1335,6 @@
         <updated>2023-09-11T00:00:09.000Z</updated>
         <author>
             <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果Final Cut Pro有这5个功能...... | FCP 10.6.8]]></title>
-        <id>https://www.youtube.com/watch?v=z2ExNBWcI-k</id>
-        <link href="https://www.youtube.com/watch?v=z2ExNBWcI-k"/>
-        <updated>2023-09-10T09:00:44.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100 Years War - Best Epic Heroic Orchestral Music | Epic Powerful Orchestral Battle Mix]]></title>
-        <id>https://www.youtube.com/watch?v=mq2ZsovCz-o</id>
-        <link href="https://www.youtube.com/watch?v=mq2ZsovCz-o"/>
-        <updated>2023-09-09T15:34:35.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
 </feed>

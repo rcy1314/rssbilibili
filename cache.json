@@ -99,6 +99,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VIZmcmhvv24",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VIZmcmhvv24",
+          "publishedOn": "2023-10-09T03:45:02.000Z",
+          "wordCount": null,
+          "title": "Apple TV做旁路实现全家设备愉快上网",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nbwouaiju0k",
           "author": null,
           "description": "",
@@ -192,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9VT8-SPy_AI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9VT8-SPy_AI",
+          "publishedOn": "2023-10-09T11:00:14.000Z",
+          "wordCount": null,
+          "title": "TOP Nhạc EDM Mix Phiêu \"Thăng Hoa Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 ♫ EDM Alan Walker",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RTjkEKM1fV0",
           "author": null,
@@ -331,16 +351,6 @@
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r_9ENFhSdtw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r_9ENFhSdtw",
-          "publishedOn": "2023-09-24T12:16:06.000Z",
-          "wordCount": null,
-          "title": "Top Nhạc EDM Leo Rank Mix Cực Phiêu \"Buff Cảm Hứng Cực Mạnh\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -477,16 +487,6 @@
           "publishedOn": "2023-09-11T14:05:10.000Z",
           "wordCount": null,
           "title": "Epic Powerful Orchestral Music | Powerful Heroic Epic Music Mix | Epic Cinematic Battle Music 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mq2ZsovCz-o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mq2ZsovCz-o",
-          "publishedOn": "2023-09-09T15:34:35.000Z",
-          "wordCount": null,
-          "title": "100 Years War - Best Epic Heroic Orchestral Music | Epic Powerful Orchestral Battle Mix",
           "imageUrl": null
         }
       ]
@@ -709,16 +709,6 @@
           "wordCount": null,
           "title": "相机传感器有手指纹？如何亲手清洁传感器",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z2ExNBWcI-k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z2ExNBWcI-k",
-          "publishedOn": "2023-09-10T09:00:44.000Z",
-          "wordCount": null,
-          "title": "如果Final Cut Pro有这5个功能...... | FCP 10.6.8",
-          "imageUrl": null
         }
       ]
     },
@@ -727,6 +717,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NXhTMrlooic",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NXhTMrlooic",
+          "publishedOn": "2023-10-10T01:12:59.000Z",
+          "wordCount": null,
+          "title": "Docker 搭配 GitHub Action，git push 達成自動化部屬｜六角學院｜2023 鐵人賽 #26",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hxX5MIohy1Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hxX5MIohy1Q",
+          "publishedOn": "2023-10-09T01:44:45.000Z",
+          "wordCount": null,
+          "title": "超容易！10 分鐘透過 Docker hub 部署 image｜六角學院｜2023 鐵人賽 #25",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JocSDHOFNzw",
           "author": null,
@@ -856,26 +866,6 @@
           "wordCount": null,
           "title": "Node.js 串接第三方支付 - 藍新金流｜六角學院｜2023 鐵人賽 #12",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OoLqwr7vYsk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OoLqwr7vYsk",
-          "publishedOn": "2023-09-25T11:33:11.000Z",
-          "wordCount": null,
-          "title": "上手無門檻、部署超快速的雲服務 (ft. Zeabur)｜六角學院｜2023 鐵人賽 #11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A-Rfk8yDc2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A-Rfk8yDc2Q",
-          "publishedOn": "2023-09-24T10:41:46.000Z",
-          "wordCount": null,
-          "title": "Cheer.io 實作 Node.js 爬蟲工具｜六角學院｜2023 鐵人賽 #10",
-          "imageUrl": null
         }
       ]
     },
@@ -940,6 +930,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KJSO6MwyDxU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KJSO6MwyDxU",
+          "publishedOn": "2023-10-09T12:44:49.000Z",
+          "wordCount": null,
+          "title": "【防炸机指南】无人机10条航拍安全守则，新手看它就够了！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Dun4y8Vpm_o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dun4y8Vpm_o",
+          "publishedOn": "2023-10-09T03:49:22.000Z",
+          "wordCount": null,
+          "title": "你觉得好画质是拍出来的，还是调出来的？ #dji #drone #djimini4pro #colorgrading",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eYQuuzbGWLI",
           "author": null,
@@ -1300,6 +1310,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=01siF_7EEXQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=01siF_7EEXQ",
+          "publishedOn": "2023-10-09T12:30:00.000Z",
+          "wordCount": null,
+          "title": "要追焦就追最快的！F1 拍攝初體驗 - Nikon 180-600mm f/5.6-6.3 VR 開箱 ｜除了運動、飛羽還能拍人像",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cEGgRBFRCjY",
           "author": null,
           "description": "",
@@ -1504,6 +1524,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4sMHVzfZ5yo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4sMHVzfZ5yo",
+          "publishedOn": "2023-10-09T12:00:04.000Z",
+          "wordCount": null,
+          "title": "In Motion – Pold & Baribal (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eQnt5NLuIJ4",
           "author": null,
           "description": "",
@@ -1641,16 +1671,6 @@
           "publishedOn": "2023-09-27T12:00:36.000Z",
           "wordCount": null,
           "title": "86 Up – tubebackr & HiLau (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Nx7nyIYzE5c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Nx7nyIYzE5c",
-          "publishedOn": "2023-09-26T12:00:23.000Z",
-          "wordCount": null,
-          "title": "Blue Nights – Amine Maxwell (No Copyright Music)",
           "imageUrl": null
         }
       ]
