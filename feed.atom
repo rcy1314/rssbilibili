@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T01:15:43.323Z</id>
+    <id>urn:2023-10-11T01:15:47.022Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T01:15:43.323Z</updated>
+    <updated>2023-10-11T01:15:47.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JS 面試常見核心知識 - 變數與作用域篇]]></title>
+        <id>https://www.youtube.com/watch?v=bKbaDXLACkE</id>
+        <link href="https://www.youtube.com/watch?v=bKbaDXLACkE"/>
+        <updated>2023-10-11T01:00:48.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人机界的优雅王者‼️  #dronevideo  #djidrone #dji]]></title>
+        <id>https://www.youtube.com/watch?v=k9YHrLielUg</id>
+        <link href="https://www.youtube.com/watch?v=k9YHrLielUg"/>
+        <updated>2023-10-10T16:00:36.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calypso - Next Route (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=MU_nHof9o3g</id>
+        <link href="https://www.youtube.com/watch?v=MU_nHof9o3g"/>
+        <updated>2023-10-10T16:00:16.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Heroic Powerful Orchestral Music - Most Epic Battle Orchestral Music | Epic Inspirational Music]]></title>
+        <id>https://www.youtube.com/watch?v=KzEhnQW382k</id>
+        <link href="https://www.youtube.com/watch?v=KzEhnQW382k"/>
+        <updated>2023-10-10T14:00:15.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skyline Mirage – Artificial.Music (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=uMR3aLRLnZ8</id>
+        <link href="https://www.youtube.com/watch?v=uMR3aLRLnZ8"/>
+        <updated>2023-10-10T12:00:44.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影響影片品質的一個重要關鍵. Ft. Hollyland lark max]]></title>
+        <id>https://www.youtube.com/watch?v=Rdq-R_c-cps</id>
+        <link href="https://www.youtube.com/watch?v=Rdq-R_c-cps"/>
+        <updated>2023-10-10T12:00:21.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=emvX4NCRlwo</id>
+        <link href="https://www.youtube.com/watch?v=emvX4NCRlwo"/>
+        <updated>2023-10-10T11:00:26.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆 DJI Inspire3 最帅的无人机⁉️#dji #drone #inspire3 #djidrone]]></title>
+        <id>https://www.youtube.com/watch?v=1JE7FMuIJLI</id>
+        <link href="https://www.youtube.com/watch?v=1JE7FMuIJLI"/>
+        <updated>2023-10-10T07:01:43.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II: Wildlife x Alexandrov Klum/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=N5zdyCSENms</id>
+        <link href="https://www.youtube.com/watch?v=N5zdyCSENms"/>
+        <updated>2023-10-10T05:00:17.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II : Fine Art x Cig Harvey/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=f4EJXldI5wA</id>
+        <link href="https://www.youtube.com/watch?v=f4EJXldI5wA"/>
+        <updated>2023-10-10T05:00:17.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Docker 搭配 GitHub Action，git push 達成自動化部屬｜六角學院｜2023 鐵人賽 #26]]></title>
         <id>https://www.youtube.com/watch?v=NXhTMrlooic</id>
@@ -645,15 +735,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Floating – Soyb (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=UTX12uC5ExE</id>
-        <link href="https://www.youtube.com/watch?v=UTX12uC5ExE"/>
-        <updated>2023-09-28T12:00:33.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大疆无人机15个经典必学运镜｜DJI Mini 4 Pro]]></title>
         <id>https://www.youtube.com/watch?v=FVpoW6u0DNI</id>
         <link href="https://www.youtube.com/watch?v=FVpoW6u0DNI"/>
@@ -741,15 +822,6 @@
         <updated>2023-09-27T12:30:10.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[86 Up – tubebackr & HiLau (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=btaqidRcxV8</id>
-        <link href="https://www.youtube.com/watch?v=btaqidRcxV8"/>
-        <updated>2023-09-27T12:00:36.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -843,15 +915,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js 串接第三方支付 - 藍新金流｜六角學院｜2023 鐵人賽 #12]]></title>
-        <id>https://www.youtube.com/watch?v=-eg-fRDWNFg</id>
-        <link href="https://www.youtube.com/watch?v=-eg-fRDWNFg"/>
-        <updated>2023-09-26T07:55:43.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GFX100 II : the making of "CHISPA" by Karina Lomelin Ripper / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=GpFtEFY2yz0</id>
         <link href="https://www.youtube.com/watch?v=GpFtEFY2yz0"/>
@@ -903,15 +966,6 @@
         <updated>2023-09-25T13:00:02.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=qZ0K3BRUUAc</id>
-        <link href="https://www.youtube.com/watch?v=qZ0K3BRUUAc"/>
-        <updated>2023-09-25T11:00:44.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1131,24 +1185,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GFX100 II : The Making of the short film "Gemma" - Christina Ienna/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=eoUzB8he1pk</id>
-        <link href="https://www.youtube.com/watch?v=eoUzB8he1pk"/>
-        <updated>2023-09-19T05:00:17.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II: Short Film Trailer "Gemma" by Christina Ienna/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=-pKqOu5zvuw</id>
-        <link href="https://www.youtube.com/watch?v=-pKqOu5zvuw"/>
-        <updated>2023-09-19T05:00:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iOS 17我喜欢的几个新变化]]></title>
         <id>https://www.youtube.com/watch?v=ry5hn449ons</id>
         <link href="https://www.youtube.com/watch?v=ry5hn449ons"/>
@@ -1284,57 +1320,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[当无人机桨叶遇上西瓜会有多刺激?Crash Test #shorts #drone #dji #camera]]></title>
-        <id>https://www.youtube.com/watch?v=rWCUUbYAfzA</id>
-        <link href="https://www.youtube.com/watch?v=rWCUUbYAfzA"/>
-        <updated>2023-09-12T03:59:05.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Epic Powerful Orchestral Music | Powerful Heroic Epic Music Mix | Epic Cinematic Battle Music 2023]]></title>
         <id>https://www.youtube.com/watch?v=RXAcua6kYks</id>
         <link href="https://www.youtube.com/watch?v=RXAcua6kYks"/>
         <updated>2023-09-11T14:05:10.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人像攝影3步驟讓你拍更好！取景、服裝、構圖、引導一次到位！嘿嘿～～]]></title>
-        <id>https://www.youtube.com/watch?v=5GcLtO_fMvg</id>
-        <link href="https://www.youtube.com/watch?v=5GcLtO_fMvg"/>
-        <updated>2023-09-11T12:30:02.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【干货】60s学会一键增稳！航拍延时必学！]]></title>
-        <id>https://www.youtube.com/watch?v=e2eikMwoUr4</id>
-        <link href="https://www.youtube.com/watch?v=e2eikMwoUr4"/>
-        <updated>2023-09-11T11:45:53.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infuse7 6支持添加阿里云盘]]></title>
-        <id>https://www.youtube.com/watch?v=PWQYUozC8Ho</id>
-        <link href="https://www.youtube.com/watch?v=PWQYUozC8Ho"/>
-        <updated>2023-09-11T03:45:02.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 宣傳短片]]></title>
-        <id>https://www.youtube.com/watch?v=J99tOkS0a44</id>
-        <link href="https://www.youtube.com/watch?v=J99tOkS0a44"/>
-        <updated>2023-09-11T00:00:09.000Z</updated>
-        <author>
-            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
         </author>
     </entry>
 </feed>
