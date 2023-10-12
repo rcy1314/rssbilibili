@@ -1,15 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-11T01:15:47.022Z</id>
+    <id>urn:2023-10-12T01:14:03.120Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T01:15:47.022Z</updated>
+    <updated>2023-10-12T01:14:03.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
+        <title type="html"><![CDATA[起猛了，无人机 #drone  #dji  #quadcopter #creative #djidrone]]></title>
+        <id>https://www.youtube.com/watch?v=Xq_F2ruRcYg</id>
+        <link href="https://www.youtube.com/watch?v=Xq_F2ruRcYg"/>
+        <updated>2023-10-11T16:00:21.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Ground - Jay Someday (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=M5_vF45zy5I</id>
+        <link href="https://www.youtube.com/watch?v=M5_vF45zy5I"/>
+        <updated>2023-10-11T16:00:13.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power Of Epic Music | Epic Orchestral Music For Powerful Motivation | Inspiring Cinematic Music]]></title>
+        <id>https://www.youtube.com/watch?v=sirOjWs4viE</id>
+        <link href="https://www.youtube.com/watch?v=sirOjWs4viE"/>
+        <updated>2023-10-11T14:32:13.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM Mix Cực Phiêu “Xoá Tan Mọi Cảm Xúc” ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=Ey-E7jHOGwY</id>
+        <link href="https://www.youtube.com/watch?v=Ey-E7jHOGwY"/>
+        <updated>2023-10-11T14:17:57.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i was in love once – Rexlambo (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=zrv4fBZYZDo</id>
+        <link href="https://www.youtube.com/watch?v=zrv4fBZYZDo"/>
+        <updated>2023-10-11T12:00:51.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【旅拍 | 一号公路】头顶是加州橘色的阳光，脚下是太平洋彼岸汹涌的浪花｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=4bjsb5HsW_4</id>
+        <link href="https://www.youtube.com/watch?v=4bjsb5HsW_4"/>
+        <updated>2023-10-11T12:00:04.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Portainer 的 GUI 管理伺服器 Docker 服務｜六角學院｜2023 鐵人賽 #27]]></title>
+        <id>https://www.youtube.com/watch?v=o7ZPkruxRbg</id>
+        <link href="https://www.youtube.com/watch?v=o7ZPkruxRbg"/>
+        <updated>2023-10-11T03:56:02.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JS 面試常見核心知識 - 變數與作用域篇]]></title>
-        <id>https://www.youtube.com/watch?v=bKbaDXLACkE</id>
-        <link href="https://www.youtube.com/watch?v=bKbaDXLACkE"/>
-        <updated>2023-10-11T01:00:48.000Z</updated>
+        <id>https://www.youtube.com/watch?v=e0X2eOpY_vM</id>
+        <link href="https://www.youtube.com/watch?v=e0X2eOpY_vM"/>
+        <updated>2023-10-11T02:18:37.000Z</updated>
         <author>
             <name>六角學院</name>
         </author>
@@ -96,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker 搭配 GitHub Action，git push 達成自動化部屬｜六角學院｜2023 鐵人賽 #26]]></title>
+        <title type="html"><![CDATA[Docker 搭配 GitHub Action，git push 達成自動化部署｜六角學院｜2023 鐵人賽 #26]]></title>
         <id>https://www.youtube.com/watch?v=NXhTMrlooic</id>
         <link href="https://www.youtube.com/watch?v=NXhTMrlooic"/>
         <updated>2023-10-10T01:12:59.000Z</updated>
@@ -681,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Empathic Prosperity – Artificial.Music (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=W8jpfUvUA_8</id>
-        <link href="https://www.youtube.com/watch?v=W8jpfUvUA_8"/>
-        <updated>2023-09-29T12:00:22.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[關於夜拍你必須要知道的4件事情]]></title>
         <id>https://www.youtube.com/watch?v=AB67zQX8ACI</id>
         <link href="https://www.youtube.com/watch?v=AB67zQX8ACI"/>
@@ -714,15 +768,6 @@
         <updated>2023-09-29T05:02:21.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Christmas Already - WOMA (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=rchy6V_4GK8</id>
-        <link href="https://www.youtube.com/watch?v=rchy6V_4GK8"/>
-        <updated>2023-09-28T16:00:43.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -843,15 +888,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[綠界科技金流串接 - Node.js｜六角學院｜2023 鐵人賽 #13]]></title>
-        <id>https://www.youtube.com/watch?v=qVaVvesLgus</id>
-        <link href="https://www.youtube.com/watch?v=qVaVvesLgus"/>
-        <updated>2023-09-27T10:51:49.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[当你在大风天的山顶飞无人机……#dji #drone  #diy #djidrone #creative]]></title>
         <id>https://www.youtube.com/watch?v=8fbL-8rPki0</id>
         <link href="https://www.youtube.com/watch?v=8fbL-8rPki0"/>
@@ -885,15 +921,6 @@
         <updated>2023-09-26T14:38:16.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=DnJ7RyKr-_8</id>
-        <link href="https://www.youtube.com/watch?v=DnJ7RyKr-_8"/>
-        <updated>2023-09-26T14:37:06.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1293,15 +1320,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【干货】一键去除频闪！让你的延时作品丝滑流畅！]]></title>
-        <id>https://www.youtube.com/watch?v=pZylSKOBedY</id>
-        <link href="https://www.youtube.com/watch?v=pZylSKOBedY"/>
-        <updated>2023-09-13T11:41:01.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【爱否】iPhone 15 系列极速上手]]></title>
         <id>https://www.youtube.com/watch?v=l7HwGdtdWOI</id>
         <link href="https://www.youtube.com/watch?v=l7HwGdtdWOI"/>
@@ -1317,15 +1335,6 @@
         <updated>2023-09-12T14:27:55.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Powerful Orchestral Music | Powerful Heroic Epic Music Mix | Epic Cinematic Battle Music 2023]]></title>
-        <id>https://www.youtube.com/watch?v=RXAcua6kYks</id>
-        <link href="https://www.youtube.com/watch?v=RXAcua6kYks"/>
-        <updated>2023-09-11T14:05:10.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
 </feed>

@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ey-E7jHOGwY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ey-E7jHOGwY",
+          "publishedOn": "2023-10-11T14:17:57.000Z",
+          "wordCount": null,
+          "title": "TOP 20 Bản Nhạc EDM Mix Cực Phiêu “Xoá Tan Mọi Cảm Xúc” ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=emvX4NCRlwo",
           "author": null,
           "description": "",
@@ -331,16 +341,6 @@
           "wordCount": null,
           "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DnJ7RyKr-_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DnJ7RyKr-_8",
-          "publishedOn": "2023-09-26T14:37:06.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -349,6 +349,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCorixDN1PDR2u7dTfO2dXdQ",
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sirOjWs4viE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sirOjWs4viE",
+          "publishedOn": "2023-10-11T14:32:13.000Z",
+          "wordCount": null,
+          "title": "The Power Of Epic Music | Epic Orchestral Music For Powerful Motivation | Inspiring Cinematic Music",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KzEhnQW382k",
           "author": null,
@@ -477,16 +487,6 @@
           "publishedOn": "2023-09-13T13:22:32.000Z",
           "wordCount": null,
           "title": "Epic Powerful Orchestral Music | Best Of Heroic Epic Powerful Orchestral Music | Epic Battle Music",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RXAcua6kYks",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RXAcua6kYks",
-          "publishedOn": "2023-09-11T14:05:10.000Z",
-          "wordCount": null,
-          "title": "Epic Powerful Orchestral Music | Powerful Heroic Epic Music Mix | Epic Cinematic Battle Music 2023",
           "imageUrl": null
         }
       ]
@@ -728,11 +728,21 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=bKbaDXLACkE",
+          "id": "https://www.youtube.com/watch?v=o7ZPkruxRbg",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=bKbaDXLACkE",
-          "publishedOn": "2023-10-11T01:00:48.000Z",
+          "link": "https://www.youtube.com/watch?v=o7ZPkruxRbg",
+          "publishedOn": "2023-10-11T03:56:02.000Z",
+          "wordCount": null,
+          "title": "使用 Portainer 的 GUI 管理伺服器 Docker 服務｜六角學院｜2023 鐵人賽 #27",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e0X2eOpY_vM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e0X2eOpY_vM",
+          "publishedOn": "2023-10-11T02:18:37.000Z",
           "wordCount": null,
           "title": "JS 面試常見核心知識 - 變數與作用域篇",
           "imageUrl": null
@@ -744,7 +754,7 @@
           "link": "https://www.youtube.com/watch?v=NXhTMrlooic",
           "publishedOn": "2023-10-10T01:12:59.000Z",
           "wordCount": null,
-          "title": "Docker 搭配 GitHub Action，git push 達成自動化部屬｜六角學院｜2023 鐵人賽 #26",
+          "title": "Docker 搭配 GitHub Action，git push 達成自動化部署｜六角學院｜2023 鐵人賽 #26",
           "imageUrl": null
         },
         {
@@ -866,16 +876,6 @@
           "wordCount": null,
           "title": "從零開始 AWS S3 檔案上傳範例（包含 IAM 設定）｜六角學院｜2023 鐵人賽 #14",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qVaVvesLgus",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qVaVvesLgus",
-          "publishedOn": "2023-09-27T10:51:49.000Z",
-          "wordCount": null,
-          "title": "綠界科技金流串接 - Node.js｜六角學院｜2023 鐵人賽 #13",
-          "imageUrl": null
         }
       ]
     },
@@ -930,6 +930,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Xq_F2ruRcYg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xq_F2ruRcYg",
+          "publishedOn": "2023-10-11T16:00:21.000Z",
+          "wordCount": null,
+          "title": "起猛了，无人机 #drone  #dji  #quadcopter #creative #djidrone",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=k9YHrLielUg",
           "author": null,
@@ -1068,16 +1078,6 @@
           "publishedOn": "2023-09-14T04:00:03.000Z",
           "wordCount": null,
           "title": "看看你们是怎么降落无人机的! #drone #dji#shorts #camera #fpv",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pZylSKOBedY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pZylSKOBedY",
-          "publishedOn": "2023-09-13T11:41:01.000Z",
-          "wordCount": null,
-          "title": "【干货】一键去除频闪！让你的延时作品丝滑流畅！",
           "imageUrl": null
         }
       ]
@@ -1254,6 +1254,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQJTx8qeLhUFv2jhoIaM1OA",
       "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4bjsb5HsW_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4bjsb5HsW_4",
+          "publishedOn": "2023-10-11T12:00:04.000Z",
+          "wordCount": null,
+          "title": "【旅拍 | 一号公路】头顶是加州橘色的阳光，脚下是太平洋彼岸汹涌的浪花｜陈曦Stanley",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2RcHPupHiz4",
           "author": null,
@@ -1514,6 +1524,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M5_vF45zy5I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M5_vF45zy5I",
+          "publishedOn": "2023-10-11T16:00:13.000Z",
+          "wordCount": null,
+          "title": "Common Ground - Jay Someday (No Copyright Music) | Release Preview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zrv4fBZYZDo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zrv4fBZYZDo",
+          "publishedOn": "2023-10-11T12:00:51.000Z",
+          "wordCount": null,
+          "title": "i was in love once – Rexlambo (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MU_nHof9o3g",
           "author": null,
           "description": "",
@@ -1641,26 +1671,6 @@
           "publishedOn": "2023-09-30T12:00:23.000Z",
           "wordCount": null,
           "title": "Peach – Sakura Girl (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W8jpfUvUA_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W8jpfUvUA_8",
-          "publishedOn": "2023-09-29T12:00:22.000Z",
-          "wordCount": null,
-          "title": "Empathic Prosperity – Artificial.Music (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rchy6V_4GK8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rchy6V_4GK8",
-          "publishedOn": "2023-09-28T16:00:43.000Z",
-          "wordCount": null,
-          "title": "It's Christmas Already - WOMA (No Copyright Music) | Release Preview",
           "imageUrl": null
         }
       ]
