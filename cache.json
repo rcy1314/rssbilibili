@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "Ooh-wee-ooh-wee, ooh-wee-ooh-wee",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h65J8XI4tu4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h65J8XI4tu4",
-          "publishedOn": "2023-09-12T14:27:55.000Z",
-          "wordCount": null,
-          "title": "The Party Never Ends - Chapter 2 - Red Rocks",
-          "imageUrl": null
         }
       ]
     },
@@ -192,6 +182,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NseMrt5RBa8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NseMrt5RBa8",
+          "publishedOn": "2023-10-12T14:00:15.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ey-E7jHOGwY",
           "author": null,
@@ -330,16 +330,6 @@
           "publishedOn": "2023-09-28T11:15:46.000Z",
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uiRCC8ZsjjY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uiRCC8ZsjjY",
-          "publishedOn": "2023-09-27T11:00:46.000Z",
-          "wordCount": null,
-          "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
           "imageUrl": null
         }
       ]
@@ -728,13 +718,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=o7ZPkruxRbg",
+          "id": "https://www.youtube.com/watch?v=LJZ9YQOgu2w",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=o7ZPkruxRbg",
-          "publishedOn": "2023-10-11T03:56:02.000Z",
+          "link": "https://www.youtube.com/watch?v=LJZ9YQOgu2w",
+          "publishedOn": "2023-10-12T23:54:16.000Z",
           "wordCount": null,
-          "title": "使用 Portainer 的 GUI 管理伺服器 Docker 服務｜六角學院｜2023 鐵人賽 #27",
+          "title": "自建一個類似 Heroku 的自動化部署環境(Portainer)｜六角學院｜2023 鐵人賽 #29",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Bxr0A3tdgMc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bxr0A3tdgMc",
+          "publishedOn": "2023-10-12T08:10:04.000Z",
+          "wordCount": null,
+          "title": "Docker Compose 神器：一行指令部署 MongoDB 和 Node.js！｜六角學院｜2023 鐵人賽 #28",
           "imageUrl": null
         },
         {
@@ -742,9 +742,19 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=e0X2eOpY_vM",
-          "publishedOn": "2023-10-11T02:18:37.000Z",
+          "publishedOn": "2023-10-12T01:58:07.000Z",
           "wordCount": null,
           "title": "JS 面試常見核心知識 - 變數與作用域篇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o7ZPkruxRbg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o7ZPkruxRbg",
+          "publishedOn": "2023-10-11T03:56:02.000Z",
+          "wordCount": null,
+          "title": "使用 Portainer 的 GUI 管理伺服器 Docker 服務｜六角學院｜2023 鐵人賽 #27",
           "imageUrl": null
         },
         {
@@ -856,26 +866,6 @@
           "wordCount": null,
           "title": "GitHub OAuth 第三方登入超簡單｜六角學院｜2023 鐵人賽 #16",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H4GmskFhSJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H4GmskFhSJQ",
-          "publishedOn": "2023-09-29T05:02:21.000Z",
-          "wordCount": null,
-          "title": "想蹭免費雲端儲存空間？Firebase Storage 省錢用超爽｜六角學院｜2023 鐵人賽 #15",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y12KO8XM6jw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y12KO8XM6jw",
-          "publishedOn": "2023-09-28T08:55:36.000Z",
-          "wordCount": null,
-          "title": "從零開始 AWS S3 檔案上傳範例（包含 IAM 設定）｜六角學院｜2023 鐵人賽 #14",
-          "imageUrl": null
         }
       ]
     },
@@ -930,6 +920,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zzBJoMfbYbw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zzBJoMfbYbw",
+          "publishedOn": "2023-10-12T16:00:46.000Z",
+          "wordCount": null,
+          "title": "优雅的追一场日落🌄 #drone #djidrone  #creative #dji #inspire3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Xq_F2ruRcYg",
           "author": null,
@@ -1069,16 +1069,6 @@
           "wordCount": null,
           "title": "掌握这4种创意航拍运镜，解锁国庆旅拍新玩法！｜旱地拔葱｜希区柯克｜甩尾运镜｜九宫格避障｜",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8QXsaNRxxww",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8QXsaNRxxww",
-          "publishedOn": "2023-09-14T04:00:03.000Z",
-          "wordCount": null,
-          "title": "看看你们是怎么降落无人机的! #drone #dji#shorts #camera #fpv",
-          "imageUrl": null
         }
       ]
     },
@@ -1213,16 +1203,6 @@
           "wordCount": null,
           "title": "【爱否】特级刀法，iPhone 15 & Pro Max 评测",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=l7HwGdtdWOI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l7HwGdtdWOI",
-          "publishedOn": "2023-09-13T06:07:16.000Z",
-          "wordCount": null,
-          "title": "【爱否】iPhone 15 系列极速上手",
-          "imageUrl": null
         }
       ]
     },
@@ -1319,6 +1299,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=y0V1_52gnl0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y0V1_52gnl0",
+          "publishedOn": "2023-10-12T12:30:29.000Z",
+          "wordCount": null,
+          "title": "自媒體收音救星！一個麥克風解決你所有煩惱 一次開箱兩款全新Sony 麥克風 ECM-S1 & ECM-W3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=01siF_7EEXQ",
           "author": null,
@@ -1524,6 +1514,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tmLYXqz6Cfs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tmLYXqz6Cfs",
+          "publishedOn": "2023-10-12T16:00:47.000Z",
+          "wordCount": null,
+          "title": "New Season - Zackross (No Copyright Music) | Release Preview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nYzshaQy6pI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nYzshaQy6pI",
+          "publishedOn": "2023-10-12T12:00:45.000Z",
+          "wordCount": null,
+          "title": "Brazil Fun – TVARI (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=M5_vF45zy5I",
           "author": null,
           "description": "",
@@ -1651,26 +1661,6 @@
           "publishedOn": "2023-10-02T12:00:44.000Z",
           "wordCount": null,
           "title": "Feels – Roa (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dkZHIu81bqQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dkZHIu81bqQ",
-          "publishedOn": "2023-10-01T12:00:26.000Z",
-          "wordCount": null,
-          "title": "Fading – Devyzed (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UxccBBTea7I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UxccBBTea7I",
-          "publishedOn": "2023-09-30T12:00:23.000Z",
-          "wordCount": null,
-          "title": "Peach – Sakura Girl (No Copyright Music)",
           "imageUrl": null
         }
       ]
