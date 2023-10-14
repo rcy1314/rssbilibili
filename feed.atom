@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T01:18:05.970Z</id>
+    <id>urn:2023-10-14T01:14:22.183Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-13T01:18:05.970Z</updated>
+    <updated>2023-10-14T01:14:22.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sony FX6 &  DZOFILM Catta ACE & Vespid | "Naturally You" Campaign for Aprés]]></title>
+        <id>https://www.youtube.com/watch?v=2vGtDMN9M_Y</id>
+        <link href="https://www.youtube.com/watch?v=2vGtDMN9M_Y"/>
+        <updated>2023-10-13T17:34:46.000Z</updated>
+        <author>
+            <name>Nick and Ezzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Are Warriors | Epic Inspirational Orchestral Music 2023 | THE POWER OF WAR EPIC MUSIC]]></title>
+        <id>https://www.youtube.com/watch?v=k0d0AfPAqv4</id>
+        <link href="https://www.youtube.com/watch?v=k0d0AfPAqv4"/>
+        <updated>2023-10-13T14:16:12.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valley – Devyzed (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=cIrDfYx4uTI</id>
+        <link href="https://www.youtube.com/watch?v=cIrDfYx4uTI"/>
+        <updated>2023-10-13T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年10月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2]]></title>
+        <id>https://www.youtube.com/watch?v=Yr2qX3wT9A8</id>
+        <link href="https://www.youtube.com/watch?v=Yr2qX3wT9A8"/>
+        <updated>2023-10-13T12:00:35.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30秒学会4种万能航拍汽车运镜！ #dji #camera #djidrone #photography]]></title>
+        <id>https://www.youtube.com/watch?v=4v1krO9W04U</id>
+        <link href="https://www.youtube.com/watch?v=4v1krO9W04U"/>
+        <updated>2023-10-13T11:27:25.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=6M-WS1XZOzM</id>
+        <link href="https://www.youtube.com/watch?v=6M-WS1XZOzM"/>
+        <updated>2023-10-13T11:00:09.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自建一個類似 Heroku 的自動化部署環境(Portainer)｜六角學院｜2023 鐵人賽 #29]]></title>
         <id>https://www.youtube.com/watch?v=LJZ9YQOgu2w</id>
@@ -120,15 +174,6 @@
         <updated>2023-10-11T12:00:51.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【旅拍 | 一号公路】头顶是加州橘色的阳光，脚下是太平洋彼岸汹涌的浪花｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=4bjsb5HsW_4</id>
-        <link href="https://www.youtube.com/watch?v=4bjsb5HsW_4"/>
-        <updated>2023-10-11T12:00:04.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
         </author>
     </entry>
     <entry>
@@ -681,15 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feels – Roa (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=likXyYo5nlM</id>
-        <link href="https://www.youtube.com/watch?v=likXyYo5nlM"/>
-        <updated>2023-10-02T12:00:44.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=0pjtKvEUHyU</id>
         <link href="https://www.youtube.com/watch?v=0pjtKvEUHyU"/>
@@ -822,15 +858,6 @@
         <updated>2023-09-28T12:00:20.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=MDeAzFl685w</id>
-        <link href="https://www.youtube.com/watch?v=MDeAzFl685w"/>
-        <updated>2023-09-28T11:15:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1149,15 +1176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[掌握这4种创意航拍运镜，解锁国庆旅拍新玩法！｜旱地拔葱｜希区柯克｜甩尾运镜｜九宫格避障｜]]></title>
-        <id>https://www.youtube.com/watch?v=8B-bCzvkz0c</id>
-        <link href="https://www.youtube.com/watch?v=8B-bCzvkz0c"/>
-        <updated>2023-09-21T04:35:55.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[墜樓人，我可以救到你嗎？充滿反轉的遊戲【紅弦俱樂部】]]></title>
         <id>https://www.youtube.com/watch?v=fxK09k3qxJY</id>
         <link href="https://www.youtube.com/watch?v=fxK09k3qxJY"/>
@@ -1299,33 +1317,6 @@
         <updated>2023-09-15T12:00:45.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiangmai- Cinematic vlog]]></title>
-        <id>https://www.youtube.com/watch?v=R4aRNShhKg4</id>
-        <link href="https://www.youtube.com/watch?v=R4aRNShhKg4"/>
-        <updated>2023-09-14T10:03:11.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相机传感器有手指纹？如何亲手清洁传感器]]></title>
-        <id>https://www.youtube.com/watch?v=edmGXQl5kyg</id>
-        <link href="https://www.youtube.com/watch?v=edmGXQl5kyg"/>
-        <updated>2023-09-13T13:30:21.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Powerful Orchestral Music | Best Of Heroic Epic Powerful Orchestral Music | Epic Battle Music]]></title>
-        <id>https://www.youtube.com/watch?v=qHGQlTxXIVw</id>
-        <link href="https://www.youtube.com/watch?v=qHGQlTxXIVw"/>
-        <updated>2023-09-13T13:22:32.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
 </feed>
