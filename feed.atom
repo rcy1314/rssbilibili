@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-14T01:14:22.183Z</id>
+    <id>urn:2023-10-15T01:21:29.656Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T01:14:22.183Z</updated>
+    <updated>2023-10-15T01:21:29.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 20231002記者會精華短片]]></title>
+        <id>https://www.youtube.com/watch?v=aWBkysIFO2U</id>
+        <link href="https://www.youtube.com/watch?v=aWBkysIFO2U"/>
+        <updated>2023-10-14T17:19:50.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 雙人表演場精華短片]]></title>
+        <id>https://www.youtube.com/watch?v=9CAwja6UBJs</id>
+        <link href="https://www.youtube.com/watch?v=9CAwja6UBJs"/>
+        <updated>2023-10-14T17:08:52.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做了5年youtube. 我有些話想跟各位說]]></title>
+        <id>https://www.youtube.com/watch?v=ueoay_9Toj8</id>
+        <link href="https://www.youtube.com/watch?v=ueoay_9Toj8"/>
+        <updated>2023-10-14T14:47:37.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=SBUpDG8mTkQ</id>
+        <link href="https://www.youtube.com/watch?v=SBUpDG8mTkQ"/>
+        <updated>2023-10-14T12:00:33.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM Mix Cực Phiêu “Xoá Tan Mọi Cảm Xúc” ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=NIk0hK1jlbo</id>
+        <link href="https://www.youtube.com/watch?v=NIk0hK1jlbo"/>
+        <updated>2023-10-14T12:00:28.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Traefik 進行反向代理｜單一伺服器綁定多網域 ｜六角學院｜2023 鐵人賽 #30]]></title>
+        <id>https://www.youtube.com/watch?v=CV3pi8KQEy0</id>
+        <link href="https://www.youtube.com/watch?v=CV3pi8KQEy0"/>
+        <updated>2023-10-14T04:49:34.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony FX6 &  DZOFILM Catta ACE & Vespid | "Naturally You" Campaign for Aprés]]></title>
         <id>https://www.youtube.com/watch?v=2vGtDMN9M_Y</id>
@@ -663,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starfish – Riyhsal (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=exYpZiuD3rc</id>
-        <link href="https://www.youtube.com/watch?v=exYpZiuD3rc"/>
-        <updated>2023-10-03T12:00:27.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为什么我不用监视器｜2023我却变了]]></title>
         <id>https://www.youtube.com/watch?v=1DF9SZnP-pg</id>
         <link href="https://www.youtube.com/watch?v=1DF9SZnP-pg"/>
@@ -798,15 +843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub OAuth 第三方登入超簡單｜六角學院｜2023 鐵人賽 #16]]></title>
-        <id>https://www.youtube.com/watch?v=A7s8sqitq50</id>
-        <link href="https://www.youtube.com/watch?v=A7s8sqitq50"/>
-        <updated>2023-09-30T02:08:49.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[原来MV拍摄那么简单｜布光最简单有效的方式]]></title>
         <id>https://www.youtube.com/watch?v=jH0y1dNHVG0</id>
         <link href="https://www.youtube.com/watch?v=jH0y1dNHVG0"/>
@@ -831,15 +867,6 @@
         <updated>2023-09-29T12:00:07.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=BISjAq-40Yk</id>
-        <link href="https://www.youtube.com/watch?v=BISjAq-40Yk"/>
-        <updated>2023-09-29T11:00:08.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1308,15 +1335,6 @@
         <updated>2023-09-15T13:44:32.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年9月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #3]]></title>
-        <id>https://www.youtube.com/watch?v=pOz29c8XipU</id>
-        <link href="https://www.youtube.com/watch?v=pOz29c8XipU"/>
-        <updated>2023-09-15T12:00:45.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
