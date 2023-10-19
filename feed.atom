@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-18T01:16:46.540Z</id>
+    <id>urn:2023-10-19T01:16:16.815Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T01:16:46.540Z</updated>
+    <updated>2023-10-19T01:16:16.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[总有一款电信诈骗适合你，北美亲身经历后的防诈指南｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=qzZyZNjZLxE</id>
+        <link href="https://www.youtube.com/watch?v=qzZyZNjZLxE"/>
+        <updated>2023-10-18T12:00:47.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=ZLOqWJG6z-o</id>
+        <link href="https://www.youtube.com/watch?v=ZLOqWJG6z-o"/>
+        <updated>2023-10-18T12:00:34.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In My Mind – Scandinavianz & AXM (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=1rR6N9jZfgE</id>
+        <link href="https://www.youtube.com/watch?v=1rR6N9jZfgE"/>
+        <updated>2023-10-18T12:00:02.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Heroic Legends Unleashed - A Powerful Orchestral Music | Heroic Orchestral Music for Warriors]]></title>
         <id>https://www.youtube.com/watch?v=rS40C4S34I8</id>
@@ -636,15 +663,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverie, Pt 3 – Lucjo (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=mSlVaa1Ivuc</id>
-        <link href="https://www.youtube.com/watch?v=mSlVaa1Ivuc"/>
-        <updated>2023-10-06T12:00:43.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023相機購買推薦指南! 從拍照到錄影統統告訴你! #攝影器材 #攝影入門]]></title>
         <id>https://www.youtube.com/watch?v=HVcWP6ADwmg</id>
         <link href="https://www.youtube.com/watch?v=HVcWP6ADwmg"/>
@@ -795,15 +813,6 @@
         <updated>2023-10-04T02:12:10.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=x9svOH8bfb0</id>
-        <link href="https://www.youtube.com/watch?v=x9svOH8bfb0"/>
-        <updated>2023-10-03T13:32:12.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1317,24 +1326,6 @@
         <updated>2023-09-19T13:42:45.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再嫌弃无人机大师镜头｜大疆迷你3Pro电影感太容易拍了]]></title>
-        <id>https://www.youtube.com/watch?v=Y6yrjSCpyAE</id>
-        <link href="https://www.youtube.com/watch?v=Y6yrjSCpyAE"/>
-        <updated>2023-09-19T11:00:32.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 17我喜欢的几个新变化]]></title>
-        <id>https://www.youtube.com/watch?v=ry5hn449ons</id>
-        <link href="https://www.youtube.com/watch?v=ry5hn449ons"/>
-        <updated>2023-09-19T03:46:17.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
         </author>
     </entry>
 </feed>
