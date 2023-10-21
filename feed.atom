@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T01:16:08.363Z</id>
+    <id>urn:2023-10-21T01:14:08.957Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T01:16:08.363Z</updated>
+    <updated>2023-10-21T01:14:08.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[gracey wrote this incredible song about her boyfriend making her ride the 214 bus…]]></title>
+        <id>https://www.youtube.com/watch?v=E0mwBLOOXDw</id>
+        <link href="https://www.youtube.com/watch?v=E0mwBLOOXDw"/>
+        <updated>2023-10-20T18:26:54.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resilience in the Face of Darkness - Epic Heroic Music Mix | Most Epic Battle Orchestral 2023]]></title>
+        <id>https://www.youtube.com/watch?v=dFXe2P2zQ0A</id>
+        <link href="https://www.youtube.com/watch?v=dFXe2P2zQ0A"/>
+        <updated>2023-10-20T16:00:25.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Illusions – GalaxyTones (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=z35f54q-Jq8</id>
+        <link href="https://www.youtube.com/watch?v=z35f54q-Jq8"/>
+        <updated>2023-10-20T12:00:52.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年10月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #3]]></title>
+        <id>https://www.youtube.com/watch?v=22w8zACFrac</id>
+        <link href="https://www.youtube.com/watch?v=22w8zACFrac"/>
+        <updated>2023-10-20T12:00:04.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手機也適用！ 3個最簡單且最實用的電影感運鏡]]></title>
+        <id>https://www.youtube.com/watch?v=4NtVIDT8cWw</id>
+        <link href="https://www.youtube.com/watch?v=4NtVIDT8cWw"/>
+        <updated>2023-10-20T11:00:06.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=00QotFzhR7g</id>
+        <link href="https://www.youtube.com/watch?v=00QotFzhR7g"/>
+        <updated>2023-10-20T11:00:00.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers - Think Of Us ft. GRACEY (Official Video)]]></title>
+        <id>https://www.youtube.com/watch?v=0jmXrJthQpQ</id>
+        <link href="https://www.youtube.com/watch?v=0jmXrJthQpQ"/>
+        <updated>2023-10-20T04:00:09.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印度洋上的眼泪—斯里兰卡 #陈曦stanley #旅行 #斯里兰卡 #照片]]></title>
         <id>https://www.youtube.com/watch?v=YX2LQsgeF8M</id>
@@ -12,15 +75,6 @@
         <updated>2023-10-20T00:00:19.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - Think Of Us ft. GRACEY (Official Video)]]></title>
-        <id>https://www.youtube.com/watch?v=0jmXrJthQpQ</id>
-        <link href="https://www.youtube.com/watch?v=0jmXrJthQpQ"/>
-        <updated>2023-10-19T20:41:23.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -33,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[运动相机卷起来了！GoPro 12与大疆Action 4全面对比！]]></title>
+        <title type="html"><![CDATA[运动相机卷起来了！GoPro 12 VS 大疆Action 4全面对比！]]></title>
         <id>https://www.youtube.com/watch?v=pPl__vAjAiM</id>
         <link href="https://www.youtube.com/watch?v=pPl__vAjAiM"/>
         <updated>2023-10-19T13:00:42.000Z</updated>
@@ -654,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nostalgy – Spiring (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=eQnt5NLuIJ4</id>
-        <link href="https://www.youtube.com/watch?v=eQnt5NLuIJ4"/>
-        <updated>2023-10-08T12:00:30.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023 CHEYUWU 吳哲宇 - 藝術家同名品牌 概念發表]]></title>
         <id>https://www.youtube.com/watch?v=D5L575S7CA0</id>
         <link href="https://www.youtube.com/watch?v=D5L575S7CA0"/>
@@ -813,15 +858,6 @@
         <updated>2023-10-05T11:11:53.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=OQGkzEVqhVE</id>
-        <link href="https://www.youtube.com/watch?v=OQGkzEVqhVE"/>
-        <updated>2023-10-05T11:00:26.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1308,15 +1344,6 @@
         <updated>2023-09-21T13:15:44.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tvOS 17重磅功能来了！]]></title>
-        <id>https://www.youtube.com/watch?v=IeNE4-Iqv4k</id>
-        <link href="https://www.youtube.com/watch?v=IeNE4-Iqv4k"/>
-        <updated>2023-09-21T10:11:41.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
         </author>
     </entry>
 </feed>
