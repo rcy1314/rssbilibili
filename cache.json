@@ -143,6 +143,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Wj39roVHHfI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Wj39roVHHfI",
+          "publishedOn": "2023-10-23T11:00:23.000Z",
+          "wordCount": null,
+          "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QEo-5c_phPQ",
           "author": null,
           "description": "",
@@ -281,16 +291,6 @@
           "wordCount": null,
           "title": "TOP Nhạc EDM Mix Phiêu \"Thăng Hoa Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 ♫ EDM Alan Walker",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RTjkEKM1fV0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RTjkEKM1fV0",
-          "publishedOn": "2023-10-08T14:00:38.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -299,6 +299,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCorixDN1PDR2u7dTfO2dXdQ",
       "siteUrl": "https://www.youtube.com/channel/UCorixDN1PDR2u7dTfO2dXdQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LRf2Y8M33bI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LRf2Y8M33bI",
+          "publishedOn": "2023-10-23T15:19:09.000Z",
+          "wordCount": null,
+          "title": "Shining a Light on the Forgotten - Inspirational Orchestral Overture | Epic Music Mix 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=me3eBQae61Y",
           "author": null,
@@ -628,6 +638,36 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QxFrJAbIU-E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QxFrJAbIU-E",
+          "publishedOn": "2023-10-24T01:06:35.000Z",
+          "wordCount": null,
+          "title": "「The F2E  精神時光屋」UIUX 如何在接案公司生活",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m6Swn5Kz188",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m6Swn5Kz188",
+          "publishedOn": "2023-10-23T08:03:18.000Z",
+          "wordCount": null,
+          "title": "【10/27 JS 和框架】指定組合包 75 折再折 $500 ｜六角學習節 ｜#六角學院 卡斯伯老師 直播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=38cVMiEWJKU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=38cVMiEWJKU",
+          "publishedOn": "2023-10-23T07:53:34.000Z",
+          "wordCount": null,
+          "title": "【10/26 沈浸式密室逃脫】專為前端設計 模擬職場互動 ｜六角學習節 ｜#六角學院 洧杰校長 直播",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=83J73OJQty0",
           "author": null,
           "description": "",
@@ -746,36 +786,6 @@
           "wordCount": null,
           "title": "【教學】讓你的網站更安全，使用 Cloudflare 免費加入 SSL 憑證｜六角學院｜2023 鐵人賽 #22",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xfoyZn0LeqQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xfoyZn0LeqQ",
-          "publishedOn": "2023-10-05T08:32:17.000Z",
-          "wordCount": null,
-          "title": "Domain 如何運作？從零註冊一個網址並綁定至 VPS 主機｜六角學院｜2023 鐵人賽 #21",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cUmSAGtP-70",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cUmSAGtP-70",
-          "publishedOn": "2023-10-04T12:00:37.000Z",
-          "wordCount": null,
-          "title": "使用 GitHub Action 部署 Node.js 應用｜六角學院｜2023 鐵人賽 #20",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e9Y4sWcwsn8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e9Y4sWcwsn8",
-          "publishedOn": "2023-10-03T06:15:57.000Z",
-          "wordCount": null,
-          "title": "從零租一台 VPS 主機，並且部署 Node.js 應用跑給你看（PM2）｜六角學院｜2023 鐵人賽 #19",
-          "imageUrl": null
         }
       ]
     },
@@ -870,6 +880,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=e0wpsJoPWko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e0wpsJoPWko",
+          "publishedOn": "2023-10-23T13:07:11.000Z",
+          "wordCount": null,
+          "title": "「干货」剪辑没头绪?学会这五个公式无脑剪短片Editing formula for beginners",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pPl__vAjAiM",
           "author": null,
@@ -1185,36 +1205,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=kjSckATLUkk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kjSckATLUkk",
-          "publishedOn": "2023-10-22T12:00:38.000Z",
-          "wordCount": null,
-          "title": "印度洋上的眼泪—斯里兰卡 #陈曦stanley #travel #摄影 #旅拍 #锡吉里耶 #古城",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZJ2RENetbPk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZJ2RENetbPk",
-          "publishedOn": "2023-10-21T12:00:34.000Z",
-          "wordCount": null,
-          "title": "印度洋上的眼泪—斯里兰卡 #陈曦stanley #旅行 #斯里兰卡 #照片 #travel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YX2LQsgeF8M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YX2LQsgeF8M",
-          "publishedOn": "2023-10-20T00:00:19.000Z",
-          "wordCount": null,
-          "title": "印度洋上的眼泪—斯里兰卡 #陈曦stanley #旅行 #斯里兰卡 #照片",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=qzZyZNjZLxE",
           "author": null,
           "description": "",
@@ -1260,13 +1250,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mnygnf9jwJQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mnygnf9jwJQ",
+          "publishedOn": "2023-10-23T12:30:32.000Z",
+          "wordCount": null,
+          "title": "在混亂的夜市中如何拍攝人像？給自己一點挑戰 「散步人像」曼谷篇 ft. Nikon Z8 + 50mm f1.8s",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NeTioLUKFHA",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=NeTioLUKFHA",
           "publishedOn": "2023-10-19T12:30:25.000Z",
           "wordCount": null,
-          "title": "輕鬆模仿攝影師的修圖方式！一鍵加強散景效果！- Adobe Lightrrom 更新分享",
+          "title": "輕鬆模仿攝影師的修圖方式！一鍵加強散景效果！- Adobe Lightroom 更新分享",
           "imageUrl": null
         },
         {
@@ -1484,6 +1484,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t-bE3roF2PE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t-bE3roF2PE",
+          "publishedOn": "2023-10-23T12:00:50.000Z",
+          "wordCount": null,
+          "title": "Steam – Tomh. (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C19R2V0lPP0",
           "author": null,
           "description": "",
@@ -1621,16 +1631,6 @@
           "publishedOn": "2023-10-11T12:00:51.000Z",
           "wordCount": null,
           "title": "i was in love once – Rexlambo (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MU_nHof9o3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MU_nHof9o3g",
-          "publishedOn": "2023-10-10T16:00:16.000Z",
-          "wordCount": null,
-          "title": "Calypso - Next Route (No Copyright Music) | Release Preview",
           "imageUrl": null
         }
       ]
