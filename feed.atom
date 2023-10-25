@@ -1,12 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T01:16:03.109Z</id>
+    <id>urn:2023-10-25T01:16:02.628Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T01:16:03.109Z</updated>
+    <updated>2023-10-25T01:16:02.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[「The F2E  精神時光屋」UIUX 如何在接案公司生活]]></title>
+        <title type="html"><![CDATA[The Guitarist - Next Route (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=dQ0qS7aI2FU</id>
+        <link href="https://www.youtube.com/watch?v=dQ0qS7aI2FU"/>
+        <updated>2023-10-24T16:00:34.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Ballads of True Companions - Epic Inspirational Orchestral Anthems | Epic Music mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=lxXDdfd7PWc</id>
+        <link href="https://www.youtube.com/watch?v=lxXDdfd7PWc"/>
+        <updated>2023-10-24T14:00:29.000Z</updated>
+        <author>
+            <name>Epic Battle Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tropical Funk – tubebackr (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=ws_wh_xAbhw</id>
+        <link href="https://www.youtube.com/watch?v=ws_wh_xAbhw"/>
+        <updated>2023-10-24T12:00:55.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad变作显示器，连Switch玩游戏不在话下]]></title>
+        <id>https://www.youtube.com/watch?v=2LocmxoZbk4</id>
+        <link href="https://www.youtube.com/watch?v=2LocmxoZbk4"/>
+        <updated>2023-10-24T11:16:29.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
+        <id>https://www.youtube.com/watch?v=Xe25b5zcvV4</id>
+        <link href="https://www.youtube.com/watch?v=Xe25b5zcvV4"/>
+        <updated>2023-10-24T11:00:22.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xuaev - Monogatari [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=VCYnknmbZJU</id>
+        <link href="https://www.youtube.com/watch?v=VCYnknmbZJU"/>
+        <updated>2023-10-24T10:00:08.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GF110mmF5.6 T/S Macro: Still life x Jonathan Bielaski/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=iafr14c3fmo</id>
+        <link href="https://www.youtube.com/watch?v=iafr14c3fmo"/>
+        <updated>2023-10-24T05:00:18.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GF55mmF1.7 R WR: Portraiture x Satoshi Minakawa / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=1GHySaqMCDM</id>
+        <link href="https://www.youtube.com/watch?v=1GHySaqMCDM"/>
+        <updated>2023-10-24T05:00:00.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避障大挑战！你觉得侧向避障重要吗？]]></title>
+        <id>https://www.youtube.com/watch?v=y3WCSKdX6xw</id>
+        <link href="https://www.youtube.com/watch?v=y3WCSKdX6xw"/>
+        <updated>2023-10-24T04:02:36.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「The F2E  精神時光屋」UI/UX 如何在接案公司生活]]></title>
         <id>https://www.youtube.com/watch?v=QxFrJAbIU-E</id>
         <link href="https://www.youtube.com/watch?v=QxFrJAbIU-E"/>
         <updated>2023-10-24T01:06:35.000Z</updated>
@@ -465,7 +546,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM Mix Cực Phiêu “Xoá Tan Mọi Cảm Xúc” ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=NIk0hK1jlbo</id>
         <link href="https://www.youtube.com/watch?v=NIk0hK1jlbo"/>
         <updated>2023-10-14T12:00:28.000Z</updated>
@@ -618,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Common Ground - Jay Someday (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=M5_vF45zy5I</id>
-        <link href="https://www.youtube.com/watch?v=M5_vF45zy5I"/>
-        <updated>2023-10-11T16:00:13.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Power Of Epic Music | Epic Orchestral Music For Powerful Motivation | Inspiring Cinematic Music]]></title>
         <id>https://www.youtube.com/watch?v=sirOjWs4viE</id>
         <link href="https://www.youtube.com/watch?v=sirOjWs4viE"/>
@@ -636,21 +708,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM Mix Cực Phiêu “Xoá Tan Mọi Cảm Xúc” ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=Ey-E7jHOGwY</id>
         <link href="https://www.youtube.com/watch?v=Ey-E7jHOGwY"/>
         <updated>2023-10-11T14:17:57.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i was in love once – Rexlambo (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=zrv4fBZYZDo</id>
-        <link href="https://www.youtube.com/watch?v=zrv4fBZYZDo"/>
-        <updated>2023-10-11T12:00:51.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -750,15 +813,6 @@
         <updated>2023-10-09T12:30:00.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP Nhạc EDM Mix Phiêu "Thăng Hoa Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 ♫ EDM Alan Walker]]></title>
-        <id>https://www.youtube.com/watch?v=9VT8-SPy_AI</id>
-        <link href="https://www.youtube.com/watch?v=9VT8-SPy_AI"/>
-        <updated>2023-10-09T11:00:14.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1236,69 +1290,6 @@
         <updated>2023-09-26T05:00:10.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II : Action Photography by Michael Clark/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=B8vPDS5JxBM</id>
-        <link href="https://www.youtube.com/watch?v=B8vPDS5JxBM"/>
-        <updated>2023-09-26T05:00:07.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II:  Short film trailer  "CHISPA"/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=9JNzQxAPMsg</id>
-        <link href="https://www.youtube.com/watch?v=9JNzQxAPMsg"/>
-        <updated>2023-09-26T05:00:03.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆Mini 4 Pro首发体验：航拍新手？我有10个理由让你选它！]]></title>
-        <id>https://www.youtube.com/watch?v=GYpUYOKrfJ8</id>
-        <link href="https://www.youtube.com/watch?v=GYpUYOKrfJ8"/>
-        <updated>2023-09-25T13:00:22.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆DJI Mini 4 Pro买前必看20个特点｜值得升级吗？]]></title>
-        <id>https://www.youtube.com/watch?v=C7u5uyo0gFM</id>
-        <link href="https://www.youtube.com/watch?v=C7u5uyo0gFM"/>
-        <updated>2023-09-25T13:00:15.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开箱DJI Mini 4 Pro｜小成大作或是雷声大雨点小呢？]]></title>
-        <id>https://www.youtube.com/watch?v=2tp-F9B7JLI</id>
-        <link href="https://www.youtube.com/watch?v=2tp-F9B7JLI"/>
-        <updated>2023-09-25T13:00:02.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美区App Store怎么买软件？试试支付宝买苹果礼品卡充值]]></title>
-        <id>https://www.youtube.com/watch?v=hoC3fFCdUno</id>
-        <link href="https://www.youtube.com/watch?v=hoC3fFCdUno"/>
-        <updated>2023-09-25T03:30:17.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Nick和Ezzi】生态系统完整了｜DJI Transmission大疆图传接收器使用体验 对比 Teradek]]></title>
-        <id>https://www.youtube.com/watch?v=SlCiMwYmQvg</id>
-        <link href="https://www.youtube.com/watch?v=SlCiMwYmQvg"/>
-        <updated>2023-09-24T17:58:25.000Z</updated>
-        <author>
-            <name>Nick and Ezzi</name>
         </author>
     </entry>
 </feed>
