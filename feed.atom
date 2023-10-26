@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T01:16:02.628Z</id>
+    <id>urn:2023-10-26T01:14:43.202Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T01:16:02.628Z</updated>
+    <updated>2023-10-26T01:14:43.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Knights - WOMA (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=FNl_64Bb3fM</id>
+        <link href="https://www.youtube.com/watch?v=FNl_64Bb3fM"/>
+        <updated>2023-10-25T16:00:17.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⼝袋⾥的Vlog旗舰相机⸺DJI Pocket3深度测评｜#原来这么毒# 103集]]></title>
+        <id>https://www.youtube.com/watch?v=gghfDtAo3ns</id>
+        <link href="https://www.youtube.com/watch?v=gghfDtAo3ns"/>
+        <updated>2023-10-25T15:32:39.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Vue 作品實戰班】八週帶你完成求職作品｜六角學院 卡斯伯老師]]></title>
+        <id>https://www.youtube.com/watch?v=83J73OJQty0</id>
+        <link href="https://www.youtube.com/watch?v=83J73OJQty0"/>
+        <updated>2023-10-25T14:37:06.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆新品Pocket 3旅拍评测：1英寸迷你Vlog神器来了！]]></title>
+        <id>https://www.youtube.com/watch?v=FxcB_SJDgHo</id>
+        <link href="https://www.youtube.com/watch?v=FxcB_SJDgHo"/>
+        <updated>2023-10-25T13:00:19.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seoul Arcade – TVARI (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=gurDmRs4j8g</id>
+        <link href="https://www.youtube.com/watch?v=gurDmRs4j8g"/>
+        <updated>2023-10-25T12:00:43.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best Of EDM Mix 2023]]></title>
+        <id>https://www.youtube.com/watch?v=6IVrMwMynIw</id>
+        <link href="https://www.youtube.com/watch?v=6IVrMwMynIw"/>
+        <updated>2023-10-25T11:03:10.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini系列拔河比赛！看看谁的动力更猛！]]></title>
+        <id>https://www.youtube.com/watch?v=JqN3G8rpSr4</id>
+        <link href="https://www.youtube.com/watch?v=JqN3G8rpSr4"/>
+        <updated>2023-10-25T04:15:43.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Guitarist - Next Route (No Copyright Music) | Release Preview]]></title>
         <id>https://www.youtube.com/watch?v=dQ0qS7aI2FU</id>
@@ -321,15 +384,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Vue 作品實戰班】八週帶你完成求職作品｜六角學院 卡斯伯老師]]></title>
-        <id>https://www.youtube.com/watch?v=83J73OJQty0</id>
-        <link href="https://www.youtube.com/watch?v=83J73OJQty0"/>
-        <updated>2023-10-19T09:00:11.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GF30mmF5.6 T/S : Architecture x Massimo Listri/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=2ucowu27Seo</id>
         <link href="https://www.youtube.com/watch?v=2ucowu27Seo"/>
@@ -627,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Season - Zackross (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=tmLYXqz6Cfs</id>
-        <link href="https://www.youtube.com/watch?v=tmLYXqz6Cfs"/>
-        <updated>2023-10-12T16:00:47.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[优雅的追一场日落🌄 #drone #djidrone  #creative #dji #inspire3]]></title>
         <id>https://www.youtube.com/watch?v=zzBJoMfbYbw</id>
         <link href="https://www.youtube.com/watch?v=zzBJoMfbYbw"/>
@@ -660,15 +705,6 @@
         <updated>2023-10-12T12:30:29.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazil Fun – TVARI (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=nYzshaQy6pI</id>
-        <link href="https://www.youtube.com/watch?v=nYzshaQy6pI"/>
-        <updated>2023-10-12T12:00:45.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -750,15 +786,6 @@
         <updated>2023-10-10T12:00:21.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=emvX4NCRlwo</id>
-        <link href="https://www.youtube.com/watch?v=emvX4NCRlwo"/>
-        <updated>2023-10-10T11:00:26.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1230,15 +1257,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[当你在大风天的山顶飞无人机……#dji #drone  #diy #djidrone #creative]]></title>
-        <id>https://www.youtube.com/watch?v=8fbL-8rPki0</id>
-        <link href="https://www.youtube.com/watch?v=8fbL-8rPki0"/>
-        <updated>2023-09-27T04:40:02.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LIVE | Editing🔥 FACECAM ???]]></title>
         <id>https://www.youtube.com/watch?v=JNXCr2mZtpc</id>
         <link href="https://www.youtube.com/watch?v=JNXCr2mZtpc"/>
@@ -1263,33 +1281,6 @@
         <updated>2023-09-26T14:38:16.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[會是今年最推薦的相機嗎？ 快速檢視 Sony Alpha 7C II基本性能、優勢以及推薦的按鈕設置]]></title>
-        <id>https://www.youtube.com/watch?v=WIfe9WQNhJs</id>
-        <link href="https://www.youtube.com/watch?v=WIfe9WQNhJs"/>
-        <updated>2023-09-26T12:30:31.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆Mini 4 Pro全向避障测试，这效果你打几分？]]></title>
-        <id>https://www.youtube.com/watch?v=4c2zLLG0fFQ</id>
-        <link href="https://www.youtube.com/watch?v=4c2zLLG0fFQ"/>
-        <updated>2023-09-26T10:00:05.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II : the making of "CHISPA" by Karina Lomelin Ripper / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=GpFtEFY2yz0</id>
-        <link href="https://www.youtube.com/watch?v=GpFtEFY2yz0"/>
-        <updated>2023-09-26T05:00:10.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
