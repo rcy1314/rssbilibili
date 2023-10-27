@@ -54,16 +54,6 @@
           "wordCount": null,
           "title": "guess we chose the right man for the job",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_NMiouIAODw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_NMiouIAODw",
-          "publishedOn": "2023-09-26T18:11:49.000Z",
-          "wordCount": null,
-          "title": "I got a jungle in my 💚",
-          "imageUrl": null
         }
       ]
     },
@@ -152,6 +142,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FCWiD80-ing",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FCWiD80-ing",
+          "publishedOn": "2023-10-26T11:00:13.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=6IVrMwMynIw",
           "author": null,
@@ -291,16 +291,6 @@
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ey-E7jHOGwY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ey-E7jHOGwY",
-          "publishedOn": "2023-10-11T14:17:57.000Z",
-          "wordCount": null,
-          "title": "TOP 20 Bản Nhạc EDM Mix Cực Phiêu \"Xoá Tan Mọi Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -438,26 +428,6 @@
           "wordCount": null,
           "title": "Powerful Battle Orchestral Music | Best Inspiration Dramatic Orchestral Music | Epic Music Mix 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QIkAQFKAPT4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QIkAQFKAPT4",
-          "publishedOn": "2023-09-27T13:04:18.000Z",
-          "wordCount": null,
-          "title": "Aggressive Inspiring Battle Epic Music Collection | Powerful Orchestral Music | Epic Music Mix 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vQSyPAr1yUo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vQSyPAr1yUo",
-          "publishedOn": "2023-09-26T14:38:16.000Z",
-          "wordCount": null,
-          "title": "Best Inspiration Dramatic Orchestral Music | Epic Inspirational Orchestral Music | Epic Music 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -582,16 +552,6 @@
           "wordCount": null,
           "title": "Make It Right - Vermeil In Gold [Edit/AMV] 4K!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JNXCr2mZtpc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JNXCr2mZtpc",
-          "publishedOn": "2023-09-27T02:17:04.000Z",
-          "wordCount": null,
-          "title": "LIVE | Editing🔥 FACECAM ???",
-          "imageUrl": null
         }
       ]
     },
@@ -655,16 +615,6 @@
           "publishedOn": "2023-10-25T14:37:06.000Z",
           "wordCount": null,
           "title": "【Vue 作品實戰班】八週帶你完成求職作品｜六角學院 卡斯伯老師",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QxFrJAbIU-E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QxFrJAbIU-E",
-          "publishedOn": "2023-10-24T01:06:35.000Z",
-          "wordCount": null,
-          "title": "「The F2E  精神時光屋」UI/UX 如何在接案公司生活",
           "imageUrl": null
         },
         {
@@ -796,6 +746,16 @@
           "wordCount": null,
           "title": "【教學】讓你的網站更安全，使用 Cloudflare 免費加入 SSL 憑證｜六角學院｜2023 鐵人賽 #22",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xfoyZn0LeqQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xfoyZn0LeqQ",
+          "publishedOn": "2023-10-05T08:32:17.000Z",
+          "wordCount": null,
+          "title": "Domain 如何運作？從零註冊一個網址並綁定至 VPS 主機｜六角學院｜2023 鐵人賽 #21",
+          "imageUrl": null
         }
       ]
     },
@@ -891,13 +851,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KOiJp8rQ52I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KOiJp8rQ52I",
+          "publishedOn": "2023-10-26T04:17:06.000Z",
+          "wordCount": null,
+          "title": "Unboxing 大疆 DJI Pocket 3等了三年!终于到货了!沉浸式开箱 Unboxing#shorts #dji #pocket3#vlogcamera #camera",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FxcB_SJDgHo",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=FxcB_SJDgHo",
           "publishedOn": "2023-10-25T13:00:19.000Z",
           "wordCount": null,
-          "title": "大疆新品Pocket 3旅拍评测：1英寸迷你Vlog神器来了！",
+          "title": "大疆新品Pocket 3旅拍评测：1英寸迷你Vlog相机来了！#dji #djipocket3 #camera #vlogging",
           "imageUrl": null
         },
         {
@@ -1029,16 +999,6 @@
           "wordCount": null,
           "title": "BEST MINI DRONE EVER! AM I RIGHT? #dji #drone #djidrone",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Lq8NT-L-YLA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Lq8NT-L-YLA",
-          "publishedOn": "2023-09-27T12:30:10.000Z",
-          "wordCount": null,
-          "title": "【干货】11个万能航拍运镜，旅拍vlog必备！Mini 4 Pro - 11 Drone Photography Tips",
-          "imageUrl": null
         }
       ]
     },
@@ -1064,6 +1024,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm4cFzs3Iotlu27fOP_KwlA",
       "siteUrl": "https://www.youtube.com/channel/UCm4cFzs3Iotlu27fOP_KwlA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ef0jWHJ2O1k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ef0jWHJ2O1k",
+          "publishedOn": "2023-10-26T12:00:43.000Z",
+          "wordCount": null,
+          "title": "這位boss，你真的不做人了嗎？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3bzjIGdtgNw",
           "author": null,
@@ -1213,16 +1183,6 @@
           "wordCount": null,
           "title": "总有一款电信诈骗适合你，北美亲身经历后的防诈指南｜陈曦Stanley",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2RcHPupHiz4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2RcHPupHiz4",
-          "publishedOn": "2023-09-27T12:00:03.000Z",
-          "wordCount": null,
-          "title": "【旅拍 | 洛杉矶】勇闯洛杉矶，白天GTA，晚上La La Land｜陈曦Stanley",
-          "imageUrl": null
         }
       ]
     },
@@ -1316,6 +1276,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UXbm4axMae0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UXbm4axMae0",
+          "publishedOn": "2023-10-26T05:00:13.000Z",
+          "wordCount": null,
+          "title": "GF30mmF5.6 T/S : Fine Art Photography x Claire Rosen/ FUJIFILM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iafr14c3fmo",
           "author": null,
@@ -1464,6 +1434,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LN0AdQyCQAs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LN0AdQyCQAs",
+          "publishedOn": "2023-10-26T16:00:30.000Z",
+          "wordCount": null,
+          "title": "Haunted House - Declan DP (No Copyright Music) | Release Preview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=O7vSTEfsQFM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O7vSTEfsQFM",
+          "publishedOn": "2023-10-26T12:00:21.000Z",
+          "wordCount": null,
+          "title": "Melody – Roa (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FNl_64Bb3fM",
           "author": null,
           "description": "",
@@ -1591,26 +1581,6 @@
           "publishedOn": "2023-10-15T12:00:48.000Z",
           "wordCount": null,
           "title": "Chill With Me – tubebackr (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SBUpDG8mTkQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SBUpDG8mTkQ",
-          "publishedOn": "2023-10-14T12:00:33.000Z",
-          "wordCount": null,
-          "title": "Weekend – LiQWYD (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cIrDfYx4uTI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cIrDfYx4uTI",
-          "publishedOn": "2023-10-13T12:00:36.000Z",
-          "wordCount": null,
-          "title": "Valley – Devyzed (No Copyright Music)",
           "imageUrl": null
         }
       ]
