@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T01:13:37.568Z</id>
+    <id>urn:2023-10-29T01:20:23.351Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T01:13:37.568Z</updated>
+    <updated>2023-10-29T01:20:23.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Easy Love – Hotham (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=FuaQxM7n6vA</id>
+        <link href="https://www.youtube.com/watch?v=FuaQxM7n6vA"/>
+        <updated>2023-10-28T12:00:14.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
+        <id>https://www.youtube.com/watch?v=kh5eQS7bfEM</id>
+        <link href="https://www.youtube.com/watch?v=kh5eQS7bfEM"/>
+        <updated>2023-10-28T11:00:38.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10/27 JS 和框架】指定組合包 75 折再折 $500 ｜六角學習節 ｜#六角學院 卡斯伯老師 直播]]></title>
+        <id>https://www.youtube.com/watch?v=m6Swn5Kz188</id>
+        <link href="https://www.youtube.com/watch?v=m6Swn5Kz188"/>
+        <updated>2023-10-28T01:42:02.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pocket 3的香港样片，这是你想要的画质吗]]></title>
         <id>https://www.youtube.com/watch?v=I5alS5G2OKE</id>
@@ -330,15 +357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【10/27 JS 和框架】指定組合包 75 折再折 $500 ｜六角學習節 ｜#六角學院 卡斯伯老師 直播]]></title>
-        <id>https://www.youtube.com/watch?v=m6Swn5Kz188</id>
-        <link href="https://www.youtube.com/watch?v=m6Swn5Kz188"/>
-        <updated>2023-10-23T08:03:18.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Epic Journeys of the Solitary Warrior - Inspirational Heroic Music | The Power of Battle Epic Music]]></title>
         <id>https://www.youtube.com/watch?v=me3eBQae61Y</id>
         <link href="https://www.youtube.com/watch?v=me3eBQae61Y"/>
@@ -609,15 +627,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feel It – Atch (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=i0aUHvc83X0</id>
-        <link href="https://www.youtube.com/watch?v=i0aUHvc83X0"/>
-        <updated>2023-10-16T12:00:36.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[想不到，最後還是boss勸我去睡覺]]></title>
         <id>https://www.youtube.com/watch?v=UnvIePhi3yI</id>
         <link href="https://www.youtube.com/watch?v=UnvIePhi3yI"/>
@@ -750,15 +759,6 @@
         <updated>2023-10-13T11:27:25.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=6M-WS1XZOzM</id>
-        <link href="https://www.youtube.com/watch?v=6M-WS1XZOzM"/>
-        <updated>2023-10-13T11:00:09.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1209,42 +1209,6 @@
         <updated>2023-09-30T14:00:07.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原来MV拍摄那么简单｜布光最简单有效的方式]]></title>
-        <id>https://www.youtube.com/watch?v=jH0y1dNHVG0</id>
-        <link href="https://www.youtube.com/watch?v=jH0y1dNHVG0"/>
-        <updated>2023-09-29T12:00:40.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年10款最新 ANIME 動漫改編手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #1]]></title>
-        <id>https://www.youtube.com/watch?v=d3jcmta12eU</id>
-        <link href="https://www.youtube.com/watch?v=d3jcmta12eU"/>
-        <updated>2023-09-29T12:00:34.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於夜拍你必須要知道的4件事情]]></title>
-        <id>https://www.youtube.com/watch?v=AB67zQX8ACI</id>
-        <link href="https://www.youtube.com/watch?v=AB67zQX8ACI"/>
-        <updated>2023-09-29T12:00:07.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I kicked out 2 tennis players to film this]]></title>
-        <id>https://www.youtube.com/watch?v=bWEI6VkiROU</id>
-        <link href="https://www.youtube.com/watch?v=bWEI6VkiROU"/>
-        <updated>2023-09-28T15:00:34.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
