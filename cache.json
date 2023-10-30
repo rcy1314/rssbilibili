@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LZoSuQhAVZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LZoSuQhAVZQ",
+          "publishedOn": "2023-10-29T11:00:24.000Z",
+          "wordCount": null,
+          "title": "Nightcore Gaming Mix 2023 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 ♫ Best of EDM Mix 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kh5eQS7bfEM",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2023-10-15T11:00:06.000Z",
           "wordCount": null,
           "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NIk0hK1jlbo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NIk0hK1jlbo",
-          "publishedOn": "2023-10-14T12:00:28.000Z",
-          "wordCount": null,
-          "title": "TOP 20 Bản Nhạc EDM Mix Cực Phiêu \"Xoá Tan Mọi Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
         }
       ]
@@ -1384,6 +1384,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CFpOuWy-qtQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CFpOuWy-qtQ",
+          "publishedOn": "2023-10-29T12:00:14.000Z",
+          "wordCount": null,
+          "title": "Lapse – jiglr (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FuaQxM7n6vA",
           "author": null,
           "description": "",
@@ -1521,16 +1531,6 @@
           "publishedOn": "2023-10-18T12:00:02.000Z",
           "wordCount": null,
           "title": "In My Mind – Scandinavianz & AXM (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nj_gsSorZMM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nj_gsSorZMM",
-          "publishedOn": "2023-10-17T12:00:45.000Z",
-          "wordCount": null,
-          "title": "Fish Cannot Climb Trees – Ferco (No Copyright Music)",
           "imageUrl": null
         }
       ]
