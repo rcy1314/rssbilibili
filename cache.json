@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=47qfphBYA0U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=47qfphBYA0U",
+          "publishedOn": "2023-10-30T14:34:25.000Z",
+          "wordCount": null,
+          "title": "luv u Ed",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E0mwBLOOXDw",
           "author": null,
           "description": "",
@@ -122,6 +132,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DjTsT8nravs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DjTsT8nravs",
+          "publishedOn": "2023-10-30T11:35:40.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LZoSuQhAVZQ",
           "author": null,
@@ -261,16 +281,6 @@
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5VUTwq6vvT8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5VUTwq6vvT8",
-          "publishedOn": "2023-10-15T11:00:06.000Z",
-          "wordCount": null,
-          "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
-          "imageUrl": null
         }
       ]
     },
@@ -397,16 +407,6 @@
           "publishedOn": "2023-10-03T13:30:59.000Z",
           "wordCount": null,
           "title": "Epic Powerful Orchestral Music | Greatest of Rock epic war music of all times | Epic Battle Music",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DVqNvMk3i7A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DVqNvMk3i7A",
-          "publishedOn": "2023-09-30T14:00:07.000Z",
-          "wordCount": null,
-          "title": "Powerful Battle Orchestral Music | Best Inspiration Dramatic Orchestral Music | Epic Music Mix 2023",
           "imageUrl": null
         }
       ]
@@ -558,6 +558,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h-zvB9uIe0M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h-zvB9uIe0M",
+          "publishedOn": "2023-10-30T12:00:37.000Z",
+          "wordCount": null,
+          "title": "筆電買前必看！Mac、Ｗindows 大比拼！｜預算、CPU、記憶體 校長教你怎麼配｜程式小萌新  EP1  @hexschool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fENdEz-K-yw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fENdEz-K-yw",
+          "publishedOn": "2023-10-30T03:13:53.000Z",
+          "wordCount": null,
+          "title": "「The F2E  精神時光屋」身兼UI設計與專案管理對客戶的應答主題",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m6Swn5Kz188",
           "author": null,
           "description": "",
@@ -686,26 +706,6 @@
           "wordCount": null,
           "title": "20 分鐘入門 Docker，建立屬於你自己的 Docker Image｜六角學院｜2023 鐵人賽 #23",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JZf_Z8p5IJo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JZf_Z8p5IJo",
-          "publishedOn": "2023-10-06T09:12:53.000Z",
-          "wordCount": null,
-          "title": "【教學】讓你的網站更安全，使用 Cloudflare 免費加入 SSL 憑證｜六角學院｜2023 鐵人賽 #22",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xfoyZn0LeqQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xfoyZn0LeqQ",
-          "publishedOn": "2023-10-05T08:32:17.000Z",
-          "wordCount": null,
-          "title": "Domain 如何運作？從零註冊一個網址並綁定至 VPS 主機｜六角學院｜2023 鐵人賽 #21",
-          "imageUrl": null
         }
       ]
     },
@@ -800,6 +800,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kQf_anKuqDI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kQf_anKuqDI",
+          "publishedOn": "2023-10-30T16:00:36.000Z",
+          "wordCount": null,
+          "title": "大疆Pocket 3自动拍摄，创意运镜#dji #djipocket3 #pocket3 #camera #photography",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gDvBbw-9C_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gDvBbw-9C_8",
+          "publishedOn": "2023-10-30T10:21:28.000Z",
+          "wordCount": null,
+          "title": "大疆pocket3这个肤色还原和延时摄影的效果，你能打几分？#dji #camera #photography #djipocket3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xF3fVPbH39c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xF3fVPbH39c",
+          "publishedOn": "2023-10-30T08:08:57.000Z",
+          "wordCount": null,
+          "title": "【稳定对比】大疆Pocket3 🆚 Iphone15 #dji #iphone15 #drones",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=I5alS5G2OKE",
           "author": null,
@@ -918,36 +948,6 @@
           "publishedOn": "2023-10-10T16:00:36.000Z",
           "wordCount": null,
           "title": "无人机界的优雅王者‼️  #dronevideo  #djidrone #dji",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1JE7FMuIJLI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1JE7FMuIJLI",
-          "publishedOn": "2023-10-10T07:01:43.000Z",
-          "wordCount": null,
-          "title": "大疆 DJI Inspire3 最帅的无人机⁉️#dji #drone #inspire3 #djidrone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KJSO6MwyDxU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KJSO6MwyDxU",
-          "publishedOn": "2023-10-09T12:44:49.000Z",
-          "wordCount": null,
-          "title": "【防炸机指南】无人机10条航拍安全守则，新手看它就够了！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dun4y8Vpm_o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dun4y8Vpm_o",
-          "publishedOn": "2023-10-09T03:49:22.000Z",
-          "wordCount": null,
-          "title": "你觉得好画质是拍出来的，还是调出来的？ #dji #drone #djimini4pro #colorgrading",
           "imageUrl": null
         }
       ]
@@ -1384,6 +1384,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PDN23kOpQVU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PDN23kOpQVU",
+          "publishedOn": "2023-10-30T12:00:31.000Z",
+          "wordCount": null,
+          "title": "Nostalgia – Tomh. (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CFpOuWy-qtQ",
           "author": null,
           "description": "",
@@ -1521,16 +1531,6 @@
           "publishedOn": "2023-10-19T12:00:27.000Z",
           "wordCount": null,
           "title": "A Chill Place – Filo Starquez (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1rR6N9jZfgE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1rR6N9jZfgE",
-          "publishedOn": "2023-10-18T12:00:02.000Z",
-          "wordCount": null,
-          "title": "In My Mind – Scandinavianz & AXM (No Copyright Music)",
           "imageUrl": null
         }
       ]
