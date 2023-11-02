@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T01:21:05.770Z</id>
+    <id>urn:2023-11-02T01:16:29.020Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T01:21:05.770Z</updated>
+    <updated>2023-11-02T01:16:29.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Me and You - Next Route (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=WFSEmacwv7Q</id>
+        <link href="https://www.youtube.com/watch?v=WFSEmacwv7Q"/>
+        <updated>2023-11-01T16:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆Pocket3拍摄🐮可爱牛牛儿#dji #camera #photography #creative #vlogcamrea #travelvlog #vlog #vlogging]]></title>
+        <id>https://www.youtube.com/watch?v=CUJEnkrjg54</id>
+        <link href="https://www.youtube.com/watch?v=CUJEnkrjg54"/>
+        <updated>2023-11-01T16:00:09.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers - Summertime Friends (Live Performance)]]></title>
+        <id>https://www.youtube.com/watch?v=nUlUsIBZupk</id>
+        <link href="https://www.youtube.com/watch?v=nUlUsIBZupk"/>
+        <updated>2023-11-01T15:00:45.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
+        <id>https://www.youtube.com/watch?v=X9w5CekeplI</id>
+        <link href="https://www.youtube.com/watch?v=X9w5CekeplI"/>
+        <updated>2023-11-01T13:30:20.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆用户必学调色技巧！D-Log M也能秒出大片！]]></title>
+        <id>https://www.youtube.com/watch?v=-YsEwZV6Czw</id>
+        <link href="https://www.youtube.com/watch?v=-YsEwZV6Czw"/>
+        <updated>2023-11-01T13:00:00.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorrow – Neutrin05 (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=pWAMlIT00hE</id>
+        <link href="https://www.youtube.com/watch?v=pWAMlIT00hE"/>
+        <updated>2023-11-01T12:00:49.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II Short film "The Blank" x  Joseph Eriksson / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=sza4gxBY_8U</id>
+        <link href="https://www.youtube.com/watch?v=sza4gxBY_8U"/>
+        <updated>2023-11-01T05:00:23.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II: The making of  "The Blank" Joseph Eriksson / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=PRxS-oCdAEw</id>
+        <link href="https://www.youtube.com/watch?v=PRxS-oCdAEw"/>
+        <updated>2023-11-01T05:00:14.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[BTS] ́Yu Jia "Sanxingdui Speaks" - GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=GY8BC3KJyQA</id>
@@ -555,30 +627,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reflection – Roa (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=C19R2V0lPP0</id>
-        <link href="https://www.youtube.com/watch?v=C19R2V0lPP0"/>
-        <updated>2023-10-22T12:00:11.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=QEo-5c_phPQ</id>
         <link href="https://www.youtube.com/watch?v=QEo-5c_phPQ"/>
         <updated>2023-10-22T11:00:16.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep it – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=rYpD4qJigN8</id>
-        <link href="https://www.youtube.com/watch?v=rYpD4qJigN8"/>
-        <updated>2023-10-21T12:00:44.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -753,15 +807,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=yOjKsVZbuik</id>
-        <link href="https://www.youtube.com/watch?v=yOjKsVZbuik"/>
-        <updated>2023-10-17T11:00:58.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GFX100II : Automotive x Oskar Bakke/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=Kk79l0dc65s</id>
         <link href="https://www.youtube.com/watch?v=Kk79l0dc65s"/>
@@ -897,15 +942,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[优雅的追一场日落🌄 #drone #djidrone  #creative #dji #inspire3]]></title>
-        <id>https://www.youtube.com/watch?v=zzBJoMfbYbw</id>
-        <link href="https://www.youtube.com/watch?v=zzBJoMfbYbw"/>
-        <updated>2023-10-12T16:00:46.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自媒體收音救星！一個麥克風解決你所有煩惱 一次開箱兩款全新Sony 麥克風 ECM-S1 & ECM-W3]]></title>
         <id>https://www.youtube.com/watch?v=y0V1_52gnl0</id>
         <link href="https://www.youtube.com/watch?v=y0V1_52gnl0"/>
@@ -930,15 +966,6 @@
         <updated>2023-10-12T01:58:07.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[起猛了，无人机 #drone  #dji  #quadcopter #creative #djidrone]]></title>
-        <id>https://www.youtube.com/watch?v=Xq_F2ruRcYg</id>
-        <link href="https://www.youtube.com/watch?v=Xq_F2ruRcYg"/>
-        <updated>2023-10-11T16:00:21.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -1167,30 +1194,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GF55mmF1.7 R WR : Street photography x Evaan Kheraj/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=iF_Ao8WK2EM</id>
-        <link href="https://www.youtube.com/watch?v=iF_Ao8WK2EM"/>
-        <updated>2023-10-05T05:00:20.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[did we miss any cities?]]></title>
         <id>https://www.youtube.com/watch?v=nn1QumZXTVo</id>
         <link href="https://www.youtube.com/watch?v=nn1QumZXTVo"/>
         <updated>2023-10-04T17:11:21.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II: Adventure sports x Rémi Flament / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=-pbQuX9G8nM</id>
-        <link href="https://www.youtube.com/watch?v=-pbQuX9G8nM"/>
-        <updated>2023-10-04T05:00:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -1209,24 +1218,6 @@
         <updated>2023-10-03T13:30:59.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我不用监视器｜2023我却变了]]></title>
-        <id>https://www.youtube.com/watch?v=1DF9SZnP-pg</id>
-        <link href="https://www.youtube.com/watch?v=1DF9SZnP-pg"/>
-        <updated>2023-10-03T07:00:00.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make It Right - Vermeil In Gold [Edit/AMV] 4K!]]></title>
-        <id>https://www.youtube.com/watch?v=2oV_YjLKWww</id>
-        <link href="https://www.youtube.com/watch?v=2oV_YjLKWww"/>
-        <updated>2023-10-02T17:58:53.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
