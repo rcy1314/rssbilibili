@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-04T01:16:08.067Z</id>
+    <id>urn:2023-11-05T01:21:50.662Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T01:16:08.067Z</updated>
+    <updated>2023-11-05T01:21:50.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Liar's Love - Summer Ghost [Free Project] 4K]]></title>
+        <id>https://www.youtube.com/watch?v=3a9KwJoOOvE</id>
+        <link href="https://www.youtube.com/watch?v=3a9KwJoOOvE"/>
+        <updated>2023-11-04T23:40:55.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[唯美电影感柔光效果，30秒教你做出来！#camera #photography #videoediting  #colorgrading]]></title>
+        <id>https://www.youtube.com/watch?v=DOvQ8vX3SEY</id>
+        <link href="https://www.youtube.com/watch?v=DOvQ8vX3SEY"/>
+        <updated>2023-11-04T13:00:17.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Santorini – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=8-zePPWy5bg</id>
+        <link href="https://www.youtube.com/watch?v=8-zePPWy5bg"/>
+        <updated>2023-11-04T12:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
+        <id>https://www.youtube.com/watch?v=rZCnvQ_oQjw</id>
+        <link href="https://www.youtube.com/watch?v=rZCnvQ_oQjw"/>
+        <updated>2023-11-04T11:00:55.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[if you were wondering, this is what a romantic evening looks like with us.]]></title>
         <id>https://www.youtube.com/watch?v=Oo3o3PNBJbU</id>
@@ -582,15 +618,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Guitarist - Next Route (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=dQ0qS7aI2FU</id>
-        <link href="https://www.youtube.com/watch?v=dQ0qS7aI2FU"/>
-        <updated>2023-10-24T16:00:34.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Epic Ballads of True Companions - Epic Inspirational Orchestral Anthems | Epic Music mix 2023]]></title>
         <id>https://www.youtube.com/watch?v=lxXDdfd7PWc</id>
         <link href="https://www.youtube.com/watch?v=lxXDdfd7PWc"/>
@@ -768,15 +795,6 @@
         <updated>2023-10-20T11:00:06.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=00QotFzhR7g</id>
-        <link href="https://www.youtube.com/watch?v=00QotFzhR7g"/>
-        <updated>2023-10-20T11:00:00.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -978,15 +996,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30秒学会4种万能航拍汽车运镜！ #dji #camera #djidrone #photography]]></title>
-        <id>https://www.youtube.com/watch?v=4v1krO9W04U</id>
-        <link href="https://www.youtube.com/watch?v=4v1krO9W04U"/>
-        <updated>2023-10-13T11:27:25.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[自建一個類似 Heroku 的自動化部署環境(Portainer)｜六角學院｜2023 鐵人賽 #29]]></title>
         <id>https://www.youtube.com/watch?v=LJZ9YQOgu2w</id>
         <link href="https://www.youtube.com/watch?v=LJZ9YQOgu2w"/>
@@ -1182,51 +1191,6 @@
         <updated>2023-10-06T15:56:35.000Z</updated>
         <author>
             <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年10月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #1]]></title>
-        <id>https://www.youtube.com/watch?v=yk40CP4paA0</id>
-        <link href="https://www.youtube.com/watch?v=yk40CP4paA0"/>
-        <updated>2023-10-06T12:00:52.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023相機購買推薦指南! 從拍照到錄影統統告訴你! #攝影器材 #攝影入門]]></title>
-        <id>https://www.youtube.com/watch?v=HVcWP6ADwmg</id>
-        <link href="https://www.youtube.com/watch?v=HVcWP6ADwmg"/>
-        <updated>2023-10-06T12:00:27.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II x UP SIDE Short film "Canna"/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=GxchsJnW4cY</id>
-        <link href="https://www.youtube.com/watch?v=GxchsJnW4cY"/>
-        <updated>2023-10-06T05:00:08.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WARRIOR/AGGRESSIVE WAR EPIC MUSIC | Beautiful Epic Heroic Orchestral Music | Epic War Music MIX]]></title>
-        <id>https://www.youtube.com/watch?v=_h5F4ZGEnwU</id>
-        <link href="https://www.youtube.com/watch?v=_h5F4ZGEnwU"/>
-        <updated>2023-10-05T17:30:31.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reels畫質超級好的方法 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=tfNtzxCQXRE</id>
-        <link href="https://www.youtube.com/watch?v=tfNtzxCQXRE"/>
-        <updated>2023-10-05T16:06:16.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>
