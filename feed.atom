@@ -1,17 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-05T01:21:50.662Z</id>
+    <id>urn:2023-11-06T01:19:33.707Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T01:21:50.662Z</updated>
+    <updated>2023-11-06T01:19:33.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Be There – tubebackr (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=iA1IGhuAuek</id>
+        <link href="https://www.youtube.com/watch?v=iA1IGhuAuek"/>
+        <updated>2023-11-05T12:00:29.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liar's Love - Summer Ghost [Free Project] 4K]]></title>
         <id>https://www.youtube.com/watch?v=3a9KwJoOOvE</id>
         <link href="https://www.youtube.com/watch?v=3a9KwJoOOvE"/>
-        <updated>2023-11-04T23:40:55.000Z</updated>
+        <updated>2023-11-05T12:00:12.000Z</updated>
         <author>
             <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=EnsorfonHWk</id>
+        <link href="https://www.youtube.com/watch?v=EnsorfonHWk"/>
+        <updated>2023-11-05T11:00:12.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -591,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seoul Arcade – TVARI (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=gurDmRs4j8g</id>
-        <link href="https://www.youtube.com/watch?v=gurDmRs4j8g"/>
-        <updated>2023-10-25T12:00:43.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best Of EDM Mix 2023]]></title>
         <id>https://www.youtube.com/watch?v=6IVrMwMynIw</id>
         <link href="https://www.youtube.com/watch?v=6IVrMwMynIw"/>
@@ -741,15 +750,6 @@
         <updated>2023-10-21T12:00:03.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=YUTAPTuBVHs</id>
-        <link href="https://www.youtube.com/watch?v=YUTAPTuBVHs"/>
-        <updated>2023-10-21T11:00:23.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1155,42 +1155,6 @@
         <updated>2023-10-07T15:24:46.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人群隱匿，袖劍必殺【刺客信條：幻景】首發深度體驗]]></title>
-        <id>https://www.youtube.com/watch?v=57YAh8KdD4A</id>
-        <link href="https://www.youtube.com/watch?v=57YAh8KdD4A"/>
-        <updated>2023-10-07T12:00:07.000Z</updated>
-        <author>
-            <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 分鐘入門 Docker，建立屬於你自己的 Docker Image｜六角學院｜2023 鐵人賽 #23]]></title>
-        <id>https://www.youtube.com/watch?v=RsY5cCc9RGM</id>
-        <link href="https://www.youtube.com/watch?v=RsY5cCc9RGM"/>
-        <updated>2023-10-07T09:02:15.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无人机3D字幕跟踪｜mTracker 3D]]></title>
-        <id>https://www.youtube.com/watch?v=FnuWwhYfo0I</id>
-        <link href="https://www.youtube.com/watch?v=FnuWwhYfo0I"/>
-        <updated>2023-10-07T01:00:13.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Powerful Battle Soundtrack | World's Most Epic Orchestral Music | Epic Battle Dark Heroic Music]]></title>
-        <id>https://www.youtube.com/watch?v=_04UQmRFY0A</id>
-        <link href="https://www.youtube.com/watch?v=_04UQmRFY0A"/>
-        <updated>2023-10-06T15:56:35.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
 </feed>
