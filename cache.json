@@ -143,6 +143,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s5xSyKtPjC8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s5xSyKtPjC8",
+          "publishedOn": "2023-11-10T11:00:50.000Z",
+          "wordCount": null,
+          "title": "🔥 Top EDM Leo Rank Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X_OSoFzoiwQ",
           "author": null,
           "description": "",
@@ -281,16 +291,6 @@
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FCWiD80-ing",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FCWiD80-ing",
-          "publishedOn": "2023-10-26T11:00:13.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -368,16 +368,6 @@
           "wordCount": null,
           "title": "We Are Warriors | Epic Inspirational Orchestral Music 2023 | THE POWER OF WAR EPIC MUSIC",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sirOjWs4viE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sirOjWs4viE",
-          "publishedOn": "2023-10-11T14:32:13.000Z",
-          "wordCount": null,
-          "title": "The Power Of Epic Music | Epic Orchestral Music For Powerful Motivation | Inspiring Cinematic Music",
-          "imageUrl": null
         }
       ]
     },
@@ -443,6 +433,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
       "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=n8OOBqNIR2M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n8OOBqNIR2M",
+          "publishedOn": "2023-11-10T04:26:10.000Z",
+          "wordCount": null,
+          "title": "LIVE | Editing🔥",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3a9KwJoOOvE",
           "author": null,
@@ -585,26 +585,6 @@
           "wordCount": null,
           "title": "自建一個類似 Heroku 的自動化部署環境(Portainer)｜六角學院｜2023 鐵人賽 #29",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bxr0A3tdgMc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bxr0A3tdgMc",
-          "publishedOn": "2023-10-12T08:10:04.000Z",
-          "wordCount": null,
-          "title": "Docker Compose 神器：一行指令部署 MongoDB 和 Node.js！｜六角學院｜2023 鐵人賽 #28",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e0X2eOpY_vM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e0X2eOpY_vM",
-          "publishedOn": "2023-10-12T01:58:07.000Z",
-          "wordCount": null,
-          "title": "JS 面試常見核心知識 - 變數與作用域篇",
-          "imageUrl": null
         }
       ]
     },
@@ -689,6 +669,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WuATf2eRQ8g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WuATf2eRQ8g",
+          "publishedOn": "2023-11-10T16:00:22.000Z",
+          "wordCount": null,
+          "title": "40度高温 大疆 Pocket3 能撑多久?#shorts #camera #dji  #pocketcamera",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qvIHuVusPxE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qvIHuVusPxE",
+          "publishedOn": "2023-11-10T04:31:14.000Z",
+          "wordCount": null,
+          "title": "无人机创意开场怎么拍？#dji #photography #djipocket3 #creative #camera #drone",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-4BsEHF1NDw",
           "author": null,
@@ -818,26 +818,6 @@
           "wordCount": null,
           "title": "大疆新品Pocket 3旅拍评测：1英寸迷你Vlog相机来了！#dji #djipocket3 #camera #vlogging",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JqN3G8rpSr4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JqN3G8rpSr4",
-          "publishedOn": "2023-10-25T04:15:43.000Z",
-          "wordCount": null,
-          "title": "Mini系列拔河比赛！看看谁的动力更猛！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y3WCSKdX6xw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y3WCSKdX6xw",
-          "publishedOn": "2023-10-24T04:02:36.000Z",
-          "wordCount": null,
-          "title": "避障大挑战！你觉得侧向避障重要吗？",
-          "imageUrl": null
         }
       ]
     },
@@ -900,6 +880,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RfOdL82Qa6w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RfOdL82Qa6w",
+          "publishedOn": "2023-11-10T12:00:27.000Z",
+          "wordCount": null,
+          "title": "2023年11月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YWQCIkgAIQM",
           "author": null,
           "description": "",
@@ -952,6 +942,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
       "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8O3ntgtcSlQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8O3ntgtcSlQ",
+          "publishedOn": "2023-11-10T09:41:48.000Z",
+          "wordCount": null,
+          "title": "直到 Series 9 我才知道 Apple watch 是干什么用的！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ksd0t5ct5RA",
           "author": null,
@@ -1157,16 +1157,6 @@
           "wordCount": null,
           "title": "4位攝影師抽鏡頭拍人像，【1分鐘攝影】限時挑戰！16-35mm 、 24-70-mm 、 70-200mm",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y0V1_52gnl0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y0V1_52gnl0",
-          "publishedOn": "2023-10-12T12:30:29.000Z",
-          "wordCount": null,
-          "title": "自媒體收音救星！一個麥克風解決你所有煩惱 一次開箱兩款全新Sony 麥克風 ECM-S1 & ECM-W3",
-          "imageUrl": null
         }
       ]
     },
@@ -1333,6 +1323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yS34tEMcBzw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yS34tEMcBzw",
+          "publishedOn": "2023-11-10T12:01:01.000Z",
+          "wordCount": null,
+          "title": "Enchanting Darkness – Artificial.Music (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=y3SRQMe46Bo",
           "author": null,
           "description": "",
@@ -1470,16 +1470,6 @@
           "publishedOn": "2023-10-29T12:00:14.000Z",
           "wordCount": null,
           "title": "Lapse – jiglr (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FuaQxM7n6vA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FuaQxM7n6vA",
-          "publishedOn": "2023-10-28T12:00:14.000Z",
-          "wordCount": null,
-          "title": "Easy Love – Hotham (No Copyright Music)",
           "imageUrl": null
         }
       ]
