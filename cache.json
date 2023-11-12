@@ -91,7 +91,18 @@
       "title": "小广同学Studio",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4_EVnfNAoRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4_EVnfNAoRI",
+          "publishedOn": "2023-11-11T07:26:53.000Z",
+          "wordCount": null,
+          "title": "【AE风景动态】第一节-检查分层文件",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "黄杨ME",
@@ -142,6 +153,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oqZZfnaRqnw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oqZZfnaRqnw",
+          "publishedOn": "2023-11-11T11:00:48.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=s5xSyKtPjC8",
           "author": null,
@@ -280,16 +301,6 @@
           "publishedOn": "2023-10-28T11:00:38.000Z",
           "wordCount": null,
           "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-hXOPpg7Dec",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-hXOPpg7Dec",
-          "publishedOn": "2023-10-27T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
         }
       ]
@@ -574,16 +585,6 @@
           "publishedOn": "2023-10-14T04:49:34.000Z",
           "wordCount": null,
           "title": "使用 Traefik 進行反向代理｜單一伺服器綁定多網域 ｜六角學院｜2023 鐵人賽 #30",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LJZ9YQOgu2w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LJZ9YQOgu2w",
-          "publishedOn": "2023-10-12T23:54:16.000Z",
-          "wordCount": null,
-          "title": "自建一個類似 Heroku 的自動化部署環境(Portainer)｜六角學院｜2023 鐵人賽 #29",
           "imageUrl": null
         }
       ]
@@ -917,16 +918,6 @@
           "publishedOn": "2023-10-20T12:00:04.000Z",
           "wordCount": null,
           "title": "2023年10月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Yr2qX3wT9A8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Yr2qX3wT9A8",
-          "publishedOn": "2023-10-13T12:00:35.000Z",
-          "wordCount": null,
-          "title": "2023年10月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #2",
           "imageUrl": null
         }
       ]
@@ -1323,6 +1314,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SpeWofMljEE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SpeWofMljEE",
+          "publishedOn": "2023-11-11T12:00:20.000Z",
+          "wordCount": null,
+          "title": "Good Vibes Only – Wanheda (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yS34tEMcBzw",
           "author": null,
           "description": "",
@@ -1460,16 +1461,6 @@
           "publishedOn": "2023-10-30T12:00:31.000Z",
           "wordCount": null,
           "title": "Nostalgia – Tomh. (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CFpOuWy-qtQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CFpOuWy-qtQ",
-          "publishedOn": "2023-10-29T12:00:14.000Z",
-          "wordCount": null,
-          "title": "Lapse – jiglr (No Copyright Music)",
           "imageUrl": null
         }
       ]
