@@ -154,6 +154,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=U0bnCfhLVWE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U0bnCfhLVWE",
+          "publishedOn": "2023-11-13T11:00:31.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oqZZfnaRqnw",
           "author": null,
           "description": "",
@@ -292,16 +302,6 @@
           "wordCount": null,
           "title": "Nightcore Gaming Mix 2023 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023 ♫ Best of EDM Mix 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kh5eQS7bfEM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kh5eQS7bfEM",
-          "publishedOn": "2023-10-28T11:00:38.000Z",
-          "wordCount": null,
-          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -425,16 +425,6 @@
           "publishedOn": "2023-10-20T11:00:06.000Z",
           "wordCount": null,
           "title": "手機也適用！ 3個最簡單且最實用的電影感運鏡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ueoay_9Toj8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ueoay_9Toj8",
-          "publishedOn": "2023-10-14T14:47:37.000Z",
-          "wordCount": null,
-          "title": "做了5年youtube. 我有些話想跟各位說",
           "imageUrl": null
         }
       ]
@@ -618,26 +608,6 @@
           "publishedOn": "2023-10-19T03:01:46.000Z",
           "wordCount": null,
           "title": "《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 簡介30s精華短片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aWBkysIFO2U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aWBkysIFO2U",
-          "publishedOn": "2023-10-14T17:19:50.000Z",
-          "wordCount": null,
-          "title": "《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 20231002記者會精華短片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9CAwja6UBJs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9CAwja6UBJs",
-          "publishedOn": "2023-10-14T17:08:52.000Z",
-          "wordCount": null,
-          "title": "《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 雙人表演場精華短片",
           "imageUrl": null
         }
       ]
@@ -1035,13 +1005,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Vex4CgOTrYw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vex4CgOTrYw",
+          "publishedOn": "2023-11-13T12:00:28.000Z",
+          "wordCount": null,
+          "title": "【旅拍 | 洪都拉斯】探访全世界凶杀率最高的中美小国：洪都拉斯｜陈曦Stanley",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DVoVWn7Ye-A",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=DVoVWn7Ye-A",
           "publishedOn": "2023-11-08T12:00:12.000Z",
           "wordCount": null,
-          "title": "【徒步 |阿西尼博因山】挑战加拿大最美徒步线，拍摄出了今年的最佳照片！｜陈曦Stanley",
+          "title": "【徒步 | 阿西尼博因山】挑战加拿大最美徒步线，拍摄出了今年的最佳照片！｜陈曦Stanley",
           "imageUrl": null
         },
         {
@@ -1051,7 +1031,7 @@
           "link": "https://www.youtube.com/watch?v=bG8g7Symqpg",
           "publishedOn": "2023-11-02T02:49:14.000Z",
           "wordCount": null,
-          "title": "【旅拍 |温哥华】探访北美太平洋门户最适合宜居的森林城市：温哥华｜陈曦Stanley",
+          "title": "【旅拍 | 温哥华】探访北美太平洋门户最适合宜居的森林城市：温哥华｜陈曦Stanley",
           "imageUrl": null
         },
         {
@@ -1100,6 +1080,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3P74ImkJO4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3P74ImkJO4U",
+          "publishedOn": "2023-11-13T12:30:02.000Z",
+          "wordCount": null,
+          "title": "邊健身邊拍照？4位攝影師抽鏡頭拍人像，【1分鐘攝影大挑戰】攝影是一種藝術、更是一種運動！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SAfD1K2Pt0U",
           "author": null,
@@ -1157,6 +1147,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cQj6T6vm3T4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cQj6T6vm3T4",
+          "publishedOn": "2023-11-13T07:16:18.000Z",
+          "wordCount": null,
+          "title": "Virtual Tour \"GFX Challenge Grant Program 2022 Photo Exhibition\" / FUJIFILM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=s-ynGQkdfhI",
           "author": null,
@@ -1296,16 +1296,6 @@
           "wordCount": null,
           "title": "GF30mmF5.6 T/S : Architecture x Massimo Listri/ FUJIFILM",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Kk79l0dc65s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Kk79l0dc65s",
-          "publishedOn": "2023-10-17T05:00:13.000Z",
-          "wordCount": null,
-          "title": "GFX100II : Automotive x Oskar Bakke/ FUJIFILM",
-          "imageUrl": null
         }
       ]
     },
@@ -1314,6 +1304,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JJsR23cn9HE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JJsR23cn9HE",
+          "publishedOn": "2023-11-13T12:00:26.000Z",
+          "wordCount": null,
+          "title": "Flower – KV (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lRIfodD3mtA",
           "author": null,
@@ -1452,16 +1452,6 @@
           "publishedOn": "2023-10-31T16:00:37.000Z",
           "wordCount": null,
           "title": "The Great Wall And Taj Mahal - WOMA (No Copyright Music) | Release Preview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6a6luR6uJR0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6a6luR6uJR0",
-          "publishedOn": "2023-10-31T12:00:08.000Z",
-          "wordCount": null,
-          "title": "Jungle Drive – tubebackr & Ferco (No Copyright Music)",
           "imageUrl": null
         }
       ]
