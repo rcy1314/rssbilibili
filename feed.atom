@@ -1,17 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-15T01:19:31.464Z</id>
+    <id>urn:2023-11-16T01:20:36.087Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T01:19:31.464Z</updated>
+    <updated>2023-11-16T01:20:36.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【旅拍 | 旧金山】勇闯旧金山，美国崩坏的城市能否再现繁华？上篇｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=bOWzP086PS8</id>
+        <link href="https://www.youtube.com/watch?v=bOWzP086PS8"/>
+        <updated>2023-11-15T12:00:36.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the Rain Stops – Tokyo Music Walker (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=JZv7VlHqp6Q</id>
+        <link href="https://www.youtube.com/watch?v=JZv7VlHqp6Q"/>
+        <updated>2023-11-15T12:00:13.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dark Out - Monogatari [Edit/AMV] #loopvember]]></title>
         <id>https://www.youtube.com/watch?v=q2C3Yw1xg8A</id>
         <link href="https://www.youtube.com/watch?v=q2C3Yw1xg8A"/>
-        <updated>2023-11-15T00:13:18.000Z</updated>
+        <updated>2023-11-15T12:00:11.000Z</updated>
         <author>
             <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30秒就能学会三种转场技巧，不收藏血亏！]]></title>
+        <id>https://www.youtube.com/watch?v=sB26AgR2WR4</id>
+        <link href="https://www.youtube.com/watch?v=sB26AgR2WR4"/>
+        <updated>2023-11-15T11:12:19.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
+        <id>https://www.youtube.com/watch?v=_hLn5GhKayU</id>
+        <link href="https://www.youtube.com/watch?v=_hLn5GhKayU"/>
+        <updated>2023-11-15T11:00:35.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【主題挑戰賽說明會】TypeScript 30 天證書培訓營]]></title>
+        <id>https://www.youtube.com/watch?v=nbBkyXX_Z1g</id>
+        <link href="https://www.youtube.com/watch?v=nbBkyXX_Z1g"/>
+        <updated>2023-11-15T06:53:24.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「TheF2E 精神時光屋」如何輕鬆面對接案的各種挑戰 - 巨鷗跨界智慧創新集團 智慧城鄉處 營運長 林嘉豪 Hugo]]></title>
+        <id>https://www.youtube.com/watch?v=_M3BBbXPZ8o</id>
+        <link href="https://www.youtube.com/watch?v=_M3BBbXPZ8o"/>
+        <updated>2023-11-15T06:16:09.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Q&A」推薦去大公司嗎？#六角學院 #年終 #抽獎 #尾牙 #工程師]]></title>
+        <id>https://www.youtube.com/watch?v=RdAghffJkss</id>
+        <link href="https://www.youtube.com/watch?v=RdAghffJkss"/>
+        <updated>2023-11-15T02:08:26.000Z</updated>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -654,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorrow – Neutrin05 (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=pWAMlIT00hE</id>
-        <link href="https://www.youtube.com/watch?v=pWAMlIT00hE"/>
-        <updated>2023-11-01T12:00:49.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GFX100 II Short film "The Blank" x  Joseph Eriksson / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=sza4gxBY_8U</id>
         <link href="https://www.youtube.com/watch?v=sza4gxBY_8U"/>
@@ -789,15 +843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=DjTsT8nravs</id>
-        <link href="https://www.youtube.com/watch?v=DjTsT8nravs"/>
-        <updated>2023-10-30T11:35:40.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大疆pocket3这个肤色还原和延时摄影的效果，你能打几分？#dji #camera #photography #djipocket3]]></title>
         <id>https://www.youtube.com/watch?v=gDvBbw-9C_8</id>
         <link href="https://www.youtube.com/watch?v=gDvBbw-9C_8"/>
@@ -867,15 +912,6 @@
         <updated>2023-10-27T08:35:42.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆Air 3/Mini 4 Pro的D-Log M，调色的潜力还是很大的。 #drone #dji #photography]]></title>
-        <id>https://www.youtube.com/watch?v=EZpfhmLhvwk</id>
-        <link href="https://www.youtube.com/watch?v=EZpfhmLhvwk"/>
-        <updated>2023-10-27T03:45:00.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
