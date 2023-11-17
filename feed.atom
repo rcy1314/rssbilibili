@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-16T01:20:36.087Z</id>
+    <id>urn:2023-11-17T01:20:26.103Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T01:20:36.087Z</updated>
+    <updated>2023-11-17T01:20:26.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[在這座城市遺失了你]]></title>
+        <id>https://www.youtube.com/watch?v=DTBKH5ktF4o</id>
+        <link href="https://www.youtube.com/watch?v=DTBKH5ktF4o"/>
+        <updated>2023-11-16T16:39:30.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI Mini 4 Pro Crash Test 暴力测试 小身板超难杀！？大疆Mini 4 Pro历经摧残能否存活？]]></title>
+        <id>https://www.youtube.com/watch?v=lLg0pjiPZ7U</id>
+        <link href="https://www.youtube.com/watch?v=lLg0pjiPZ7U"/>
+        <updated>2023-11-16T13:00:41.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=kZNrFwRPG50</id>
+        <link href="https://www.youtube.com/watch?v=kZNrFwRPG50"/>
+        <updated>2023-11-16T13:00:39.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't Stop – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=8PIrbFGs3C8</id>
+        <link href="https://www.youtube.com/watch?v=8PIrbFGs3C8"/>
+        <updated>2023-11-16T12:00:15.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AE风景动态】第二节-学习如何制作草动态效果]]></title>
+        <id>https://www.youtube.com/watch?v=m82wwwwm1V0</id>
+        <link href="https://www.youtube.com/watch?v=m82wwwwm1V0"/>
+        <updated>2023-11-16T04:05:00.000Z</updated>
+        <author>
+            <name>小广同学Studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 型別篇 - JS 面試常見核心知識]]></title>
+        <id>https://www.youtube.com/watch?v=kX3madakVl0</id>
+        <link href="https://www.youtube.com/watch?v=kX3madakVl0"/>
+        <updated>2023-11-16T01:27:58.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【旅拍 | 旧金山】勇闯旧金山，美国崩坏的城市能否再现繁华？上篇｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=bOWzP086PS8</id>
@@ -111,15 +165,6 @@
         <updated>2023-11-14T10:47:42.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 型別篇 - JS 面試常見核心知識]]></title>
-        <id>https://www.youtube.com/watch?v=kX3madakVl0</id>
-        <link href="https://www.youtube.com/watch?v=kX3madakVl0"/>
-        <updated>2023-11-14T10:43:58.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -672,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Me and You - Next Route (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=WFSEmacwv7Q</id>
-        <link href="https://www.youtube.com/watch?v=WFSEmacwv7Q"/>
-        <updated>2023-11-01T16:00:26.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大疆Pocket3拍摄🐮可爱牛牛儿#dji #camera #photography #creative #vlogcamrea #travelvlog #vlog #vlogging]]></title>
         <id>https://www.youtube.com/watch?v=CUJEnkrjg54</id>
         <link href="https://www.youtube.com/watch?v=CUJEnkrjg54"/>
@@ -780,15 +816,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=F2r2g9_Mf9I</id>
-        <link href="https://www.youtube.com/watch?v=F2r2g9_Mf9I"/>
-        <updated>2023-10-31T11:00:18.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[這東西能幫你拍出電影感！ (沒錯又是電影感 Ft. Sirui saturn 35mm]]></title>
         <id>https://www.youtube.com/watch?v=i1Hz9X5xy4s</id>
         <link href="https://www.youtube.com/watch?v=i1Hz9X5xy4s"/>
@@ -867,15 +894,6 @@
         <updated>2023-10-28T01:42:02.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pocket 3的香港样片，这是你想要的画质吗]]></title>
-        <id>https://www.youtube.com/watch?v=I5alS5G2OKE</id>
-        <link href="https://www.youtube.com/watch?v=I5alS5G2OKE"/>
-        <updated>2023-10-27T12:06:56.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -1128,24 +1146,6 @@
         <updated>2023-10-19T01:59:13.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[总有一款电信诈骗适合你，北美亲身经历后的防诈指南｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=qzZyZNjZLxE</id>
-        <link href="https://www.youtube.com/watch?v=qzZyZNjZLxE"/>
-        <updated>2023-10-18T12:00:47.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Heroic Legends Unleashed - A Powerful Orchestral Music | Heroic Orchestral Music for Warriors]]></title>
-        <id>https://www.youtube.com/watch?v=rS40C4S34I8</id>
-        <link href="https://www.youtube.com/watch?v=rS40C4S34I8"/>
-        <updated>2023-10-17T14:00:38.000Z</updated>
-        <author>
-            <name>Epic Battle Music</name>
         </author>
     </entry>
 </feed>
