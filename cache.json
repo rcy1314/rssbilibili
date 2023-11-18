@@ -164,6 +164,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BvFxHOGeQ6o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BvFxHOGeQ6o",
+          "publishedOn": "2023-11-17T12:00:11.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kZNrFwRPG50",
           "author": null,
           "description": "",
@@ -301,16 +311,6 @@
           "publishedOn": "2023-11-02T11:00:33.000Z",
           "wordCount": null,
           "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X9w5CekeplI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X9w5CekeplI",
-          "publishedOn": "2023-11-01T13:30:20.000Z",
-          "wordCount": null,
-          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023",
           "imageUrl": null
         }
       ]
@@ -616,16 +616,6 @@
           "wordCount": null,
           "title": "【Vue 作品實戰班】八週帶你完成求職作品｜六角學院 卡斯伯老師",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8h2AyaaCXnY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8h2AyaaCXnY",
-          "publishedOn": "2023-10-19T01:59:13.000Z",
-          "wordCount": null,
-          "title": "【限時四天】六角學習節 四大優惠一次看｜#六角學院 洧杰校長 X 卡斯伯老師 雙主播",
-          "imageUrl": null
         }
       ]
     },
@@ -639,34 +629,23 @@
       "title": "哲宇寇汀吧 CheYu's Coding Bar",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHX_XMhPrtvOmgGOnA2eTmA",
       "siteUrl": "https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ll5URw_idpY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ll5URw_idpY",
-          "publishedOn": "2023-10-19T03:18:27.000Z",
-          "wordCount": null,
-          "title": "《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 簡介 60s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=czsaFHdBfJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=czsaFHdBfJQ",
-          "publishedOn": "2023-10-19T03:01:46.000Z",
-          "wordCount": null,
-          "title": "《萬物公式》數位生命演化之旅 - 2023吳哲宇生成式藝術個展 // 簡介30s精華短片",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Learning Screen",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
       "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HV9WP27KBhc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HV9WP27KBhc",
+          "publishedOn": "2023-11-17T01:30:59.000Z",
+          "wordCount": null,
+          "title": "Epic City Photo Manipulation Speed Art | Photoshop Tutorial",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BVAVq_CRkTc",
           "author": null,
@@ -691,13 +670,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9qr9w1rdBQI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9qr9w1rdBQI",
+          "publishedOn": "2023-11-17T04:13:05.000Z",
+          "wordCount": null,
+          "title": "Mini 4 Pro这个跟随避障想过你能打几分？#dji #drone #camera",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lLg0pjiPZ7U",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=lLg0pjiPZ7U",
           "publishedOn": "2023-11-16T13:00:41.000Z",
           "wordCount": null,
-          "title": "DJI Mini 4 Pro Crash Test 暴力测试 小身板超难杀！？大疆Mini 4 Pro历经摧残能否存活？",
+          "title": "大疆Mini 4 Pro暴力测试，正面撞墙能否扛的住？DJI Mini 4 Pro Crash Test ！",
           "imageUrl": null
         },
         {
@@ -829,16 +818,6 @@
           "wordCount": null,
           "title": "大疆pocket3这个肤色还原和延时摄影的效果，你能打几分？#dji #camera #photography #djipocket3",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xF3fVPbH39c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xF3fVPbH39c",
-          "publishedOn": "2023-10-30T08:08:57.000Z",
-          "wordCount": null,
-          "title": "【稳定对比】大疆Pocket3 🆚 Iphone15 #dji #iphone15 #drones",
-          "imageUrl": null
         }
       ]
     },
@@ -890,6 +869,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ndrExHKzqMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ndrExHKzqMI",
+          "publishedOn": "2023-11-17T12:00:48.000Z",
+          "wordCount": null,
+          "title": "2023年11月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RfOdL82Qa6w",
           "author": null,
@@ -1024,6 +1013,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dPQCaD9A7JI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dPQCaD9A7JI",
+          "publishedOn": "2023-11-17T12:00:35.000Z",
+          "wordCount": null,
+          "title": "【旅拍 | 旧金山】勇闯旧金山，美国崩坏的城市能否再现繁华？下篇｜陈曦Stanley",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bOWzP086PS8",
           "author": null,
           "description": "",
@@ -1137,16 +1136,6 @@
           "publishedOn": "2023-10-23T12:30:32.000Z",
           "wordCount": null,
           "title": "在混亂的夜市中如何拍攝人像？給自己一點挑戰 「散步人像」曼谷篇 ft. Nikon Z8 + 50mm f1.8s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NeTioLUKFHA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NeTioLUKFHA",
-          "publishedOn": "2023-10-19T12:30:25.000Z",
-          "wordCount": null,
-          "title": "輕鬆模仿攝影師的修圖方式！一鍵加強散景效果！- Adobe Lightroom 更新分享",
           "imageUrl": null
         }
       ]
@@ -1314,6 +1303,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9J23IMyP26Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9J23IMyP26Y",
+          "publishedOn": "2023-11-17T12:00:08.000Z",
+          "wordCount": null,
+          "title": "Pink Sky pt.II – Johny Grimes (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8PIrbFGs3C8",
           "author": null,
           "description": "",
@@ -1451,16 +1450,6 @@
           "publishedOn": "2023-11-03T12:00:19.000Z",
           "wordCount": null,
           "title": "Swiss View – TVARI (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5dkH09t0SP0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5dkH09t0SP0",
-          "publishedOn": "2023-11-02T12:00:08.000Z",
-          "wordCount": null,
-          "title": "Peaches – LiQWYD (No Copyright Music)",
           "imageUrl": null
         }
       ]
