@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-25T01:17:07.824Z</id>
+    <id>urn:2023-11-26T01:24:00.804Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T01:17:07.824Z</updated>
+    <updated>2023-11-26T01:24:00.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7个运镜拍出高级感,赶紧学起来!#shorts  #pocket3 #dji #camera]]></title>
+        <id>https://www.youtube.com/watch?v=01TSNxTVWJU</id>
+        <link href="https://www.youtube.com/watch?v=01TSNxTVWJU"/>
+        <updated>2023-11-25T16:00:00.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原来这么拍】]]></title>
+        <id>https://www.youtube.com/watch?v=nZXCO5a8guw</id>
+        <link href="https://www.youtube.com/watch?v=nZXCO5a8guw"/>
+        <updated>2023-11-25T13:30:09.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AE风景动态】第三节 学习如何制作阳光动画]]></title>
+        <id>https://www.youtube.com/watch?v=Cc24w68mpgs</id>
+        <link href="https://www.youtube.com/watch?v=Cc24w68mpgs"/>
+        <updated>2023-11-25T13:04:11.000Z</updated>
+        <author>
+            <name>小广同学Studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smile – Tomh. (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=nWMMIWXi9_s</id>
+        <link href="https://www.youtube.com/watch?v=nWMMIWXi9_s"/>
+        <updated>2023-11-25T12:00:46.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真.年度旅拍神器？！运动相机竟然能拍出电影感|Insta360 Ace Pro深度测评]]></title>
+        <id>https://www.youtube.com/watch?v=6oiibrJA5-Q</id>
+        <link href="https://www.youtube.com/watch?v=6oiibrJA5-Q"/>
+        <updated>2023-11-25T10:00:07.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue 官方認證的考試心得 - 如果想考 Vue 認證，哪些細節要注意？]]></title>
         <id>https://www.youtube.com/watch?v=dL-y2wiyTsM</id>
@@ -12,15 +57,6 @@
         <updated>2023-11-25T01:05:22.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原来这么拍】]]></title>
-        <id>https://www.youtube.com/watch?v=nZXCO5a8guw</id>
-        <link href="https://www.youtube.com/watch?v=nZXCO5a8guw"/>
-        <updated>2023-11-24T18:43:07.000Z</updated>
-        <author>
-            <name>左手+</name>
         </author>
     </entry>
     <entry>
@@ -573,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good Vibes Only – Wanheda (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=SpeWofMljEE</id>
-        <link href="https://www.youtube.com/watch?v=SpeWofMljEE"/>
-        <updated>2023-11-11T12:00:20.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
         <id>https://www.youtube.com/watch?v=oqZZfnaRqnw</id>
         <link href="https://www.youtube.com/watch?v=oqZZfnaRqnw"/>
@@ -897,15 +924,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大疆Pocket3拍摄🐮可爱牛牛儿#dji #camera #photography #creative #vlogcamrea #travelvlog #vlog #vlogging]]></title>
-        <id>https://www.youtube.com/watch?v=CUJEnkrjg54</id>
-        <link href="https://www.youtube.com/watch?v=CUJEnkrjg54"/>
-        <updated>2023-11-01T16:00:09.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Chainsmokers - Summertime Friends (Live Performance)]]></title>
         <id>https://www.youtube.com/watch?v=nUlUsIBZupk</id>
         <link href="https://www.youtube.com/watch?v=nUlUsIBZupk"/>
@@ -1018,51 +1036,6 @@
         <id>https://www.youtube.com/watch?v=m6Swn5Kz188</id>
         <link href="https://www.youtube.com/watch?v=m6Swn5Kz188"/>
         <updated>2023-10-28T01:42:02.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年10月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #4]]></title>
-        <id>https://www.youtube.com/watch?v=zoO4mMLVanc</id>
-        <link href="https://www.youtube.com/watch?v=zoO4mMLVanc"/>
-        <updated>2023-10-27T12:00:54.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六个步骤快速学会电影感|DJI POCKET 3旅拍上手测评！]]></title>
-        <id>https://www.youtube.com/watch?v=7PiubSvPvZs</id>
-        <link href="https://www.youtube.com/watch?v=7PiubSvPvZs"/>
-        <updated>2023-10-27T10:00:05.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爱否】OPPO Find N3: 第三代也是初代]]></title>
-        <id>https://www.youtube.com/watch?v=iOnLNiSxzhU</id>
-        <link href="https://www.youtube.com/watch?v=iOnLNiSxzhU"/>
-        <updated>2023-10-27T08:36:17.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米 14 系列评测：理想中小米 13 应该有的样子]]></title>
-        <id>https://www.youtube.com/watch?v=0KpFzX1rsck</id>
-        <link href="https://www.youtube.com/watch?v=0KpFzX1rsck"/>
-        <updated>2023-10-27T08:35:42.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/26 沈浸式密室逃脫】專為前端設計 模擬職場互動 ｜六角學習節 ｜#六角學院 洧杰校長 直播]]></title>
-        <id>https://www.youtube.com/watch?v=38cVMiEWJKU</id>
-        <link href="https://www.youtube.com/watch?v=38cVMiEWJKU"/>
-        <updated>2023-10-27T03:44:04.000Z</updated>
         <author>
             <name>六角學院</name>
         </author>
