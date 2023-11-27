@@ -154,6 +154,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1SiXWCjhE9M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1SiXWCjhE9M",
+          "publishedOn": "2023-11-26T11:00:01.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=39j2eqGHX_s",
           "author": null,
           "description": "",
@@ -289,16 +299,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=X_OSoFzoiwQ",
           "publishedOn": "2023-11-09T11:00:29.000Z",
-          "wordCount": null,
-          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-k_yGTFr47w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-k_yGTFr47w",
-          "publishedOn": "2023-11-08T11:00:00.000Z",
           "wordCount": null,
           "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023",
           "imageUrl": null
@@ -524,16 +524,6 @@
           "publishedOn": "2023-10-30T12:00:37.000Z",
           "wordCount": null,
           "title": "筆電買前必看！Mac、Ｗindows 大比拼！｜預算、CPU、記憶體 校長教你怎麼配｜程式小萌新  EP1  @hexschool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m6Swn5Kz188",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m6Swn5Kz188",
-          "publishedOn": "2023-10-28T01:42:02.000Z",
-          "wordCount": null,
-          "title": "【10/27 JS 和框架】指定組合包 75 折再折 $500 ｜六角學習節 ｜#六角學院 卡斯伯老師 直播",
           "imageUrl": null
         }
       ]
@@ -1192,6 +1182,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bdXreVvW4sU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bdXreVvW4sU",
+          "publishedOn": "2023-11-26T12:00:28.000Z",
+          "wordCount": null,
+          "title": "Oceans Away – Hotham (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nWMMIWXi9_s",
           "author": null,
           "description": "",
@@ -1329,16 +1329,6 @@
           "publishedOn": "2023-11-13T12:00:26.000Z",
           "wordCount": null,
           "title": "Flower – KV (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lRIfodD3mtA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lRIfodD3mtA",
-          "publishedOn": "2023-11-12T12:00:40.000Z",
-          "wordCount": null,
-          "title": "Beautiful Wonder – Alex-Productions (No Copyright Music)",
           "imageUrl": null
         }
       ]
