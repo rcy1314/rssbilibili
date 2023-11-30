@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-29T01:21:08.796Z</id>
+    <id>urn:2023-11-30T01:20:05.741Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T01:21:08.796Z</updated>
+    <updated>2023-11-30T01:20:05.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【干货】记住这个公式！新手也能秒会音效设计！（送音效包）]]></title>
+        <id>https://www.youtube.com/watch?v=yzj-tmFRj1k</id>
+        <link href="https://www.youtube.com/watch?v=yzj-tmFRj1k"/>
+        <updated>2023-11-29T13:00:52.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relax – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=JjYj-qH0HsQ</id>
+        <link href="https://www.youtube.com/watch?v=JjYj-qH0HsQ"/>
+        <updated>2023-11-29T12:00:16.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
+        <id>https://www.youtube.com/watch?v=X4lCI9zPUow</id>
+        <link href="https://www.youtube.com/watch?v=X4lCI9zPUow"/>
+        <updated>2023-11-29T11:00:37.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大疆Pocket3解压式开机 #dji #photography #djipocket3]]></title>
         <id>https://www.youtube.com/watch?v=Vf2NRLoHB-A</id>
@@ -519,15 +546,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When the Rain Stops – Tokyo Music Walker (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=JZv7VlHqp6Q</id>
-        <link href="https://www.youtube.com/watch?v=JZv7VlHqp6Q"/>
-        <updated>2023-11-15T12:00:13.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dark Out - Monogatari [Edit/AMV] #loopvember]]></title>
         <id>https://www.youtube.com/watch?v=q2C3Yw1xg8A</id>
         <link href="https://www.youtube.com/watch?v=q2C3Yw1xg8A"/>
@@ -681,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=oqZZfnaRqnw</id>
-        <link href="https://www.youtube.com/watch?v=oqZZfnaRqnw"/>
-        <updated>2023-11-11T11:00:48.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【AE风景动态】第一节-检查分层文件]]></title>
         <id>https://www.youtube.com/watch?v=4_EVnfNAoRI</id>
         <link href="https://www.youtube.com/watch?v=4_EVnfNAoRI"/>
@@ -804,15 +813,6 @@
         <updated>2023-11-08T14:03:03.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年高性价比航拍无人机推荐！What is the most cost-effective drone in 2023?]]></title>
-        <id>https://www.youtube.com/watch?v=YF5ern6Bg0s</id>
-        <link href="https://www.youtube.com/watch?v=YF5ern6Bg0s"/>
-        <updated>2023-11-08T13:00:25.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -1018,42 +1018,6 @@
         <id>https://www.youtube.com/watch?v=RaQQvBzvapU</id>
         <link href="https://www.youtube.com/watch?v=RaQQvBzvapU"/>
         <updated>2023-10-31T16:26:10.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這東西能幫你拍出電影感！ (沒錯又是電影感 Ft. Sirui saturn 35mm]]></title>
-        <id>https://www.youtube.com/watch?v=i1Hz9X5xy4s</id>
-        <link href="https://www.youtube.com/watch?v=i1Hz9X5xy4s"/>
-        <updated>2023-10-31T10:10:48.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II: Documentary x Taishi Hirokawa/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=9BLYCstFznI</id>
-        <link href="https://www.youtube.com/watch?v=9BLYCstFznI"/>
-        <updated>2023-10-31T05:31:55.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「TheF2E 精神時光屋」UIUX如何在接案公司生活]]></title>
-        <id>https://www.youtube.com/watch?v=TVfTFY_lbuI</id>
-        <link href="https://www.youtube.com/watch?v=TVfTFY_lbuI"/>
-        <updated>2023-10-31T03:05:25.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[luv u Ed]]></title>
-        <id>https://www.youtube.com/watch?v=47qfphBYA0U</id>
-        <link href="https://www.youtube.com/watch?v=47qfphBYA0U"/>
-        <updated>2023-10-30T14:34:25.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
         </author>
