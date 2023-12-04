@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-03T01:24:16.049Z</id>
+    <id>urn:2023-12-04T01:20:44.628Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-03T01:24:16.049Z</updated>
+    <updated>2023-12-04T01:20:44.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=Sx8-PTvevGk</id>
+        <link href="https://www.youtube.com/watch?v=Sx8-PTvevGk"/>
+        <updated>2023-12-03T12:00:31.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dance Tonight – Hotham (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=SLvLXa9OaC4</id>
+        <link href="https://www.youtube.com/watch?v=SLvLXa9OaC4"/>
+        <updated>2023-12-03T12:00:20.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年12月1日]]></title>
+        <id>https://www.youtube.com/watch?v=83oX-GntxHc</id>
+        <link href="https://www.youtube.com/watch?v=83oX-GntxHc"/>
+        <updated>2023-12-03T04:00:03.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harman Phoenix ISO200彩色负片曝光测试（附样片）｜原来这么毒105集]]></title>
+        <id>https://www.youtube.com/watch?v=CRpAQ5gF9dk</id>
+        <link href="https://www.youtube.com/watch?v=CRpAQ5gF9dk"/>
+        <updated>2023-12-03T03:05:51.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer Love – Tomh. (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=6f_QS8QwYj4</id>
@@ -555,15 +591,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Free – Hotham (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=U8pWnXbQ9j8</id>
-        <link href="https://www.youtube.com/watch?v=U8pWnXbQ9j8"/>
-        <updated>2023-11-19T12:00:20.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
         <id>https://www.youtube.com/watch?v=GdBDDuVqy5c</id>
         <link href="https://www.youtube.com/watch?v=GdBDDuVqy5c"/>
@@ -699,15 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
-        <id>https://www.youtube.com/watch?v=_hLn5GhKayU</id>
-        <link href="https://www.youtube.com/watch?v=_hLn5GhKayU"/>
-        <updated>2023-11-15T11:00:35.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【主題挑戰賽說明會】TypeScript 30 天證書培訓營]]></title>
         <id>https://www.youtube.com/watch?v=nbBkyXX_Z1g</id>
         <link href="https://www.youtube.com/watch?v=nbBkyXX_Z1g"/>
@@ -795,15 +813,6 @@
         <updated>2023-11-12T12:48:59.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[转动屏幕就能快速切换横竖拍，你还不赶紧盘起来吗😜#dji #camera #photography #creative]]></title>
-        <id>https://www.youtube.com/watch?v=kZeNlFniXiQ</id>
-        <link href="https://www.youtube.com/watch?v=kZeNlFniXiQ"/>
-        <updated>2023-11-12T10:51:22.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -982,24 +991,6 @@
         <id>https://www.youtube.com/watch?v=3a9KwJoOOvE</id>
         <link href="https://www.youtube.com/watch?v=3a9KwJoOOvE"/>
         <updated>2023-11-05T12:00:12.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[if you were wondering, this is what a romantic evening looks like with us.]]></title>
-        <id>https://www.youtube.com/watch?v=Oo3o3PNBJbU</id>
-        <link href="https://www.youtube.com/watch?v=Oo3o3PNBJbU"/>
-        <updated>2023-11-03T16:55:44.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystals - Call Of The Night [Edit/AMV] #loopvember]]></title>
-        <id>https://www.youtube.com/watch?v=Trk_S32mZkA</id>
-        <link href="https://www.youtube.com/watch?v=Trk_S32mZkA"/>
-        <updated>2023-11-03T14:00:11.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
