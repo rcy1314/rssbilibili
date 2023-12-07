@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T01:21:04.601Z</id>
+    <id>urn:2023-12-07T01:20:37.281Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T01:21:04.601Z</updated>
+    <updated>2023-12-07T01:20:37.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[資深工程師的必修課 30 天帶你系統性學會 TypeScript ｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=rDcwvQMtIZ0</id>
+        <link href="https://www.youtube.com/watch?v=rDcwvQMtIZ0"/>
+        <updated>2023-12-06T14:30:27.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entry - Tamako Market [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=Jomq8Dn7Yv8</id>
+        <link href="https://www.youtube.com/watch?v=Jomq8Dn7Yv8"/>
+        <updated>2023-12-06T13:47:50.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剪辑里也有流量密码？这5个视频创作技巧千万别错过！#videoediting #filmcreator]]></title>
+        <id>https://www.youtube.com/watch?v=8rZmXIT98WA</id>
+        <link href="https://www.youtube.com/watch?v=8rZmXIT98WA"/>
+        <updated>2023-12-06T13:00:08.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delightful – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=WqO0wZiQaEU</id>
+        <link href="https://www.youtube.com/watch?v=WqO0wZiQaEU"/>
+        <updated>2023-12-06T12:00:25.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
+        <id>https://www.youtube.com/watch?v=1A6dHr0-veU</id>
+        <link href="https://www.youtube.com/watch?v=1A6dHr0-veU"/>
+        <updated>2023-12-06T11:00:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Night Heat – Tomh. (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=smMA49E0WFw</id>
@@ -537,15 +582,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reminisce – Tokyo Music Walker (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=7GDrJzPcYVk</id>
-        <link href="https://www.youtube.com/watch?v=7GDrJzPcYVk"/>
-        <updated>2023-11-22T12:00:10.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[还在用相机拍运动延时？快来看看 Pocket 3 的运动延时直出！]]></title>
         <id>https://www.youtube.com/watch?v=BBlu2EhIEQ4</id>
         <link href="https://www.youtube.com/watch?v=BBlu2EhIEQ4"/>
@@ -631,15 +667,6 @@
         <id>https://www.youtube.com/watch?v=GdBDDuVqy5c</id>
         <link href="https://www.youtube.com/watch?v=GdBDDuVqy5c"/>
         <updated>2023-11-19T11:00:15.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top EDM Leo Rank Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=a5InysjH8oA</id>
-        <link href="https://www.youtube.com/watch?v=a5InysjH8oA"/>
-        <updated>2023-11-18T12:00:00.000Z</updated>
         <author>
             <name>FURY EDM</name>
         </author>
@@ -732,24 +759,6 @@
         <updated>2023-11-15T12:00:11.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30秒就能学会三种转场技巧，不收藏血亏！]]></title>
-        <id>https://www.youtube.com/watch?v=sB26AgR2WR4</id>
-        <link href="https://www.youtube.com/watch?v=sB26AgR2WR4"/>
-        <updated>2023-11-15T11:12:19.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【主題挑戰賽說明會】TypeScript 30 天證書培訓營]]></title>
-        <id>https://www.youtube.com/watch?v=nbBkyXX_Z1g</id>
-        <link href="https://www.youtube.com/watch?v=nbBkyXX_Z1g"/>
-        <updated>2023-11-15T06:53:24.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -966,15 +975,6 @@
         <updated>2023-11-08T05:11:02.000Z</updated>
         <author>
             <name>Nick and Ezzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GF110mmF5.6 T/S Macro: Still life x David Lineton / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=UZnRBSR64QQ</id>
-        <link href="https://www.youtube.com/watch?v=UZnRBSR64QQ"/>
-        <updated>2023-11-07T05:00:15.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
