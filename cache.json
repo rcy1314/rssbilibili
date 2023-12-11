@@ -12,6 +12,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KfdJvxBT4rU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KfdJvxBT4rU",
+          "publishedOn": "2023-12-11T01:07:41.000Z",
+          "wordCount": null,
+          "title": "【FCPX基础教程】1小时从不认识到精通14集(无BGM版)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bGB65iFG0P8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bGB65iFG0P8",
+          "publishedOn": "2023-12-10T11:15:37.000Z",
+          "wordCount": null,
+          "title": "【AE风景动态】第六节 学习如何制作烟雾动画并添加音乐导出",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YDUllh79DCY",
           "author": null,
           "description": "",
@@ -49,16 +69,6 @@
           "publishedOn": "2023-11-16T04:05:00.000Z",
           "wordCount": null,
           "title": "【AE风景动态】第二节-学习如何制作草动态效果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4_EVnfNAoRI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4_EVnfNAoRI",
-          "publishedOn": "2023-11-11T07:26:53.000Z",
-          "wordCount": null,
-          "title": "【AE风景动态】第一节-检查分层文件",
           "imageUrl": null
         }
       ]
@@ -132,6 +142,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KK--Cz7AzKM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KK--Cz7AzKM",
+          "publishedOn": "2023-12-10T11:00:21.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=H6FPfcKsU54",
           "author": null,
@@ -270,16 +290,6 @@
           "publishedOn": "2023-11-24T12:31:30.000Z",
           "wordCount": null,
           "title": "🔥 Nhạc EDM Chill Thư Giãn \"Cho Ngày Dài Mệt Mỏi\" ♫ Top 20 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8Z1oueWCbeY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8Z1oueWCbeY",
-          "publishedOn": "2023-11-23T11:05:55.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
         }
       ]
@@ -1061,6 +1071,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KPbwWolpc_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KPbwWolpc_4",
+          "publishedOn": "2023-12-10T12:00:14.000Z",
+          "wordCount": null,
+          "title": "Wayside – Hotham (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7XlquM1ENG8",
           "author": null,
           "description": "",
@@ -1198,16 +1218,6 @@
           "publishedOn": "2023-11-26T12:00:28.000Z",
           "wordCount": null,
           "title": "Oceans Away – Hotham (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nWMMIWXi9_s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nWMMIWXi9_s",
-          "publishedOn": "2023-11-25T12:00:46.000Z",
-          "wordCount": null,
-          "title": "Smile – Tomh. (No Copyright Music)",
           "imageUrl": null
         }
       ]
