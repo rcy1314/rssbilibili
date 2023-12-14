@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T01:20:40.905Z</id>
+    <id>urn:2023-12-14T01:19:43.172Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T01:20:40.905Z</updated>
+    <updated>2023-12-14T01:19:43.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
+        <id>https://www.youtube.com/watch?v=hxyhtcqLPVY</id>
+        <link href="https://www.youtube.com/watch?v=hxyhtcqLPVY"/>
+        <updated>2023-12-13T12:00:38.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oceandrive – Scandinavianz (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=DXPLbiqFwvo</id>
+        <link href="https://www.youtube.com/watch?v=DXPLbiqFwvo"/>
+        <updated>2023-12-13T12:00:18.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人机日转夜完整教学｜大片是这样拍的！大疆Mini 4 Pro]]></title>
+        <id>https://www.youtube.com/watch?v=B1XYqep0B0U</id>
+        <link href="https://www.youtube.com/watch?v=B1XYqep0B0U"/>
+        <updated>2023-12-13T12:00:14.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【旅拍 | 芝加哥】解读美式黑暗，领略风城芝加哥｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=3dSZSSUff5U</id>
+        <link href="https://www.youtube.com/watch?v=3dSZSSUff5U"/>
+        <updated>2023-12-13T12:00:02.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个东西你们盘过了吗 #pocket3  #dji]]></title>
+        <id>https://www.youtube.com/watch?v=KUt8TnqOr-4</id>
+        <link href="https://www.youtube.com/watch?v=KUt8TnqOr-4"/>
+        <updated>2023-12-13T10:00:14.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Never Know - Jujutsu Kaisen [Edit/AMV] ft. @j4xxfx]]></title>
         <id>https://www.youtube.com/watch?v=-hhcAtYwnuY</id>
@@ -201,15 +246,6 @@
         <updated>2023-12-08T10:22:56.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【TypeScript 培訓營】30 天如何掌握熱門程式語言 TypeScript]]></title>
-        <id>https://www.youtube.com/watch?v=g4oPpXjZZEg</id>
-        <link href="https://www.youtube.com/watch?v=g4oPpXjZZEg"/>
-        <updated>2023-12-08T02:37:19.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -609,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Childhood – Tomh. (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=6YnHqe4S56k</id>
-        <link href="https://www.youtube.com/watch?v=6YnHqe4S56k"/>
-        <updated>2023-11-28T12:00:05.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[五個情侶拍攝技巧大公開！化解拍照尷尬用這招！]]></title>
         <id>https://www.youtube.com/watch?v=3tWCebykxWc</id>
         <link href="https://www.youtube.com/watch?v=3tWCebykxWc"/>
@@ -642,15 +669,6 @@
         <updated>2023-11-27T11:30:09.000Z</updated>
         <author>
             <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=Q-Mz1ahcezY</id>
-        <link href="https://www.youtube.com/watch?v=Q-Mz1ahcezY"/>
-        <updated>2023-11-27T11:00:30.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -861,15 +879,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大疆Mini 4 Pro暴力测试，正面撞墙能否扛的住？DJI Mini 4 Pro Crash Test ！]]></title>
-        <id>https://www.youtube.com/watch?v=lLg0pjiPZ7U</id>
-        <link href="https://www.youtube.com/watch?v=lLg0pjiPZ7U"/>
-        <updated>2023-11-16T13:00:41.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【AE风景动态】第二节-学习如何制作草动态效果]]></title>
         <id>https://www.youtube.com/watch?v=m82wwwwm1V0</id>
         <link href="https://www.youtube.com/watch?v=m82wwwwm1V0"/>
@@ -921,24 +930,6 @@
         <updated>2023-11-15T02:08:26.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日人像攝影系列EP.14- 苗栗南窩綠丘/ 如何引導model]]></title>
-        <id>https://www.youtube.com/watch?v=hqv8KtqAG2A</id>
-        <link href="https://www.youtube.com/watch?v=hqv8KtqAG2A"/>
-        <updated>2023-11-14T10:47:42.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lydia Matata "Pepo Kali" Trailer - GFX Challenge Grant Program 2022 / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=WaDwo1AB5s8</id>
-        <link href="https://www.youtube.com/watch?v=WaDwo1AB5s8"/>
-        <updated>2023-11-14T02:01:15.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
