@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-19T01:19:47.885Z</id>
+    <id>urn:2023-12-20T01:05:52.515Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T01:19:47.885Z</updated>
+    <updated>2023-12-20T01:05:52.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[腾龙这两支镜头，是原厂平替还是心头好？｜#原来这么毒# 107集]]></title>
+        <id>https://www.youtube.com/watch?v=2BCy_0e8t34</id>
+        <link href="https://www.youtube.com/watch?v=2BCy_0e8t34"/>
+        <updated>2023-12-19T13:46:13.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么你应该用滤镜？专业与业余之分就是滤镜]]></title>
+        <id>https://www.youtube.com/watch?v=VNgEE2fCKOo</id>
+        <link href="https://www.youtube.com/watch?v=VNgEE2fCKOo"/>
+        <updated>2023-12-19T13:00:31.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学会这6个镜头，一个人也能拍电影感vlog ｜社恐必备]]></title>
+        <id>https://www.youtube.com/watch?v=EO9wraFjtC8</id>
+        <link href="https://www.youtube.com/watch?v=EO9wraFjtC8"/>
+        <updated>2023-12-19T13:00:12.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divergence – Filo Starquez (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Q83IrTkq1eE</id>
+        <link href="https://www.youtube.com/watch?v=Q83IrTkq1eE"/>
+        <updated>2023-12-19T12:00:20.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼越來越多公司導入 TypeScript ｜業界前端工程師 分享｜2023 TypeScript 培訓營]]></title>
+        <id>https://www.youtube.com/watch?v=1b5Kkf9pRkc</id>
+        <link href="https://www.youtube.com/watch?v=1b5Kkf9pRkc"/>
+        <updated>2023-12-19T12:00:01.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=6glArCLNzF4</id>
+        <link href="https://www.youtube.com/watch?v=6glArCLNzF4"/>
+        <updated>2023-12-19T11:00:05.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five - Noragami [Edit/AMV] 4K!]]></title>
+        <id>https://www.youtube.com/watch?v=5reROlDxhTk</id>
+        <link href="https://www.youtube.com/watch?v=5reROlDxhTk"/>
+        <updated>2023-12-19T02:21:15.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泰國｜這世界太美了，必須讓你們也看見 #旅遊 #泰國]]></title>
         <id>https://www.youtube.com/watch?v=wIrDnnyQJak</id>
@@ -627,24 +690,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Feel Alive – Alex-Productions (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=AwxTfn95iUY</id>
-        <link href="https://www.youtube.com/watch?v=AwxTfn95iUY"/>
-        <updated>2023-12-04T12:00:07.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
-        <id>https://www.youtube.com/watch?v=JimiMh-s4pM</id>
-        <link href="https://www.youtube.com/watch?v=JimiMh-s4pM"/>
-        <updated>2023-12-04T11:02:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[挑战15秒教会你甩尾运镜]]></title>
         <id>https://www.youtube.com/watch?v=83oX-GntxHc</id>
         <link href="https://www.youtube.com/watch?v=83oX-GntxHc"/>
@@ -924,48 +969,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[还在用相机拍运动延时？快来看看 Pocket 3 的运动延时直出！]]></title>
-        <id>https://www.youtube.com/watch?v=BBlu2EhIEQ4</id>
-        <link href="https://www.youtube.com/watch?v=BBlu2EhIEQ4"/>
-        <updated>2023-11-22T10:40:41.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GF55mmF1.7 R WR: Portraiture  x Justine Milton / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=gH1CNKVZQkM</id>
         <link href="https://www.youtube.com/watch?v=gH1CNKVZQkM"/>
         <updated>2023-11-22T05:00:22.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廣角鏡怎麼拍？新北美術館拍給你看！Tamron 17-50mm F4 DiIII VXD A068 騰龍]]></title>
-        <id>https://www.youtube.com/watch?v=uuyw4GigzDY</id>
-        <link href="https://www.youtube.com/watch?v=uuyw4GigzDY"/>
-        <updated>2023-11-20T12:30:29.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官方宣传点都不重要，我在意的是这些细节，vivo X100 Pro 评测]]></title>
-        <id>https://www.youtube.com/watch?v=HyTOp4KRAbw</id>
-        <link href="https://www.youtube.com/watch?v=HyTOp4KRAbw"/>
-        <updated>2023-11-20T08:08:49.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[定焦是一种修行——我的第十次古巴人文拍摄｜#原来这么拍# 243集]]></title>
-        <id>https://www.youtube.com/watch?v=wMOgyxHa-o4</id>
-        <link href="https://www.youtube.com/watch?v=wMOgyxHa-o4"/>
-        <updated>2023-11-19T20:42:39.000Z</updated>
-        <author>
-            <name>左手+</name>
         </author>
     </entry>
 </feed>
