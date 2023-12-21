@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T01:05:52.515Z</id>
+    <id>urn:2023-12-21T01:19:08.862Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-20T01:05:52.515Z</updated>
+    <updated>2023-12-21T01:19:08.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elevate – Mehul Choudhary (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=JSUQQRcx6CI</id>
+        <link href="https://www.youtube.com/watch?v=JSUQQRcx6CI"/>
+        <updated>2023-12-20T12:00:16.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=ymLdouSuaxE</id>
+        <link href="https://www.youtube.com/watch?v=ymLdouSuaxE"/>
+        <updated>2023-12-20T11:00:54.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让AI把无人机飞出银河系会怎么样?#ai #gpt4 #drones  #dji #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=qxZ11hOpw1c</id>
+        <link href="https://www.youtube.com/watch?v=qxZ11hOpw1c"/>
+        <updated>2023-12-20T10:00:38.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我適合參加 TypeScript 嗎？業界大神分析優點給你聽｜TypeScript 直播課講師 分享｜2023 TypeScript 培訓營]]></title>
+        <id>https://www.youtube.com/watch?v=TKDvyvU_0HU</id>
+        <link href="https://www.youtube.com/watch?v=TKDvyvU_0HU"/>
+        <updated>2023-12-20T06:17:38.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下次飞无人机，记得试试这个开场镜头！ #djidrone #dji #drone #mini3pro #mini4pro]]></title>
+        <id>https://www.youtube.com/watch?v=pxYctkOCsbc</id>
+        <link href="https://www.youtube.com/watch?v=pxYctkOCsbc"/>
+        <updated>2023-12-20T03:45:01.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[腾龙这两支镜头，是原厂平替还是心头好？｜#原来这么毒# 107集]]></title>
         <id>https://www.youtube.com/watch?v=2BCy_0e8t34</id>
@@ -393,15 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【最狂感謝祭】全新 TypeScript 培訓營，加碼抽 Mac M2、AirPods Pro]]></title>
-        <id>https://www.youtube.com/watch?v=A4dIV671Vww</id>
-        <link href="https://www.youtube.com/watch?v=A4dIV671Vww"/>
-        <updated>2023-12-12T03:31:06.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[這是一台讓我重新愛上攝影的老相機]]></title>
         <id>https://www.youtube.com/watch?v=p6r4_s5zYCY</id>
         <link href="https://www.youtube.com/watch?v=p6r4_s5zYCY"/>
@@ -654,24 +690,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Night Heat – Tomh. (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=smMA49E0WFw</id>
-        <link href="https://www.youtube.com/watch?v=smMA49E0WFw"/>
-        <updated>2023-12-05T12:00:47.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=iQ-fN2iF440</id>
-        <link href="https://www.youtube.com/watch?v=iQ-fN2iF440"/>
-        <updated>2023-12-05T11:00:37.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【每日一镜】15秒叫你学会手动希区柯克运镜#dji #camera #drone #creative #photography]]></title>
         <id>https://www.youtube.com/watch?v=GCRObf9dCYE</id>
         <link href="https://www.youtube.com/watch?v=GCRObf9dCYE"/>
@@ -879,15 +897,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7个运镜拍出高级感,赶紧学起来!#shorts  #pocket3 #dji #camera]]></title>
-        <id>https://www.youtube.com/watch?v=01TSNxTVWJU</id>
-        <link href="https://www.youtube.com/watch?v=01TSNxTVWJU"/>
-        <updated>2023-11-25T16:00:00.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【原来这么拍】]]></title>
         <id>https://www.youtube.com/watch?v=nZXCO5a8guw</id>
         <link href="https://www.youtube.com/watch?v=nZXCO5a8guw"/>
@@ -939,15 +948,6 @@
         <updated>2023-11-24T05:00:00.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新手向】“海边自驾”怎么拍？这份运镜模版请查收！]]></title>
-        <id>https://www.youtube.com/watch?v=MB2BdvYalmc</id>
-        <link href="https://www.youtube.com/watch?v=MB2BdvYalmc"/>
-        <updated>2023-11-23T13:00:19.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
