@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-24T01:23:36.900Z</id>
+    <id>urn:2023-12-25T01:20:06.928Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-24T01:23:36.900Z</updated>
+    <updated>2023-12-25T01:20:06.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[超狂感謝祭限時 75 折，大獎等你帶回家！讓六角手把手帶你學前端｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=IZy1Q66QWzo</id>
+        <link href="https://www.youtube.com/watch?v=IZy1Q66QWzo"/>
+        <updated>2023-12-24T13:06:58.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六角最狂感謝祭 熱烈開跑中｜影音課程 75 折 符合指定條件還能抽 Apple Mac M2！｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=Slj7WZ9P23w</id>
+        <link href="https://www.youtube.com/watch?v=Slj7WZ9P23w"/>
+        <updated>2023-12-24T13:06:28.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中途加入開發，使用 TypeScript  讓你輕鬆 Debug｜業界前端工程師 分享｜2023 TypeScript 培訓營]]></title>
+        <id>https://www.youtube.com/watch?v=Z5to8ypdMDw</id>
+        <link href="https://www.youtube.com/watch?v=Z5to8ypdMDw"/>
+        <updated>2023-12-24T13:05:46.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All The Same (Sped Up) – Atch (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=nQ5Do3gsHqc</id>
+        <link href="https://www.youtube.com/watch?v=nQ5Do3gsHqc"/>
+        <updated>2023-12-24T12:00:42.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=wRZTdtB3H4U</id>
+        <link href="https://www.youtube.com/watch?v=wRZTdtB3H4U"/>
+        <updated>2023-12-24T11:00:44.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI已經太強大了...攝影師飯碗即將不保?]]></title>
+        <id>https://www.youtube.com/watch?v=hrEgU6D2Bb8</id>
+        <link href="https://www.youtube.com/watch?v=hrEgU6D2Bb8"/>
+        <updated>2023-12-24T09:27:42.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[圣诞物流，使命必达！ #djidrone #dji #drone #christmas #christmastree]]></title>
+        <id>https://www.youtube.com/watch?v=uU4SdB8ucWU</id>
+        <link href="https://www.youtube.com/watch?v=uU4SdB8ucWU"/>
+        <updated>2023-12-24T04:00:21.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All Night – HiLau (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=IOav9yb9uFE</id>
@@ -654,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feel Me – Rexlambo (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=7XlquM1ENG8</id>
-        <link href="https://www.youtube.com/watch?v=7XlquM1ENG8"/>
-        <updated>2023-12-09T12:00:06.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【AE风景动态】第五节 学习如何制作云彩动画]]></title>
         <id>https://www.youtube.com/watch?v=YDUllh79DCY</id>
         <link href="https://www.youtube.com/watch?v=YDUllh79DCY"/>
@@ -696,15 +750,6 @@
         <updated>2023-12-08T12:01:01.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=3TmWh_da8NQ</id>
-        <link href="https://www.youtube.com/watch?v=3TmWh_da8NQ"/>
-        <updated>2023-12-08T11:00:04.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -879,15 +924,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[残血版Mini 4 Pro能扛住两次撞墙吗？#drone #dji]]></title>
-        <id>https://www.youtube.com/watch?v=QDLWF00vouI</id>
-        <link href="https://www.youtube.com/watch?v=QDLWF00vouI"/>
-        <updated>2023-12-01T04:00:11.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在曼谷的老城區走走拍照 一起體驗一下 35mm 在街拍上的魅力]]></title>
         <id>https://www.youtube.com/watch?v=S2bsPLxp_HU</id>
         <link href="https://www.youtube.com/watch?v=S2bsPLxp_HU"/>
@@ -957,33 +993,6 @@
         <updated>2023-11-25T13:30:09.000Z</updated>
         <author>
             <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AE风景动态】第三节 学习如何制作阳光动画]]></title>
-        <id>https://www.youtube.com/watch?v=Cc24w68mpgs</id>
-        <link href="https://www.youtube.com/watch?v=Cc24w68mpgs"/>
-        <updated>2023-11-25T13:04:11.000Z</updated>
-        <author>
-            <name>文广同学X</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真.年度旅拍神器？！运动相机竟然能拍出电影感|Insta360 Ace Pro深度测评]]></title>
-        <id>https://www.youtube.com/watch?v=6oiibrJA5-Q</id>
-        <link href="https://www.youtube.com/watch?v=6oiibrJA5-Q"/>
-        <updated>2023-11-25T10:00:07.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 官方認證的考試心得 - 如果想考 Vue 認證，哪些細節要注意？]]></title>
-        <id>https://www.youtube.com/watch?v=dL-y2wiyTsM</id>
-        <link href="https://www.youtube.com/watch?v=dL-y2wiyTsM"/>
-        <updated>2023-11-25T01:05:22.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
