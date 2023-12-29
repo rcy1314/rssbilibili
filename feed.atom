@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-28T01:17:13.739Z</id>
+    <id>urn:2023-12-29T01:08:48.634Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T01:17:13.739Z</updated>
+    <updated>2023-12-29T01:08:48.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aurora - Declan DP (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=6h2KsN4Gwc8</id>
+        <link href="https://www.youtube.com/watch?v=6h2KsN4Gwc8"/>
+        <updated>2023-12-28T16:02:40.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年倒计时3天]]></title>
+        <id>https://www.youtube.com/watch?v=3haV0CuUYmY</id>
+        <link href="https://www.youtube.com/watch?v=3haV0CuUYmY"/>
+        <updated>2023-12-28T16:00:02.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我宣布!这是vlog拍摄最重要技巧!!旅拍必备!]]></title>
+        <id>https://www.youtube.com/watch?v=EMHngr9Gkww</id>
+        <link href="https://www.youtube.com/watch?v=EMHngr9Gkww"/>
+        <updated>2023-12-28T13:00:11.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[網頁特效必學 超萬用的下拉式選單動畫｜沈浸式陪伴開發｜老師陪我 Coding #8]]></title>
+        <id>https://www.youtube.com/watch?v=qJUmcctkOxk</id>
+        <link href="https://www.youtube.com/watch?v=qJUmcctkOxk"/>
+        <updated>2023-12-28T12:15:03.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silk – Mehul Choudhary (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=9QllbJYMXhM</id>
+        <link href="https://www.youtube.com/watch?v=9QllbJYMXhM"/>
+        <updated>2023-12-28T12:00:08.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=ajkf9irdxag</id>
+        <link href="https://www.youtube.com/watch?v=ajkf9irdxag"/>
+        <updated>2023-12-28T11:00:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司年会视频模板来了，有需要的朋友拿去用吧 #camera #edit #模版 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=8wj_9zP-zAE</id>
+        <link href="https://www.youtube.com/watch?v=8wj_9zP-zAE"/>
+        <updated>2023-12-28T04:00:16.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[David Gaberle "The Whisper of Soil" - GFX Challenge Grant Program 2022/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=N6jU1FSadIU</id>
@@ -636,30 +699,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[电影机与“鸡”你们觉得哪个稳?#camera #dji #ronin4d #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=ik25F6SpTAo</id>
-        <link href="https://www.youtube.com/watch?v=ik25F6SpTAo"/>
-        <updated>2023-12-15T04:16:46.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[解决痛点？——NiSi FS ND Swift飓风滤镜系统｜#原来这么毒# 106集]]></title>
         <id>https://www.youtube.com/watch?v=rlOjwkr39Dk</id>
         <link href="https://www.youtube.com/watch?v=rlOjwkr39Dk"/>
         <updated>2023-12-14T13:55:24.000Z</updated>
         <author>
             <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国货之光, 大疆8K电影机 #Ronin4D-8K#dji #camera #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=38kZEI2Pr3w</id>
-        <link href="https://www.youtube.com/watch?v=38kZEI2Pr3w"/>
-        <updated>2023-12-14T13:04:04.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -672,30 +717,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Floating – Alex-Productions (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Q_fIiWCt-6c</id>
-        <link href="https://www.youtube.com/watch?v=Q_fIiWCt-6c"/>
-        <updated>2023-12-14T12:00:19.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
         <id>https://www.youtube.com/watch?v=hxyhtcqLPVY</id>
         <link href="https://www.youtube.com/watch?v=hxyhtcqLPVY"/>
         <updated>2023-12-13T12:00:38.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceandrive – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=DXPLbiqFwvo</id>
-        <link href="https://www.youtube.com/watch?v=DXPLbiqFwvo"/>
-        <updated>2023-12-13T12:00:18.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -714,15 +741,6 @@
         <updated>2023-12-13T12:00:02.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个东西你们盘过了吗 #pocket3  #dji]]></title>
-        <id>https://www.youtube.com/watch?v=KUt8TnqOr-4</id>
-        <link href="https://www.youtube.com/watch?v=KUt8TnqOr-4"/>
-        <updated>2023-12-13T10:00:14.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -759,15 +777,6 @@
         <updated>2023-12-11T12:30:24.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2023]]></title>
-        <id>https://www.youtube.com/watch?v=jNU5DikKGeY</id>
-        <link href="https://www.youtube.com/watch?v=jNU5DikKGeY"/>
-        <updated>2023-12-11T11:00:36.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -993,15 +1002,6 @@
         <updated>2023-11-30T05:44:49.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nightfall [Edit/AMV] 4K!]]></title>
-        <id>https://www.youtube.com/watch?v=d6VsnRcjtaw</id>
-        <link href="https://www.youtube.com/watch?v=d6VsnRcjtaw"/>
-        <updated>2023-11-28T14:34:11.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
