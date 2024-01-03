@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-02T01:20:15.765Z</id>
+    <id>urn:2024-01-03T01:19:13.647Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T01:20:15.765Z</updated>
+    <updated>2024-01-03T01:19:13.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[掌握這 3 招，成為老闆暖心夥伴！沒有 Mentor 引路也不用怕｜程式小萌新 EP2  @hexschool]]></title>
+        <id>https://www.youtube.com/watch?v=PnubfPPy4Lw</id>
+        <link href="https://www.youtube.com/watch?v=PnubfPPy4Lw"/>
+        <updated>2024-01-02T13:00:16.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beautiful Rain – Roa (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=xWG8dT7YfKQ</id>
+        <link href="https://www.youtube.com/watch?v=xWG8dT7YfKQ"/>
+        <updated>2024-01-02T12:00:48.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一入荒村深似海，怪種在身心慌慌·『生化危機第十集』]]></title>
+        <id>https://www.youtube.com/watch?v=g4wObnRyEAc</id>
+        <link href="https://www.youtube.com/watch?v=g4wObnRyEAc"/>
+        <updated>2024-01-02T12:00:29.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
+        <id>https://www.youtube.com/watch?v=39ewHiuhzOI</id>
+        <link href="https://www.youtube.com/watch?v=39ewHiuhzOI"/>
+        <updated>2024-01-02T12:00:03.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年的第一场假期综合症······#2024 #happynewyear]]></title>
+        <id>https://www.youtube.com/watch?v=seHHe1chekM</id>
+        <link href="https://www.youtube.com/watch?v=seHHe1chekM"/>
+        <updated>2024-01-02T10:00:36.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶的出門就是好相機 ft. sony 10-20mm f4G & 15mm f1.4G]]></title>
         <id>https://www.youtube.com/watch?v=ZDyCFF-XNxE</id>
@@ -564,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大疆无人机年度重磅更新：实名登记来了！"倒车影像"也来了！]]></title>
-        <id>https://www.youtube.com/watch?v=crGGlTqDWoU</id>
-        <link href="https://www.youtube.com/watch?v=crGGlTqDWoU"/>
-        <updated>2023-12-21T13:00:28.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[nothing – Rexlambo (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=gGLQlbw08wc</id>
         <link href="https://www.youtube.com/watch?v=gGLQlbw08wc"/>
@@ -633,15 +669,6 @@
         <updated>2023-12-19T13:00:31.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divergence – Filo Starquez (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Q83IrTkq1eE</id>
-        <link href="https://www.youtube.com/watch?v=Q83IrTkq1eE"/>
-        <updated>2023-12-19T12:00:20.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -768,15 +795,6 @@
         <updated>2023-12-16T12:05:00.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=x7YMzg7iPqA</id>
-        <link href="https://www.youtube.com/watch?v=x7YMzg7iPqA"/>
-        <updated>2023-12-16T12:00:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -993,15 +1011,6 @@
         <updated>2023-12-06T13:47:50.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長焦鏡頭拍攝技巧攻略！騰龍TAMRON 70-180mm F2.8 DiIII VXD G2 A065]]></title>
-        <id>https://www.youtube.com/watch?v=YfXu5WPGk9o</id>
-        <link href="https://www.youtube.com/watch?v=YfXu5WPGk9o"/>
-        <updated>2023-12-04T12:30:16.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
