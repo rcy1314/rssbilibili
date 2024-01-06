@@ -79,6 +79,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UCgt0MSUq-s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UCgt0MSUq-s",
+          "publishedOn": "2024-01-05T09:15:01.000Z",
+          "wordCount": null,
+          "title": "平替来了！VidHub能完全替代Infuse吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vDJUNZCoGQk",
           "author": null,
           "description": "",
@@ -152,6 +162,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JW_Onpxz56U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JW_Onpxz56U",
+          "publishedOn": "2024-01-05T12:00:14.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3NAFOueQQes",
           "author": null,
@@ -291,16 +311,6 @@
           "wordCount": null,
           "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6glArCLNzF4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6glArCLNzF4",
-          "publishedOn": "2023-12-19T11:00:05.000Z",
-          "wordCount": null,
-          "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
-          "imageUrl": null
         }
       ]
     },
@@ -322,7 +332,7 @@
           "link": "https://www.youtube.com/watch?v=yEwI_op93Go",
           "publishedOn": "2024-01-03T10:10:08.000Z",
           "wordCount": null,
-          "title": "攝影師教0基礎新手女友如何拍照",
+          "title": "攝影師教零攝影基礎女友如何拍照",
           "imageUrl": null
         },
         {
@@ -420,16 +430,6 @@
           "publishedOn": "2023-12-12T14:23:34.000Z",
           "wordCount": null,
           "title": "Never Know - Jujutsu Kaisen [Edit/AMV] ft. @j4xxfx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jomq8Dn7Yv8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jomq8Dn7Yv8",
-          "publishedOn": "2023-12-06T13:47:50.000Z",
-          "wordCount": null,
-          "title": "Entry - Tamako Market [Edit/AMV] 4K!",
           "imageUrl": null
         }
       ]
@@ -623,27 +623,7 @@
           "link": "https://www.youtube.com/watch?v=oHN6tDUlViY",
           "publishedOn": "2023-12-16T12:05:00.000Z",
           "wordCount": null,
-          "title": "新鮮人求職/年後換工作 面試被問到期望薪資 到底該怎麼談？｜談薪水必看｜聽說工程師 #9｜六角學院",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nbBkyXX_Z1g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nbBkyXX_Z1g",
-          "publishedOn": "2023-12-07T02:21:25.000Z",
-          "wordCount": null,
-          "title": "【主題挑戰賽說明會】TypeScript 30 天證書培訓營",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rDcwvQMtIZ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rDcwvQMtIZ0",
-          "publishedOn": "2023-12-06T14:30:27.000Z",
-          "wordCount": null,
-          "title": "資深工程師的必修課 30 天帶你系統性學會 TypeScript ｜六角學院",
+          "title": "解密面試秘技：談薪資不再尷尬，教你輕鬆應對！｜談薪水必看｜聽說工程師 #9｜六角學院",
           "imageUrl": null
         }
       ]
@@ -664,13 +644,34 @@
       "title": "Learning Screen",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
       "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=e221aecBT-w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e221aecBT-w",
+          "publishedOn": "2024-01-05T17:18:46.000Z",
+          "wordCount": null,
+          "title": "Toddler Deadpool Poster Photo Manipulation | Photoshop Tutorial",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "巫师后期.Wizard Retouch",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl8H2rDqKFlisPC37gVX9mg",
       "siteUrl": "https://www.youtube.com/channel/UCl8H2rDqKFlisPC37gVX9mg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=K0vXRUMbRqo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K0vXRUMbRqo",
+          "publishedOn": "2024-01-05T01:17:35.000Z",
+          "wordCount": null,
+          "title": "10个值得买的达芬奇Studio的收费功能（你心动了吗？）",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ISEg5mpbOTA",
           "author": null,
@@ -698,6 +699,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Pnxr8YM1-Eo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pnxr8YM1-Eo",
+          "publishedOn": "2024-01-05T09:13:18.000Z",
+          "wordCount": null,
+          "title": "不玩摄影，难道省钱谈恋爱吗？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yMoOkhe13qY",
           "author": null,
@@ -837,16 +848,6 @@
           "wordCount": null,
           "title": "圣诞物流，使命必达！ #djidrone #dji #drone #christmas #christmastree",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7tgiysp7BeU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7tgiysp7BeU",
-          "publishedOn": "2023-12-23T04:05:20.000Z",
-          "wordCount": null,
-          "title": "无人机全系列吊打！ #djidrone#dji #inspire3",
-          "imageUrl": null
         }
       ]
     },
@@ -910,13 +911,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GsP1cjaMHpg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GsP1cjaMHpg",
+          "publishedOn": "2024-01-05T12:00:15.000Z",
+          "wordCount": null,
+          "title": "2024年1月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ik5nSIpe4I8",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Ik5nSIpe4I8",
           "publishedOn": "2024-01-03T12:00:23.000Z",
           "wordCount": null,
-          "title": "在 2024 年回顧我們當年玩過的手遊是什麼感覺？看看我們是否都已經 “老了” | Android & iOS 手機遊戲回顧！",
+          "title": "在 2024 年回顧我們當年玩過的手遊是什麼樣的感覺？| Android & iOS 手機遊戲回顧！",
           "imageUrl": null
         },
         {
@@ -990,16 +1001,6 @@
           "publishedOn": "2023-12-08T10:22:56.000Z",
           "wordCount": null,
           "title": "【爱否】AirPods 能读心？解读AirPods「对话感知」功能。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fZDgF48tZ5M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fZDgF48tZ5M",
-          "publishedOn": "2023-12-07T04:46:09.000Z",
-          "wordCount": null,
-          "title": "一加 12 评测：屏幕出东方，手机真Pro？",
           "imageUrl": null
         }
       ]
@@ -1197,16 +1198,6 @@
           "wordCount": null,
           "title": "這是一台讓我重新愛上攝影的老相機",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y8wKn9bfnVM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y8wKn9bfnVM",
-          "publishedOn": "2023-12-07T12:30:36.000Z",
-          "wordCount": null,
-          "title": "富士散步人像，FUJIFILM 富士 X-E4 + TTArtisan 銘匠 AF 27mm F2.8",
-          "imageUrl": null
         }
       ]
     },
@@ -1232,6 +1223,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LoDrrQiMGps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LoDrrQiMGps",
+          "publishedOn": "2024-01-05T12:00:29.000Z",
+          "wordCount": null,
+          "title": "Sunset – Cykarl (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=j06iNoIWLuY",
           "author": null,
@@ -1370,16 +1371,6 @@
           "publishedOn": "2023-12-23T12:00:12.000Z",
           "wordCount": null,
           "title": "All Night – HiLau (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oac9t19QltY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oac9t19QltY",
-          "publishedOn": "2023-12-22T12:00:18.000Z",
-          "wordCount": null,
-          "title": "Retro Dream – Devyzed & Ghostrifter (No Copyright Music)",
           "imageUrl": null
         }
       ]
