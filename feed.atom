@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T01:21:09.948Z</id>
+    <id>urn:2024-01-19T01:22:17.683Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T01:21:09.948Z</updated>
+    <updated>2024-01-19T01:22:17.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[出國必備！旅行中拍攝城市夜景的小技巧分享！]]></title>
+        <id>https://www.youtube.com/watch?v=aU4NkHfzJpc</id>
+        <link href="https://www.youtube.com/watch?v=aU4NkHfzJpc"/>
+        <updated>2024-01-18T12:30:00.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wait For You – Declan DP (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=uKykF-IM9GQ</id>
+        <link href="https://www.youtube.com/watch?v=uKykF-IM9GQ"/>
+        <updated>2024-01-18T12:01:00.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024]]></title>
+        <id>https://www.youtube.com/watch?v=P_691tBjnoU</id>
+        <link href="https://www.youtube.com/watch?v=P_691tBjnoU"/>
+        <updated>2024-01-18T11:00:20.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何拍摄婚戒｜直接变大师级婚摄视频]]></title>
+        <id>https://www.youtube.com/watch?v=9YLZoQoQGe8</id>
+        <link href="https://www.youtube.com/watch?v=9YLZoQoQGe8"/>
+        <updated>2024-01-18T11:00:15.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是麦克风的动态范围？听完你就知道了！]]></title>
+        <id>https://www.youtube.com/watch?v=IxL9a8_t1Ac</id>
+        <link href="https://www.youtube.com/watch?v=IxL9a8_t1Ac"/>
+        <updated>2024-01-18T04:00:07.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把高端无线麦的价格打下来！大疆Mic 2首发对比测评！]]></title>
         <id>https://www.youtube.com/watch?v=jiBaAZQsWyk</id>
@@ -627,15 +672,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ocean Melody – Spiring (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=E2AWm7dzwjI</id>
-        <link href="https://www.youtube.com/watch?v=E2AWm7dzwjI"/>
-        <updated>2024-01-03T12:00:14.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[攝影師教零攝影基礎女友如何拍照]]></title>
         <id>https://www.youtube.com/watch?v=yEwI_op93Go</id>
         <link href="https://www.youtube.com/watch?v=yEwI_op93Go"/>
@@ -726,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=-bP8-BLRarI</id>
-        <link href="https://www.youtube.com/watch?v=-bP8-BLRarI"/>
-        <updated>2024-01-01T11:00:00.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Photoshop创成式填充的三个应用（智能扩图、背景虚化、找回过曝的细节）]]></title>
         <id>https://www.youtube.com/watch?v=ISEg5mpbOTA</id>
         <link href="https://www.youtube.com/watch?v=ISEg5mpbOTA"/>
@@ -750,15 +777,6 @@
         <updated>2023-12-31T15:46:36.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挥别2023，喜迎全新篇章！愿你2024永不炸机，天天好心情 #djidrone #drone#dji]]></title>
-        <id>https://www.youtube.com/watch?v=Ugm5mJIui4E</id>
-        <link href="https://www.youtube.com/watch?v=Ugm5mJIui4E"/>
-        <updated>2023-12-31T10:20:13.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -966,24 +984,6 @@
         <updated>2023-12-22T05:13:45.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我適合參加 TypeScript 嗎？業界大神分析優點給你聽｜TypeScript 直播課講師 分享｜2023 TypeScript 培訓營]]></title>
-        <id>https://www.youtube.com/watch?v=TKDvyvU_0HU</id>
-        <link href="https://www.youtube.com/watch?v=TKDvyvU_0HU"/>
-        <updated>2023-12-20T06:17:38.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾龙这两支镜头，是原厂平替还是心头好？｜#原来这么毒# 107集]]></title>
-        <id>https://www.youtube.com/watch?v=2BCy_0e8t34</id>
-        <link href="https://www.youtube.com/watch?v=2BCy_0e8t34"/>
-        <updated>2023-12-19T13:46:13.000Z</updated>
-        <author>
-            <name>左手+</name>
         </author>
     </entry>
 </feed>
