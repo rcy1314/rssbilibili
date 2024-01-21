@@ -82,6 +82,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zUHtOzoStck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zUHtOzoStck",
+          "publishedOn": "2024-01-20T11:00:51.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JqIMvRQnldU",
           "author": null,
           "description": "",
@@ -220,16 +230,6 @@
           "wordCount": null,
           "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3NAFOueQQes",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3NAFOueQQes",
-          "publishedOn": "2024-01-04T11:00:03.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -244,6 +244,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lnj5BFjPSQI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lnj5BFjPSQI",
+          "publishedOn": "2024-01-20T12:34:28.000Z",
+          "wordCount": null,
+          "title": "如何把旅行拍的像電影? 旅拍其實可以很簡單",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ETIo1cmAJuc",
           "author": null,
@@ -474,16 +484,6 @@
           "wordCount": null,
           "title": "中途加入開發，使用 TypeScript  讓你輕鬆 Debug｜業界前端工程師 分享｜2023 TypeScript 培訓營",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eGwqIBeOUFE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eGwqIBeOUFE",
-          "publishedOn": "2023-12-22T13:07:24.000Z",
-          "wordCount": null,
-          "title": "導入 TypeScript 優點有哪些？什麼程度開發者適合學 TypeScript？｜業界前端工程師 分享｜2023 TypeScript 培訓營",
-          "imageUrl": null
         }
       ]
     },
@@ -588,6 +588,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Iz6HJ_8lPNE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Iz6HJ_8lPNE",
+          "publishedOn": "2024-01-20T04:00:11.000Z",
+          "wordCount": null,
+          "title": "海浪很自由，你也一样。 #travel #dji #drone #seawaves #sunrise",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=r_R7K1b2OtA",
           "author": null,
@@ -727,16 +737,6 @@
           "wordCount": null,
           "title": "不玩摄影，难道省钱谈恋爱吗？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yMoOkhe13qY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yMoOkhe13qY",
-          "publishedOn": "2024-01-03T04:00:31.000Z",
-          "wordCount": null,
-          "title": "航拍机VS穿越机，哪个的油门声更帅气呢？",
-          "imageUrl": null
         }
       ]
     },
@@ -774,26 +774,6 @@
           "wordCount": null,
           "title": "放牛小子、榔头造车、中国车企第一狂人【奔流·李书福】P1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K5s-M8IMEE8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K5s-M8IMEE8",
-          "publishedOn": "2023-12-22T05:17:47.000Z",
-          "wordCount": null,
-          "title": "乞讨、舞女、自杀未遂，影后大起大落的60年【寻找·惠英红】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M5ursHD3jLk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M5ursHD3jLk",
-          "publishedOn": "2023-12-22T05:13:45.000Z",
-          "wordCount": null,
-          "title": "双减落地，东方甄选爆红，俞敏洪最近这三年【奔流·俞敏洪】P3",
-          "imageUrl": null
         }
       ]
     },
@@ -829,6 +809,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Qdqa8aPtwJU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qdqa8aPtwJU",
+          "publishedOn": "2024-01-20T04:00:11.000Z",
+          "wordCount": null,
+          "title": "2024年1月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品 | #3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2U9dpsovcEI",
           "author": null,
@@ -887,16 +877,6 @@
           "publishedOn": "2023-12-29T12:00:00.000Z",
           "wordCount": null,
           "title": "2023年12月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lKgTx4H4HEQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lKgTx4H4HEQ",
-          "publishedOn": "2023-12-22T12:00:46.000Z",
-          "wordCount": null,
-          "title": "2023年12月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品 | #4",
           "imageUrl": null
         }
       ]
@@ -991,16 +971,6 @@
           "publishedOn": "2023-12-27T12:00:33.000Z",
           "wordCount": null,
           "title": "【旅拍｜巴拿马】越狱目的地，运河故事和中美瑞士｜陈曦Stanley",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fq4lWUhC1MI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fq4lWUhC1MI",
-          "publishedOn": "2023-12-22T12:00:11.000Z",
-          "wordCount": null,
-          "title": "【旅拍｜浙江沿海】从渔港，渔村，到山峦湖泊，自驾沿着海发现宝藏旅行地｜陈曦Stanley",
           "imageUrl": null
         }
       ]
@@ -1154,6 +1124,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PjGiD3-dMhs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PjGiD3-dMhs",
+          "publishedOn": "2024-01-20T12:00:18.000Z",
+          "wordCount": null,
+          "title": "Colors – Cykarl (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1MsrV1sprVU",
           "author": null,
           "description": "",
@@ -1291,16 +1271,6 @@
           "publishedOn": "2024-01-06T12:00:22.000Z",
           "wordCount": null,
           "title": "Drifting Away – Devyzed (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LoDrrQiMGps",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LoDrrQiMGps",
-          "publishedOn": "2024-01-05T12:00:29.000Z",
-          "wordCount": null,
-          "title": "Sunset – Cykarl (No Copyright Music)",
           "imageUrl": null
         }
       ]
