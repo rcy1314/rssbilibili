@@ -82,6 +82,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4attaE0SivM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4attaE0SivM",
+          "publishedOn": "2024-01-22T12:00:03.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zUHtOzoStck",
           "author": null,
           "description": "",
@@ -220,16 +230,6 @@
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JW_Onpxz56U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JW_Onpxz56U",
-          "publishedOn": "2024-01-05T12:00:14.000Z",
-          "wordCount": null,
-          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -283,16 +283,6 @@
           "wordCount": null,
           "title": "東京聽起來像這樣。 This is what Tokyo sounds like",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hrEgU6D2Bb8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hrEgU6D2Bb8",
-          "publishedOn": "2023-12-24T09:27:42.000Z",
-          "wordCount": null,
-          "title": "AI已經太強大了...攝影師飯碗即將不保?",
-          "imageUrl": null
         }
       ]
     },
@@ -338,6 +328,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRw_v-JH01tU3cGy_x4nJw",
       "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JSbOWGl185M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JSbOWGl185M",
+          "publishedOn": "2024-01-22T12:00:13.000Z",
+          "wordCount": null,
+          "title": "2024年稳定器5大必学运镜｜今年别再做小白了！大疆RS3Mini",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wzUPGoPaUj8",
           "author": null,
@@ -444,36 +444,6 @@
           "wordCount": null,
           "title": "網頁特效必學 超萬用的下拉式選單動畫｜沈浸式陪伴開發｜老師陪我 Coding #8",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IZy1Q66QWzo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IZy1Q66QWzo",
-          "publishedOn": "2023-12-24T13:06:58.000Z",
-          "wordCount": null,
-          "title": "超狂感謝祭限時 75 折，大獎等你帶回家！讓六角手把手帶你學前端｜六角學院",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Slj7WZ9P23w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Slj7WZ9P23w",
-          "publishedOn": "2023-12-24T13:06:28.000Z",
-          "wordCount": null,
-          "title": "六角最狂感謝祭 熱烈開跑中｜影音課程 75 折 符合指定條件還能抽 Apple Mac M2！｜六角學院",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z5to8ypdMDw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z5to8ypdMDw",
-          "publishedOn": "2023-12-24T13:05:46.000Z",
-          "wordCount": null,
-          "title": "中途加入開發，使用 TypeScript  讓你輕鬆 Debug｜業界前端工程師 分享｜2023 TypeScript 培訓營",
-          "imageUrl": null
         }
       ]
     },
@@ -578,6 +548,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
       "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YLYs1pBN_Ks",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YLYs1pBN_Ks",
+          "publishedOn": "2024-01-22T12:30:23.000Z",
+          "wordCount": null,
+          "title": "大疆机场2暴力测试！行业无人机究竟有多强？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Iz6HJ_8lPNE",
           "author": null,
@@ -716,16 +696,6 @@
           "publishedOn": "2024-01-08T04:02:07.000Z",
           "wordCount": null,
           "title": "你最喜欢哪台无人机？ #djidrone #drone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pnxr8YM1-Eo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pnxr8YM1-Eo",
-          "publishedOn": "2024-01-05T09:13:18.000Z",
-          "wordCount": null,
-          "title": "不玩摄影，难道省钱谈恋爱吗？",
           "imageUrl": null
         }
       ]
@@ -1010,6 +980,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XcLXkriF9NY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XcLXkriF9NY",
+          "publishedOn": "2024-01-22T12:30:31.000Z",
+          "wordCount": null,
+          "title": "2024 還值得買嗎？ 微距二選一！Sony 90mm macro 與 70-200mm F4 G2 該怎麼選？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aU4NkHfzJpc",
           "author": null,
           "description": "",
@@ -1097,6 +1077,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yPDjd5IpODg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yPDjd5IpODg",
+          "publishedOn": "2024-01-22T05:00:26.000Z",
+          "wordCount": null,
+          "title": "New Year Greeting 2024 / FUJIFILM",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=N6jU1FSadIU",
           "author": null,
           "description": "",
@@ -1113,6 +1103,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UdjPNluRGb0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UdjPNluRGb0",
+          "publishedOn": "2024-01-22T12:00:23.000Z",
+          "wordCount": null,
+          "title": "Coasting – KV (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=dEJzoq9sXac",
           "author": null,
@@ -1251,16 +1251,6 @@
           "publishedOn": "2024-01-08T12:00:01.000Z",
           "wordCount": null,
           "title": "Friday – LiQWYD (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QDR6cRuCWOI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QDR6cRuCWOI",
-          "publishedOn": "2024-01-07T12:00:31.000Z",
-          "wordCount": null,
-          "title": "Cozy Town – Qlowdy (No Copyright Music)",
           "imageUrl": null
         }
       ]
