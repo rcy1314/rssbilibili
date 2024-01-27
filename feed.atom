@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-26T01:17:02.397Z</id>
+    <id>urn:2024-01-27T01:14:25.691Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T01:17:02.397Z</updated>
+    <updated>2024-01-27T01:14:25.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA["Dreamer" Photo Manipulation Speed Art | Photoshop Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=L0Hd87iuR7U</id>
+        <link href="https://www.youtube.com/watch?v=L0Hd87iuR7U"/>
+        <updated>2024-01-26T23:08:17.000Z</updated>
+        <author>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=WAV8SU2HRlA</id>
+        <link href="https://www.youtube.com/watch?v=WAV8SU2HRlA"/>
+        <updated>2024-01-26T12:30:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good NIT – Dizanour (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=lckDv2EPqAU</id>
+        <link href="https://www.youtube.com/watch?v=lckDv2EPqAU"/>
+        <updated>2024-01-26T12:00:42.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年最讓人期待的手機遊戲作品！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=TOSOkejFQpI</id>
+        <link href="https://www.youtube.com/watch?v=TOSOkejFQpI"/>
+        <updated>2024-01-26T12:00:23.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蟲族雙王現世！人類叕危在旦夕·『生化危機第十二集』]]></title>
+        <id>https://www.youtube.com/watch?v=HxlRUgVvG3E</id>
+        <link href="https://www.youtube.com/watch?v=HxlRUgVvG3E"/>
+        <updated>2024-01-26T12:00:22.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度：如果影像是“玄学“ OPPO 为什么还要做“影像旗舰”]]></title>
+        <id>https://www.youtube.com/watch?v=3jUhzbp_djs</id>
+        <link href="https://www.youtube.com/watch?v=3jUhzbp_djs"/>
+        <updated>2024-01-26T05:38:46.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遥遥领先！能飞35km的无人机！ #dji #djidrone]]></title>
+        <id>https://www.youtube.com/watch?v=nVf6cOvuTT8</id>
+        <link href="https://www.youtube.com/watch?v=nVf6cOvuTT8"/>
+        <updated>2024-01-26T03:45:02.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Photoshop对人像进行光影重构]]></title>
+        <id>https://www.youtube.com/watch?v=EuPQwbcbvho</id>
+        <link href="https://www.youtube.com/watch?v=EuPQwbcbvho"/>
+        <updated>2024-01-26T01:21:50.000Z</updated>
+        <author>
+            <name>巫师后期.Wizard Retouch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哈苏907X & CFV 100C样片纯享版]]></title>
         <id>https://www.youtube.com/watch?v=8YFnawvfhps</id>
@@ -60,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[无人机重“棒”出击！御剑除雪！ #dji  #djidrone #drone]]></title>
+        <title type="html"><![CDATA[无人机重“棒”出击！御剑除雪！dji delivery snow hit thing #dji  #djidrone #drone]]></title>
         <id>https://www.youtube.com/watch?v=idvse0K7d7M</id>
         <link href="https://www.youtube.com/watch?v=idvse0K7d7M"/>
         <updated>2024-01-24T13:06:52.000Z</updated>
@@ -600,15 +672,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Last Summer – Tokiwave (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=aXk9z_68n_M</id>
-        <link href="https://www.youtube.com/watch?v=aXk9z_68n_M"/>
-        <updated>2024-01-11T12:00:03.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024]]></title>
         <id>https://www.youtube.com/watch?v=oV1aJojIbEA</id>
         <link href="https://www.youtube.com/watch?v=oV1aJojIbEA"/>
@@ -681,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[让AVATA来一场酣畅淋漓的测试!#drone #photography #dji avata #test #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=4SKiAzwOAcA</id>
-        <link href="https://www.youtube.com/watch?v=4SKiAzwOAcA"/>
-        <updated>2024-01-10T04:50:48.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【旅拍 | 尼加拉瓜】上火山下湖岛解锁中美拦路虎｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=HwMTKftUgME</id>
         <link href="https://www.youtube.com/watch?v=HwMTKftUgME"/>
@@ -714,15 +768,6 @@
         <updated>2024-01-08T12:30:02.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=S-HeWKcoD6Y</id>
-        <link href="https://www.youtube.com/watch?v=S-HeWKcoD6Y"/>
-        <updated>2024-01-08T11:00:14.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -966,24 +1011,6 @@
         <updated>2023-12-29T05:02:16.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網頁特效必學 超萬用的下拉式選單動畫｜沈浸式陪伴開發｜老師陪我 Coding #8]]></title>
-        <id>https://www.youtube.com/watch?v=qJUmcctkOxk</id>
-        <link href="https://www.youtube.com/watch?v=qJUmcctkOxk"/>
-        <updated>2023-12-28T12:15:03.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Gaberle "The Whisper of Soil" - GFX Challenge Grant Program 2022/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=N6jU1FSadIU</id>
-        <link href="https://www.youtube.com/watch?v=N6jU1FSadIU"/>
-        <updated>2023-12-27T15:00:15.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
