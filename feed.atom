@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-31T01:16:14.573Z</id>
+    <id>urn:2024-02-01T01:19:39.198Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T01:16:14.573Z</updated>
+    <updated>2024-02-01T01:19:39.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Splinter]]></title>
+        <id>https://www.youtube.com/watch?v=A8pIxj1hOg0</id>
+        <link href="https://www.youtube.com/watch?v=A8pIxj1hOg0"/>
+        <updated>2024-01-31T19:21:32.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不氪金也能爽玩！？什麼是 “付費下載” 的遊戲？講解關於 “付費下載” 這件事！| Android & iOS 手機遊戲/手遊/遊戲小百科！]]></title>
+        <id>https://www.youtube.com/watch?v=gWoPLNaWNwM</id>
+        <link href="https://www.youtube.com/watch?v=gWoPLNaWNwM"/>
+        <updated>2024-01-31T12:00:40.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bárcsak – Ferco (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Cs_7FxJMuWs</id>
+        <link href="https://www.youtube.com/watch?v=Cs_7FxJMuWs"/>
+        <updated>2024-01-31T12:00:21.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜讯！以后飞无人机，不会收到短信了！  #djidrone #dji #drone]]></title>
+        <id>https://www.youtube.com/watch?v=hiN2ut8rWnU</id>
+        <link href="https://www.youtube.com/watch?v=hiN2ut8rWnU"/>
+        <updated>2024-01-31T10:00:29.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当无人机百花齐放，你喜欢哪一个声音？ #dji #djidrone #drone #djiinspire#djimic2]]></title>
+        <id>https://www.youtube.com/watch?v=yKB5lDvaFFA</id>
+        <link href="https://www.youtube.com/watch?v=yKB5lDvaFFA"/>
+        <updated>2024-01-31T08:18:19.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆无人机Air3中长焦被高估了吗? 热度之后还剩什么]]></title>
+        <id>https://www.youtube.com/watch?v=fsMrjehhrgI</id>
+        <link href="https://www.youtube.com/watch?v=fsMrjehhrgI"/>
+        <updated>2024-01-31T02:30:30.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【原来这么拍】直播测试]]></title>
         <id>https://www.youtube.com/watch?v=6YZvYJpf2zg</id>
@@ -245,7 +299,7 @@
         <link href="https://www.youtube.com/watch?v=EuPQwbcbvho"/>
         <updated>2024-01-26T01:21:50.000Z</updated>
         <author>
-            <name>巫师后期.Wizard Retouch</name>
+            <name>巫师后期.wrcolor</name>
         </author>
     </entry>
     <entry>
@@ -591,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[把高端无线麦的价格打下来！大疆Mic 2首发对比测评！]]></title>
-        <id>https://www.youtube.com/watch?v=jiBaAZQsWyk</id>
-        <link href="https://www.youtube.com/watch?v=jiBaAZQsWyk"/>
-        <updated>2024-01-17T13:00:41.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Delighted – Roa (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=mbckiwVwiA4</id>
         <link href="https://www.youtube.com/watch?v=mbckiwVwiA4"/>
@@ -645,30 +690,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New One – Alex-Productions (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=oNytr59QNqw</id>
-        <link href="https://www.youtube.com/watch?v=oNytr59QNqw"/>
-        <updated>2024-01-16T12:00:46.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024]]></title>
         <id>https://www.youtube.com/watch?v=BctLoxGmCpQ</id>
         <link href="https://www.youtube.com/watch?v=BctLoxGmCpQ"/>
         <updated>2024-01-16T11:00:09.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好用不一定要贵，这份百元数码好物清单记得收好！]]></title>
-        <id>https://www.youtube.com/watch?v=Aj41NFy5KwI</id>
-        <link href="https://www.youtube.com/watch?v=Aj41NFy5KwI"/>
-        <updated>2024-01-15T13:00:08.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -713,7 +740,7 @@
         <link href="https://www.youtube.com/watch?v=a5RI4nRd67Y"/>
         <updated>2024-01-14T01:42:00.000Z</updated>
         <author>
-            <name>巫师后期.Wizard Retouch</name>
+            <name>巫师后期.wrcolor</name>
         </author>
     </entry>
     <entry>
@@ -848,7 +875,7 @@
         <link href="https://www.youtube.com/watch?v=KIKmjY_muWM"/>
         <updated>2024-01-08T01:24:00.000Z</updated>
         <author>
-            <name>巫师后期.Wizard Retouch</name>
+            <name>巫师后期.wrcolor</name>
         </author>
     </entry>
     <entry>
@@ -902,7 +929,7 @@
         <link href="https://www.youtube.com/watch?v=K0vXRUMbRqo"/>
         <updated>2024-01-05T01:17:35.000Z</updated>
         <author>
-            <name>巫师后期.Wizard Retouch</name>
+            <name>巫师后期.wrcolor</name>
         </author>
     </entry>
     <entry>
@@ -975,15 +1002,6 @@
         <updated>2024-01-03T04:20:19.000Z</updated>
         <author>
             <name>Nick and Ezzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掌握這 3 招，成為老闆暖心夥伴！沒有 Mentor 引路也不用怕｜程式小萌新 EP2  @hexschool]]></title>
-        <id>https://www.youtube.com/watch?v=PnubfPPy4Lw</id>
-        <link href="https://www.youtube.com/watch?v=PnubfPPy4Lw"/>
-        <updated>2024-01-02T13:00:16.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
