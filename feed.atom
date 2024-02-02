@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-01T01:19:39.198Z</id>
+    <id>urn:2024-02-02T01:15:24.789Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T01:19:39.198Z</updated>
+    <updated>2024-02-02T01:15:24.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【每日一镜】这个城市航拍运镜必须学会！ #dji #djiimavic3pro #djidrone]]></title>
+        <id>https://www.youtube.com/watch?v=CpVKRf2fpd4</id>
+        <link href="https://www.youtube.com/watch?v=CpVKRf2fpd4"/>
+        <updated>2024-02-01T16:00:12.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从摄影师到法师只要一分钟?｜万能创意vlog技巧分享]]></title>
+        <id>https://www.youtube.com/watch?v=yiDpPqFfvjE</id>
+        <link href="https://www.youtube.com/watch?v=yiDpPqFfvjE"/>
+        <updated>2024-02-01T13:00:51.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day Off – Roa (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=HxjY5P6MD7k</id>
+        <link href="https://www.youtube.com/watch?v=HxjY5P6MD7k"/>
+        <updated>2024-02-01T12:00:19.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=sCLIYIpzBKU</id>
+        <link href="https://www.youtube.com/watch?v=sCLIYIpzBKU"/>
+        <updated>2024-02-01T11:00:44.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原来这么拍】观看的逻辑]]></title>
+        <id>https://www.youtube.com/watch?v=tvTj0HNV1go</id>
+        <link href="https://www.youtube.com/watch?v=tvTj0HNV1go"/>
+        <updated>2024-02-01T03:49:23.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Splinter]]></title>
         <id>https://www.youtube.com/watch?v=A8pIxj1hOg0</id>
@@ -591,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大疆麦克风2代的降噪效果，你打几分？#djimic #djimic2 #dji]]></title>
-        <id>https://www.youtube.com/watch?v=r_R7K1b2OtA</id>
-        <link href="https://www.youtube.com/watch?v=r_R7K1b2OtA"/>
-        <updated>2024-01-19T04:00:20.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[出國必備！旅行中拍攝城市夜景的小技巧分享！]]></title>
         <id>https://www.youtube.com/watch?v=aU4NkHfzJpc</id>
         <link href="https://www.youtube.com/watch?v=aU4NkHfzJpc"/>
@@ -633,24 +669,6 @@
         <updated>2024-01-18T11:00:15.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是麦克风的动态范围？听完你就知道了！]]></title>
-        <id>https://www.youtube.com/watch?v=IxL9a8_t1Ac</id>
-        <link href="https://www.youtube.com/watch?v=IxL9a8_t1Ac"/>
-        <updated>2024-01-18T04:00:07.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delighted – Roa (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=mbckiwVwiA4</id>
-        <link href="https://www.youtube.com/watch?v=mbckiwVwiA4"/>
-        <updated>2024-01-17T12:00:47.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -750,15 +768,6 @@
         <updated>2024-01-13T19:51:25.000Z</updated>
         <author>
             <name>Learning Screen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2023]]></title>
-        <id>https://www.youtube.com/watch?v=K8UelKzV4BQ</id>
-        <link href="https://www.youtube.com/watch?v=K8UelKzV4BQ"/>
-        <updated>2024-01-13T11:00:23.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -948,60 +957,6 @@
         <updated>2024-01-04T12:30:34.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 2024 年回顧我們當年玩過的手遊是什麼樣的感覺？| Android & iOS 手機遊戲回顧！]]></title>
-        <id>https://www.youtube.com/watch?v=Ik5nSIpe4I8</id>
-        <link href="https://www.youtube.com/watch?v=Ik5nSIpe4I8"/>
-        <updated>2024-01-03T12:00:23.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无人机超人跳跃效果｜DJI Air 3 倒车影像]]></title>
-        <id>https://www.youtube.com/watch?v=Em7eGuHXVtI</id>
-        <link href="https://www.youtube.com/watch?v=Em7eGuHXVtI"/>
-        <updated>2024-01-03T12:00:20.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攝影師教零攝影基礎女友如何拍照]]></title>
-        <id>https://www.youtube.com/watch?v=yEwI_op93Go</id>
-        <link href="https://www.youtube.com/watch?v=yEwI_op93Go"/>
-        <updated>2024-01-03T10:10:08.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都｜Sony α6700 + E PZ 10-20mm F4 G & E 15mm F1.4 G]]></title>
-        <id>https://www.youtube.com/watch?v=1tfjblRBVEM</id>
-        <link href="https://www.youtube.com/watch?v=1tfjblRBVEM"/>
-        <updated>2024-01-03T08:28:47.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放牛小子、榔头造车、中国车企第一狂人【奔流·李书福】P1]]></title>
-        <id>https://www.youtube.com/watch?v=J_PWpmt24ZI</id>
-        <link href="https://www.youtube.com/watch?v=J_PWpmt24ZI"/>
-        <updated>2024-01-03T08:21:06.000Z</updated>
-        <author>
-            <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Nick和Ezzi】Kinefinity Mavo S35 II 拍摄使用感想]]></title>
-        <id>https://www.youtube.com/watch?v=m30sl8dJ-6g</id>
-        <link href="https://www.youtube.com/watch?v=m30sl8dJ-6g"/>
-        <updated>2024-01-03T04:20:19.000Z</updated>
-        <author>
-            <name>Nick and Ezzi</name>
         </author>
     </entry>
 </feed>
