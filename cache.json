@@ -520,16 +520,6 @@
           "wordCount": null,
           "title": "如何用Photoshop去除黑眼圈——业内高级做法",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KIKmjY_muWM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KIKmjY_muWM",
-          "publishedOn": "2024-01-08T01:24:00.000Z",
-          "wordCount": null,
-          "title": "用Photoshop AI大幅提升人像修饰的效率",
-          "imageUrl": null
         }
       ]
     },
@@ -1067,16 +1057,6 @@
           "wordCount": null,
           "title": "北海道｜α7C II + FE PZ 16-35mm F4 G & FE 20-70mm F4 G & FE 70-200mm F4 Macro G OSS II",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1Biqg8xtwQ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1Biqg8xtwQ0",
-          "publishedOn": "2024-01-08T12:30:02.000Z",
-          "wordCount": null,
-          "title": "蛤？什麼！你說你要買小三元！？ ft. Sony G 系列鏡頭",
-          "imageUrl": null
         }
       ]
     },
@@ -1102,6 +1082,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vWGBiZFyWJU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vWGBiZFyWJU",
+          "publishedOn": "2024-02-06T12:00:59.000Z",
+          "wordCount": null,
+          "title": "Talk to me – LiQWYD (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eOrprWB189g",
           "author": null,
@@ -1240,16 +1230,6 @@
           "publishedOn": "2024-01-23T12:00:17.000Z",
           "wordCount": null,
           "title": "Candlelight – ChillD'em & Declan DP (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UdjPNluRGb0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UdjPNluRGb0",
-          "publishedOn": "2024-01-22T12:00:23.000Z",
-          "wordCount": null,
-          "title": "Coasting – KV (No Copyright Music)",
           "imageUrl": null
         }
       ]
