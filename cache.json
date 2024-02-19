@@ -272,16 +272,6 @@
           "wordCount": null,
           "title": "拍照 拍影片 你選哪個？ Ft. @louishsiehmov",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lnj5BFjPSQI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lnj5BFjPSQI",
-          "publishedOn": "2024-01-20T12:34:28.000Z",
-          "wordCount": null,
-          "title": "如何把旅行拍的像電影? 旅拍其實可以很簡單",
-          "imageUrl": null
         }
       ]
     },
@@ -290,6 +280,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
       "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fxBjfAi9k_w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fxBjfAi9k_w",
+          "publishedOn": "2024-02-18T09:33:56.000Z",
+          "wordCount": null,
+          "title": "Let This Be Everything 3HC",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2riZ7S-LtHg",
           "author": null,
@@ -395,16 +395,6 @@
           "publishedOn": "2024-01-22T12:00:13.000Z",
           "wordCount": null,
           "title": "2024年稳定器5大必学运镜｜今年别再做小白了！大疆RS3Mini",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wzUPGoPaUj8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wzUPGoPaUj8",
-          "publishedOn": "2024-01-19T15:15:05.000Z",
-          "wordCount": null,
-          "title": "大疆无人机夜景噪点多？夜拍最佳设定｜Mini 4 Pro｜Mini 3 Pro",
           "imageUrl": null
         }
       ]
@@ -826,16 +816,6 @@
           "wordCount": null,
           "title": "2024年10款最新的 MMORPG 大型多人在線角色扮演手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品 | #1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Qdqa8aPtwJU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Qdqa8aPtwJU",
-          "publishedOn": "2024-01-20T04:00:11.000Z",
-          "wordCount": null,
-          "title": "2024年1月份最新手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品 | #3",
-          "imageUrl": null
         }
       ]
     },
@@ -1071,6 +1051,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GJ_BEOHIbag",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GJ_BEOHIbag",
+          "publishedOn": "2024-02-18T12:00:11.000Z",
+          "wordCount": null,
+          "title": "Odyssey – Lucjo (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Pm8nI9-pG7U",
           "author": null,
           "description": "",
@@ -1208,16 +1198,6 @@
           "publishedOn": "2024-02-07T16:00:44.000Z",
           "wordCount": null,
           "title": "Joy - Next Route (No Copyright Music) | Release Preview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=c6_RYBJT2xE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=c6_RYBJT2xE",
-          "publishedOn": "2024-02-07T12:00:27.000Z",
-          "wordCount": null,
-          "title": "Build – KV (No Copyright Music)",
           "imageUrl": null
         }
       ]
