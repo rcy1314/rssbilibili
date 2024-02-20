@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-19T01:16:31.442Z</id>
+    <id>urn:2024-02-20T01:14:09.581Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T01:16:31.442Z</updated>
+    <updated>2024-02-20T01:14:09.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[日系人像室內棚拍攻略！自然光線應用]]></title>
+        <id>https://www.youtube.com/watch?v=-57h-JQhGzU</id>
+        <link href="https://www.youtube.com/watch?v=-57h-JQhGzU"/>
+        <updated>2024-02-19T12:30:00.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tranquil Times – Hotham (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=06w7kBKi4Ks</id>
+        <link href="https://www.youtube.com/watch?v=06w7kBKi4Ks"/>
+        <updated>2024-02-19T12:00:01.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=wjUP-P96lXM</id>
+        <link href="https://www.youtube.com/watch?v=wjUP-P96lXM"/>
+        <updated>2024-02-19T11:11:40.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个铃声在呼唤我开工了！起飞！FPV御剑飞行！The bell is calling me to start work! Take off!]]></title>
+        <id>https://www.youtube.com/watch?v=dggusatvvlQ</id>
+        <link href="https://www.youtube.com/watch?v=dggusatvvlQ"/>
+        <updated>2024-02-19T03:09:24.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是音频压缩 (Audio Compression)——最重要的音频处理操作]]></title>
+        <id>https://www.youtube.com/watch?v=u0FRrO1WaPk</id>
+        <link href="https://www.youtube.com/watch?v=u0FRrO1WaPk"/>
+        <updated>2024-02-19T01:28:46.000Z</updated>
+        <author>
+            <name>巫师后期.wrcolor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odyssey – Lucjo (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=GJ_BEOHIbag</id>
@@ -429,15 +474,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joy - Next Route (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=yTMn54bby6o</id>
-        <link href="https://www.youtube.com/watch?v=yTMn54bby6o"/>
-        <updated>2024-02-07T16:00:44.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to capture the festive atmosphere of Chinese New Year with a smartphone?春节手机摄影攻略：把烟花、灯会、年夜饭拍成大片！]]></title>
         <id>https://www.youtube.com/watch?v=rO8A07BIxp8</id>
         <link href="https://www.youtube.com/watch?v=rO8A07BIxp8"/>
@@ -570,15 +606,6 @@
         <updated>2024-02-04T09:10:16.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快门如何影响画面？你看出来了吗？ #dji #djidrone#photography #camera]]></title>
-        <id>https://www.youtube.com/watch?v=UXpWNUPHmcM</id>
-        <link href="https://www.youtube.com/watch?v=UXpWNUPHmcM"/>
-        <updated>2024-02-03T16:00:30.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
         </author>
     </entry>
     <entry>
@@ -726,15 +753,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Node.js 前後端產品專題班 說明會】16 週帶你做企業級產品｜2/19 20:00 洧杰校長直播]]></title>
-        <id>https://www.youtube.com/watch?v=SGN3vb-eAEM</id>
-        <link href="https://www.youtube.com/watch?v=SGN3vb-eAEM"/>
-        <updated>2024-01-29T09:59:21.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[師姐不油膩？十四年前最好的動作mmo遊戲，為何今日依舊無敵]]></title>
         <id>https://www.youtube.com/watch?v=pNom5OxyUs8</id>
         <link href="https://www.youtube.com/watch?v=pNom5OxyUs8"/>
@@ -777,15 +795,6 @@
         <updated>2024-01-26T23:08:17.000Z</updated>
         <author>
             <name>Learning Screen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=WAV8SU2HRlA</id>
-        <link href="https://www.youtube.com/watch?v=WAV8SU2HRlA"/>
-        <updated>2024-01-26T12:30:18.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
