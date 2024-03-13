@@ -21,7 +21,28 @@
       "title": "文广同学X",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=t0yT_L-ufLk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t0yT_L-ufLk",
+          "publishedOn": "2024-03-12T05:44:26.000Z",
+          "wordCount": null,
+          "title": "【特效插件】如何制作具有冲击力的画面，支持fcpx 达芬奇 ae pr",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=64Ny2dqPtfI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=64Ny2dqPtfI",
+          "publishedOn": "2024-03-12T02:49:16.000Z",
+          "wordCount": null,
+          "title": "FCPX screen vibration effect #fcpx",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "黄杨ME",
@@ -61,6 +82,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Nd10U1uuOX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Nd10U1uuOX4",
+          "publishedOn": "2024-03-12T11:00:17.000Z",
+          "wordCount": null,
+          "title": "Music Mix 2024 ♫ Top EDM Alan Walker Style 2024 ♫ EDM Gaming Music Mix ​",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yrgo_OJlFBE",
           "author": null,
@@ -200,16 +231,6 @@
           "wordCount": null,
           "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wjUP-P96lXM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wjUP-P96lXM",
-          "publishedOn": "2024-02-19T11:11:40.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -318,6 +339,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRw_v-JH01tU3cGy_x4nJw",
       "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RJRl_tcFt38",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RJRl_tcFt38",
+          "publishedOn": "2024-03-12T04:19:59.000Z",
+          "wordCount": null,
+          "title": "索尼相机老是失焦？！可以这样做 #Sonycamera #Focus #FocusToggle",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pzfyzCcYWiU",
           "author": null,
@@ -781,6 +812,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iUwvwWCGFZ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iUwvwWCGFZ0",
+          "publishedOn": "2024-03-12T08:47:10.000Z",
+          "wordCount": null,
+          "title": "三星 S24U 评测： AI 也会水土不服？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ax_ia9J7EP4",
           "author": null,
           "description": "",
@@ -896,6 +937,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=szweowyVD10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=szweowyVD10",
+          "publishedOn": "2024-03-12T02:56:05.000Z",
+          "wordCount": null,
+          "title": "這是一台劃時代的相機｜Sony α93",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jXCa-l78Qnc",
           "author": null,
           "description": "",
@@ -983,16 +1034,6 @@
           "publishedOn": "2024-02-15T12:30:43.000Z",
           "wordCount": null,
           "title": "攝影碰到瓶頸了嗎？不妨試試「超廣角鏡頭」！前所未有的全新體驗！ft. Sony E 11mm F1.8",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MGNPCzHj5LU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MGNPCzHj5LU",
-          "publishedOn": "2024-02-12T12:30:12.000Z",
-          "wordCount": null,
-          "title": "原來這些都是可以設定的嗎？ 讓你的相機變成你自己的樣子",
           "imageUrl": null
         }
       ]
@@ -1109,6 +1150,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Z57T06dCdNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z57T06dCdNs",
+          "publishedOn": "2024-03-12T12:00:34.000Z",
+          "wordCount": null,
+          "title": "Dimension – KV (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fdadaaxWr4U",
           "author": null,
@@ -1247,16 +1298,6 @@
           "publishedOn": "2024-02-29T12:01:01.000Z",
           "wordCount": null,
           "title": "Minecraft – Di Young (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UMGUmGxafmk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UMGUmGxafmk",
-          "publishedOn": "2024-02-28T12:00:22.000Z",
-          "wordCount": null,
-          "title": "Majestic – Alex-Productions (No Copyright Music)",
           "imageUrl": null
         }
       ]
