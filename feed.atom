@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-16T01:13:49.968Z</id>
+    <id>urn:2024-03-17T01:19:57.713Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T01:13:49.968Z</updated>
+    <updated>2024-03-17T01:19:57.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cave In – Pyrosion (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=vOWWNBzlIqk</id>
+        <link href="https://www.youtube.com/watch?v=vOWWNBzlIqk"/>
+        <updated>2024-03-16T12:01:00.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[內向人救星！教你一個人怎麼自己拍影片]]></title>
+        <id>https://www.youtube.com/watch?v=LpRFlrz5sn0</id>
+        <link href="https://www.youtube.com/watch?v=LpRFlrz5sn0"/>
+        <updated>2024-03-16T12:00:18.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDM Music Mix 2024 ♫ New Songs Alan Walker (Remix) 2024 ♫ Best of EDM Mix Gaming 2024]]></title>
+        <id>https://www.youtube.com/watch?v=1ySJVnEWh3o</id>
+        <link href="https://www.youtube.com/watch?v=1ySJVnEWh3o"/>
+        <updated>2024-03-16T11:00:05.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini4Pro充电管家必须这样操作！ #DJI #Mini4Pro #ChargingHub #充电管家]]></title>
+        <id>https://www.youtube.com/watch?v=MtfkNr5TDGc</id>
+        <link href="https://www.youtube.com/watch?v=MtfkNr5TDGc"/>
+        <updated>2024-03-16T01:18:10.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GREENGREENGREEN]]></title>
         <id>https://www.youtube.com/watch?v=jKpa1AtBaRU</id>
@@ -699,15 +735,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Awaken – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=7ZqzbTSo65U</id>
-        <link href="https://www.youtube.com/watch?v=7ZqzbTSo65U"/>
-        <updated>2024-03-02T12:00:11.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sony相機使用者看這裡! 全幅鏡頭如何選擇]]></title>
         <id>https://www.youtube.com/watch?v=dQ9EWLF0Pt0</id>
         <link href="https://www.youtube.com/watch?v=dQ9EWLF0Pt0"/>
@@ -915,15 +942,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=oqRlbjUH76E</id>
-        <link href="https://www.youtube.com/watch?v=oqRlbjUH76E"/>
-        <updated>2024-02-23T11:00:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Watching edit live.]]></title>
         <id>https://www.youtube.com/watch?v=n8OOBqNIR2M</id>
         <link href="https://www.youtube.com/watch?v=n8OOBqNIR2M"/>
@@ -1045,33 +1063,6 @@
         <id>https://www.youtube.com/watch?v=fxBjfAi9k_w</id>
         <link href="https://www.youtube.com/watch?v=fxBjfAi9k_w"/>
         <updated>2024-02-18T09:33:56.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[線上課程也能團隊協作產出專題？｜學員真實心得分享｜2024 Node.js 企業專題班]]></title>
-        <id>https://www.youtube.com/watch?v=X75TXP0Z5-I</id>
-        <link href="https://www.youtube.com/watch?v=X75TXP0Z5-I"/>
-        <updated>2024-02-16T12:00:32.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
-        <id>https://www.youtube.com/watch?v=YbBwDHj_vtk</id>
-        <link href="https://www.youtube.com/watch?v=YbBwDHj_vtk"/>
-        <updated>2024-02-16T12:00:28.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patience.]]></title>
-        <id>https://www.youtube.com/watch?v=2riZ7S-LtHg</id>
-        <link href="https://www.youtube.com/watch?v=2riZ7S-LtHg"/>
-        <updated>2024-02-16T08:29:48.000Z</updated>
         <author>
             <name>D2izy 天命</name>
         </author>
