@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-23T01:13:46.506Z</id>
+    <id>urn:2024-03-24T01:22:06.307Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T01:13:46.506Z</updated>
+    <updated>2024-03-24T01:22:06.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[Session 4 2024-03-21] 交大 / 生成式演算藝術入門 / 直播留存 / 2024-03-21(四) p5.js / 生成式藝術創作技巧：運用條件、迴圈和顏色創造獨特作品]]></title>
+        <id>https://www.youtube.com/watch?v=ZdBW28gAC3E</id>
+        <link href="https://www.youtube.com/watch?v=ZdBW28gAC3E"/>
+        <updated>2024-03-24T01:14:11.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[照抄就對了! 最好的iPhone相機設定]]></title>
+        <id>https://www.youtube.com/watch?v=izjdX9uKnfo</id>
+        <link href="https://www.youtube.com/watch?v=izjdX9uKnfo"/>
+        <updated>2024-03-23T12:32:02.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream State – Pyrosion (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Wo2GQCkmazg</id>
+        <link href="https://www.youtube.com/watch?v=Wo2GQCkmazg"/>
+        <updated>2024-03-23T12:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDM Music Mix 2024 ♫ New Songs Alan Walker (Remix) 2024 ♫ Best of EDM Mix Gaming 2024]]></title>
+        <id>https://www.youtube.com/watch?v=TT29DLwI2VE</id>
+        <link href="https://www.youtube.com/watch?v=TT29DLwI2VE"/>
+        <updated>2024-03-23T11:00:23.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不是悟3买不起，而是悟3Mini更有性价比！ #djidrone #dji #drone]]></title>
+        <id>https://www.youtube.com/watch?v=HOrqEiH-cOA</id>
+        <link href="https://www.youtube.com/watch?v=HOrqEiH-cOA"/>
+        <updated>2024-03-23T10:30:06.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lut套完不好看？那是你方法不对！正确调色套路在这里~]]></title>
+        <id>https://www.youtube.com/watch?v=9wt7_v-FYWQ</id>
+        <link href="https://www.youtube.com/watch?v=9wt7_v-FYWQ"/>
+        <updated>2024-03-23T04:00:05.000Z</updated>
+        <author>
+            <name>HeyDrones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photoshop的新功能——调整预设]]></title>
         <id>https://www.youtube.com/watch?v=RTtz-_C-2Ww</id>
@@ -771,15 +825,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thinking About You – Pyrosion (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=DnKdZtVciRw</id>
-        <link href="https://www.youtube.com/watch?v=DnKdZtVciRw"/>
-        <updated>2024-03-08T12:00:21.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #2]]></title>
         <id>https://www.youtube.com/watch?v=DLuCQz4yDOk</id>
         <link href="https://www.youtube.com/watch?v=DLuCQz4yDOk"/>
@@ -897,15 +942,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大疆运输机吊箱子里的____?帅就完事了！]]></title>
-        <id>https://www.youtube.com/watch?v=P6T0qwIEZBA</id>
-        <link href="https://www.youtube.com/watch?v=P6T0qwIEZBA"/>
-        <updated>2024-03-06T11:05:03.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024]]></title>
         <id>https://www.youtube.com/watch?v=1xIbiKjlyeg</id>
         <link href="https://www.youtube.com/watch?v=1xIbiKjlyeg"/>
@@ -930,24 +966,6 @@
         <updated>2024-03-06T05:00:15.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无人机+手机=建模大师？全机型兼容！不服来辩~#djidrone #drone#3d #modeling]]></title>
-        <id>https://www.youtube.com/watch?v=MgqICtv_ThY</id>
-        <link href="https://www.youtube.com/watch?v=MgqICtv_ThY"/>
-        <updated>2024-03-06T03:45:00.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=bzwTYLSm3Yo</id>
-        <link href="https://www.youtube.com/watch?v=bzwTYLSm3Yo"/>
-        <updated>2024-03-05T11:00:33.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1110,15 +1128,6 @@
         <updated>2024-02-24T12:00:28.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #4]]></title>
-        <id>https://www.youtube.com/watch?v=cNUCKMIvYao</id>
-        <link href="https://www.youtube.com/watch?v=cNUCKMIvYao"/>
-        <updated>2024-02-23T12:00:35.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
