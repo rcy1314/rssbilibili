@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-30T01:13:27.216Z</id>
+    <id>urn:2024-03-31T01:22:31.169Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T01:13:27.216Z</updated>
+    <updated>2024-03-31T01:22:31.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS 網頁滾動特效：ScrollTrigger 滾動觸發｜陪伴開發｜老師陪我 Coding #11]]></title>
+        <id>https://www.youtube.com/watch?v=jzvixeX0tSA</id>
+        <link href="https://www.youtube.com/watch?v=jzvixeX0tSA"/>
+        <updated>2024-03-30T12:00:43.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全新跨平台大型開放世界 MMORPG 《塔瑞斯世界 Tarisland》試玩評測 | Android & iOS & PC 遊戲介紹！]]></title>
+        <id>https://www.youtube.com/watch?v=YYETa-V7pts</id>
+        <link href="https://www.youtube.com/watch?v=YYETa-V7pts"/>
+        <updated>2024-03-30T12:00:29.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanna Be – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=8pXhlG31LQE</id>
+        <link href="https://www.youtube.com/watch?v=8pXhlG31LQE"/>
+        <updated>2024-03-30T12:00:09.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024]]></title>
+        <id>https://www.youtube.com/watch?v=ngf5541OjMc</id>
+        <link href="https://www.youtube.com/watch?v=ngf5541OjMc"/>
+        <updated>2024-03-30T11:00:41.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sparks Fly – Pyrosion (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=qqzuq3oNhw0</id>
@@ -726,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paris Nights – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=X_Se-g6i3gc</id>
-        <link href="https://www.youtube.com/watch?v=X_Se-g6i3gc"/>
-        <updated>2024-03-15T12:00:34.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Try out this drone filming technique, it's very useful. #drone #djidrone]]></title>
         <id>https://www.youtube.com/watch?v=aJ9gaeu5Ow8</id>
         <link href="https://www.youtube.com/watch?v=aJ9gaeu5Ow8"/>
@@ -876,15 +903,6 @@
         <updated>2024-03-13T03:30:05.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Music Mix 2024 ♫ Top EDM Alan Walker Style 2024 ♫ EDM Gaming Music Mix ​]]></title>
-        <id>https://www.youtube.com/watch?v=Nd10U1uuOX4</id>
-        <link href="https://www.youtube.com/watch?v=Nd10U1uuOX4"/>
-        <updated>2024-03-12T11:00:17.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1137,51 +1155,6 @@
         <updated>2024-03-02T03:27:48.000Z</updated>
         <author>
             <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=Od5zKtleBBM</id>
-        <link href="https://www.youtube.com/watch?v=Od5zKtleBBM"/>
-        <updated>2024-03-01T12:00:20.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人像拍摄三要素，模特，模特，和折返镜头！直出梦幻泡影效果的镜头]]></title>
-        <id>https://www.youtube.com/watch?v=GukjmRG1Wy8</id>
-        <link href="https://www.youtube.com/watch?v=GukjmRG1Wy8"/>
-        <updated>2024-03-01T12:00:15.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[营销概念的背后，还原一个真实、务实版的小米 14 Ultra]]></title>
-        <id>https://www.youtube.com/watch?v=ax_ia9J7EP4</id>
-        <link href="https://www.youtube.com/watch?v=ax_ia9J7EP4"/>
-        <updated>2024-03-01T05:47:31.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是音量标准化（Normalization）]]></title>
-        <id>https://www.youtube.com/watch?v=ZpAeDwBZ9-U</id>
-        <link href="https://www.youtube.com/watch?v=ZpAeDwBZ9-U"/>
-        <updated>2024-03-01T05:07:49.000Z</updated>
-        <author>
-            <name>巫师后期.wrcolor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈苏CFV 100C+500CM=乐趣∞｜#原来这么毒# 第110集]]></title>
-        <id>https://www.youtube.com/watch?v=LXu51qHAZEw</id>
-        <link href="https://www.youtube.com/watch?v=LXu51qHAZEw"/>
-        <updated>2024-02-29T13:29:17.000Z</updated>
-        <author>
-            <name>左手+</name>
         </author>
     </entry>
 </feed>
