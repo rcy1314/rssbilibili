@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-18T01:16:49.784Z</id>
+    <id>urn:2024-04-19T01:18:01.789Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T01:16:49.784Z</updated>
+    <updated>2024-04-19T01:18:01.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[打造個人品牌：免費、專業的技術部落格建立，從零開始快速上手｜六角學院｜2024 軟體工程師體驗營]]></title>
+        <id>https://www.youtube.com/watch?v=nCW9ZUv3hXM</id>
+        <link href="https://www.youtube.com/watch?v=nCW9ZUv3hXM"/>
+        <updated>2024-04-18T12:00:51.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=35R7gxDC1AM</id>
+        <link href="https://www.youtube.com/watch?v=35R7gxDC1AM"/>
+        <updated>2024-04-18T12:00:03.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interstellar – Declan DP (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=2QoDbBO27X4</id>
+        <link href="https://www.youtube.com/watch?v=2QoDbBO27X4"/>
+        <updated>2024-04-18T12:00:02.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可以塞包里的显示器，比MacBook Air还轻！]]></title>
+        <id>https://www.youtube.com/watch?v=S8Zh3DFatC8</id>
+        <link href="https://www.youtube.com/watch?v=S8Zh3DFatC8"/>
+        <updated>2024-04-18T11:30:23.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8K全景它真的来了！影石Insta360X4 旅拍创意玩法教程+新品旅拍全测评！]]></title>
+        <id>https://www.youtube.com/watch?v=2Cqlyn62bh8</id>
+        <link href="https://www.youtube.com/watch?v=2Cqlyn62bh8"/>
+        <updated>2024-04-18T10:15:00.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【真人實境秀】來面試吧！前端工程師！]]></title>
         <id>https://www.youtube.com/watch?v=JuCyi9sfyJY</id>
@@ -438,15 +483,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On My Way - Declan DP (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=ld6DuECoLRw</id>
-        <link href="https://www.youtube.com/watch?v=ld6DuECoLRw"/>
-        <updated>2024-04-04T16:00:38.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[靠一個優點讓人無視其他所有缺點的相機 ft. sigma dp2]]></title>
         <id>https://www.youtube.com/watch?v=zlQec6ygGtE</id>
         <link href="https://www.youtube.com/watch?v=zlQec6ygGtE"/>
@@ -516,15 +552,6 @@
         <updated>2024-04-01T12:30:39.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=R0n_YN_mfYc</id>
-        <link href="https://www.youtube.com/watch?v=R0n_YN_mfYc"/>
-        <updated>2024-04-01T12:00:18.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -858,87 +885,6 @@
         <updated>2024-03-21T04:00:00.000Z</updated>
         <author>
             <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作效率差？保握這三個黃金工作時段！]]></title>
-        <id>https://www.youtube.com/watch?v=TwATsTcrObs</id>
-        <link href="https://www.youtube.com/watch?v=TwATsTcrObs"/>
-        <updated>2024-03-20T13:00:25.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年10款好玩爽快的肉鴿 Roguelike 割草类手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=z-AxOw3H3qk</id>
-        <link href="https://www.youtube.com/watch?v=z-AxOw3H3qk"/>
-        <updated>2024-03-20T12:01:02.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3個你不一定需要但買了絕對不後悔的攝影器材]]></title>
-        <id>https://www.youtube.com/watch?v=aFytBkMTM2Q</id>
-        <link href="https://www.youtube.com/watch?v=aFytBkMTM2Q"/>
-        <updated>2024-03-20T11:00:00.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩航拍机和玩穿越机，有啥不同？ #djidrone #drone #dji #quadcopter]]></title>
-        <id>https://www.youtube.com/watch?v=iR9V6xFviM8</id>
-        <link href="https://www.youtube.com/watch?v=iR9V6xFviM8"/>
-        <updated>2024-03-20T10:30:15.000Z</updated>
-        <author>
-            <name>HeyDrones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vlog教学 | 1分钟教会你拍春天！五大技巧Get春日氛围感 #vlog]]></title>
-        <id>https://www.youtube.com/watch?v=z3Ds9hR8Nx0</id>
-        <link href="https://www.youtube.com/watch?v=z3Ds9hR8Nx0"/>
-        <updated>2024-03-20T10:15:03.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深挖 Sony α9 III的全部實力！｜Sony α9 III]]></title>
-        <id>https://www.youtube.com/watch?v=CGhqagrzsSo</id>
-        <link href="https://www.youtube.com/watch?v=CGhqagrzsSo"/>
-        <updated>2024-03-20T08:35:54.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懒人摄影 Live Stream]]></title>
-        <id>https://www.youtube.com/watch?v=ub3S_SRXpKw</id>
-        <link href="https://www.youtube.com/watch?v=ub3S_SRXpKw"/>
-        <updated>2024-03-20T06:03:29.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆无人机不再炸机了！倒车影像 #drone #dji #倒车影像 #大疆无人机]]></title>
-        <id>https://www.youtube.com/watch?v=aah6maqX51c</id>
-        <link href="https://www.youtube.com/watch?v=aah6maqX51c"/>
-        <updated>2024-03-20T04:27:11.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New music is coming 👀 #newmusic  #electronicmusic]]></title>
-        <id>https://www.youtube.com/watch?v=g3Ln8JG15EA</id>
-        <link href="https://www.youtube.com/watch?v=g3Ln8JG15EA"/>
-        <updated>2024-03-19T15:18:04.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
