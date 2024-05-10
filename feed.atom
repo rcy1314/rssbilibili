@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-09T01:19:47.496Z</id>
+    <id>urn:2024-05-10T01:20:34.925Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-09T01:19:47.496Z</updated>
+    <updated>2024-05-10T01:20:34.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EDM Nightcore Gaming Mix 2024 ♫ 1 Hour Nightcore Mix Alan Walker ♫ Best of EDM Mix 2024]]></title>
+        <id>https://www.youtube.com/watch?v=f7kmMqYMtPQ</id>
+        <link href="https://www.youtube.com/watch?v=f7kmMqYMtPQ"/>
+        <updated>2024-05-09T12:30:27.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经典回顾大疆稳定器如影S｜王者地位依然屹立不倒]]></title>
+        <id>https://www.youtube.com/watch?v=SG4Q1TaBjd4</id>
+        <link href="https://www.youtube.com/watch?v=SG4Q1TaBjd4"/>
+        <updated>2024-05-09T12:00:33.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Town – KV (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=NBkqTxK4Xgo</id>
+        <link href="https://www.youtube.com/watch?v=NBkqTxK4Xgo"/>
+        <updated>2024-05-09T12:00:28.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成式演算藝術入門 - Touch Designer 入門 Week 9]]></title>
+        <id>https://www.youtube.com/watch?v=pvJuKJNkXMU</id>
+        <link href="https://www.youtube.com/watch?v=pvJuKJNkXMU"/>
+        <updated>2024-05-09T08:27:02.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成式演算藝術入門 - Touch Designer 入門 Week 9]]></title>
+        <id>https://www.youtube.com/watch?v=S-_TLoji0PE</id>
+        <link href="https://www.youtube.com/watch?v=S-_TLoji0PE"/>
+        <updated>2024-05-09T08:24:26.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Impulse – Luke Hall (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=pfodYZFm8UI</id>
@@ -183,15 +228,6 @@
         <updated>2024-05-05T12:00:25.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024交大應藝碩 生成式演算藝術入門 - 期中專題發表]]></title>
-        <id>https://www.youtube.com/watch?v=pvJuKJNkXMU</id>
-        <link href="https://www.youtube.com/watch?v=pvJuKJNkXMU"/>
-        <updated>2024-05-05T09:15:29.000Z</updated>
-        <author>
-            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
         </author>
     </entry>
     <entry>
@@ -582,15 +618,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mirage – KV (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=DIUPVP4WnLI</id>
-        <link href="https://www.youtube.com/watch?v=DIUPVP4WnLI"/>
-        <updated>2024-04-24T12:00:22.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【旅拍 | 纽约】纽约最全攻略，超级英雄蚊子侠带你看遍纽约（上）｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=G2wTG1HPMZE</id>
         <link href="https://www.youtube.com/watch?v=G2wTG1HPMZE"/>
@@ -627,15 +654,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=B_VI4FnPTq8</id>
-        <link href="https://www.youtube.com/watch?v=B_VI4FnPTq8"/>
-        <updated>2024-04-22T12:00:07.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【真人實境秀】來面試吧！前端工程師！]]></title>
         <id>https://www.youtube.com/watch?v=JuCyi9sfyJY</id>
         <link href="https://www.youtube.com/watch?v=JuCyi9sfyJY"/>
@@ -645,7 +663,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【那些令人難忘的BOSS戰】·皮諾曹的謊言篇]]></title>
+        <title type="html"><![CDATA[【那些令人難忘的BOSS戰】·匹諾曹的謊言篇《lies of P》]]></title>
         <id>https://www.youtube.com/watch?v=zlDQSiX5B6E</id>
         <link href="https://www.youtube.com/watch?v=zlDQSiX5B6E"/>
         <updated>2024-04-20T12:01:01.000Z</updated>
@@ -786,33 +804,6 @@
         <updated>2024-04-11T04:41:45.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年10款好玩的 ARPG 動作角色扮演手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=_SPidu4Zcc8</id>
-        <link href="https://www.youtube.com/watch?v=_SPidu4Zcc8"/>
-        <updated>2024-04-10T12:00:36.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[觀看F1賽車的三個推薦小物]]></title>
-        <id>https://www.youtube.com/watch?v=wRVSyTKW7X8</id>
-        <link href="https://www.youtube.com/watch?v=wRVSyTKW7X8"/>
-        <updated>2024-04-10T04:27:45.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This ain’t my first rodeo #xgames #electronicmusic #housemusic]]></title>
-        <id>https://www.youtube.com/watch?v=tQFV-4ZfnZw</id>
-        <link href="https://www.youtube.com/watch?v=tQFV-4ZfnZw"/>
-        <updated>2024-04-09T16:30:36.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
