@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-06T01:23:17.016Z</id>
+    <id>urn:2024-06-07T01:25:52.397Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T01:23:17.016Z</updated>
+    <updated>2024-06-07T01:25:52.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2024年不能錯過的平價望遠鏡頭！Tamron 50-300mm f4.5-6.3 Di III VC VXD馬祖旅遊實拍！]]></title>
+        <id>https://www.youtube.com/watch?v=hecNmWYUXSI</id>
+        <link href="https://www.youtube.com/watch?v=hecNmWYUXSI"/>
+        <updated>2024-06-06T13:31:23.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人類找到了【新活法】，我只感到窒息]]></title>
+        <id>https://www.youtube.com/watch?v=oBtSQCmK35s</id>
+        <link href="https://www.youtube.com/watch?v=oBtSQCmK35s"/>
+        <updated>2024-06-06T12:00:53.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Best of EDM Gaming Music Mix 2024]]></title>
+        <id>https://www.youtube.com/watch?v=cgwd9rwsZwk</id>
+        <link href="https://www.youtube.com/watch?v=cgwd9rwsZwk"/>
+        <updated>2024-06-06T12:00:43.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distorted Tribute – Filo Starquez (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Wk3og7WG_pk</id>
+        <link href="https://www.youtube.com/watch?v=Wk3og7WG_pk"/>
+        <updated>2024-06-06T12:00:35.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone卡包都这么高级了吗？！]]></title>
+        <id>https://www.youtube.com/watch?v=ETUdopnVQ3o</id>
+        <link href="https://www.youtube.com/watch?v=ETUdopnVQ3o"/>
+        <updated>2024-06-06T11:15:00.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扫振卷起来！笑容加 P20 Pro 能补齐扫振的短板么]]></title>
+        <id>https://www.youtube.com/watch?v=_7tTSep3KKg</id>
+        <link href="https://www.youtube.com/watch?v=_7tTSep3KKg"/>
+        <updated>2024-06-06T07:40:28.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100S II: "More than Full Frame" x Jean-Michel Lenoir/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=KVOsG-i_HFQ</id>
+        <link href="https://www.youtube.com/watch?v=KVOsG-i_HFQ"/>
+        <updated>2024-06-06T05:00:10.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024 網頁切版直播班＆React 前端工程師培訓班】今晚九點準時開放報名｜提供快閃3小時優惠！]]></title>
         <id>https://www.youtube.com/watch?v=tF5P4PjQTrg</id>
@@ -12,15 +75,6 @@
         <updated>2024-06-05T15:23:15.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「週三八點半」想從事攝影行業相機怎麼選？出國的行程被友人拍照耽擱怎麼辦？五月份攝影賽一起回顧照片]]></title>
-        <id>https://www.youtube.com/watch?v=Mkzz9WWOZtU</id>
-        <link href="https://www.youtube.com/watch?v=Mkzz9WWOZtU"/>
-        <updated>2024-06-05T15:23:15.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
@@ -582,30 +636,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soothe – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=0UIiMJwkx2Q</id>
-        <link href="https://www.youtube.com/watch?v=0UIiMJwkx2Q"/>
-        <updated>2024-05-23T12:00:02.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[生成式演算互動藝術 S.10 Touch Designer 進階 - 3D物件與Instancing]]></title>
         <id>https://www.youtube.com/watch?v=Tg_54YKEX8s</id>
         <link href="https://www.youtube.com/watch?v=Tg_54YKEX8s"/>
         <updated>2024-05-23T08:37:34.000Z</updated>
         <author>
             <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XF16-50mm x Nikola Krstic Travel in Morocco/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=fcBv-xwhFMs</id>
-        <link href="https://www.youtube.com/watch?v=fcBv-xwhFMs"/>
-        <updated>2024-05-23T05:00:20.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -748,15 +784,6 @@
         <id>https://www.youtube.com/watch?v=E26uYoMkDO8</id>
         <link href="https://www.youtube.com/watch?v=E26uYoMkDO8"/>
         <updated>2024-05-19T12:00:10.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Best of Nightcore Gaming Music Mix 2024]]></title>
-        <id>https://www.youtube.com/watch?v=ZtgJRBtnOvE</id>
-        <link href="https://www.youtube.com/watch?v=ZtgJRBtnOvE"/>
-        <updated>2024-05-18T12:00:36.000Z</updated>
         <author>
             <name>FURY EDM</name>
         </author>
@@ -966,51 +993,6 @@
         <updated>2024-05-09T08:27:02.000Z</updated>
         <author>
             <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士山看到“流星雨”，神秘美丽的日本第一高峰｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=RbA58-izlaw</id>
-        <link href="https://www.youtube.com/watch?v=RbA58-izlaw"/>
-        <updated>2024-05-08T12:00:24.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年10款好玩的類《寶可夢Pokémon》手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=2DYP2LCFXfo</id>
-        <link href="https://www.youtube.com/watch?v=2DYP2LCFXfo"/>
-        <updated>2024-05-08T12:00:03.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 10 #newmusic #summer #electronicmusic]]></title>
-        <id>https://www.youtube.com/watch?v=PwTcghVG50I</id>
-        <link href="https://www.youtube.com/watch?v=PwTcghVG50I"/>
-        <updated>2024-05-07T17:02:37.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果跌落神坛了吗？全新iPad Pro M4面世｜5分钟快速了解发布会重点]]></title>
-        <id>https://www.youtube.com/watch?v=Pp4_t9JcIAM</id>
-        <link href="https://www.youtube.com/watch?v=Pp4_t9JcIAM"/>
-        <updated>2024-05-07T17:00:23.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heart Strings]]></title>
-        <id>https://www.youtube.com/watch?v=jGF6qNxwOZo</id>
-        <link href="https://www.youtube.com/watch?v=jGF6qNxwOZo"/>
-        <updated>2024-05-07T15:00:06.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
         </author>
     </entry>
 </feed>
