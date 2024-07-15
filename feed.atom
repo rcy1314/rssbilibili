@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-14T01:40:27.734Z</id>
+    <id>urn:2024-07-15T01:36:08.307Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T01:40:27.734Z</updated>
+    <updated>2024-07-15T01:36:08.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Alan Walker Cực Chill Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=pGF-VyxaNOs</id>
+        <link href="https://www.youtube.com/watch?v=pGF-VyxaNOs"/>
+        <updated>2024-07-14T12:30:38.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splash – Roa (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=3v5bGst1Mdw</id>
+        <link href="https://www.youtube.com/watch?v=3v5bGst1Mdw"/>
+        <updated>2024-07-14T12:00:03.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4個你不一定需要但買了絕對不後悔的攝影器材 Part.2]]></title>
+        <id>https://www.youtube.com/watch?v=IQ5V-_5EEKw</id>
+        <link href="https://www.youtube.com/watch?v=IQ5V-_5EEKw"/>
+        <updated>2024-07-14T11:11:46.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love Drunk – LiQWYD (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=wa8plSEPths</id>
@@ -411,15 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mitch – Aftertune (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=mpWI21m8Thc</id>
-        <link href="https://www.youtube.com/watch?v=mpWI21m8Thc"/>
-        <updated>2024-07-01T12:00:52.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=He7JsfXDfxU</id>
         <link href="https://www.youtube.com/watch?v=He7JsfXDfxU"/>
@@ -462,15 +480,6 @@
         <updated>2024-06-30T12:00:01.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=SZ9ago-p3eg</id>
-        <link href="https://www.youtube.com/watch?v=SZ9ago-p3eg"/>
-        <updated>2024-06-29T12:00:25.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
