@@ -143,6 +143,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=P4YI-BCZV_k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P4YI-BCZV_k",
+          "publishedOn": "2024-07-21T12:00:21.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2AD5eFvxyuk",
           "author": null,
           "description": "",
@@ -280,16 +290,6 @@
           "publishedOn": "2024-07-07T12:00:26.000Z",
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lvZzrawl0vQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lvZzrawl0vQ",
-          "publishedOn": "2024-07-06T12:00:53.000Z",
-          "wordCount": null,
-          "title": "🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
           "imageUrl": null
         }
       ]
@@ -931,6 +931,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ua_4rpxrfys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ua_4rpxrfys",
+          "publishedOn": "2024-07-21T12:00:31.000Z",
+          "wordCount": null,
+          "title": "[Juice Mix] – Artificial.Music (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=02Yfn1ytPiI",
           "author": null,
           "description": "",
@@ -1068,16 +1078,6 @@
           "publishedOn": "2024-07-09T12:00:51.000Z",
           "wordCount": null,
           "title": "Waves – Limujii (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3ploObL0898",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3ploObL0898",
-          "publishedOn": "2024-07-08T12:00:03.000Z",
-          "wordCount": null,
-          "title": "TRUE – Aftertune (No Copyright Music)",
           "imageUrl": null
         }
       ]
