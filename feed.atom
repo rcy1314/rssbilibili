@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-02T01:34:21.713Z</id>
+    <id>urn:2024-08-03T01:32:59.569Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T01:34:21.713Z</updated>
+    <updated>2024-08-03T01:32:59.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eden – Filo Starquez (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=erkWeNAzfpI</id>
+        <link href="https://www.youtube.com/watch?v=erkWeNAzfpI"/>
+        <updated>2024-08-02T12:00:52.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=N8dXQGJMW-k</id>
+        <link href="https://www.youtube.com/watch?v=N8dXQGJMW-k"/>
+        <updated>2024-08-02T12:00:22.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lights]]></title>
+        <id>https://www.youtube.com/watch?v=etTeAd9Ys-o</id>
+        <link href="https://www.youtube.com/watch?v=etTeAd9Ys-o"/>
+        <updated>2024-08-02T06:10:58.000Z</updated>
+        <author>
+            <name>D2izy 天命</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Carrara – Scandinavianz (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=qkYeeiBOshU</id>
@@ -510,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Write You a Letter – Lo-fi miku (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=dx0aRHafJpk</id>
-        <link href="https://www.youtube.com/watch?v=dx0aRHafJpk"/>
-        <updated>2024-07-18T12:00:46.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【TEDx演講】學會攝影，一個觀察世界的機會。｜陳曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=PZqlPzBJ_bQ</id>
         <link href="https://www.youtube.com/watch?v=PZqlPzBJ_bQ"/>
@@ -759,51 +777,6 @@
         <updated>2024-07-05T12:00:51.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四顆 Sony 50mm 定焦人像實拍效果 - 一分鐘攝影計時挑戰]]></title>
-        <id>https://www.youtube.com/watch?v=kJJTlip5zsc</id>
-        <link href="https://www.youtube.com/watch?v=kJJTlip5zsc"/>
-        <updated>2024-07-04T12:30:27.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄影10个必备配件｜第6个是2024年最爱]]></title>
-        <id>https://www.youtube.com/watch?v=qrDGLr1-o_k</id>
-        <link href="https://www.youtube.com/watch?v=qrDGLr1-o_k"/>
-        <updated>2024-07-04T12:00:49.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K we did a couple more of these! ‘Bad Advice’ and ‘No Shade at Pitti” from my living room out now :)]]></title>
-        <id>https://www.youtube.com/watch?v=GcEM1AIINms</id>
-        <link href="https://www.youtube.com/watch?v=GcEM1AIINms"/>
-        <updated>2024-07-03T17:02:22.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - No Shade at Pitti (Live From Drew's Living Room)]]></title>
-        <id>https://www.youtube.com/watch?v=z6rT6hwgx7s</id>
-        <link href="https://www.youtube.com/watch?v=z6rT6hwgx7s"/>
-        <updated>2024-07-03T14:57:32.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers, ELIO - Bad Advice (Live From Drew's Living Room)]]></title>
-        <id>https://www.youtube.com/watch?v=p-BnzNKPSYc</id>
-        <link href="https://www.youtube.com/watch?v=p-BnzNKPSYc"/>
-        <updated>2024-07-03T14:57:28.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
