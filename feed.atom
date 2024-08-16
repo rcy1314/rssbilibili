@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-15T01:24:55.015Z</id>
+    <id>urn:2024-08-16T01:35:35.296Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T01:24:55.015Z</updated>
+    <updated>2024-08-16T01:35:35.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[底大一級真的壓死人嗎？不同片幅一分鐘挑戰！等效光圈會影響進光量嗎？Ft. Sony α74、Fujifilm X-T50、Olympus Pen F、Nikon 1 J2]]></title>
+        <id>https://www.youtube.com/watch?v=A0p3kKqvhOs</id>
+        <link href="https://www.youtube.com/watch?v=A0p3kKqvhOs"/>
+        <updated>2024-08-15T12:30:08.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=PeI_S8omr88</id>
+        <link href="https://www.youtube.com/watch?v=PeI_S8omr88"/>
+        <updated>2024-08-15T12:00:21.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cruising – KV (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Fh-EF-pOAmk</id>
+        <link href="https://www.youtube.com/watch?v=Fh-EF-pOAmk"/>
+        <updated>2024-08-15T12:00:15.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insane – Mehul Choudhary (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=i2r3pesMrhQ</id>
@@ -465,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peru – ASHUTOSH (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=aZtW1WV6RRc</id>
-        <link href="https://www.youtube.com/watch?v=aZtW1WV6RRc"/>
-        <updated>2024-07-31T12:00:02.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我人生中做過最正確的決定 ft.遠見眼科]]></title>
         <id>https://www.youtube.com/watch?v=9xLq2Z3lAPo</id>
         <link href="https://www.youtube.com/watch?v=9xLq2Z3lAPo"/>
@@ -588,15 +606,6 @@
         <updated>2024-07-26T12:00:40.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=AQfCVdp-80o</id>
-        <link href="https://www.youtube.com/watch?v=AQfCVdp-80o"/>
-        <updated>2024-07-26T12:00:07.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -777,42 +786,6 @@
         <updated>2024-07-17T14:09:17.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #5]]></title>
-        <id>https://www.youtube.com/watch?v=i3AqvtVunqQ</id>
-        <link href="https://www.youtube.com/watch?v=i3AqvtVunqQ"/>
-        <updated>2024-07-17T12:00:47.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原來我不是喜歡看海，是喜歡和你一起看海]]></title>
-        <id>https://www.youtube.com/watch?v=hCH95FK0yEE</id>
-        <link href="https://www.youtube.com/watch?v=hCH95FK0yEE"/>
-        <updated>2024-07-17T10:56:12.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nights like this]]></title>
-        <id>https://www.youtube.com/watch?v=XfMOga0MvrY</id>
-        <link href="https://www.youtube.com/watch?v=XfMOga0MvrY"/>
-        <updated>2024-07-17T10:47:27.000Z</updated>
-        <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-T50 x Katelyn Neilsen / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=978e47XA860</id>
-        <link href="https://www.youtube.com/watch?v=978e47XA860"/>
-        <updated>2024-07-17T05:25:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
