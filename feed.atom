@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-19T01:37:56.366Z</id>
+    <id>urn:2024-08-20T01:35:23.693Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T01:37:56.366Z</updated>
+    <updated>2024-08-20T01:35:23.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Love language]]></title>
+        <id>https://www.youtube.com/watch?v=QGmART7ZoD0</id>
+        <link href="https://www.youtube.com/watch?v=QGmART7ZoD0"/>
+        <updated>2024-08-19T23:24:53.000Z</updated>
+        <author>
+            <name>D2izy バン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI自动剪辑视频|用AI批量做视频|③分钟帮你完成短视频剪辑-AI效率提升N倍]]></title>
+        <id>https://www.youtube.com/watch?v=JYgwrpPiw-s</id>
+        <link href="https://www.youtube.com/watch?v=JYgwrpPiw-s"/>
+        <updated>2024-08-19T13:55:41.000Z</updated>
+        <author>
+            <name>文广同学X</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年最值得購買的底片相機！PENTAX 17！]]></title>
+        <id>https://www.youtube.com/watch?v=AcvVJzoETVY</id>
+        <link href="https://www.youtube.com/watch?v=AcvVJzoETVY"/>
+        <updated>2024-08-19T12:37:48.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旅途的回憶球 - 為什麼 Pentax 17 會是你該考慮的底片機？]]></title>
+        <id>https://www.youtube.com/watch?v=aZtKxUXjCEI</id>
+        <link href="https://www.youtube.com/watch?v=aZtKxUXjCEI"/>
+        <updated>2024-08-19T12:30:04.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=ep1_odv7PUY</id>
+        <link href="https://www.youtube.com/watch?v=ep1_odv7PUY"/>
+        <updated>2024-08-19T12:00:47.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Takeoff – Mehul Choudhary (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=eoLwspwIPVU</id>
+        <link href="https://www.youtube.com/watch?v=eoLwspwIPVU"/>
+        <updated>2024-08-19T12:00:44.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年10款好玩燒腦的解密類手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=SlX1VKkfnWo</id>
+        <link href="https://www.youtube.com/watch?v=SlX1VKkfnWo"/>
+        <updated>2024-08-19T12:00:34.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼相机用户救星? TP Mini户外拍摄必备神器]]></title>
+        <id>https://www.youtube.com/watch?v=wQm8-ZTNKRE</id>
+        <link href="https://www.youtube.com/watch?v=wQm8-ZTNKRE"/>
+        <updated>2024-08-19T06:00:33.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2024 JS 直播班＆React 前端工程師培訓班】說明會 8/21 20:00 準時開播｜今晚九點開放報名]]></title>
+        <id>https://www.youtube.com/watch?v=ce8fFHCSMyY</id>
+        <link href="https://www.youtube.com/watch?v=ce8fFHCSMyY"/>
+        <updated>2024-08-19T03:13:37.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024 JS 工程師養成直播班】8/18 20:00 準時開播｜六角校長 洧杰]]></title>
         <id>https://www.youtube.com/watch?v=Ot8gnqrzGCA</id>
@@ -425,7 +506,7 @@
         <link href="https://www.youtube.com/watch?v=uVECzpUn_mA"/>
         <updated>2024-08-05T05:24:16.000Z</updated>
         <author>
-            <name>D2izy 天命</name>
+            <name>D2izy バン</name>
         </author>
     </entry>
     <entry>
@@ -434,16 +515,7 @@
         <link href="https://www.youtube.com/watch?v=Od9G4sEGs8w"/>
         <updated>2024-08-05T05:12:25.000Z</updated>
         <author>
-            <name>D2izy 天命</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonwalk – Jay Someday (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=wW_6E-vziQ4</id>
-        <link href="https://www.youtube.com/watch?v=wW_6E-vziQ4"/>
-        <updated>2024-08-04T12:00:55.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>D2izy バン</name>
         </author>
     </entry>
     <entry>
@@ -488,7 +560,7 @@
         <link href="https://www.youtube.com/watch?v=etTeAd9Ys-o"/>
         <updated>2024-08-02T06:10:58.000Z</updated>
         <author>
-            <name>D2izy 天命</name>
+            <name>D2izy バン</name>
         </author>
     </entry>
     <entry>
@@ -551,7 +623,7 @@
         <link href="https://www.youtube.com/watch?v=TZafTVBOTnA"/>
         <updated>2024-07-31T03:59:48.000Z</updated>
         <author>
-            <name>D2izy 天命</name>
+            <name>D2izy バン</name>
         </author>
     </entry>
     <entry>
@@ -560,7 +632,7 @@
         <link href="https://www.youtube.com/watch?v=1qLsNPX1zBE"/>
         <updated>2024-07-30T02:22:27.000Z</updated>
         <author>
-            <name>D2izy 天命</name>
+            <name>D2izy バン</name>
         </author>
     </entry>
     <entry>
@@ -570,15 +642,6 @@
         <updated>2024-07-29T12:30:22.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=zcqElknvpJY</id>
-        <link href="https://www.youtube.com/watch?v=zcqElknvpJY"/>
-        <updated>2024-07-29T12:08:38.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
