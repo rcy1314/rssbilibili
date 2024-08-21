@@ -41,6 +41,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nt-Eq5s2uLI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nt-Eq5s2uLI",
+          "publishedOn": "2024-08-20T12:02:20.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ep1_odv7PUY",
           "author": null,
           "description": "",
@@ -178,16 +188,6 @@
           "publishedOn": "2024-08-01T12:00:33.000Z",
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4uuBJ1zN6SQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4uuBJ1zN6SQ",
-          "publishedOn": "2024-07-31T12:00:05.000Z",
-          "wordCount": null,
-          "title": "🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
           "imageUrl": null
         }
       ]
@@ -635,16 +635,6 @@
           "wordCount": null,
           "title": "2024年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7PRc2ffpoJE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7PRc2ffpoJE",
-          "publishedOn": "2024-07-22T12:00:14.000Z",
-          "wordCount": null,
-          "title": "2024年10款好玩的 ANIME 動漫改編手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1",
-          "imageUrl": null
         }
       ]
     },
@@ -863,16 +853,6 @@
           "wordCount": null,
           "title": "請問我失戀了...該怎麼辦...",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Aq8OqhfnNjM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Aq8OqhfnNjM",
-          "publishedOn": "2024-07-22T12:34:08.000Z",
-          "wordCount": null,
-          "title": "有機會成為Ricoh GR III的平替嗎？那台當年買不起的模組化相機 ft. Ricoh GXR",
-          "imageUrl": null
         }
       ]
     },
@@ -898,6 +878,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pV3uaV_fs7A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pV3uaV_fs7A",
+          "publishedOn": "2024-08-20T16:00:49.000Z",
+          "wordCount": null,
+          "title": "Lucid - ChillD'em (No Copyright Music) | Release Preview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sEIu5m_-fOU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sEIu5m_-fOU",
+          "publishedOn": "2024-08-20T12:01:05.000Z",
+          "wordCount": null,
+          "title": "Backdrops – Pyrosion (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eoLwspwIPVU",
           "author": null,
@@ -1026,26 +1026,6 @@
           "publishedOn": "2024-08-07T12:00:23.000Z",
           "wordCount": null,
           "title": "Summer Wind – Roa (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=booIS47NW-M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=booIS47NW-M",
-          "publishedOn": "2024-08-06T12:00:41.000Z",
-          "wordCount": null,
-          "title": "cosy dreaming – Snoozybeats (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4ACykaInZ4Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4ACykaInZ4Y",
-          "publishedOn": "2024-08-05T12:00:04.000Z",
-          "wordCount": null,
-          "title": "Malta – ASHUTOSH (No Copyright Music)",
           "imageUrl": null
         }
       ]
