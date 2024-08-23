@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-22T01:37:44.424Z</id>
+    <id>urn:2024-08-23T01:36:31.576Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T01:37:44.424Z</updated>
+    <updated>2024-08-23T01:36:31.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Orbit - Declan DP (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=EcHarqV5OPs</id>
+        <link href="https://www.youtube.com/watch?v=EcHarqV5OPs"/>
+        <updated>2024-08-22T16:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spot – KV (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=twlqgF9_8Y0</id>
+        <link href="https://www.youtube.com/watch?v=twlqgF9_8Y0"/>
+        <updated>2024-08-22T12:01:06.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=_np5ICw34So</id>
+        <link href="https://www.youtube.com/watch?v=_np5ICw34So"/>
+        <updated>2024-08-22T12:00:43.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好好探圖很重要！《黑神話悟空》70小時通關建議]]></title>
+        <id>https://www.youtube.com/watch?v=FyTHj9SpGQU</id>
+        <link href="https://www.youtube.com/watch?v=FyTHj9SpGQU"/>
+        <updated>2024-08-22T12:00:15.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2024 JS 直播班＆React 前端工程師培訓班】說明會 8/21 20:00 準時開播｜今晚九點開放報名]]></title>
+        <id>https://www.youtube.com/watch?v=ce8fFHCSMyY</id>
+        <link href="https://www.youtube.com/watch?v=ce8fFHCSMyY"/>
+        <updated>2024-08-22T02:04:43.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer Vibe, Pt 2 – Pold (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=wlow02seUPI</id>
@@ -129,15 +174,6 @@
         <updated>2024-08-19T06:00:33.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2024 JS 直播班＆React 前端工程師培訓班】說明會 8/21 20:00 準時開播｜今晚九點開放報名]]></title>
-        <id>https://www.youtube.com/watch?v=ce8fFHCSMyY</id>
-        <link href="https://www.youtube.com/watch?v=ce8fFHCSMyY"/>
-        <updated>2024-08-19T03:13:37.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -411,15 +447,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arctic – Mehul Choudhary (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=SKkwoshA0OQ</id>
-        <link href="https://www.youtube.com/watch?v=SKkwoshA0OQ"/>
-        <updated>2024-08-09T12:00:37.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=T1vMcf0_6eA</id>
         <link href="https://www.youtube.com/watch?v=T1vMcf0_6eA"/>
@@ -444,15 +471,6 @@
         <updated>2024-08-09T05:29:16.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retro – Declan DP (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=PP6KRaUJR8w</id>
-        <link href="https://www.youtube.com/watch?v=PP6KRaUJR8w"/>
-        <updated>2024-08-08T12:00:24.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -550,15 +568,6 @@
         <id>https://www.youtube.com/watch?v=6rqVx5ZW-YY</id>
         <link href="https://www.youtube.com/watch?v=6rqVx5ZW-YY"/>
         <updated>2024-08-04T12:00:10.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024]]></title>
-        <id>https://www.youtube.com/watch?v=GeGKgjg3ZW8</id>
-        <link href="https://www.youtube.com/watch?v=GeGKgjg3ZW8"/>
-        <updated>2024-08-03T12:00:17.000Z</updated>
         <author>
             <name>FURY EDM</name>
         </author>
@@ -732,24 +741,6 @@
         <updated>2024-07-25T04:24:37.000Z</updated>
         <author>
             <name>巫师后期.wrcolor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7]]></title>
-        <id>https://www.youtube.com/watch?v=XYSITqzV1X8</id>
-        <link href="https://www.youtube.com/watch?v=XYSITqzV1X8"/>
-        <updated>2024-07-24T12:00:39.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有看過這種影片嗎?]]></title>
-        <id>https://www.youtube.com/watch?v=xODzlzxD5nc</id>
-        <link href="https://www.youtube.com/watch?v=xODzlzxD5nc"/>
-        <updated>2024-07-24T08:48:23.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>
