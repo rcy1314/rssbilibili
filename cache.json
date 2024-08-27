@@ -27,7 +27,18 @@
       "title": "黄杨ME",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYnyI0YuiJRFg2CoBOCGEaA",
       "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i4jAEr_NRNI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i4jAEr_NRNI",
+          "publishedOn": "2024-08-26T12:45:03.000Z",
+          "wordCount": null,
+          "title": "我用Mac成功玩上《黑神话悟空》啦！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "左手+",
@@ -497,6 +508,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xk6u8kVzQdA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xk6u8kVzQdA",
+          "publishedOn": "2024-08-26T12:01:09.000Z",
+          "wordCount": null,
+          "title": "2024年10款好玩的 MOBA 競技類手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ymTGg5zPf2w",
           "author": null,
           "description": "",
@@ -735,6 +756,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TEo-a9ucV8c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TEo-a9ucV8c",
+          "publishedOn": "2024-08-26T12:30:31.000Z",
+          "wordCount": null,
+          "title": "5K相機只賣台幣5000元！買到賺到？網頁詐騙？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AcvVJzoETVY",
           "author": null,
           "description": "",
@@ -817,6 +848,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kVVLr8GmLdw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kVVLr8GmLdw",
+          "publishedOn": "2024-08-26T12:00:58.000Z",
+          "wordCount": null,
+          "title": "Daylight Hour – Snoozybeats (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-CmKV_fMXNw",
           "author": null,
@@ -955,16 +996,6 @@
           "publishedOn": "2024-08-14T12:00:53.000Z",
           "wordCount": null,
           "title": "Insane – Mehul Choudhary (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IO-UqsI5KB8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IO-UqsI5KB8",
-          "publishedOn": "2024-08-13T12:00:18.000Z",
-          "wordCount": null,
-          "title": "Up In The Air (Ft. Belingo & AgusAlvarez) – Luke Bergs (No Copyright Music)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-26T01:37:51.523Z</id>
+    <id>urn:2024-08-27T01:38:11.555Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T01:37:51.523Z</updated>
+    <updated>2024-08-27T01:38:11.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我用Mac成功玩上《黑神话悟空》啦！]]></title>
+        <id>https://www.youtube.com/watch?v=i4jAEr_NRNI</id>
+        <link href="https://www.youtube.com/watch?v=i4jAEr_NRNI"/>
+        <updated>2024-08-26T12:45:03.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5K相機只賣台幣5000元！買到賺到？網頁詐騙？]]></title>
+        <id>https://www.youtube.com/watch?v=TEo-a9ucV8c</id>
+        <link href="https://www.youtube.com/watch?v=TEo-a9ucV8c"/>
+        <updated>2024-08-26T12:30:31.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年10款好玩的 MOBA 競技類手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=xk6u8kVzQdA</id>
+        <link href="https://www.youtube.com/watch?v=xk6u8kVzQdA"/>
+        <updated>2024-08-26T12:01:09.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daylight Hour – Snoozybeats (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=kVVLr8GmLdw</id>
+        <link href="https://www.youtube.com/watch?v=kVVLr8GmLdw"/>
+        <updated>2024-08-26T12:00:58.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【那些令人難忘的BOSS戰】·黑神話悟空篇01]]></title>
         <id>https://www.youtube.com/watch?v=qOxrhbbphsE</id>
@@ -399,15 +435,6 @@
         <updated>2024-08-13T13:00:28.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Up In The Air (Ft. Belingo & AgusAlvarez) – Luke Bergs (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=IO-UqsI5KB8</id>
-        <link href="https://www.youtube.com/watch?v=IO-UqsI5KB8"/>
-        <updated>2024-08-13T12:00:18.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
