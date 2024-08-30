@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-29T01:39:54.187Z</id>
+    <id>urn:2024-08-30T01:40:27.072Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T01:39:54.187Z</updated>
+    <updated>2024-08-30T01:40:27.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers & Kim Petras - Don't Lie (Official Trailer)]]></title>
+        <id>https://www.youtube.com/watch?v=t4iU6FjXjqk</id>
+        <link href="https://www.youtube.com/watch?v=t4iU6FjXjqk"/>
+        <updated>2024-08-29T15:42:07.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DONT LIE ft @kimpetras  :))) shall we? #newmusic]]></title>
+        <id>https://www.youtube.com/watch?v=fyEByxaPnzo</id>
+        <link href="https://www.youtube.com/watch?v=fyEByxaPnzo"/>
+        <updated>2024-08-29T15:41:44.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[街景救星！為何他會是經典的人像焦段？ Ft. Sony 85mm GM II]]></title>
+        <id>https://www.youtube.com/watch?v=ADzcr_DEleA</id>
+        <link href="https://www.youtube.com/watch?v=ADzcr_DEleA"/>
+        <updated>2024-08-29T12:30:08.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forever – Mehul Choudhary (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=B8TIDevlAjY</id>
+        <link href="https://www.youtube.com/watch?v=B8TIDevlAjY"/>
+        <updated>2024-08-29T12:00:12.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[meseum精裝訂製書]]></title>
         <id>https://www.youtube.com/watch?v=HcQ1qUYJwkU</id>
@@ -429,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reset – Alex-Productions (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=0Yn9Fa2pbO4</id>
-        <link href="https://www.youtube.com/watch?v=0Yn9Fa2pbO4"/>
-        <updated>2024-08-16T12:00:02.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[底大一級真的壓死人嗎？不同片幅一分鐘挑戰！等效光圈會影響進光量嗎？Ft. Sony α74、Fujifilm X-T50、Olympus Pen F、Nikon 1 J2]]></title>
         <id>https://www.youtube.com/watch?v=A0p3kKqvhOs</id>
         <link href="https://www.youtube.com/watch?v=A0p3kKqvhOs"/>
@@ -483,7 +510,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AZERBAIJAN | 火焰之国全体验，北京直飞阿塞拜疆，探访高加索。｜陈曦Stanley]]></title>
+        <title type="html"><![CDATA[火焰之国全体验，北京直飞阿塞拜疆，探访高加索。｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=PqqecaXsvaY</id>
         <link href="https://www.youtube.com/watch?v=PqqecaXsvaY"/>
         <updated>2024-08-13T13:00:28.000Z</updated>
@@ -705,42 +732,6 @@
         <updated>2024-08-01T06:30:17.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #9]]></title>
-        <id>https://www.youtube.com/watch?v=GsWRfCdIeBQ</id>
-        <link href="https://www.youtube.com/watch?v=GsWRfCdIeBQ"/>
-        <updated>2024-07-31T12:00:14.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我人生中做過最正確的決定 ft.遠見眼科]]></title>
-        <id>https://www.youtube.com/watch?v=9xLq2Z3lAPo</id>
-        <link href="https://www.youtube.com/watch?v=9xLq2Z3lAPo"/>
-        <updated>2024-07-31T11:37:25.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爱否】中端旗舰横评：K70 至尊版能否回应米粉期待？]]></title>
-        <id>https://www.youtube.com/watch?v=1Ptb7nBHAUE</id>
-        <link href="https://www.youtube.com/watch?v=1Ptb7nBHAUE"/>
-        <updated>2024-07-31T09:49:58.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My fault 4HC]]></title>
-        <id>https://www.youtube.com/watch?v=TZafTVBOTnA</id>
-        <link href="https://www.youtube.com/watch?v=TZafTVBOTnA"/>
-        <updated>2024-07-31T03:59:48.000Z</updated>
-        <author>
-            <name>D2izy バン</name>
         </author>
     </entry>
 </feed>
