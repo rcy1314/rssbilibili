@@ -1,15 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-06T01:40:44.412Z</id>
+    <id>urn:2024-09-07T01:38:59.198Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T01:40:44.412Z</updated>
+    <updated>2024-09-07T01:38:59.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[240906 Ball Symphony 1 v2  / Touch Designer + VCV]]></title>
+        <id>https://www.youtube.com/watch?v=eMM92_i4a2w</id>
+        <link href="https://www.youtube.com/watch?v=eMM92_i4a2w"/>
+        <updated>2024-09-06T16:33:33.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拿生命闯禁区，中国最有良心的记者、作家之一【寻找•袁凌】]]></title>
+        <id>https://www.youtube.com/watch?v=L2mUNq8Kcb0</id>
+        <link href="https://www.youtube.com/watch?v=L2mUNq8Kcb0"/>
+        <updated>2024-09-06T15:52:34.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=dHbWR-GRKSc</id>
+        <link href="https://www.youtube.com/watch?v=dHbWR-GRKSc"/>
+        <updated>2024-09-06T12:00:46.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunshine – Spiring (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=aMQSrsProkk</id>
+        <link href="https://www.youtube.com/watch?v=aMQSrsProkk"/>
+        <updated>2024-09-06T12:00:01.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5個拍出更好影片的工具]]></title>
+        <id>https://www.youtube.com/watch?v=woHsckCElTE</id>
+        <link href="https://www.youtube.com/watch?v=woHsckCElTE"/>
+        <updated>2024-09-06T10:29:51.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI NEO首发 | 看！会飞的VLOG相机！| 六大技巧教你玩转大疆NEO]]></title>
+        <id>https://www.youtube.com/watch?v=IhXcdXg0ku4</id>
+        <link href="https://www.youtube.com/watch?v=IhXcdXg0ku4"/>
+        <updated>2024-09-06T10:00:28.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Chainsmokers, Kim Petras - Don't Lie (Official Video)]]></title>
         <id>https://www.youtube.com/watch?v=TDnIB4RAyA4</id>
         <link href="https://www.youtube.com/watch?v=TDnIB4RAyA4"/>
-        <updated>2024-09-05T22:32:41.000Z</updated>
+        <updated>2024-09-06T04:00:06.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
         </author>
@@ -510,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orbit - Declan DP (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=EcHarqV5OPs</id>
-        <link href="https://www.youtube.com/watch?v=EcHarqV5OPs"/>
-        <updated>2024-08-22T16:00:11.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=_np5ICw34So</id>
         <link href="https://www.youtube.com/watch?v=_np5ICw34So"/>
@@ -642,15 +687,6 @@
         <updated>2024-08-19T01:37:38.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=SHViU1KbOsE</id>
-        <link href="https://www.youtube.com/watch?v=SHViU1KbOsE"/>
-        <updated>2024-08-17T12:00:25.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -786,15 +822,6 @@
         <updated>2024-08-09T05:29:16.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2024 JS Clean Code 前端家教師資培訓班 】線上說明會 8/7 20:00 準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=V_5whYCCfwU</id>
-        <link href="https://www.youtube.com/watch?v=V_5whYCCfwU"/>
-        <updated>2024-08-08T02:24:16.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
