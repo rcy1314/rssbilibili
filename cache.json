@@ -295,16 +295,6 @@
           "wordCount": null,
           "title": "你們其實根本不了解你的iPhone",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z7NM9wC7Tzg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z7NM9wC7Tzg",
-          "publishedOn": "2024-08-09T11:53:42.000Z",
-          "wordCount": null,
-          "title": "顏值效能兼具的創作者筆電- Dell XPS 14",
-          "imageUrl": null
         }
       ]
     },
@@ -560,6 +550,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lh-4Ti135yw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lh-4Ti135yw",
+          "publishedOn": "2024-09-07T13:07:06.000Z",
+          "wordCount": null,
+          "title": "2024年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cCshPMGl6Ac",
           "author": null,
           "description": "",
@@ -678,16 +678,6 @@
           "wordCount": null,
           "title": "2024年10款好玩的 ACGN 二次元手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vrerV8P4Q2A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vrerV8P4Q2A",
-          "publishedOn": "2024-08-09T12:01:09.000Z",
-          "wordCount": null,
-          "title": "2024年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3",
-          "imageUrl": null
         }
       ]
     },
@@ -710,16 +700,6 @@
           "publishedOn": "2024-08-27T08:33:15.000Z",
           "wordCount": null,
           "title": "【爱否】如何让大模型答对「9.11 小于 9.8」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0CryjE2D6eQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0CryjE2D6eQ",
-          "publishedOn": "2024-08-09T05:29:16.000Z",
-          "wordCount": null,
-          "title": "谁才能拯救降亮度的 iPhone ？手机散热器横评",
           "imageUrl": null
         }
       ]
@@ -952,6 +932,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Mgl2Mfkb-nk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Mgl2Mfkb-nk",
+          "publishedOn": "2024-09-07T12:00:19.000Z",
+          "wordCount": null,
+          "title": "High Tide – LiQWYD (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aMQSrsProkk",
           "author": null,
           "description": "",
@@ -1089,16 +1079,6 @@
           "publishedOn": "2024-08-24T12:00:05.000Z",
           "wordCount": null,
           "title": "August Rain – Snoozybeats (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=es04S0g8B3o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=es04S0g8B3o",
-          "publishedOn": "2024-08-23T12:00:50.000Z",
-          "wordCount": null,
-          "title": "saved – Rexlambo (No Copyright Music)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-07T01:38:59.198Z</id>
+    <id>urn:2024-09-08T01:47:25.082Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-07T01:38:59.198Z</updated>
+    <updated>2024-09-08T01:47:25.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2024年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=lh-4Ti135yw</id>
+        <link href="https://www.youtube.com/watch?v=lh-4Ti135yw"/>
+        <updated>2024-09-07T13:07:06.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Tide – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Mgl2Mfkb-nk</id>
+        <link href="https://www.youtube.com/watch?v=Mgl2Mfkb-nk"/>
+        <updated>2024-09-07T12:00:19.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[240906 Ball Symphony 1 v2  / Touch Designer + VCV]]></title>
         <id>https://www.youtube.com/watch?v=eMM92_i4a2w</id>
@@ -537,15 +555,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[saved – Rexlambo (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=es04S0g8B3o</id>
-        <link href="https://www.youtube.com/watch?v=es04S0g8B3o"/>
-        <updated>2024-08-23T12:00:50.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=Ct6-it-hTQ0</id>
         <link href="https://www.youtube.com/watch?v=Ct6-it-hTQ0"/>
@@ -795,33 +804,6 @@
         <updated>2024-08-10T10:15:04.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
-        <id>https://www.youtube.com/watch?v=vrerV8P4Q2A</id>
-        <link href="https://www.youtube.com/watch?v=vrerV8P4Q2A"/>
-        <updated>2024-08-09T12:01:09.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顏值效能兼具的創作者筆電- Dell XPS 14]]></title>
-        <id>https://www.youtube.com/watch?v=Z7NM9wC7Tzg</id>
-        <link href="https://www.youtube.com/watch?v=Z7NM9wC7Tzg"/>
-        <updated>2024-08-09T11:53:42.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁才能拯救降亮度的 iPhone ？手机散热器横评]]></title>
-        <id>https://www.youtube.com/watch?v=0CryjE2D6eQ</id>
-        <link href="https://www.youtube.com/watch?v=0CryjE2D6eQ"/>
-        <updated>2024-08-09T05:29:16.000Z</updated>
-        <author>
-            <name>爱否科技</name>
         </author>
     </entry>
 </feed>
