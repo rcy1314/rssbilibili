@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-11T01:41:09.048Z</id>
+    <id>urn:2024-09-12T01:41:19.960Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T01:41:09.048Z</updated>
+    <updated>2024-09-12T01:41:19.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[14 天就可以學會程式？ 2 分鐘帶你破解迷思｜優惠倒數3天]]></title>
+        <id>https://www.youtube.com/watch?v=4AjJkZGX3G8</id>
+        <link href="https://www.youtube.com/watch?v=4AjJkZGX3G8"/>
+        <updated>2024-09-11T22:30:00.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUMMER IS STILL HERE]]></title>
+        <id>https://www.youtube.com/watch?v=mrMpVpkutsk</id>
+        <link href="https://www.youtube.com/watch?v=mrMpVpkutsk"/>
+        <updated>2024-09-11T20:58:23.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「週三八點半」我不喜歡用手機拍照的真正原因！？]]></title>
+        <id>https://www.youtube.com/watch?v=0S9GnqraoMc</id>
+        <link href="https://www.youtube.com/watch?v=0S9GnqraoMc"/>
+        <updated>2024-09-11T15:01:25.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幽默遊戲讓我神經錯亂《星球大戰：亡命之徒》樂評]]></title>
+        <id>https://www.youtube.com/watch?v=-KWxb72XjMQ</id>
+        <link href="https://www.youtube.com/watch?v=-KWxb72XjMQ"/>
+        <updated>2024-09-11T13:30:00.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tropicality – Aftertune (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=zCp2Halj9S4</id>
+        <link href="https://www.youtube.com/watch?v=zCp2Halj9S4"/>
+        <updated>2024-09-11T12:01:10.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
+        <id>https://www.youtube.com/watch?v=pTRQM5Eli1M</id>
+        <link href="https://www.youtube.com/watch?v=pTRQM5Eli1M"/>
+        <updated>2024-09-11T12:00:57.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI NEO 最適合新手的空拍機]]></title>
+        <id>https://www.youtube.com/watch?v=HEStCKE1OaU</id>
+        <link href="https://www.youtube.com/watch?v=HEStCKE1OaU"/>
+        <updated>2024-09-11T09:00:15.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女生最想嫁的四大職業？軟體工程師竟排第......｜優惠倒數 3 天]]></title>
+        <id>https://www.youtube.com/watch?v=wWUOlnp_6ME</id>
+        <link href="https://www.youtube.com/watch?v=wWUOlnp_6ME"/>
+        <updated>2024-09-11T02:07:19.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Don’t Lie” w @kimpetras is finally here!]]></title>
         <id>https://www.youtube.com/watch?v=CEROG9czy3g</id>
@@ -555,15 +627,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Karibu – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=GFBig6zuOU4</id>
-        <link href="https://www.youtube.com/watch?v=GFBig6zuOU4"/>
-        <updated>2024-08-27T12:00:15.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[二次元手遊鼻祖的回歸？《乖離性百萬亞瑟王：環》試玩評測！| Android & iOS 手遊推薦！]]></title>
         <id>https://www.youtube.com/watch?v=w0D9uOTV3wQ</id>
         <link href="https://www.youtube.com/watch?v=w0D9uOTV3wQ"/>
@@ -813,15 +876,6 @@
         <updated>2024-08-14T05:00:16.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火焰之国全体验，北京直飞阿塞拜疆，探访高加索。｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=PqqecaXsvaY</id>
-        <link href="https://www.youtube.com/watch?v=PqqecaXsvaY"/>
-        <updated>2024-08-13T13:00:28.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
         </author>
     </entry>
 </feed>
