@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-12T01:41:19.960Z</id>
+    <id>urn:2024-09-13T01:42:00.266Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T01:41:19.960Z</updated>
+    <updated>2024-09-13T01:42:00.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Breathe Easy – Snoozy Beats (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=V145HvKf7f4</id>
+        <link href="https://www.youtube.com/watch?v=V145HvKf7f4"/>
+        <updated>2024-09-12T12:00:28.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracks EDM Nightcore Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=CZLcCSqIUMA</id>
+        <link href="https://www.youtube.com/watch?v=CZLcCSqIUMA"/>
+        <updated>2024-09-12T12:00:13.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14 天就可以學會程式？ 2 分鐘帶你破解迷思｜優惠倒數3天]]></title>
         <id>https://www.youtube.com/watch?v=4AjJkZGX3G8</id>
@@ -591,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angelz – ZiMPL (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=sNWkFgciVaw</id>
-        <link href="https://www.youtube.com/watch?v=sNWkFgciVaw"/>
-        <updated>2024-08-28T12:01:05.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #8]]></title>
         <id>https://www.youtube.com/watch?v=T9PgqMuFdKI</id>
         <link href="https://www.youtube.com/watch?v=T9PgqMuFdKI"/>
@@ -762,15 +771,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Alan Walker Remix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=2hCoGko2D5M</id>
-        <link href="https://www.youtube.com/watch?v=2hCoGko2D5M"/>
-        <updated>2024-08-21T12:00:03.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Love language]]></title>
         <id>https://www.youtube.com/watch?v=QGmART7ZoD0</id>
         <link href="https://www.youtube.com/watch?v=QGmART7ZoD0"/>
@@ -858,24 +858,6 @@
         <updated>2024-08-15T12:30:08.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #4]]></title>
-        <id>https://www.youtube.com/watch?v=Diaq_dJow10</id>
-        <link href="https://www.youtube.com/watch?v=Diaq_dJow10"/>
-        <updated>2024-08-14T12:00:11.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索尼相机摄影师 不要买苹果M3Pro电脑！Final Cut Pro导出失败！]]></title>
-        <id>https://www.youtube.com/watch?v=K3WNEWotdKg</id>
-        <link href="https://www.youtube.com/watch?v=K3WNEWotdKg"/>
-        <updated>2024-08-14T05:00:16.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
         </author>
     </entry>
 </feed>
