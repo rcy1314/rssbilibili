@@ -398,6 +398,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6uIH7fG7eHQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6uIH7fG7eHQ",
+          "publishedOn": "2024-09-13T12:00:06.000Z",
+          "wordCount": null,
+          "title": "【1 分鐘快問快答】JS 直播班 報名倒數 2 天 錯過等明年｜六角學院",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4AjJkZGX3G8",
           "author": null,
           "description": "",
@@ -589,6 +599,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-ID9KB7OYm8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-ID9KB7OYm8",
+          "publishedOn": "2024-09-13T12:00:00.000Z",
+          "wordCount": null,
+          "title": "2024年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #4",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pTRQM5Eli1M",
           "author": null,
@@ -947,16 +967,6 @@
           "wordCount": null,
           "title": "Smoke NINJA噴煙機",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A0p3kKqvhOs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A0p3kKqvhOs",
-          "publishedOn": "2024-08-15T12:30:08.000Z",
-          "wordCount": null,
-          "title": "底大一級真的壓死人嗎？不同片幅一分鐘挑戰！等效光圈會影響進光量嗎？Ft. Sony α74、Fujifilm X-T50、Olympus Pen F、Nikon 1 J2",
-          "imageUrl": null
         }
       ]
     },
@@ -992,6 +1002,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eXOExTtUzhU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eXOExTtUzhU",
+          "publishedOn": "2024-09-13T12:00:51.000Z",
+          "wordCount": null,
+          "title": "Dreamlab – Mehul Choudhary (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=V145HvKf7f4",
           "author": null,
@@ -1130,16 +1150,6 @@
           "publishedOn": "2024-08-30T12:00:04.000Z",
           "wordCount": null,
           "title": "Whispers in the sky – Limujii (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B8TIDevlAjY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B8TIDevlAjY",
-          "publishedOn": "2024-08-29T12:00:12.000Z",
-          "wordCount": null,
-          "title": "Forever – Mehul Choudhary (No Copyright Music)",
           "imageUrl": null
         }
       ]
