@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-19T01:43:38.720Z</id>
+    <id>urn:2024-09-20T01:43:21.623Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-19T01:43:38.720Z</updated>
+    <updated>2024-09-20T01:43:21.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eternal – Declan DP (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=T12WWeu9ys0</id>
+        <link href="https://www.youtube.com/watch?v=T12WWeu9ys0"/>
+        <updated>2024-09-19T12:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】深扒 iPhone 16 每个变化，竟然跟预期差别这么大！]]></title>
+        <id>https://www.youtube.com/watch?v=k4lIuOTJzP4</id>
+        <link href="https://www.youtube.com/watch?v=k4lIuOTJzP4"/>
+        <updated>2024-09-19T05:56:04.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无人机我只服大疆｜10个原因必须买DJI Neo]]></title>
         <id>https://www.youtube.com/watch?v=RvhOitkkW5s</id>
@@ -519,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sydney – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=tURqw99SI6o</id>
-        <link href="https://www.youtube.com/watch?v=tURqw99SI6o"/>
-        <updated>2024-09-04T12:01:04.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[四瀆龍神為什麼必死？【黑神話悟空】超深度解析二]]></title>
         <id>https://www.youtube.com/watch?v=rBle09OiIKE</id>
         <link href="https://www.youtube.com/watch?v=rBle09OiIKE"/>
@@ -849,15 +858,6 @@
         <updated>2024-08-22T02:04:43.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #6]]></title>
-        <id>https://www.youtube.com/watch?v=OfkmGqYZss4</id>
-        <link href="https://www.youtube.com/watch?v=OfkmGqYZss4"/>
-        <updated>2024-08-21T12:00:32.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>

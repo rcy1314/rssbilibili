@@ -737,16 +737,6 @@
           "wordCount": null,
           "title": "2024年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OfkmGqYZss4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OfkmGqYZss4",
-          "publishedOn": "2024-08-21T12:00:32.000Z",
-          "wordCount": null,
-          "title": "2024年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #6",
-          "imageUrl": null
         }
       ]
     },
@@ -761,6 +751,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
       "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=k4lIuOTJzP4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k4lIuOTJzP4",
+          "publishedOn": "2024-09-19T05:56:04.000Z",
+          "wordCount": null,
+          "title": "【爱否】深扒 iPhone 16 每个变化，竟然跟预期差别这么大！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ITGIK0nTKuY",
           "author": null,
@@ -992,6 +992,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T12WWeu9ys0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T12WWeu9ys0",
+          "publishedOn": "2024-09-19T12:00:26.000Z",
+          "wordCount": null,
+          "title": "Eternal – Declan DP (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Q1iyeC6ZJXc",
           "author": null,
           "description": "",
@@ -1129,16 +1139,6 @@
           "publishedOn": "2024-09-05T12:00:20.000Z",
           "wordCount": null,
           "title": "Sunbeam – Declan DP (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tURqw99SI6o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tURqw99SI6o",
-          "publishedOn": "2024-09-04T12:01:04.000Z",
-          "wordCount": null,
-          "title": "Sydney – Scandinavianz (No Copyright Music)",
           "imageUrl": null
         }
       ]
