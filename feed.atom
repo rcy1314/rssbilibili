@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-20T01:43:21.623Z</id>
+    <id>urn:2024-09-21T01:41:31.303Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T01:43:21.623Z</updated>
+    <updated>2024-09-21T01:41:31.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2024年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #6]]></title>
+        <id>https://www.youtube.com/watch?v=r_gn7cOxrpw</id>
+        <link href="https://www.youtube.com/watch?v=r_gn7cOxrpw"/>
+        <updated>2024-09-20T12:01:04.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=JVHhe6rSVds</id>
+        <link href="https://www.youtube.com/watch?v=JVHhe6rSVds"/>
+        <updated>2024-09-20T12:00:30.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hammock Day – Filo Starquez (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=9tniyuI99nI</id>
+        <link href="https://www.youtube.com/watch?v=9tniyuI99nI"/>
+        <updated>2024-09-20T12:00:20.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100II : Bishin Jumonji/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=gL-ZXHYoUt0</id>
+        <link href="https://www.youtube.com/watch?v=gL-ZXHYoUt0"/>
+        <updated>2024-09-20T05:00:32.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eternal – Declan DP (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=T12WWeu9ys0</id>
@@ -501,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sunbeam – Declan DP (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=BeU5nU7WrYc</id>
-        <link href="https://www.youtube.com/watch?v=BeU5nU7WrYc"/>
-        <updated>2024-09-05T12:00:20.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Best of EDM Mix Gaming 2024]]></title>
         <id>https://www.youtube.com/watch?v=ByQztDGJ4i4</id>
         <link href="https://www.youtube.com/watch?v=ByQztDGJ4i4"/>
@@ -690,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM Mix Alan Walker "Buff Cảm Hứng" Cực Mạnh ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=ff5L6bYvFAI</id>
-        <link href="https://www.youtube.com/watch?v=ff5L6bYvFAI"/>
-        <updated>2024-08-30T12:00:49.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[蛇妖王枉死？無形之手拿捏黑風大王【黑神話悟空】超深度解析一]]></title>
         <id>https://www.youtube.com/watch?v=dZhdZ48EPdM</id>
         <link href="https://www.youtube.com/watch?v=dZhdZ48EPdM"/>
@@ -840,24 +858,6 @@
         <updated>2024-08-23T06:56:01.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好好探圖很重要！《黑神話悟空》70小時通關建議]]></title>
-        <id>https://www.youtube.com/watch?v=FyTHj9SpGQU</id>
-        <link href="https://www.youtube.com/watch?v=FyTHj9SpGQU"/>
-        <updated>2024-08-22T12:00:15.000Z</updated>
-        <author>
-            <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2024 JS 直播班＆React 前端工程師培訓班】說明會 8/21 20:00 準時開播｜今晚九點開放報名]]></title>
-        <id>https://www.youtube.com/watch?v=ce8fFHCSMyY</id>
-        <link href="https://www.youtube.com/watch?v=ce8fFHCSMyY"/>
-        <updated>2024-08-22T02:04:43.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
