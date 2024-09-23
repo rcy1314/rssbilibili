@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-22T01:51:47.907Z</id>
+    <id>urn:2024-09-23T01:46:20.875Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-22T01:51:47.907Z</updated>
+    <updated>2024-09-23T01:46:20.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Compromise – Ferco (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=dIYEgJXhcZ4</id>
+        <link href="https://www.youtube.com/watch?v=dIYEgJXhcZ4"/>
+        <updated>2024-09-22T12:00:41.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 20 Bản Nightcore Nhạc EDM Gây Nghiện Hay Nhất 2014 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=JU5XUUE43EU</id>
@@ -501,15 +510,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High Tide – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Mgl2Mfkb-nk</id>
-        <link href="https://www.youtube.com/watch?v=Mgl2Mfkb-nk"/>
-        <updated>2024-09-07T12:00:19.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[240906 Ball Symphony 1 v2  / Touch Designer + VCV]]></title>
         <id>https://www.youtube.com/watch?v=eMM92_i4a2w</id>
         <link href="https://www.youtube.com/watch?v=eMM92_i4a2w"/>
@@ -849,15 +849,6 @@
         <updated>2024-08-25T12:00:54.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大西洋有多美？环岛自驾爱尔兰全体验，狂野大洋路｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=VymQRgkpK9M</id>
-        <link href="https://www.youtube.com/watch?v=VymQRgkpK9M"/>
-        <updated>2024-08-24T02:00:14.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
         </author>
     </entry>
 </feed>
