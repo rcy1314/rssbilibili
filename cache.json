@@ -485,6 +485,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=biadfrBYGHY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=biadfrBYGHY",
+          "publishedOn": "2024-09-30T09:47:16.000Z",
+          "wordCount": null,
+          "title": "“四十岁觉得自己一事无成，所以创办了小米”【奔流·雷军】P2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=M0B5RELcTj0",
           "author": null,
           "description": "",
@@ -548,6 +558,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Voi_TqCvGEQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Voi_TqCvGEQ",
+          "publishedOn": "2024-09-30T12:00:37.000Z",
+          "wordCount": null,
+          "title": "2024年10款日系角色扮演 JRPG 手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=s08sCF6lUQA",
           "author": null,
@@ -682,6 +702,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3t-oHMpQnOk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3t-oHMpQnOk",
+          "publishedOn": "2024-09-30T09:44:45.000Z",
+          "wordCount": null,
+          "title": "亮度再提三倍？国产 OLED 厂商要用光刻机做屏幕了！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k4lIuOTJzP4",
           "author": null,
           "description": "",
@@ -797,6 +827,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hJ_P3ZBwif4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hJ_P3ZBwif4",
+          "publishedOn": "2024-09-30T12:30:38.000Z",
+          "wordCount": null,
+          "title": "三個設置輕鬆拍出質感美照！一秒上手！ ft. Sony ECM-L1",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sneHuqzICII",
           "author": null,
@@ -931,6 +971,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_6Z1VtzS94Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_6Z1VtzS94Y",
+          "publishedOn": "2024-09-30T12:00:40.000Z",
+          "wordCount": null,
+          "title": "Waking Up Easy – Snoozy Beats (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3MFVVKQcSnA",
           "author": null,
@@ -1069,16 +1119,6 @@
           "publishedOn": "2024-09-16T12:00:30.000Z",
           "wordCount": null,
           "title": "Drifting – Snoozy Beats (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lCUc49ThWDg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lCUc49ThWDg",
-          "publishedOn": "2024-09-15T12:00:44.000Z",
-          "wordCount": null,
-          "title": "Determination – Snoozy Beats (No Copyright Music)",
           "imageUrl": null
         }
       ]

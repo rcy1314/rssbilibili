@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-30T01:49:39.768Z</id>
+    <id>urn:2024-10-01T01:55:28.865Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T01:49:39.768Z</updated>
+    <updated>2024-10-01T01:55:28.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[三個設置輕鬆拍出質感美照！一秒上手！ ft. Sony ECM-L1]]></title>
+        <id>https://www.youtube.com/watch?v=hJ_P3ZBwif4</id>
+        <link href="https://www.youtube.com/watch?v=hJ_P3ZBwif4"/>
+        <updated>2024-09-30T12:30:38.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waking Up Easy – Snoozy Beats (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=_6Z1VtzS94Y</id>
+        <link href="https://www.youtube.com/watch?v=_6Z1VtzS94Y"/>
+        <updated>2024-09-30T12:00:40.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年10款日系角色扮演 JRPG 手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=Voi_TqCvGEQ</id>
+        <link href="https://www.youtube.com/watch?v=Voi_TqCvGEQ"/>
+        <updated>2024-09-30T12:00:37.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“四十岁觉得自己一事无成，所以创办了小米”【奔流·雷军】P2]]></title>
+        <id>https://www.youtube.com/watch?v=biadfrBYGHY</id>
+        <link href="https://www.youtube.com/watch?v=biadfrBYGHY"/>
+        <updated>2024-09-30T09:47:16.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亮度再提三倍？国产 OLED 厂商要用光刻机做屏幕了！]]></title>
+        <id>https://www.youtube.com/watch?v=3t-oHMpQnOk</id>
+        <link href="https://www.youtube.com/watch?v=3t-oHMpQnOk"/>
+        <updated>2024-09-30T09:44:45.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大疆DJI Neo VS Mini 4 Pro | 哪个是你心目中最佳小型无人机呢？]]></title>
         <id>https://www.youtube.com/watch?v=b3H-UvnTX0g</id>
@@ -426,15 +471,6 @@
         <updated>2024-09-16T12:00:12.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Determination – Snoozy Beats (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=lCUc49ThWDg</id>
-        <link href="https://www.youtube.com/watch?v=lCUc49ThWDg"/>
-        <updated>2024-09-15T12:00:44.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
