@@ -1,17 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-04T01:46:27.990Z</id>
+    <id>urn:2024-10-05T01:44:41.764Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T01:46:27.990Z</updated>
+    <updated>2024-10-05T01:44:41.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Closer 2 ft @CyanEdit]]></title>
+        <title type="html"><![CDATA[Closer 2 w/ @CyanEdit]]></title>
         <id>https://www.youtube.com/watch?v=BYPZ9osS3Dc</id>
         <link href="https://www.youtube.com/watch?v=BYPZ9osS3Dc"/>
-        <updated>2024-10-03T16:54:41.000Z</updated>
+        <updated>2024-10-04T18:30:16.000Z</updated>
         <author>
             <name>D2izy バン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆无人机遥控器要捏着还是拇指压着？#drone #dji #大疆无人机 #djimini4pro]]></title>
+        <id>https://www.youtube.com/watch?v=pNzYBEXmG8g</id>
+        <link href="https://www.youtube.com/watch?v=pNzYBEXmG8g"/>
+        <updated>2024-10-04T13:53:05.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=zDDUOP81byo</id>
+        <link href="https://www.youtube.com/watch?v=zDDUOP81byo"/>
+        <updated>2024-10-04T12:01:17.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Champions – Aftertune (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=PEP70OukdiM</id>
+        <link href="https://www.youtube.com/watch?v=PEP70OukdiM"/>
+        <updated>2024-10-04T12:00:34.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Nightcore ''Hay Hơn Cả Bản Gốc'' ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=Czeqsoxil1k</id>
+        <link href="https://www.youtube.com/watch?v=Czeqsoxil1k"/>
+        <updated>2024-10-04T12:00:26.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如虎添翼——视频剪辑万能工具箱—motionvfx]]></title>
+        <id>https://www.youtube.com/watch?v=zxY2txVG0Ws</id>
+        <link href="https://www.youtube.com/watch?v=zxY2txVG0Ws"/>
+        <updated>2024-10-04T03:30:41.000Z</updated>
+        <author>
+            <name>巫师后期.wrcolor</name>
         </author>
     </entry>
     <entry>
@@ -150,7 +195,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三個設置輕鬆拍出質感美照！一秒上手！ ft. Sony ECM-L1]]></title>
+        <title type="html"><![CDATA[入手Sony相機必定要會的3個設置！輕鬆拍出質感美照！一秒上手！ ft. Sony ECM-L1]]></title>
         <id>https://www.youtube.com/watch?v=hJ_P3ZBwif4</id>
         <link href="https://www.youtube.com/watch?v=hJ_P3ZBwif4"/>
         <updated>2024-09-30T12:30:38.000Z</updated>
@@ -420,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discovery – Hotham (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=BBZBsncyZVg</id>
-        <link href="https://www.youtube.com/watch?v=BBZBsncyZVg"/>
-        <updated>2024-09-21T12:00:10.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大疆Action 5 Pro终于来了！五分钟学会高手拍摄技巧！|首发旅拍教程+测评！]]></title>
         <id>https://www.youtube.com/watch?v=2SaxyegmCS4</id>
         <link href="https://www.youtube.com/watch?v=2SaxyegmCS4"/>
@@ -627,15 +663,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tracks EDM Nightcore Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=CZLcCSqIUMA</id>
-        <link href="https://www.youtube.com/watch?v=CZLcCSqIUMA"/>
-        <updated>2024-09-12T12:00:13.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[14 天就可以學會程式？ 2 分鐘帶你破解迷思｜優惠倒數3天]]></title>
         <id>https://www.youtube.com/watch?v=4AjJkZGX3G8</id>
         <link href="https://www.youtube.com/watch?v=4AjJkZGX3G8"/>
@@ -813,24 +840,6 @@
         <updated>2024-09-06T04:00:06.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国最会聊天的人之一【寻找·窦文涛】]]></title>
-        <id>https://www.youtube.com/watch?v=3yU-1lH9emU</id>
-        <link href="https://www.youtube.com/watch?v=3yU-1lH9emU"/>
-        <updated>2024-09-05T11:33:43.000Z</updated>
-        <author>
-            <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三個經典焦段你選哪一個？ 35mm vs. 50mm vs. 85mm 不同場景該怎麼拍人像？]]></title>
-        <id>https://www.youtube.com/watch?v=bDE4Qyv6rUU</id>
-        <link href="https://www.youtube.com/watch?v=bDE4Qyv6rUU"/>
-        <updated>2024-09-04T14:00:13.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
