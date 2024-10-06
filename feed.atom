@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-05T01:44:41.764Z</id>
+    <id>urn:2024-10-06T01:52:51.116Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-05T01:44:41.764Z</updated>
+    <updated>2024-10-06T01:52:51.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Soar – Ambyion & GalaxyTones (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Vebj1BnbZHA</id>
+        <link href="https://www.youtube.com/watch?v=Vebj1BnbZHA"/>
+        <updated>2024-10-05T12:00:38.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人像三要素 model正 model正 model正]]></title>
+        <id>https://www.youtube.com/watch?v=2ScYMtfed1w</id>
+        <link href="https://www.youtube.com/watch?v=2ScYMtfed1w"/>
+        <updated>2024-10-05T10:01:20.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Closer 2 w/ @CyanEdit]]></title>
         <id>https://www.youtube.com/watch?v=BYPZ9osS3Dc</id>
@@ -447,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compromise – Ferco (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=dIYEgJXhcZ4</id>
-        <link href="https://www.youtube.com/watch?v=dIYEgJXhcZ4"/>
-        <updated>2024-09-22T12:00:41.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nightcore Nhạc EDM Gây Nghiện Hay Nhất 2014 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=JU5XUUE43EU</id>
         <link href="https://www.youtube.com/watch?v=JU5XUUE43EU"/>
@@ -813,33 +822,6 @@
         <updated>2024-09-06T15:52:34.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5個拍出更好影片的工具]]></title>
-        <id>https://www.youtube.com/watch?v=woHsckCElTE</id>
-        <link href="https://www.youtube.com/watch?v=woHsckCElTE"/>
-        <updated>2024-09-06T10:29:51.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJI NEO首发 | 看！会飞的VLOG相机！| 六大技巧教你玩转大疆NEO]]></title>
-        <id>https://www.youtube.com/watch?v=IhXcdXg0ku4</id>
-        <link href="https://www.youtube.com/watch?v=IhXcdXg0ku4"/>
-        <updated>2024-09-06T10:00:28.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers, Kim Petras - Don't Lie (Official Video)]]></title>
-        <id>https://www.youtube.com/watch?v=TDnIB4RAyA4</id>
-        <link href="https://www.youtube.com/watch?v=TDnIB4RAyA4"/>
-        <updated>2024-09-06T04:00:06.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
