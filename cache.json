@@ -289,6 +289,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HAq63BvqYd8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HAq63BvqYd8",
+          "publishedOn": "2024-10-06T14:46:06.000Z",
+          "wordCount": null,
+          "title": "无人机里的大师镜头为何被人忽略？超好用 #drone #djimini4pro #无人机 #大疆无人机  #大师镜头",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pNzYBEXmG8g",
           "author": null,
           "description": "",
@@ -437,18 +447,7 @@
       "title": "哲宇寇汀吧 CheYu's Coding Bar",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHX_XMhPrtvOmgGOnA2eTmA",
       "siteUrl": "https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=eMM92_i4a2w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eMM92_i4a2w",
-          "publishedOn": "2024-09-06T16:33:33.000Z",
-          "wordCount": null,
-          "title": "240906 Ball Symphony 1 v2  / Touch Designer + VCV",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Learning Screen",
@@ -502,16 +501,6 @@
           "publishedOn": "2024-09-17T11:00:19.000Z",
           "wordCount": null,
           "title": "雷军的前四十年：2年修完大学，28岁硬刚微软【奔流·雷军】P1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L2mUNq8Kcb0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L2mUNq8Kcb0",
-          "publishedOn": "2024-09-06T15:52:34.000Z",
-          "wordCount": null,
-          "title": "拿生命闯禁区，中国最有良心的记者、作家之一【寻找•袁凌】",
           "imageUrl": null
         }
       ]
@@ -676,16 +665,6 @@
           "publishedOn": "2024-09-09T12:00:42.000Z",
           "wordCount": null,
           "title": "2024年10款好玩的休閒類手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lh-4Ti135yw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lh-4Ti135yw",
-          "publishedOn": "2024-09-07T13:07:06.000Z",
-          "wordCount": null,
-          "title": "2024年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #2",
           "imageUrl": null
         }
       ]
@@ -952,6 +931,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Gd5msntuOng",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gd5msntuOng",
+          "publishedOn": "2024-10-06T12:00:23.000Z",
+          "wordCount": null,
+          "title": "Tuesday Vibes – Snoozy Beats (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Vebj1BnbZHA",
           "author": null,
           "description": "",
@@ -1089,16 +1078,6 @@
           "publishedOn": "2024-09-24T12:00:55.000Z",
           "wordCount": null,
           "title": "Wonder – Mehul Choudhary (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pf8RKUmXlCA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pf8RKUmXlCA",
-          "publishedOn": "2024-09-23T12:00:33.000Z",
-          "wordCount": null,
-          "title": "Flower Market – Snoozy Beats (No Copyright Music)",
           "imageUrl": null
         }
       ]
