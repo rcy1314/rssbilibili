@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-09T01:45:35.333Z</id>
+    <id>urn:2024-10-10T01:46:03.551Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T01:45:35.333Z</updated>
+    <updated>2024-10-10T01:46:03.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2024 Nuxt 實戰：Vue 工程師的必修課】10/9 20:00 準時開播｜六角學院 卡斯伯老師]]></title>
+        <id>https://www.youtube.com/watch?v=kKXKr7TWh1Q</id>
+        <link href="https://www.youtube.com/watch?v=kKXKr7TWh1Q"/>
+        <updated>2024-10-10T01:34:14.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天玑 9400 首发体验：旗舰的差异化，为何是能效]]></title>
+        <id>https://www.youtube.com/watch?v=dpDdj0ivSJg</id>
+        <link href="https://www.youtube.com/watch?v=dpDdj0ivSJg"/>
+        <updated>2024-10-09T15:15:27.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全景相机8K有必要吗？QooCam 3 Ultra评测]]></title>
+        <id>https://www.youtube.com/watch?v=cuBRBHU8hlc</id>
+        <link href="https://www.youtube.com/watch?v=cuBRBHU8hlc"/>
+        <updated>2024-10-09T14:30:19.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆Air 3充电管家这个功能你学会了吗？#dji #无人机 #大疆无人机 #Air3 #大疆Air3]]></title>
+        <id>https://www.youtube.com/watch?v=zKS26d9j3EE</id>
+        <link href="https://www.youtube.com/watch?v=zKS26d9j3EE"/>
+        <updated>2024-10-09T14:27:40.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Soup – tubebackr (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=l7fUmKyooeU</id>
+        <link href="https://www.youtube.com/watch?v=l7fUmKyooeU"/>
+        <updated>2024-10-09T12:01:00.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
+        <id>https://www.youtube.com/watch?v=H8o9iFi_X-Y</id>
+        <link href="https://www.youtube.com/watch?v=H8o9iFi_X-Y"/>
+        <updated>2024-10-09T12:00:16.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=jmzSCeyrYbU</id>
@@ -267,15 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2024 Nuxt 實戰：Vue 工程師的必修課】10/9 20:00 準時開播｜六角學院 卡斯伯老師]]></title>
-        <id>https://www.youtube.com/watch?v=kKXKr7TWh1Q</id>
-        <link href="https://www.youtube.com/watch?v=kKXKr7TWh1Q"/>
-        <updated>2024-10-02T03:56:29.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【2024 後端資料庫體驗營】校長說明會 10/16 20:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=v3KcoZwanj8</id>
         <link href="https://www.youtube.com/watch?v=v3KcoZwanj8"/>
@@ -435,15 +480,6 @@
         <updated>2024-09-26T12:00:14.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Gone – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=6h4nzd_RC2M</id>
-        <link href="https://www.youtube.com/watch?v=6h4nzd_RC2M"/>
-        <updated>2024-09-26T12:00:14.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -786,33 +822,6 @@
         <updated>2024-09-10T19:13:44.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终于问世！哈苏超广变焦XCD20-35E测试年报｜#原来这么毒 113集]]></title>
-        <id>https://www.youtube.com/watch?v=oeutmnAwnLQ</id>
-        <link href="https://www.youtube.com/watch?v=oeutmnAwnLQ"/>
-        <updated>2024-09-10T13:00:55.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爱否】上手完 iPhone 16 后，才发现大家都忽略了的几个地方！]]></title>
-        <id>https://www.youtube.com/watch?v=ITGIK0nTKuY</id>
-        <link href="https://www.youtube.com/watch?v=ITGIK0nTKuY"/>
-        <updated>2024-09-10T03:35:23.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Nick和Ezzi】大疆Focus Pro跟焦器 广告团队拍摄使用感想｜片场幕后]]></title>
-        <id>https://www.youtube.com/watch?v=YWapvUUx4_k</id>
-        <link href="https://www.youtube.com/watch?v=YWapvUUx4_k"/>
-        <updated>2024-09-09T17:08:40.000Z</updated>
-        <author>
-            <name>Nick and Ezzi</name>
         </author>
     </entry>
 </feed>
