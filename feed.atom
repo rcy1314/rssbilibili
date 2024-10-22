@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-21T01:49:13.899Z</id>
+    <id>urn:2024-10-22T01:47:51.903Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T01:49:13.899Z</updated>
+    <updated>2024-10-22T01:47:51.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拍照靈感不足嗎？試試這幾種鏡頭！]]></title>
+        <id>https://www.youtube.com/watch?v=xRK8QGB1lEA</id>
+        <link href="https://www.youtube.com/watch?v=xRK8QGB1lEA"/>
+        <updated>2024-10-21T12:30:55.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年10款最新的 MMORPG 大型多人在線角色扮演手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #3]]></title>
+        <id>https://www.youtube.com/watch?v=m41_DhaClgo</id>
+        <link href="https://www.youtube.com/watch?v=m41_DhaClgo"/>
+        <updated>2024-10-21T12:01:03.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freaky Halloween – Alex-Productions (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=28L0AXEadF0</id>
+        <link href="https://www.youtube.com/watch?v=28L0AXEadF0"/>
+        <updated>2024-10-21T12:00:03.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing FUJIFILM X-M5 Key Features/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=PiQ8w3uwCo4</id>
+        <link href="https://www.youtube.com/watch?v=PiQ8w3uwCo4"/>
+        <updated>2024-10-21T05:00:15.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=LzN0gLonSsU</id>
@@ -663,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tuesday Vibes – Snoozy Beats (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Gd5msntuOng</id>
-        <link href="https://www.youtube.com/watch?v=Gd5msntuOng"/>
-        <updated>2024-10-06T12:00:23.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[人像三要素 model正 model正 model正]]></title>
         <id>https://www.youtube.com/watch?v=2ScYMtfed1w</id>
         <link href="https://www.youtube.com/watch?v=2ScYMtfed1w"/>
@@ -849,15 +876,6 @@
         <updated>2024-09-27T12:01:05.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Film Simulation x Nicanor Garcia/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=am6vG-qhVgI</id>
-        <link href="https://www.youtube.com/watch?v=am6vG-qhVgI"/>
-        <updated>2024-09-27T05:00:03.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
