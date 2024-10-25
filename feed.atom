@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-24T01:46:26.333Z</id>
+    <id>urn:2024-10-25T01:47:28.723Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T01:46:26.333Z</updated>
+    <updated>2024-10-25T01:47:28.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[全片幅跟APS-C相機這樣選就對了！新手一定要糾正的攝影概念！ft. Sony α7C II & Sony α6700]]></title>
+        <id>https://www.youtube.com/watch?v=pLB4SFLUHCo</id>
+        <link href="https://www.youtube.com/watch?v=pLB4SFLUHCo"/>
+        <updated>2024-10-24T12:30:01.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=syHemgE2PVE</id>
+        <link href="https://www.youtube.com/watch?v=syHemgE2PVE"/>
+        <updated>2024-10-24T12:01:11.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Far Away And Beyond – Declan DP (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=fKlhL5dD2jw</id>
+        <link href="https://www.youtube.com/watch?v=fKlhL5dD2jw"/>
+        <updated>2024-10-24T12:00:57.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100S II x Hannes Becker/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=YeJSmLc5CwY</id>
+        <link href="https://www.youtube.com/watch?v=YeJSmLc5CwY"/>
+        <updated>2024-10-24T05:00:21.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7]]></title>
         <id>https://www.youtube.com/watch?v=xsD0xBMj4t4</id>
@@ -528,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XF16-55mmF2.8 R LM WR II Promotional video/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=fLUZkRgfepo</id>
-        <link href="https://www.youtube.com/watch?v=fLUZkRgfepo"/>
-        <updated>2024-10-14T13:45:03.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[D2 EDITING PACK 3]]></title>
         <id>https://www.youtube.com/watch?v=Uy1o69Yx2NI</id>
         <link href="https://www.youtube.com/watch?v=Uy1o69Yx2NI"/>
@@ -735,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Soup – tubebackr (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=l7fUmKyooeU</id>
-        <link href="https://www.youtube.com/watch?v=l7fUmKyooeU"/>
-        <updated>2024-10-09T12:01:00.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
         <id>https://www.youtube.com/watch?v=H8o9iFi_X-Y</id>
         <link href="https://www.youtube.com/watch?v=H8o9iFi_X-Y"/>
@@ -852,15 +870,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Nightcore ''Hay Hơn Cả Bản Gốc'' ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=Czeqsoxil1k</id>
-        <link href="https://www.youtube.com/watch?v=Czeqsoxil1k"/>
-        <updated>2024-10-04T12:00:26.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如虎添翼——视频剪辑万能工具箱—motionvfx]]></title>
         <id>https://www.youtube.com/watch?v=zxY2txVG0Ws</id>
         <link href="https://www.youtube.com/watch?v=zxY2txVG0Ws"/>
@@ -964,15 +973,6 @@
         <id>https://www.youtube.com/watch?v=s08sCF6lUQA</id>
         <link href="https://www.youtube.com/watch?v=s08sCF6lUQA"/>
         <updated>2024-09-27T12:01:05.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7]]></title>
-        <id>https://www.youtube.com/watch?v=rmL9rYgWO1s</id>
-        <link href="https://www.youtube.com/watch?v=rmL9rYgWO1s"/>
-        <updated>2024-09-25T12:01:03.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
         </author>
