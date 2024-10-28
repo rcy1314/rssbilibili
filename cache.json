@@ -93,6 +93,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ssIIPlgVQWM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ssIIPlgVQWM",
+          "publishedOn": "2024-10-27T12:30:45.000Z",
+          "wordCount": null,
+          "title": "Top 15 Bản Nhạc EDM Mix Cực Phiêu \"Thăng Hoa Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gvQVB0G-VOg",
           "author": null,
           "description": "",
@@ -230,16 +240,6 @@
           "publishedOn": "2024-10-11T12:01:20.000Z",
           "wordCount": null,
           "title": "🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yayo-MQIpOE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yayo-MQIpOE",
-          "publishedOn": "2024-10-10T12:01:15.000Z",
-          "wordCount": null,
-          "title": "Một Chút EDM Chill \"Cho Ngày Dài Mệt Mỏi\" ♫ Top 20 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
           "imageUrl": null
         }
       ]
@@ -838,7 +838,18 @@
       "title": "Nick and Ezzi",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Zjvh0Yb2E7reRN-08tqLA",
       "siteUrl": "https://www.youtube.com/channel/UC0Zjvh0Yb2E7reRN-08tqLA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6U1s9MlZHyA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6U1s9MlZHyA",
+          "publishedOn": "2024-10-27T19:42:13.000Z",
+          "wordCount": null,
+          "title": "DZOFILM ARLES T1.4 全画幅定焦镜头组拍摄感想",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Thomas Chu",
@@ -1152,6 +1163,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lnLWR2kGT6g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lnLWR2kGT6g",
+          "publishedOn": "2024-10-27T12:00:56.000Z",
+          "wordCount": null,
+          "title": "Fridge – Muciojad (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OzTWxSw9q5s",
           "author": null,
           "description": "",
@@ -1289,16 +1310,6 @@
           "publishedOn": "2024-10-13T12:00:24.000Z",
           "wordCount": null,
           "title": "Prophecy – Lucjo (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e5CGG5sx34w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e5CGG5sx34w",
-          "publishedOn": "2024-10-12T12:00:46.000Z",
-          "wordCount": null,
-          "title": "Sweat – Peyruis (No Copyright Music)",
           "imageUrl": null
         }
       ]
