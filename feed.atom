@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-28T01:51:18.489Z</id>
+    <id>urn:2024-10-29T01:48:50.088Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-28T01:51:18.489Z</updated>
+    <updated>2024-10-29T01:48:50.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「徠卡」手機可以拍出好照片嗎？Ft. XIAOMI 14T PRO @XiaomiTaiwan]]></title>
+        <id>https://www.youtube.com/watch?v=KNfRylSJOjI</id>
+        <link href="https://www.youtube.com/watch?v=KNfRylSJOjI"/>
+        <updated>2024-10-28T12:30:07.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年10款策略類手機遊戲精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=x0G1q-H6xII</id>
+        <link href="https://www.youtube.com/watch?v=x0G1q-H6xII"/>
+        <updated>2024-10-28T12:01:16.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迪拜全攻略，改變你認知的未來之城。｜陳曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=C-Z5XfsPeEU</id>
+        <link href="https://www.youtube.com/watch?v=C-Z5XfsPeEU"/>
+        <updated>2024-10-28T12:00:13.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backpack – Roa (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=0x0eaMPEMHw</id>
+        <link href="https://www.youtube.com/watch?v=0x0eaMPEMHw"/>
+        <updated>2024-10-28T12:00:03.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Mix Cực Phiêu "Thăng Hoa Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=TlLn30JEzX0</id>
+        <link href="https://www.youtube.com/watch?v=TlLn30JEzX0"/>
+        <updated>2024-10-28T10:00:25.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆无人机3个档位！别乱用免得炸机 #大疆无人机 #dji #djidrone #无人机 #djimini4pro]]></title>
+        <id>https://www.youtube.com/watch?v=72kk6WVnu7c</id>
+        <link href="https://www.youtube.com/watch?v=72kk6WVnu7c"/>
+        <updated>2024-10-28T09:59:53.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XF500mmF5.6 x Alessandro Volders/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=ZZb91IZjH2s</id>
+        <link href="https://www.youtube.com/watch?v=ZZb91IZjH2s"/>
+        <updated>2024-10-28T05:00:24.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DZOFILM ARLES T1.4 全画幅定焦镜头组拍摄感想]]></title>
         <id>https://www.youtube.com/watch?v=6U1s9MlZHyA</id>
@@ -645,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Key Features of XF16-55mmF2.8 R LM WR II / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=L5PD9FC8538</id>
-        <link href="https://www.youtube.com/watch?v=L5PD9FC8538"/>
-        <updated>2024-10-14T14:00:17.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[D2 EDITING PACK 3]]></title>
         <id>https://www.youtube.com/watch?v=Uy1o69Yx2NI</id>
         <link href="https://www.youtube.com/watch?v=Uy1o69Yx2NI"/>
@@ -708,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prophecy – Lucjo (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=FAh7rlp7VrM</id>
-        <link href="https://www.youtube.com/watch?v=FAh7rlp7VrM"/>
-        <updated>2024-10-13T12:00:24.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[这样清理iPhone照片更快更爽]]></title>
         <id>https://www.youtube.com/watch?v=522XB6Fli4M</id>
         <link href="https://www.youtube.com/watch?v=522XB6Fli4M"/>
@@ -741,15 +786,6 @@
         <updated>2024-10-12T10:15:00.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 20 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=vGiiVf3bJDg</id>
-        <link href="https://www.youtube.com/watch?v=vGiiVf3bJDg"/>
-        <updated>2024-10-11T12:01:20.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
