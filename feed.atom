@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-30T01:47:51.319Z</id>
+    <id>urn:2024-10-31T01:48:51.729Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T01:47:51.319Z</updated>
+    <updated>2024-10-31T01:48:51.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Dare - Girls (The Chainsmokers Remix)]]></title>
+        <id>https://www.youtube.com/watch?v=8pBxUQ9Tmc8</id>
+        <link href="https://www.youtube.com/watch?v=8pBxUQ9Tmc8"/>
+        <updated>2024-10-30T16:08:36.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「週三八點半」買器材前先思考一下！]]></title>
+        <id>https://www.youtube.com/watch?v=yiQpNT_OPac</id>
+        <link href="https://www.youtube.com/watch?v=yiQpNT_OPac"/>
+        <updated>2024-10-30T14:40:35.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #9]]></title>
+        <id>https://www.youtube.com/watch?v=FlhEjdrQxNI</id>
+        <link href="https://www.youtube.com/watch?v=FlhEjdrQxNI"/>
+        <updated>2024-10-30T12:00:30.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aura – Alex-Productions (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=9n3vJZ-1ssE</id>
+        <link href="https://www.youtube.com/watch?v=9n3vJZ-1ssE"/>
+        <updated>2024-10-30T12:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拍好人像的5個秘密]]></title>
+        <id>https://www.youtube.com/watch?v=Je0d-u0TdHQ</id>
+        <link href="https://www.youtube.com/watch?v=Je0d-u0TdHQ"/>
+        <updated>2024-10-30T09:46:10.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Mix Cực Phiêu "Buff Sức Mạnh Leo Rank" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=-2kr3irCnMA</id>
+        <link href="https://www.youtube.com/watch?v=-2kr3irCnMA"/>
+        <updated>2024-10-30T09:00:00.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Autumn – LiQWYD (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=oOSu_rwN9sg</id>
@@ -699,15 +753,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trust – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=-qaD9V-WlNM</id>
-        <link href="https://www.youtube.com/watch?v=-qaD9V-WlNM"/>
-        <updated>2024-10-15T12:00:01.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[請問各位我們這樣算是影視1/50風了嗎？#影視颶風 #iphone16 #newiphone]]></title>
         <id>https://www.youtube.com/watch?v=EWigRsm7z6o</id>
         <link href="https://www.youtube.com/watch?v=EWigRsm7z6o"/>
@@ -759,15 +804,6 @@
         <updated>2024-10-14T12:00:13.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP Những Bản Nhạc EDM Mix Cực Phiêu "Thăng Hoa Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=c4pqVWALa9g</id>
-        <link href="https://www.youtube.com/watch?v=c4pqVWALa9g"/>
-        <updated>2024-10-13T12:00:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
