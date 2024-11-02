@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-01T01:54:58.226Z</id>
+    <id>urn:2024-11-02T01:45:16.754Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-01T01:54:58.226Z</updated>
+    <updated>2024-11-02T01:45:16.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Endless #loopvember24]]></title>
+        <id>https://www.youtube.com/watch?v=N8RuIXO3YbE</id>
+        <link href="https://www.youtube.com/watch?v=N8RuIXO3YbE"/>
+        <updated>2024-11-02T01:35:58.000Z</updated>
+        <author>
+            <name>D2izy バン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-M5: "Your One Day" x Chisom Okoye/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=JVTCcplLY5Q</id>
+        <link href="https://www.youtube.com/watch?v=JVTCcplLY5Q"/>
+        <updated>2024-11-02T00:00:12.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】薛定谔的降噪和音质？一个视频彻底讲明白 AirPods 4 的一切疑虑！]]></title>
+        <id>https://www.youtube.com/watch?v=LEPCj1Jjt0Q</id>
+        <link href="https://www.youtube.com/watch?v=LEPCj1Jjt0Q"/>
+        <updated>2024-11-01T13:53:20.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is FILMORA 14 Actually Good for Video Editing?]]></title>
+        <id>https://www.youtube.com/watch?v=-86vlXZfAks</id>
+        <link href="https://www.youtube.com/watch?v=-86vlXZfAks"/>
+        <updated>2024-11-01T13:51:19.000Z</updated>
+        <author>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Mix Cực Phiêu "Leo Rank Cực Chiến" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=KwMHhy7p584</id>
+        <link href="https://www.youtube.com/watch?v=KwMHhy7p584"/>
+        <updated>2024-11-01T12:32:45.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=vHC1_KCfnhM</id>
+        <link href="https://www.youtube.com/watch?v=vHC1_KCfnhM"/>
+        <updated>2024-11-01T12:01:15.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peaches – Snoozy Beats (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=5TkljDoqaVg</id>
+        <link href="https://www.youtube.com/watch?v=5TkljDoqaVg"/>
+        <updated>2024-11-01T12:00:12.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[獵奇都柏林，愛爾蘭首都，倫敦不服的科技與時尚之城。｜陳曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=8ntRKhee78I</id>
+        <link href="https://www.youtube.com/watch?v=8ntRKhee78I"/>
+        <updated>2024-11-01T12:00:10.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五大拍摄技巧，轻松搞定旅拍VLOG | 新手教程 DJI Pocket3+大疆Mic2]]></title>
+        <id>https://www.youtube.com/watch?v=SJB7xQFnj04</id>
+        <link href="https://www.youtube.com/watch?v=SJB7xQFnj04"/>
+        <updated>2024-11-01T10:15:01.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=rIABGIKihmY</id>
@@ -654,15 +735,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wormhole – Declan DP (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=KjGz30sKVTY</id>
-        <link href="https://www.youtube.com/watch?v=KjGz30sKVTY"/>
-        <updated>2024-10-17T12:00:31.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GFX100 II x Alvaro Sanz/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=ePV721nkTW0</id>
         <link href="https://www.youtube.com/watch?v=ePV721nkTW0"/>
@@ -676,15 +748,6 @@
         <id>https://www.youtube.com/watch?v=y1lR_pOvkZ0</id>
         <link href="https://www.youtube.com/watch?v=y1lR_pOvkZ0"/>
         <updated>2024-10-17T05:00:39.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100II x Alvaro Sanz/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=ayohXmgNEW4</id>
-        <link href="https://www.youtube.com/watch?v=ayohXmgNEW4"/>
-        <updated>2024-10-17T05:00:05.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
         </author>
@@ -705,15 +768,6 @@
         <updated>2024-10-16T14:32:33.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill "Cho Ngày Dài Mệt Mỏi" ♫ Top 15 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=UKWJuhkmQAg</id>
-        <link href="https://www.youtube.com/watch?v=UKWJuhkmQAg"/>
-        <updated>2024-10-16T12:00:41.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -993,24 +1047,6 @@
         <updated>2024-10-04T03:30:41.000Z</updated>
         <author>
             <name>巫师后期.wrcolor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手繪風MMO新作《救世者之樹：新世界》TGS 2024 現場直擊！將於亞洲多地區同步上線，10月6日看直播贏北極之旅大獎！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！]]></title>
-        <id>https://www.youtube.com/watch?v=OPjbhKhkzfE</id>
-        <link href="https://www.youtube.com/watch?v=OPjbhKhkzfE"/>
-        <updated>2024-10-03T12:00:33.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我期待大疆Air3s的5大升级｜这才是完美无人机]]></title>
-        <id>https://www.youtube.com/watch?v=KuWZS6OUn-M</id>
-        <link href="https://www.youtube.com/watch?v=KuWZS6OUn-M"/>
-        <updated>2024-10-02T15:45:01.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
         </author>
     </entry>
 </feed>
