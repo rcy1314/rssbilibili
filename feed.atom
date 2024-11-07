@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-06T01:44:28.244Z</id>
+    <id>urn:2024-11-07T01:44:46.884Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T01:44:28.244Z</updated>
+    <updated>2024-11-07T01:44:46.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[无人机延时摄影竟然需要储存照片？ #大疆无人机 #dji #djidrone #无人机 #drone #djimini4pro #延时摄影 #Hyperlapse]]></title>
+        <id>https://www.youtube.com/watch?v=kY6UjxEn3Ig</id>
+        <link href="https://www.youtube.com/watch?v=kY6UjxEn3Ig"/>
+        <updated>2024-11-06T14:57:05.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=rm5RqJZI93A</id>
+        <link href="https://www.youtube.com/watch?v=rm5RqJZI93A"/>
+        <updated>2024-11-06T12:01:06.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Way – Luke Bergs & Markvard (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=h1YZwiLur9I</id>
+        <link href="https://www.youtube.com/watch?v=h1YZwiLur9I"/>
+        <updated>2024-11-06T12:01:01.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=TL-jlwtlyP0</id>
+        <link href="https://www.youtube.com/watch?v=TL-jlwtlyP0"/>
+        <updated>2024-11-06T12:00:38.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爆紅reels該如何製作？ 攝影師3步驟教你！]]></title>
+        <id>https://www.youtube.com/watch?v=iGvMkV6RPqg</id>
+        <link href="https://www.youtube.com/watch?v=iGvMkV6RPqg"/>
+        <updated>2024-11-06T10:00:50.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-M5: "Your One Day" x Rot/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=NW6K-BWAkiE</id>
+        <link href="https://www.youtube.com/watch?v=NW6K-BWAkiE"/>
+        <updated>2024-11-06T05:00:24.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II x Cooper and Gorfer/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=z5Sq3hEX_6M</id>
+        <link href="https://www.youtube.com/watch?v=z5Sq3hEX_6M"/>
+        <updated>2024-11-06T01:45:02.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interview with Julia Kochetova, 2024 World Press Photo Contest Winner/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=QMLlTiVMXPc</id>
@@ -600,15 +663,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reflection – Filo Starquez (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=cwyzT4Vhx3w</id>
-        <link href="https://www.youtube.com/watch?v=cwyzT4Vhx3w"/>
-        <updated>2024-10-22T12:00:51.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[墨水屏显示器好用吗？分享个人体验]]></title>
         <id>https://www.youtube.com/watch?v=r0E0eNc6u1M</id>
         <link href="https://www.youtube.com/watch?v=r0E0eNc6u1M"/>
@@ -624,15 +678,6 @@
         <updated>2024-10-22T10:00:24.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mệt Mỏi ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=76xDoR7UyZQ</id>
-        <link href="https://www.youtube.com/watch?v=76xDoR7UyZQ"/>
-        <updated>2024-10-22T10:00:09.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -717,30 +762,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-M5: "Your One Day" x Osman Isik/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=qg3ksYUK67I</id>
-        <link href="https://www.youtube.com/watch?v=qg3ksYUK67I"/>
-        <updated>2024-10-20T05:00:29.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大疆无人机避障行为 #大疆无人机 #dji #drone #无人机 #djimini4pro #DJIAIR3 #djiair3s]]></title>
         <id>https://www.youtube.com/watch?v=shaLtxreisY</id>
         <link href="https://www.youtube.com/watch?v=shaLtxreisY"/>
         <updated>2024-10-20T02:18:25.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-M5: "Your One Day" x Kyler Steele/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=pnvlDvdtSIg</id>
-        <link href="https://www.youtube.com/watch?v=pnvlDvdtSIg"/>
-        <updated>2024-10-19T05:00:29.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -975,15 +1002,6 @@
         <updated>2024-10-09T12:00:16.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苏格兰高地全体验，天空岛奇遇记。｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=7mDeuqTsMeA</id>
-        <link href="https://www.youtube.com/watch?v=7mDeuqTsMeA"/>
-        <updated>2024-10-08T11:55:00.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
         </author>
     </entry>
 </feed>
