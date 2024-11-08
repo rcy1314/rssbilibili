@@ -1,10 +1,190 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-07T01:44:46.884Z</id>
+    <id>urn:2024-11-08T01:45:16.902Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T01:44:46.884Z</updated>
+    <updated>2024-11-08T01:45:16.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Seokjun Yun "Structures of Solitude" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=xGgjy9HJuFo</id>
+        <link href="https://www.youtube.com/watch?v=xGgjy9HJuFo"/>
+        <updated>2024-11-07T21:00:44.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Markus Naarttijärvi "Hinterland" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=rwu7wQZD6cA</id>
+        <link href="https://www.youtube.com/watch?v=rwu7wQZD6cA"/>
+        <updated>2024-11-07T21:00:37.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX Challenge Grant Program 2023: Santiago Javier Bazan "MINGA" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=qeZsfjldft8</id>
+        <link href="https://www.youtube.com/watch?v=qeZsfjldft8"/>
+        <updated>2024-11-07T21:00:36.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Junghoon O "Unseen Echoes" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=khPVIxuP580</id>
+        <link href="https://www.youtube.com/watch?v=khPVIxuP580"/>
+        <updated>2024-11-07T21:00:35.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX Challenge Grant Program 2023: Alex Velasco "El Grano de Oro" Trailer / FUJIFILM/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=ph0GNzqMFxg</id>
+        <link href="https://www.youtube.com/watch?v=ph0GNzqMFxg"/>
+        <updated>2024-11-07T21:00:35.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Juan Carlos Reyes "Guardians of Mother Language" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=Uqvw22N3Fqw</id>
+        <link href="https://www.youtube.com/watch?v=Uqvw22N3Fqw"/>
+        <updated>2024-11-07T21:00:30.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Dike Su "Sight of Storm" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=Sj6XmPXr2Nw</id>
+        <link href="https://www.youtube.com/watch?v=Sj6XmPXr2Nw"/>
+        <updated>2024-11-07T21:00:29.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX Challenge Grant Program 2023: Mislav Mesek "Soundscape of Croatia" / FUJIFILM/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=kmgjUwQlMpk</id>
+        <link href="https://www.youtube.com/watch?v=kmgjUwQlMpk"/>
+        <updated>2024-11-07T21:00:28.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Kayla Sambo "The Bodies We Are Born With" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=i-FW1JnA9ec</id>
+        <link href="https://www.youtube.com/watch?v=i-FW1JnA9ec"/>
+        <updated>2024-11-07T21:00:27.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Large Django "The Masters of Time" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=R0mzol2sWiw</id>
+        <link href="https://www.youtube.com/watch?v=R0mzol2sWiw"/>
+        <updated>2024-11-07T21:00:26.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Santiago Javier Bazan  "MINGA" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=gCmE2KjDvAA</id>
+        <link href="https://www.youtube.com/watch?v=gCmE2KjDvAA"/>
+        <updated>2024-11-07T21:00:24.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Vanessa Vettorello "Wandering Star" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=UMc8l38383o</id>
+        <link href="https://www.youtube.com/watch?v=UMc8l38383o"/>
+        <updated>2024-11-07T21:00:21.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Jodi Windvogel "The Body at Risk" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=WB6xJeUtyR4</id>
+        <link href="https://www.youtube.com/watch?v=WB6xJeUtyR4"/>
+        <updated>2024-11-07T21:00:21.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Alex Velasco "El Grano de Oro" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=YKB2sFk6MOk</id>
+        <link href="https://www.youtube.com/watch?v=YKB2sFk6MOk"/>
+        <updated>2024-11-07T21:00:21.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Mislav Mesek "Soundscape of Croatia" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=HyVoSSj_zhs</id>
+        <link href="https://www.youtube.com/watch?v=HyVoSSj_zhs"/>
+        <updated>2024-11-07T21:00:11.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻便旅行完成形态——哈苏XCD 3.4/75P行摄测试｜#原来这么毒 第114集]]></title>
+        <id>https://www.youtube.com/watch?v=_lRDx157cb8</id>
+        <link href="https://www.youtube.com/watch?v=_lRDx157cb8"/>
+        <updated>2024-11-07T13:17:34.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Mix Cực Phiêu Leo Rank Cực Chiến ♫ Nhạc Chơi Game Gây Nhiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=NK-Y6Mx5wLo</id>
+        <link href="https://www.youtube.com/watch?v=NK-Y6Mx5wLo"/>
+        <updated>2024-11-07T12:00:33.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soaring High – tubebackr (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=Qv-nKSsQB-M</id>
+        <link href="https://www.youtube.com/watch?v=Qv-nKSsQB-M"/>
+        <updated>2024-11-07T12:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是偶像？什麼是輪回？【黑神話悟空】最新解讀，揭開部分真相！]]></title>
+        <id>https://www.youtube.com/watch?v=4ZwygGx6KaQ</id>
+        <link href="https://www.youtube.com/watch?v=4ZwygGx6KaQ"/>
+        <updated>2024-11-07T12:00:05.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加 13 评测，正面对比 Pro 级旗舰，无短板里找找短板]]></title>
+        <id>https://www.youtube.com/watch?v=Yml_At5VWTM</id>
+        <link href="https://www.youtube.com/watch?v=Yml_At5VWTM"/>
+        <updated>2024-11-07T09:08:01.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无人机延时摄影竟然需要储存照片？ #大疆无人机 #dji #djidrone #无人机 #drone #djimini4pro #延时摄影 #Hyperlapse]]></title>
         <id>https://www.youtube.com/watch?v=kY6UjxEn3Ig</id>
@@ -48,42 +228,6 @@
         <updated>2024-11-06T10:00:50.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-M5: "Your One Day" x Rot/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=NW6K-BWAkiE</id>
-        <link href="https://www.youtube.com/watch?v=NW6K-BWAkiE"/>
-        <updated>2024-11-06T05:00:24.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II x Cooper and Gorfer/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=z5Sq3hEX_6M</id>
-        <link href="https://www.youtube.com/watch?v=z5Sq3hEX_6M"/>
-        <updated>2024-11-06T01:45:02.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview with Julia Kochetova, 2024 World Press Photo Contest Winner/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=QMLlTiVMXPc</id>
-        <link href="https://www.youtube.com/watch?v=QMLlTiVMXPc"/>
-        <updated>2024-11-06T01:30:23.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview with Alejandro Cegarra, 2024 World Press Photo Contest Winner/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=noYWAC2HqzM</id>
-        <link href="https://www.youtube.com/watch?v=noYWAC2HqzM"/>
-        <updated>2024-11-06T01:30:22.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -195,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-M5: "Your One Day" x Chisom Okoye/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=JVTCcplLY5Q</id>
-        <link href="https://www.youtube.com/watch?v=JVTCcplLY5Q"/>
-        <updated>2024-11-02T00:00:12.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【爱否】薛定谔的降噪和音质？一个视频彻底讲明白 AirPods 4 的一切疑虑！]]></title>
         <id>https://www.youtube.com/watch?v=LEPCj1Jjt0Q</id>
         <link href="https://www.youtube.com/watch?v=LEPCj1Jjt0Q"/>
@@ -285,24 +420,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The making of the project with Hannes Becker/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=ebS9AlSFZoA</id>
-        <link href="https://www.youtube.com/watch?v=ebS9AlSFZoA"/>
-        <updated>2024-10-31T06:15:02.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview with Lee-Ann Olwage, 2024 World Press Photo Contest Winners/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=P0RbQg-3UB4</id>
-        <link href="https://www.youtube.com/watch?v=P0RbQg-3UB4"/>
-        <updated>2024-10-31T05:00:28.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[十分全面，但不突出，小米 15 Pro 技术评测]]></title>
         <id>https://www.youtube.com/watch?v=ET381YBGHBw</id>
         <link href="https://www.youtube.com/watch?v=ET381YBGHBw"/>
@@ -375,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-M5: "Your One Day" x Szymon Szczesniak/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=mQQICVBeylY</id>
-        <link href="https://www.youtube.com/watch?v=mQQICVBeylY"/>
-        <updated>2024-10-29T05:00:34.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「徠卡」手機可以拍出好照片嗎？Ft. XIAOMI 14T PRO @XiaomiTaiwan]]></title>
         <id>https://www.youtube.com/watch?v=KNfRylSJOjI</id>
         <link href="https://www.youtube.com/watch?v=KNfRylSJOjI"/>
@@ -435,15 +543,6 @@
         <updated>2024-10-28T09:59:53.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XF500mmF5.6 x Alessandro Volders/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=ZZb91IZjH2s</id>
-        <link href="https://www.youtube.com/watch?v=ZZb91IZjH2s"/>
-        <updated>2024-10-28T05:00:24.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -537,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-M5: "Your One Day" x Kwang Hyun Choi/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=LOp3Lad-wnc</id>
-        <link href="https://www.youtube.com/watch?v=LOp3Lad-wnc"/>
-        <updated>2024-10-25T05:00:15.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[无人机更新返航点你做对了吗？大疆Mini4Pro|Air 3|Air 3s #大疆无人机 #dji #djidrone #无人机 #drone #djimini4pro]]></title>
         <id>https://www.youtube.com/watch?v=_ASdk7uqGT0</id>
         <link href="https://www.youtube.com/watch?v=_ASdk7uqGT0"/>
@@ -582,15 +672,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GFX100S II x Hannes Becker/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=YeJSmLc5CwY</id>
-        <link href="https://www.youtube.com/watch?v=YeJSmLc5CwY"/>
-        <updated>2024-10-24T05:00:21.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7]]></title>
         <id>https://www.youtube.com/watch?v=xsD0xBMj4t4</id>
         <link href="https://www.youtube.com/watch?v=xsD0xBMj4t4"/>
@@ -600,48 +681,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beach life – Scandinavianz (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=2iNF3fKTBYM</id>
-        <link href="https://www.youtube.com/watch?v=2iNF3fKTBYM"/>
-        <updated>2024-10-23T12:00:04.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top 15 Bản Nhạc EDM Mix Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=cqOkfJtsZwc</id>
-        <link href="https://www.youtube.com/watch?v=cqOkfJtsZwc"/>
-        <updated>2024-10-23T10:00:45.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Insta 360 Ace Pro2首发教程 | 四个步骤学会运动相机高级感旅拍技巧 #acepro2 #insta360]]></title>
         <id>https://www.youtube.com/watch?v=Pe5Cq-0zmhg</id>
         <link href="https://www.youtube.com/watch?v=Pe5Cq-0zmhg"/>
         <updated>2024-10-23T10:00:34.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XF16-55mmF2.8 R LM WR II x John Branch IV / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=-0JmSBhcyj0</id>
-        <link href="https://www.youtube.com/watch?v=-0JmSBhcyj0"/>
-        <updated>2024-10-23T05:00:01.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XF16-55mmF2.8 R LM WR II x Stefan Finger / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=GJanZXVylPg</id>
-        <link href="https://www.youtube.com/watch?v=GJanZXVylPg"/>
-        <updated>2024-10-23T02:07:53.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -699,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XF500mmF5.6 x Maggie Parise/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=Y0YESgjJ1MM</id>
-        <link href="https://www.youtube.com/watch?v=Y0YESgjJ1MM"/>
-        <updated>2024-10-22T05:00:21.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[笑容加 U7 Pro ，一把想改变你刷牙习惯的牙刷。]]></title>
         <id>https://www.youtube.com/watch?v=aaybvytn_xw</id>
         <link href="https://www.youtube.com/watch?v=aaybvytn_xw"/>
@@ -741,15 +777,6 @@
         <updated>2024-10-21T12:01:03.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing FUJIFILM X-M5 Key Features/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=PiQ8w3uwCo4</id>
-        <link href="https://www.youtube.com/watch?v=PiQ8w3uwCo4"/>
-        <updated>2024-10-21T05:00:15.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -993,15 +1020,6 @@
         <updated>2024-10-09T14:27:40.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
-        <id>https://www.youtube.com/watch?v=H8o9iFi_X-Y</id>
-        <link href="https://www.youtube.com/watch?v=H8o9iFi_X-Y"/>
-        <updated>2024-10-09T12:00:16.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
