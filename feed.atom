@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-10T01:54:39.103Z</id>
+    <id>urn:2024-11-11T01:47:10.424Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-10T01:54:39.103Z</updated>
+    <updated>2024-11-11T01:47:10.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fall in Love – Alex-Productions (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=YTbSzHFqB7I</id>
+        <link href="https://www.youtube.com/watch?v=YTbSzHFqB7I"/>
+        <updated>2024-11-10T12:00:41.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-M5: "Your One Day" x Tino Renato/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=gkDlDYgkuWc</id>
+        <link href="https://www.youtube.com/watch?v=gkDlDYgkuWc"/>
+        <updated>2024-11-10T05:00:37.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ready – Jay Someday (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=OR1ny25W8Yk</id>
@@ -207,15 +225,6 @@
         <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Jodi Windvogel "The Body at Risk" / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=WB6xJeUtyR4</id>
         <link href="https://www.youtube.com/watch?v=WB6xJeUtyR4"/>
-        <updated>2024-11-07T21:00:21.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Alex Velasco "El Grano de Oro" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=YKB2sFk6MOk</id>
-        <link href="https://www.youtube.com/watch?v=YKB2sFk6MOk"/>
         <updated>2024-11-07T21:00:21.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
@@ -672,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postcards – Snoozy Beats (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=OzTWxSw9q5s</id>
-        <link href="https://www.youtube.com/watch?v=OzTWxSw9q5s"/>
-        <updated>2024-10-26T12:00:32.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[旗舰手机应该卷硬件还是卷 AI？OPPO Find X8 Pro 评测]]></title>
         <id>https://www.youtube.com/watch?v=eFJKZLT63OE</id>
         <link href="https://www.youtube.com/watch?v=eFJKZLT63OE"/>
@@ -1002,15 +1002,6 @@
         <updated>2024-10-13T03:45:01.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10首宝藏百搭BGM | 2024超好听旅行VLOG剪辑必备歌单！]]></title>
-        <id>https://www.youtube.com/watch?v=-OYdWY28dJ8</id>
-        <link href="https://www.youtube.com/watch?v=-OYdWY28dJ8"/>
-        <updated>2024-10-12T10:15:00.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
         </author>
     </entry>
 </feed>
