@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-17T01:57:33.795Z</id>
+    <id>urn:2024-11-18T01:54:41.263Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T01:57:33.795Z</updated>
+    <updated>2024-11-18T01:54:41.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Looking – tubebackr (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=dVk9qkaKCjw</id>
+        <link href="https://www.youtube.com/watch?v=dVk9qkaKCjw"/>
+        <updated>2024-11-17T12:00:44.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 15 Bản EDM Mix Cực Phiêu "Buff Sức Mạnh" Leo Rank ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=2VI4br_L_Ec</id>
+        <link href="https://www.youtube.com/watch?v=2VI4br_L_Ec"/>
+        <updated>2024-11-17T12:00:04.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】年度最离谱手机，红魔 10 Pro + 评测]]></title>
+        <id>https://www.youtube.com/watch?v=MLM36kV6emo</id>
+        <link href="https://www.youtube.com/watch?v=MLM36kV6emo"/>
+        <updated>2024-11-17T04:00:10.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tonight – LiQWYD (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=wxsdz-AA_6c</id>
@@ -582,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sweetie – JUDEH (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=8B_W8hOUFok</id>
-        <link href="https://www.youtube.com/watch?v=8B_W8hOUFok"/>
-        <updated>2024-11-03T12:00:09.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 15 Bản Nhạc EDM Mix "Nhiều Cảm Xúc" Gây Nghiện Cực Hay ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=DvwO8Dj4gBg</id>
         <link href="https://www.youtube.com/watch?v=DvwO8Dj4gBg"/>
@@ -678,15 +696,6 @@
         <updated>2024-11-01T10:15:01.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=rIABGIKihmY</id>
-        <link href="https://www.youtube.com/watch?v=rIABGIKihmY"/>
-        <updated>2024-10-31T12:01:11.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -939,15 +948,6 @@
         <updated>2024-10-20T02:18:25.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retouching Portrait With Plugin| Photoshop Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=1fV6DQmueUQ</id>
-        <link href="https://www.youtube.com/watch?v=1fV6DQmueUQ"/>
-        <updated>2024-10-18T14:03:40.000Z</updated>
-        <author>
-            <name>Learning Screen</name>
         </author>
     </entry>
 </feed>
