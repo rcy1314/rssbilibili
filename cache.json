@@ -77,18 +77,7 @@
       "title": "黄杨ME",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYnyI0YuiJRFg2CoBOCGEaA",
       "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=r0E0eNc6u1M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r0E0eNc6u1M",
-          "publishedOn": "2024-10-22T11:30:29.000Z",
-          "wordCount": null,
-          "title": "墨水屏显示器好用吗？分享个人体验",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "左手+",
@@ -122,6 +111,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=y0nJytmn7y0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y0nJytmn7y0",
+          "publishedOn": "2024-11-20T12:01:15.000Z",
+          "wordCount": null,
+          "title": "🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_6_UOxRok6w",
           "author": null,
@@ -294,16 +293,6 @@
           "wordCount": null,
           "title": "拍好人像的5個秘密",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RViNTvtcUfI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RViNTvtcUfI",
-          "publishedOn": "2024-10-22T10:00:24.000Z",
-          "wordCount": null,
-          "title": "動態明信片是什麼? 你該如何拍攝Video postcard",
-          "imageUrl": null
         }
       ]
     },
@@ -368,16 +357,6 @@
           "wordCount": null,
           "title": "无人机更新返航点你做对了吗？大疆Mini4Pro|Air 3|Air 3s #大疆无人机 #dji #djidrone #无人机 #drone #djimini4pro",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_b3RpmNSgKo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_b3RpmNSgKo",
-          "publishedOn": "2024-10-22T03:21:48.000Z",
-          "wordCount": null,
-          "title": "大疆无人机有个紧急刹车功能你懂吗？ #大疆无人机 #dji #djidrone #无人机 #djimini4pro #RC2",
-          "imageUrl": null
         }
       ]
     },
@@ -387,6 +366,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DRii9GKeaYo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DRii9GKeaYo",
+          "publishedOn": "2024-11-21T01:45:57.000Z",
+          "wordCount": null,
+          "title": "【2024 React 作品實戰直播班】課程說明會11/20(三) 20:00  準時開播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RwggnHjebuA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RwggnHjebuA",
+          "publishedOn": "2024-11-20T08:15:33.000Z",
+          "wordCount": null,
+          "title": "【宇宙火箭計畫】後端工程師培訓營｜加碼！線上說明會 11/24(日) 21:00 準時開播",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G0xYkQa7XDc",
           "author": null,
           "description": "",
@@ -394,26 +393,6 @@
           "publishedOn": "2024-10-30T05:46:59.000Z",
           "wordCount": null,
           "title": "【宇宙火箭計畫】後端工程師培訓營｜線上說明會 12/3(二) 20:00 準時開播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DRii9GKeaYo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DRii9GKeaYo",
-          "publishedOn": "2024-10-28T03:43:03.000Z",
-          "wordCount": null,
-          "title": "【2024 React 作品實戰直播班】課程說明會11/20(三) 20:00  準時開播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tqJCOlrBsVc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tqJCOlrBsVc",
-          "publishedOn": "2024-10-22T07:39:51.000Z",
-          "wordCount": null,
-          "title": "倒數 5 天 晚鳥 52 折｜Nuxt 直播班",
           "imageUrl": null
         }
       ]
@@ -497,6 +476,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZIjRbuG_jGU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZIjRbuG_jGU",
+          "publishedOn": "2024-11-20T12:00:50.000Z",
+          "wordCount": null,
+          "title": "2024年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #6",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XuSTWl385F8",
           "author": null,
@@ -626,16 +615,6 @@
           "wordCount": null,
           "title": "2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mY6dcseocX4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mY6dcseocX4",
-          "publishedOn": "2024-10-22T12:01:03.000Z",
-          "wordCount": null,
-          "title": "當【換裝】遇上【開放世界】會擦出什麼樣的火花？全新開放世界遊戲《無限暖暖》試玩！| PC | PS5 | Android | iOS 遊戲試玩體驗！",
-          "imageUrl": null
         }
       ]
     },
@@ -718,26 +697,6 @@
           "publishedOn": "2024-10-25T12:21:22.000Z",
           "wordCount": null,
           "title": "旗舰手机应该卷硬件还是卷 AI？OPPO Find X8 Pro 评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iVj_cCp-7BY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iVj_cCp-7BY",
-          "publishedOn": "2024-10-22T09:36:51.000Z",
-          "wordCount": null,
-          "title": "骁龙 8 至尊版架构解读：Oryon，NB！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aaybvytn_xw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aaybvytn_xw",
-          "publishedOn": "2024-10-22T04:07:57.000Z",
-          "wordCount": null,
-          "title": "笑容加 U7 Pro ，一把想改变你刷牙习惯的牙刷。",
           "imageUrl": null
         }
       ]
@@ -866,6 +825,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HBSFLQMh6Qs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HBSFLQMh6Qs",
+          "publishedOn": "2024-11-20T14:00:13.000Z",
+          "wordCount": null,
+          "title": "F2真的有比F2.8大很多嗎？一顆真正的「大光圈」變焦鏡頭！ ft. Sony FE 28-70mm F2 GM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9mlCjCKVcps",
           "author": null,
@@ -1081,6 +1050,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dKob0f36lD0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dKob0f36lD0",
+          "publishedOn": "2024-11-20T12:00:51.000Z",
+          "wordCount": null,
+          "title": "Hawaii – LiQWYD (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=J9C7nUeGpVM",
           "author": null,
           "description": "",
@@ -1218,16 +1197,6 @@
           "publishedOn": "2024-11-07T12:00:26.000Z",
           "wordCount": null,
           "title": "Soaring High – tubebackr (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h1YZwiLur9I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h1YZwiLur9I",
-          "publishedOn": "2024-11-06T12:01:01.000Z",
-          "wordCount": null,
-          "title": "Our Way – Luke Bergs & Markvard (No Copyright Music)",
           "imageUrl": null
         }
       ]

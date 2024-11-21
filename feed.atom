@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-20T01:51:06.077Z</id>
+    <id>urn:2024-11-21T01:50:58.237Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T01:51:06.077Z</updated>
+    <updated>2024-11-21T01:50:58.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2024 React 作品實戰直播班】課程說明會11/20(三) 20:00  準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=DRii9GKeaYo</id>
+        <link href="https://www.youtube.com/watch?v=DRii9GKeaYo"/>
+        <updated>2024-11-21T01:45:57.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F2真的有比F2.8大很多嗎？一顆真正的「大光圈」變焦鏡頭！ ft. Sony FE 28-70mm F2 GM]]></title>
+        <id>https://www.youtube.com/watch?v=HBSFLQMh6Qs</id>
+        <link href="https://www.youtube.com/watch?v=HBSFLQMh6Qs"/>
+        <updated>2024-11-20T14:00:13.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=y0nJytmn7y0</id>
+        <link href="https://www.youtube.com/watch?v=y0nJytmn7y0"/>
+        <updated>2024-11-20T12:01:15.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hawaii – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=dKob0f36lD0</id>
+        <link href="https://www.youtube.com/watch?v=dKob0f36lD0"/>
+        <updated>2024-11-20T12:00:51.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #6]]></title>
+        <id>https://www.youtube.com/watch?v=ZIjRbuG_jGU</id>
+        <link href="https://www.youtube.com/watch?v=ZIjRbuG_jGU"/>
+        <updated>2024-11-20T12:00:50.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【宇宙火箭計畫】後端工程師培訓營｜加碼！線上說明會 11/24(日) 21:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=RwggnHjebuA</id>
+        <link href="https://www.youtube.com/watch?v=RwggnHjebuA"/>
+        <updated>2024-11-20T08:15:33.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Don’t Wanna Wait - BLVCK COBRV, PACANI feat. Nito-Onna [ FURY Release ]]]></title>
         <id>https://www.youtube.com/watch?v=_6_UOxRok6w</id>
@@ -582,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our Way – Luke Bergs & Markvard (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=h1YZwiLur9I</id>
-        <link href="https://www.youtube.com/watch?v=h1YZwiLur9I"/>
-        <updated>2024-11-06T12:01:01.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[爆紅reels該如何製作？ 攝影師3步驟教你！]]></title>
         <id>https://www.youtube.com/watch?v=iGvMkV6RPqg</id>
         <link href="https://www.youtube.com/watch?v=iGvMkV6RPqg"/>
@@ -780,15 +825,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2024 React 作品實戰直播班】課程說明會11/20(三) 20:00  準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=DRii9GKeaYo</id>
-        <link href="https://www.youtube.com/watch?v=DRii9GKeaYo"/>
-        <updated>2024-10-28T03:43:03.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DZOFILM ARLES T1.4 全画幅定焦镜头组拍摄感想]]></title>
         <id>https://www.youtube.com/watch?v=6U1s9MlZHyA</id>
         <link href="https://www.youtube.com/watch?v=6U1s9MlZHyA"/>
@@ -876,69 +912,6 @@
         <updated>2024-10-22T15:36:08.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當【換裝】遇上【開放世界】會擦出什麼樣的火花？全新開放世界遊戲《無限暖暖》試玩！| PC | PS5 | Android | iOS 遊戲試玩體驗！]]></title>
-        <id>https://www.youtube.com/watch?v=mY6dcseocX4</id>
-        <link href="https://www.youtube.com/watch?v=mY6dcseocX4"/>
-        <updated>2024-10-22T12:01:03.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨水屏显示器好用吗？分享个人体验]]></title>
-        <id>https://www.youtube.com/watch?v=r0E0eNc6u1M</id>
-        <link href="https://www.youtube.com/watch?v=r0E0eNc6u1M"/>
-        <updated>2024-10-22T11:30:29.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動態明信片是什麼? 你該如何拍攝Video postcard]]></title>
-        <id>https://www.youtube.com/watch?v=RViNTvtcUfI</id>
-        <link href="https://www.youtube.com/watch?v=RViNTvtcUfI"/>
-        <updated>2024-10-22T10:00:24.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[骁龙 8 至尊版架构解读：Oryon，NB！]]></title>
-        <id>https://www.youtube.com/watch?v=iVj_cCp-7BY</id>
-        <link href="https://www.youtube.com/watch?v=iVj_cCp-7BY"/>
-        <updated>2024-10-22T09:36:51.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倒數 5 天 晚鳥 52 折｜Nuxt 直播班]]></title>
-        <id>https://www.youtube.com/watch?v=tqJCOlrBsVc</id>
-        <link href="https://www.youtube.com/watch?v=tqJCOlrBsVc"/>
-        <updated>2024-10-22T07:39:51.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[笑容加 U7 Pro ，一把想改变你刷牙习惯的牙刷。]]></title>
-        <id>https://www.youtube.com/watch?v=aaybvytn_xw</id>
-        <link href="https://www.youtube.com/watch?v=aaybvytn_xw"/>
-        <updated>2024-10-22T04:07:57.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆无人机有个紧急刹车功能你懂吗？ #大疆无人机 #dji #djidrone #无人机 #djimini4pro #RC2]]></title>
-        <id>https://www.youtube.com/watch?v=_b3RpmNSgKo</id>
-        <link href="https://www.youtube.com/watch?v=_b3RpmNSgKo"/>
-        <updated>2024-10-22T03:21:48.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
         </author>
     </entry>
 </feed>
