@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-21T01:50:58.237Z</id>
+    <id>urn:2024-11-22T01:52:12.582Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-21T01:50:58.237Z</updated>
+    <updated>2024-11-22T01:52:12.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eniru & SOHBEK - Favourite Song [ FURY Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=jbTpGBIYssA</id>
+        <link href="https://www.youtube.com/watch?v=jbTpGBIYssA"/>
+        <updated>2024-11-21T12:01:03.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seazide – ZiMPL (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=ItBRdy0XZ0c</id>
+        <link href="https://www.youtube.com/watch?v=ItBRdy0XZ0c"/>
+        <updated>2024-11-21T12:00:32.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現在轉職軟體工程師 會不會被 AI 取代？校長分析未來 5~10 年趨勢｜六角學院 #六角學院 #工程師]]></title>
+        <id>https://www.youtube.com/watch?v=MYWFZbJJ2BI</id>
+        <link href="https://www.youtube.com/watch?v=MYWFZbJJ2BI"/>
+        <updated>2024-11-21T08:58:10.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2024 React 作品實戰直播班】課程說明會11/20(三) 20:00  準時開播]]></title>
         <id>https://www.youtube.com/watch?v=DRii9GKeaYo</id>
@@ -51,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【宇宙火箭計畫】後端工程師培訓營｜加碼！線上說明會 11/24(日) 21:00 準時開播]]></title>
+        <title type="html"><![CDATA[【宇宙火箭計畫】後端工程師培訓營｜加碼！線上說明會 12/3(二) 21:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=RwggnHjebuA</id>
         <link href="https://www.youtube.com/watch?v=RwggnHjebuA"/>
         <updated>2024-11-20T08:15:33.000Z</updated>
@@ -120,15 +147,6 @@
         <updated>2024-11-18T12:00:26.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 15 Bản EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=FMO-7sSf3vU</id>
-        <link href="https://www.youtube.com/watch?v=FMO-7sSf3vU"/>
-        <updated>2024-11-18T12:00:20.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -591,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soaring High – tubebackr (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=Qv-nKSsQB-M</id>
-        <link href="https://www.youtube.com/watch?v=Qv-nKSsQB-M"/>
-        <updated>2024-11-07T12:00:26.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[什麼是偶像？什麼是輪回？【黑神話悟空】最新解讀，揭開部分真相！]]></title>
         <id>https://www.youtube.com/watch?v=4ZwygGx6KaQ</id>
         <link href="https://www.youtube.com/watch?v=4ZwygGx6KaQ"/>
@@ -780,7 +789,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【宇宙火箭計畫】後端工程師培訓營｜線上說明會 12/3(二) 20:00 準時開播]]></title>
+        <title type="html"><![CDATA[【宇宙火箭計畫】後端工程師培訓營｜線上說明會 11/24(日) 21:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=G0xYkQa7XDc</id>
         <link href="https://www.youtube.com/watch?v=G0xYkQa7XDc"/>
         <updated>2024-10-30T05:46:59.000Z</updated>
@@ -885,33 +894,6 @@
         <updated>2024-10-24T12:01:11.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7]]></title>
-        <id>https://www.youtube.com/watch?v=xsD0xBMj4t4</id>
-        <link href="https://www.youtube.com/watch?v=xsD0xBMj4t4"/>
-        <updated>2024-10-23T12:01:17.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insta 360 Ace Pro2首发教程 | 四个步骤学会运动相机高级感旅拍技巧 #acepro2 #insta360]]></title>
-        <id>https://www.youtube.com/watch?v=Pe5Cq-0zmhg</id>
-        <link href="https://www.youtube.com/watch?v=Pe5Cq-0zmhg"/>
-        <updated>2024-10-23T10:00:34.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Cee & Lil Baby - BAND4BAND (The Chainsmokers Remix)]]></title>
-        <id>https://www.youtube.com/watch?v=5l7YmVDxwBM</id>
-        <link href="https://www.youtube.com/watch?v=5l7YmVDxwBM"/>
-        <updated>2024-10-22T15:36:08.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
