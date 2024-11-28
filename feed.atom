@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-27T01:54:43.278Z</id>
+    <id>urn:2024-11-28T01:54:18.560Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-27T01:54:43.278Z</updated>
+    <updated>2024-11-28T01:54:18.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[還在奢望乖乖神永遠保佑系統不要壞掉嗎？靠自己最實在！@hexschool]]></title>
+        <id>https://www.youtube.com/watch?v=mylLMm_DD5M</id>
+        <link href="https://www.youtube.com/watch?v=mylLMm_DD5M"/>
+        <updated>2024-11-28T00:30:27.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #8]]></title>
+        <id>https://www.youtube.com/watch?v=sN8Z3vZ-on8</id>
+        <link href="https://www.youtube.com/watch?v=sN8Z3vZ-on8"/>
+        <updated>2024-11-27T12:01:11.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIMONTE - Dragostea Din Tei [ FURY Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=uH9Yf5KHmfQ</id>
+        <link href="https://www.youtube.com/watch?v=uH9Yf5KHmfQ"/>
+        <updated>2024-11-27T12:01:08.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chillax – Jay Someday (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=cfpoKC9B6PI</id>
+        <link href="https://www.youtube.com/watch?v=cfpoKC9B6PI"/>
+        <updated>2024-11-27T12:00:54.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把iPhone照片直接备份到移动硬盘]]></title>
+        <id>https://www.youtube.com/watch?v=h375KdmrA6Y</id>
+        <link href="https://www.youtube.com/watch?v=h375KdmrA6Y"/>
+        <updated>2024-11-27T11:00:47.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XF16-55mmF2.8 R LM WR II x Totay / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=64ZwEv3h0-E</id>
+        <link href="https://www.youtube.com/watch?v=64ZwEv3h0-E"/>
+        <updated>2024-11-27T10:45:58.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不想拍对方比耶怎么破？｜短视频]]></title>
         <id>https://www.youtube.com/watch?v=NBBfoI6i0ac</id>
@@ -519,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cappuccino - ChillD'em (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=LiAOvk9PMqQ</id>
-        <link href="https://www.youtube.com/watch?v=LiAOvk9PMqQ"/>
-        <updated>2024-11-12T16:00:29.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 15 Bản EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=Gd5Y2q2RJDo</id>
         <link href="https://www.youtube.com/watch?v=Gd5Y2q2RJDo"/>
@@ -591,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=DYRmvT4jV7c</id>
-        <link href="https://www.youtube.com/watch?v=DYRmvT4jV7c"/>
-        <updated>2024-11-08T12:00:13.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7天自驾攻略 | 请把塔斯马尼亚列入你的人生清单 #tasmania  #travel  #roadtrip]]></title>
         <id>https://www.youtube.com/watch?v=IkD-gPYj8l0</id>
         <link href="https://www.youtube.com/watch?v=IkD-gPYj8l0"/>
@@ -609,12 +645,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Chainsmokers, Felix Cartal - Don't Lie (Felix Cartal Remix - Official Audio)]]></title>
+        <id>https://www.youtube.com/watch?v=xNyfBcg4GG4</id>
+        <link href="https://www.youtube.com/watch?v=xNyfBcg4GG4"/>
+        <updated>2024-11-08T05:00:46.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers, Truth x Lies - Don't Lie (Truth x Lies Remix - Official Audio)]]></title>
+        <id>https://www.youtube.com/watch?v=oJwr0k-QxiM</id>
+        <link href="https://www.youtube.com/watch?v=oJwr0k-QxiM"/>
+        <updated>2024-11-08T05:00:41.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[X-M5: "Your One Day" x AKIYA MOVIE/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=rU9ZZ3i5TlA</id>
         <link href="https://www.youtube.com/watch?v=rU9ZZ3i5TlA"/>
         <updated>2024-11-08T05:00:41.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers, HILLS - Don't Lie (HILLS Remix - Official Audio)]]></title>
+        <id>https://www.youtube.com/watch?v=U0oEkzkzb1Q</id>
+        <link href="https://www.youtube.com/watch?v=U0oEkzkzb1Q"/>
+        <updated>2024-11-08T05:00:31.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers, The Knocks - Don't Lie (The Knocks Remix - Official Audio)]]></title>
+        <id>https://www.youtube.com/watch?v=FPZvoIwQJN8</id>
+        <link href="https://www.youtube.com/watch?v=FPZvoIwQJN8"/>
+        <updated>2024-11-08T05:00:11.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -685,15 +757,6 @@
         <id>https://www.youtube.com/watch?v=kmgjUwQlMpk</id>
         <link href="https://www.youtube.com/watch?v=kmgjUwQlMpk"/>
         <updated>2024-11-07T21:00:28.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2023: Kayla Sambo "The Bodies We Are Born With" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=i-FW1JnA9ec</id>
-        <link href="https://www.youtube.com/watch?v=i-FW1JnA9ec"/>
-        <updated>2024-11-07T21:00:27.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
         </author>
