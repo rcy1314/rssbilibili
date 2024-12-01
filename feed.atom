@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-30T01:50:58.346Z</id>
+    <id>urn:2024-12-01T02:10:17.414Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T01:50:58.346Z</updated>
+    <updated>2024-12-01T02:10:17.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[愛丁堡全體驗，你心中的那座夢想之城｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=WeGkS57fxp4</id>
+        <link href="https://www.youtube.com/watch?v=WeGkS57fxp4"/>
+        <updated>2024-11-30T13:43:07.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM Us Uk Mix Cực Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=UZlUQDbeItg</id>
+        <link href="https://www.youtube.com/watch?v=UZlUQDbeItg"/>
+        <updated>2024-11-30T12:00:27.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Days – LiQWYD (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=BFD2771HQNY</id>
+        <link href="https://www.youtube.com/watch?v=BFD2771HQNY"/>
+        <updated>2024-11-30T12:00:11.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何选对你的「旅拍镜头」| 三大旅行场景拍摄技巧分享！黑五必看]]></title>
+        <id>https://www.youtube.com/watch?v=O5gJzV0WVlU</id>
+        <link href="https://www.youtube.com/watch?v=O5gJzV0WVlU"/>
+        <updated>2024-11-30T10:15:01.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何拿捏街拍的时机点？]]></title>
         <id>https://www.youtube.com/watch?v=drQkPYlQL28</id>
@@ -555,24 +591,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Space Travel - Declan DP (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=SEQll_AsbG4</id>
-        <link href="https://www.youtube.com/watch?v=SEQll_AsbG4"/>
-        <updated>2024-11-14T16:00:32.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 15 Bản Nhạc EDM Mix Cực Phiêu Của "TheFatRat" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=keE-0lXC-do</id>
-        <link href="https://www.youtube.com/watch?v=keE-0lXC-do"/>
-        <updated>2024-11-14T12:00:50.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[别被夜景黑了!告别噪点灾难片｜无人机夜拍指南｜大疆Air3S]]></title>
         <id>https://www.youtube.com/watch?v=w66dXpY7kDw</id>
         <link href="https://www.youtube.com/watch?v=w66dXpY7kDw"/>
@@ -867,51 +885,6 @@
         <updated>2024-11-02T01:45:26.000Z</updated>
         <author>
             <name>D2izy バン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爱否】薛定谔的降噪和音质？一个视频彻底讲明白 AirPods 4 的一切疑虑！]]></title>
-        <id>https://www.youtube.com/watch?v=LEPCj1Jjt0Q</id>
-        <link href="https://www.youtube.com/watch?v=LEPCj1Jjt0Q"/>
-        <updated>2024-11-01T13:53:20.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming My Photoshop Creations in Filmora 14]]></title>
-        <id>https://www.youtube.com/watch?v=-86vlXZfAks</id>
-        <link href="https://www.youtube.com/watch?v=-86vlXZfAks"/>
-        <updated>2024-11-01T13:51:19.000Z</updated>
-        <author>
-            <name>Learning Screen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=vHC1_KCfnhM</id>
-        <link href="https://www.youtube.com/watch?v=vHC1_KCfnhM"/>
-        <updated>2024-11-01T12:01:15.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獵奇都柏林，愛爾蘭首都，倫敦不服的科技與時尚之城。｜陳曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=8ntRKhee78I</id>
-        <link href="https://www.youtube.com/watch?v=8ntRKhee78I"/>
-        <updated>2024-11-01T12:00:10.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五大拍摄技巧，轻松搞定旅拍VLOG | 新手教程 DJI Pocket3+大疆Mic2]]></title>
-        <id>https://www.youtube.com/watch?v=SJB7xQFnj04</id>
-        <link href="https://www.youtube.com/watch?v=SJB7xQFnj04"/>
-        <updated>2024-11-01T10:15:01.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
         </author>
     </entry>
 </feed>
