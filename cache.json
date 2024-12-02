@@ -351,18 +351,7 @@
       "title": "D2izy バン",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
       "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=N8RuIXO3YbE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N8RuIXO3YbE",
-          "publishedOn": "2024-11-02T01:45:26.000Z",
-          "wordCount": null,
-          "title": "Endless #loopvember24",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "懒人摄影",
@@ -698,16 +687,6 @@
           "wordCount": null,
           "title": "一加 13 评测，正面对比 Pro 级旗舰，无短板里找找短板",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7xQ244W_tTY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7xQ244W_tTY",
-          "publishedOn": "2024-11-02T06:00:50.000Z",
-          "wordCount": null,
-          "title": "澎湃 os2，察觉不到的小变样",
-          "imageUrl": null
         }
       ]
     },
@@ -1019,6 +998,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4QRbdwxPplo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4QRbdwxPplo",
+          "publishedOn": "2024-12-01T12:00:09.000Z",
+          "wordCount": null,
+          "title": "L'envol – Tomh. (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BFD2771HQNY",
           "author": null,
           "description": "",
@@ -1156,16 +1145,6 @@
           "publishedOn": "2024-11-17T12:00:44.000Z",
           "wordCount": null,
           "title": "Looking – tubebackr (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wxsdz-AA_6c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wxsdz-AA_6c",
-          "publishedOn": "2024-11-16T12:01:15.000Z",
-          "wordCount": null,
-          "title": "Tonight – LiQWYD (No Copyright Music)",
           "imageUrl": null
         }
       ]
