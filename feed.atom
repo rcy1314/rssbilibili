@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-05T01:56:29.720Z</id>
+    <id>urn:2024-12-06T01:55:22.999Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-05T01:56:29.720Z</updated>
+    <updated>2024-12-06T01:55:22.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[透過攝影尋找「生活感」]]></title>
+        <id>https://www.youtube.com/watch?v=9fDeaRKqwgI</id>
+        <link href="https://www.youtube.com/watch?v=9fDeaRKqwgI"/>
+        <updated>2024-12-05T12:30:09.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Cực Đỉnh Siêu Gây Nghiện  ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=u7Kj-a3B_M0</id>
+        <link href="https://www.youtube.com/watch?v=u7Kj-a3B_M0"/>
+        <updated>2024-12-05T12:01:32.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Mood – Alex-Productions (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=ECpFRqT3dzc</id>
+        <link href="https://www.youtube.com/watch?v=ECpFRqT3dzc"/>
+        <updated>2024-12-05T12:00:16.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[各位善男信女，React 作品實戰班 報名倒數 3 天，跟上明年低一波求職潮｜六角學院]]></title>
+        <id>https://www.youtube.com/watch?v=tjCzzGwtIEk</id>
+        <link href="https://www.youtube.com/watch?v=tjCzzGwtIEk"/>
+        <updated>2024-12-05T03:58:18.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xpan画幅=电影感？]]></title>
         <id>https://www.youtube.com/watch?v=yHp39nxa0YM</id>
@@ -555,30 +591,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hawaii – LiQWYD (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=dKob0f36lD0</id>
-        <link href="https://www.youtube.com/watch?v=dKob0f36lD0"/>
-        <updated>2024-11-20T12:00:51.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #6]]></title>
         <id>https://www.youtube.com/watch?v=ZIjRbuG_jGU</id>
         <link href="https://www.youtube.com/watch?v=ZIjRbuG_jGU"/>
         <updated>2024-11-20T12:00:50.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Don’t Wanna Wait - BLVCK COBRV, PACANI feat. Nito-Onna [ FURY Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=_6_UOxRok6w</id>
-        <link href="https://www.youtube.com/watch?v=_6_UOxRok6w"/>
-        <updated>2024-11-19T12:00:45.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -912,24 +930,6 @@
         <updated>2024-11-06T14:57:05.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #2]]></title>
-        <id>https://www.youtube.com/watch?v=rm5RqJZI93A</id>
-        <link href="https://www.youtube.com/watch?v=rm5RqJZI93A"/>
-        <updated>2024-11-06T12:01:06.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爆紅reels該如何製作？ 攝影師3步驟教你！]]></title>
-        <id>https://www.youtube.com/watch?v=iGvMkV6RPqg</id>
-        <link href="https://www.youtube.com/watch?v=iGvMkV6RPqg"/>
-        <updated>2024-11-06T10:00:50.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>
