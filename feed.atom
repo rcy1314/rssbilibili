@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-10T01:58:07.248Z</id>
+    <id>urn:2024-12-11T01:56:18.838Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-10T01:58:07.248Z</updated>
+    <updated>2024-12-11T01:56:18.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cinematic Experience – Alex-Productions (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=QL3O8MUFAm4</id>
+        <link href="https://www.youtube.com/watch?v=QL3O8MUFAm4"/>
+        <updated>2024-12-10T12:00:36.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Cực Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
+        <id>https://www.youtube.com/watch?v=ssmtKEjKmGA</id>
+        <link href="https://www.youtube.com/watch?v=ssmtKEjKmGA"/>
+        <updated>2024-12-10T12:00:08.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What makes a photograph stand out?]]></title>
+        <id>https://www.youtube.com/watch?v=y2ckBIMJIxY</id>
+        <link href="https://www.youtube.com/watch?v=y2ckBIMJIxY"/>
+        <updated>2024-12-10T08:00:45.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The GFX system for wildlife and conservation storytelling]]></title>
+        <id>https://www.youtube.com/watch?v=G1-VrUSHlZs</id>
+        <link href="https://www.youtube.com/watch?v=G1-VrUSHlZs"/>
+        <updated>2024-12-10T08:00:14.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100 II Wildlife Conservation Storytelling with Donal Boyd in Tanzania/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=ADi89HMFZeA</id>
+        <link href="https://www.youtube.com/watch?v=ADi89HMFZeA"/>
+        <updated>2024-12-10T08:00:07.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[十張照片聊聊「婚禮拍攝」！現場攝影師在想什麼？ ft. Sony 28-70mm F2 GM]]></title>
         <id>https://www.youtube.com/watch?v=vM2CM0BVq-I</id>
@@ -519,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arena – KV (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=GLOram079Dk</id>
-        <link href="https://www.youtube.com/watch?v=GLOram079Dk"/>
-        <updated>2024-11-25T12:00:18.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BIMONTE - Believe [ FURY Release ]]]></title>
         <id>https://www.youtube.com/watch?v=2id3YYNylq8</id>
         <link href="https://www.youtube.com/watch?v=2id3YYNylq8"/>
@@ -552,15 +588,6 @@
         <updated>2024-11-24T15:27:56.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=NFRlTULJGAA</id>
-        <link href="https://www.youtube.com/watch?v=NFRlTULJGAA"/>
-        <updated>2024-11-24T12:00:31.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -786,24 +813,6 @@
         <updated>2024-11-12T05:00:02.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們需要一顆旅遊鏡？]]></title>
-        <id>https://www.youtube.com/watch?v=FYkNcFDRyGA</id>
-        <link href="https://www.youtube.com/watch?v=FYkNcFDRyGA"/>
-        <updated>2024-11-11T12:30:08.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年10款好玩的大型開放世界 Open World 手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #3]]></title>
-        <id>https://www.youtube.com/watch?v=n_xXubxw4Co</id>
-        <link href="https://www.youtube.com/watch?v=n_xXubxw4Co"/>
-        <updated>2024-11-11T12:01:00.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
