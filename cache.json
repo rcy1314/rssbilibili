@@ -124,16 +124,6 @@
           "wordCount": null,
           "title": "不想拍对方比耶怎么破？｜短视频",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zF-l95JY86k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zF-l95JY86k",
-          "publishedOn": "2024-11-22T14:16:45.000Z",
-          "wordCount": null,
-          "title": "如何对着陌生人拍照？",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=alSoPh3tSd4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=alSoPh3tSd4",
+          "publishedOn": "2024-12-22T12:00:05.000Z",
+          "wordCount": null,
+          "title": "Top 15 Bản Nhạc EDM Mix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=g_di7iXrbfY",
           "author": null,
@@ -280,16 +280,6 @@
           "publishedOn": "2024-12-06T12:30:11.000Z",
           "wordCount": null,
           "title": "TOP 20 Bản EDM Mix Alan Walker Cực Phiêu Siêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u7Kj-a3B_M0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u7Kj-a3B_M0",
-          "publishedOn": "2024-12-05T12:01:32.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Cực Đỉnh Siêu Gây Nghiện  ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
           "imageUrl": null
         }
       ]
