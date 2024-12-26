@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-25T01:45:18.106Z</id>
+    <id>urn:2024-12-26T01:45:43.473Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-25T01:45:18.106Z</updated>
+    <updated>2024-12-26T01:45:43.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2024年12月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7]]></title>
+        <id>https://www.youtube.com/watch?v=WZouOQKkmUE</id>
+        <link href="https://www.youtube.com/watch?v=WZouOQKkmUE"/>
+        <updated>2024-12-25T12:00:41.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hope – Wanheda (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=LeMlSWEoFSU</id>
+        <link href="https://www.youtube.com/watch?v=LeMlSWEoFSU"/>
+        <updated>2024-12-25T12:00:33.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fury Team - Travel [ Fury Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=DVMHQlBOq_k</id>
+        <link href="https://www.youtube.com/watch?v=DVMHQlBOq_k"/>
+        <updated>2024-12-25T12:00:21.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Dark - ChillD'em (No Copyright Music) | Release Preview]]></title>
         <id>https://www.youtube.com/watch?v=DM5oIt3wdrU</id>
@@ -447,15 +474,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Classmate – SEUBi (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=uHGzk2bSyuk</id>
-        <link href="https://www.youtube.com/watch?v=uHGzk2bSyuk"/>
-        <updated>2024-12-11T12:01:12.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年12月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
         <id>https://www.youtube.com/watch?v=P7P9inSm82s</id>
         <link href="https://www.youtube.com/watch?v=P7P9inSm82s"/>
@@ -552,15 +570,6 @@
         <updated>2024-12-09T09:46:15.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Cực Phiêu Chơi Game Cực Cuốn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=5J_gBUrXaCc</id>
-        <link href="https://www.youtube.com/watch?v=5J_gBUrXaCc"/>
-        <updated>2024-12-08T12:00:09.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -768,33 +777,6 @@
         <updated>2024-11-27T10:45:58.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不想拍对方比耶怎么破？｜短视频]]></title>
-        <id>https://www.youtube.com/watch?v=NBBfoI6i0ac</id>
-        <link href="https://www.youtube.com/watch?v=NBBfoI6i0ac"/>
-        <updated>2024-11-26T12:30:29.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一封來自冬天的信]]></title>
-        <id>https://www.youtube.com/watch?v=sWnUEPpmVew</id>
-        <link href="https://www.youtube.com/watch?v=sWnUEPpmVew"/>
-        <updated>2024-11-26T09:59:10.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「免費預約中」新手也能掌握的 #後端工程師培訓營 💪 #六角學院 #工程師 #後端工程師]]></title>
-        <id>https://www.youtube.com/watch?v=OeNOamamKAI</id>
-        <link href="https://www.youtube.com/watch?v=OeNOamamKAI"/>
-        <updated>2024-11-26T00:00:14.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
