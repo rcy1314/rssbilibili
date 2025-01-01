@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-31T01:46:16.863Z</id>
+    <id>urn:2025-01-01T01:54:30.251Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-31T01:46:16.863Z</updated>
+    <updated>2025-01-01T01:54:30.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BIMONTE & JANFRY - In The End [ Fury Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=u-1JdexLvWU</id>
+        <link href="https://www.youtube.com/watch?v=u-1JdexLvWU"/>
+        <updated>2024-12-31T12:01:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunset – MusicbyAden (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=WYf6Ogasc4s</id>
+        <link href="https://www.youtube.com/watch?v=WYf6Ogasc4s"/>
+        <updated>2024-12-31T12:00:44.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拍照是一件單純而快樂的事情！擁抱旅拍的不確定性！ft. FUJIFILM X100VI]]></title>
         <id>https://www.youtube.com/watch?v=mpI8OAwA6mc</id>
@@ -429,15 +447,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rewind – MusicbyAden (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=BYaVqIhafiE</id>
-        <link href="https://www.youtube.com/watch?v=BYaVqIhafiE"/>
-        <updated>2024-12-17T12:00:20.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gigi Perez - Sailor Song (The Chainsmokers & TWINSICK Remix) (Lyric Video)]]></title>
         <id>https://www.youtube.com/watch?v=BJxz8EELD1E</id>
         <link href="https://www.youtube.com/watch?v=BJxz8EELD1E"/>
@@ -496,15 +505,6 @@
         <id>https://www.youtube.com/watch?v=Jgzv6zliFNE</id>
         <link href="https://www.youtube.com/watch?v=Jgzv6zliFNE"/>
         <updated>2024-12-15T12:02:47.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be Alright - Fury Team [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=xR-CXswb9sk</id>
-        <link href="https://www.youtube.com/watch?v=xR-CXswb9sk"/>
-        <updated>2024-12-14T12:01:19.000Z</updated>
         <author>
             <name>FURY EDM</name>
         </author>
@@ -723,42 +723,6 @@
         <updated>2024-12-02T19:56:47.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最適合攝影新手的第一顆人像鏡頭！ft. TTartisan 75mm F2]]></title>
-        <id>https://www.youtube.com/watch?v=QUKCGsBY5Q4</id>
-        <link href="https://www.youtube.com/watch?v=QUKCGsBY5Q4"/>
-        <updated>2024-12-02T12:30:30.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年10款精選的 RPG 角色扮演類手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #4]]></title>
-        <id>https://www.youtube.com/watch?v=iJsnUtmU3cY</id>
-        <link href="https://www.youtube.com/watch?v=iJsnUtmU3cY"/>
-        <updated>2024-12-02T12:01:01.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米如何成为横跨多领域的科技王国?【奔流·雷军 p3】]]></title>
-        <id>https://www.youtube.com/watch?v=64k8p9Y-u6U</id>
-        <link href="https://www.youtube.com/watch?v=64k8p9Y-u6U"/>
-        <updated>2024-12-02T09:42:47.000Z</updated>
-        <author>
-            <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科普：一切关于 OLED 争议话题，背后原因竟然是它]]></title>
-        <id>https://www.youtube.com/watch?v=KRurtRIRlTU</id>
-        <link href="https://www.youtube.com/watch?v=KRurtRIRlTU"/>
-        <updated>2024-12-02T04:20:31.000Z</updated>
-        <author>
-            <name>爱否科技</name>
         </author>
     </entry>
 </feed>
