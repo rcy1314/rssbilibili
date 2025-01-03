@@ -333,16 +333,6 @@
           "wordCount": null,
           "title": "各位善男信女，React 作品實戰班 報名倒數 3 天，跟上明年低一波求職潮｜六角學院",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RwggnHjebuA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RwggnHjebuA",
-          "publishedOn": "2024-12-03T15:20:50.000Z",
-          "wordCount": null,
-          "title": "【宇宙火箭計畫】後端工程師培訓營｜加碼！線上說明會 12/3(二) 21:00 準時開播",
-          "imageUrl": null
         }
       ]
     },
@@ -532,16 +522,6 @@
           "publishedOn": "2024-12-06T12:00:21.000Z",
           "wordCount": null,
           "title": "2024年12月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PdHcb167RZs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PdHcb167RZs",
-          "publishedOn": "2024-12-04T12:00:36.000Z",
-          "wordCount": null,
-          "title": "2024年12月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #1",
           "imageUrl": null
         }
       ]
@@ -818,6 +798,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RNJDwEfgT6o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RNJDwEfgT6o",
+          "publishedOn": "2025-01-02T12:00:26.000Z",
+          "wordCount": null,
+          "title": "Stormwind – Hotham (No Copyright Music)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JoyIRE5k2Yo",
           "author": null,
           "description": "",
@@ -955,16 +945,6 @@
           "publishedOn": "2024-12-20T12:01:03.000Z",
           "wordCount": null,
           "title": "midnight drifter – Snoozy Beats (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zTvmXW44FXc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zTvmXW44FXc",
-          "publishedOn": "2024-12-19T12:01:15.000Z",
-          "wordCount": null,
-          "title": "Instance – Johny Grimes (No Copyright Music)",
           "imageUrl": null
         }
       ]
