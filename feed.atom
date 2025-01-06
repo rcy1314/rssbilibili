@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-05T01:53:54.466Z</id>
+    <id>urn:2025-01-06T01:51:29.494Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T01:53:54.466Z</updated>
+    <updated>2025-01-06T01:51:29.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Pools Closed :( – MusicbyAden (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=IhgDhJLR6vM</id>
+        <link href="https://www.youtube.com/watch?v=IhgDhJLR6vM"/>
+        <updated>2025-01-05T12:00:20.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 12 Bản Nhạc EDM Mix Cực Đỉnh Siêu Gây Nghiện  ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=vai8wsr71-M</id>
+        <link href="https://www.youtube.com/watch?v=vai8wsr71-M"/>
+        <updated>2025-01-05T12:00:16.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOP 13 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=zk5BZnmMaSs</id>
@@ -393,15 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 50 Free Songs of 2024 from the Audio Library]]></title>
-        <id>https://www.youtube.com/watch?v=2cAYMgR1EpQ</id>
-        <link href="https://www.youtube.com/watch?v=2cAYMgR1EpQ"/>
-        <updated>2024-12-21T15:00:03.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PHURS feat. HYLIA - Play [ Fury Release ]]]></title>
         <id>https://www.youtube.com/watch?v=g_di7iXrbfY</id>
         <link href="https://www.youtube.com/watch?v=g_di7iXrbfY"/>
@@ -417,15 +426,6 @@
         <updated>2024-12-21T10:15:05.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Cực Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=uz7VWoXaoN0</id>
-        <link href="https://www.youtube.com/watch?v=uz7VWoXaoN0"/>
-        <updated>2024-12-20T12:01:20.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -660,15 +660,6 @@
         <updated>2024-12-09T09:46:15.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活在火山腳下是什麼體驗？鹿兒島旅行 vlog | 日本南九州旅行 vlog 1]]></title>
-        <id>https://www.youtube.com/watch?v=I2v1s0n3h1g</id>
-        <link href="https://www.youtube.com/watch?v=I2v1s0n3h1g"/>
-        <updated>2024-12-07T05:12:36.000Z</updated>
-        <author>
-            <name>Hantao TB</name>
         </author>
     </entry>
 </feed>
