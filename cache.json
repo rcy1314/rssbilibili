@@ -58,7 +58,7 @@
       ]
     },
     {
-      "title": "文广同学X",
+      "title": "Y同学",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
       "articles": []
@@ -80,6 +80,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=k0id0qGDaU0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k0id0qGDaU0",
+          "publishedOn": "2025-01-06T12:02:37.000Z",
+          "wordCount": null,
+          "title": "Top 15 Bản Nhạc EDM Mix \"Nhiều Cảm Xúc\" Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vai8wsr71-M",
           "author": null,
@@ -218,16 +228,6 @@
           "publishedOn": "2024-12-22T12:00:05.000Z",
           "wordCount": null,
           "title": "Top 15 Bản Nhạc EDM Mix Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g_di7iXrbfY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g_di7iXrbfY",
-          "publishedOn": "2024-12-21T12:01:00.000Z",
-          "wordCount": null,
-          "title": "PHURS feat. HYLIA - Play [ Fury Release ]",
           "imageUrl": null
         }
       ]
@@ -373,6 +373,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ijEB1gb95tM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ijEB1gb95tM",
+          "publishedOn": "2025-01-06T12:30:41.000Z",
+          "wordCount": null,
+          "title": "2025年15款 MMORPG 大型多人在線角色扮演手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ij_ofgfgpU0",
           "author": null,
@@ -642,6 +652,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tc2G1E0UyDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tc2G1E0UyDU",
+          "publishedOn": "2025-01-06T12:31:00.000Z",
+          "wordCount": null,
+          "title": "FujiFilm 底片模擬的奧秘！真的有那麼好用嗎？詳細分析給你聽！Ft. FUJIFILM X-T50",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rJE1NYYUJQw",
           "author": null,
           "description": "",
@@ -765,6 +785,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eRAN5w-6khc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eRAN5w-6khc",
+          "publishedOn": "2025-01-06T12:00:53.000Z",
+          "wordCount": null,
+          "title": "Glory – Jay Someday (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IhgDhJLR6vM",
           "author": null,
@@ -903,16 +933,6 @@
           "publishedOn": "2024-12-24T12:00:49.000Z",
           "wordCount": null,
           "title": "Christmas Magic – Alex-Productions (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jw_yqYMF0xo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jw_yqYMF0xo",
-          "publishedOn": "2024-12-23T12:01:01.000Z",
-          "wordCount": null,
-          "title": "Back To Me – Jay Someday (No Copyright Music)",
           "imageUrl": null
         }
       ]

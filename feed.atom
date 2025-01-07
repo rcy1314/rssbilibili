@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-06T01:51:29.494Z</id>
+    <id>urn:2025-01-07T01:47:57.789Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-06T01:51:29.494Z</updated>
+    <updated>2025-01-07T01:47:57.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FujiFilm 底片模擬的奧秘！真的有那麼好用嗎？詳細分析給你聽！Ft. FUJIFILM X-T50]]></title>
+        <id>https://www.youtube.com/watch?v=tc2G1E0UyDU</id>
+        <link href="https://www.youtube.com/watch?v=tc2G1E0UyDU"/>
+        <updated>2025-01-06T12:31:00.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款 MMORPG 大型多人在線角色扮演手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=ijEB1gb95tM</id>
+        <link href="https://www.youtube.com/watch?v=ijEB1gb95tM"/>
+        <updated>2025-01-06T12:30:41.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Mix "Nhiều Cảm Xúc" Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=k0id0qGDaU0</id>
+        <link href="https://www.youtube.com/watch?v=k0id0qGDaU0"/>
+        <updated>2025-01-06T12:02:37.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glory – Jay Someday (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=eRAN5w-6khc</id>
+        <link href="https://www.youtube.com/watch?v=eRAN5w-6khc"/>
+        <updated>2025-01-06T12:00:53.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pools Closed :( – MusicbyAden (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=IhgDhJLR6vM</id>
@@ -384,15 +420,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Back To Me – Jay Someday (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=jw_yqYMF0xo</id>
-        <link href="https://www.youtube.com/watch?v=jw_yqYMF0xo"/>
-        <updated>2024-12-23T12:01:01.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fury Team - Broken Promises [ Fury Release ]]]></title>
         <id>https://www.youtube.com/watch?v=VYUbKqdrU80</id>
         <link href="https://www.youtube.com/watch?v=VYUbKqdrU80"/>
@@ -406,15 +433,6 @@
         <id>https://www.youtube.com/watch?v=alSoPh3tSd4</id>
         <link href="https://www.youtube.com/watch?v=alSoPh3tSd4"/>
         <updated>2024-12-22T12:00:05.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHURS feat. HYLIA - Play [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=g_di7iXrbfY</id>
-        <link href="https://www.youtube.com/watch?v=g_di7iXrbfY"/>
-        <updated>2024-12-21T12:01:00.000Z</updated>
         <author>
             <name>FURY EDM</name>
         </author>
