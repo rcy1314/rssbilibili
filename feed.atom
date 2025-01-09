@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-08T01:47:10.570Z</id>
+    <id>urn:2025-01-09T02:18:36.680Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T01:47:10.570Z</updated>
+    <updated>2025-01-09T02:18:36.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[營造室內空間氛圍神器！ft. NANLITE 南光 FS-300C]]></title>
+        <id>https://www.youtube.com/watch?v=fhv-2hty23E</id>
+        <link href="https://www.youtube.com/watch?v=fhv-2hty23E"/>
+        <updated>2025-01-08T16:55:41.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 12 Bản EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=_W2mPs0nnKo</id>
+        <link href="https://www.youtube.com/watch?v=_W2mPs0nnKo"/>
+        <updated>2025-01-08T12:10:00.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
+        <id>https://www.youtube.com/watch?v=ogtS9UDW53w</id>
+        <link href="https://www.youtube.com/watch?v=ogtS9UDW53w"/>
+        <updated>2025-01-08T12:01:10.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolution – Alex-Productions (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=hwQwbsI1p80</id>
+        <link href="https://www.youtube.com/watch?v=hwQwbsI1p80"/>
+        <updated>2025-01-08T12:00:55.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tezis - Cupid [ Fury Release ]]]></title>
         <id>https://www.youtube.com/watch?v=L43BcDqrwa8</id>
@@ -366,15 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After Dark - ChillD'em (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=DM5oIt3wdrU</id>
-        <link href="https://www.youtube.com/watch?v=DM5oIt3wdrU"/>
-        <updated>2024-12-24T16:00:10.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix "Nhiều Cảm Xúc" Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
         <id>https://www.youtube.com/watch?v=pesnBys2_bw</id>
         <link href="https://www.youtube.com/watch?v=pesnBys2_bw"/>
@@ -426,15 +453,6 @@
         <updated>2024-12-23T12:30:02.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fury Team - Broken Promises [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=VYUbKqdrU80</id>
-        <link href="https://www.youtube.com/watch?v=VYUbKqdrU80"/>
-        <updated>2024-12-23T12:00:27.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -624,33 +642,6 @@
         <updated>2024-12-11T11:00:00.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What makes a photograph stand out?]]></title>
-        <id>https://www.youtube.com/watch?v=y2ckBIMJIxY</id>
-        <link href="https://www.youtube.com/watch?v=y2ckBIMJIxY"/>
-        <updated>2024-12-10T08:00:45.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The GFX system for wildlife and conservation storytelling]]></title>
-        <id>https://www.youtube.com/watch?v=G1-VrUSHlZs</id>
-        <link href="https://www.youtube.com/watch?v=G1-VrUSHlZs"/>
-        <updated>2024-12-10T08:00:14.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100 II Wildlife Conservation Storytelling with Donal Boyd in Tanzania/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=ADi89HMFZeA</id>
-        <link href="https://www.youtube.com/watch?v=ADi89HMFZeA"/>
-        <updated>2024-12-10T08:00:07.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
