@@ -67,7 +67,18 @@
       "title": "黄杨ME",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYnyI0YuiJRFg2CoBOCGEaA",
       "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HB6Thftx3-E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HB6Thftx3-E",
+          "publishedOn": "2025-01-10T11:00:30.000Z",
+          "wordCount": null,
+          "title": "我的Mac扩容和备份方案",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "左手+",
@@ -244,6 +255,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ie-HETupsAc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ie-HETupsAc",
+          "publishedOn": "2025-01-10T11:12:59.000Z",
+          "wordCount": null,
+          "title": "攝影師必備！最快速的修圖方法- Imagen AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2KTeUef0m7Y",
           "author": null,
           "description": "",
@@ -363,6 +384,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SlGjy2onfv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SlGjy2onfv0",
+          "publishedOn": "2025-01-10T12:00:40.000Z",
+          "wordCount": null,
+          "title": "2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #4",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ogtS9UDW53w",
           "author": null,
@@ -506,6 +537,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
       "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GOHZeCAHCmI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GOHZeCAHCmI",
+          "publishedOn": "2025-01-10T10:25:06.000Z",
+          "wordCount": null,
+          "title": "照片细节能不能 AI 生成 ？荣耀 Magic 7 RSR 重新定义影像旗舰",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-W7d1RYUDJY",
           "author": null,
@@ -717,24 +758,23 @@
       "title": "FUJIFILM X Series",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=3kVLDNRxEas",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3kVLDNRxEas",
-          "publishedOn": "2024-12-11T18:30:02.000Z",
-          "wordCount": null,
-          "title": "GFX100 II x Nicky Hamilton: Fine-Art Storytelling in Photography/ FUJIFILM",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Audio Library — Music for content creators",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UA7m1Ruvfew",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UA7m1Ruvfew",
+          "publishedOn": "2025-01-10T12:00:39.000Z",
+          "wordCount": null,
+          "title": "Lost In The Rooftops – Snoozy Beats (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZimcxDkcFnM",
           "author": null,
@@ -873,16 +913,6 @@
           "publishedOn": "2024-12-27T12:00:36.000Z",
           "wordCount": null,
           "title": "Brunch for Two – Tokyo Music Walker (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NTXxkRLiYcM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NTXxkRLiYcM",
-          "publishedOn": "2024-12-26T12:00:32.000Z",
-          "wordCount": null,
-          "title": "Miss You (Instrumental) – Hotham (No Copyright Music)",
           "imageUrl": null
         }
       ]
