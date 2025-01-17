@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-16T01:43:37.736Z</id>
+    <id>urn:2025-01-17T01:42:53.327Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T01:43:37.736Z</updated>
+    <updated>2025-01-17T01:42:53.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[VietNam A - Fury Team [ Fury Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=S15xY7YIUx8</id>
+        <link href="https://www.youtube.com/watch?v=S15xY7YIUx8"/>
+        <updated>2025-01-16T12:00:34.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fade – Snoozy Beats (No Copyright Music)]]></title>
+        <id>https://www.youtube.com/watch?v=F-fRdgaDkwU</id>
+        <link href="https://www.youtube.com/watch?v=F-fRdgaDkwU"/>
+        <updated>2025-01-16T12:00:27.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter in Takamatsu, Japan #takamatsu  Japan travel Vlog]]></title>
+        <id>https://www.youtube.com/watch?v=hjl7tevqo6s</id>
+        <link href="https://www.youtube.com/watch?v=hjl7tevqo6s"/>
+        <updated>2025-01-16T10:13:22.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[B2B] Aerial Mapping Project with GFX100 IRBy Z-Air in Canada / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=FSge2pUXewY</id>
+        <link href="https://www.youtube.com/watch?v=FSge2pUXewY"/>
+        <updated>2025-01-16T06:51:22.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[B2B] GFX100S | GigaPanography as a multimedia interpretation technique / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=eTMuz6p7TdI</id>
+        <link href="https://www.youtube.com/watch?v=eTMuz6p7TdI"/>
+        <updated>2025-01-16T06:50:58.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI降噪加持后，哈苏Phocus Mobile2这么肆无忌惮！]]></title>
         <id>https://www.youtube.com/watch?v=NPi5S7ExkNs</id>
@@ -420,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daylight – Alex-Productions (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=JoyIRE5k2Yo</id>
-        <link href="https://www.youtube.com/watch?v=JoyIRE5k2Yo"/>
-        <updated>2025-01-01T12:00:21.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #1]]></title>
         <id>https://www.youtube.com/watch?v=F0ZX9pIMEIo</id>
         <link href="https://www.youtube.com/watch?v=F0ZX9pIMEIo"/>
@@ -489,15 +525,6 @@
         <updated>2024-12-30T04:26:14.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 15 Bản EDM Mix Cực Phiêu "Buff Cảm Hứng Cực Mạnh" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=vCUVfiZQFYI</id>
-        <link href="https://www.youtube.com/watch?v=vCUVfiZQFYI"/>
-        <updated>2024-12-29T12:01:10.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -642,24 +669,6 @@
         <updated>2024-12-19T06:10:01.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用对光才是王道！3个摄影布光技巧超实用]]></title>
-        <id>https://www.youtube.com/watch?v=Zs9iEX4gHhI</id>
-        <link href="https://www.youtube.com/watch?v=Zs9iEX4gHhI"/>
-        <updated>2024-12-18T13:30:31.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年12月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #5]]></title>
-        <id>https://www.youtube.com/watch?v=QTloi7ILoes</id>
-        <link href="https://www.youtube.com/watch?v=QTloi7ILoes"/>
-        <updated>2024-12-18T12:00:38.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>

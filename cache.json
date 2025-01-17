@@ -73,6 +73,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=S15xY7YIUx8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S15xY7YIUx8",
+          "publishedOn": "2025-01-16T12:00:34.000Z",
+          "wordCount": null,
+          "title": "VietNam A - Fury Team [ Fury Release ]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yUsI_MmqsdQ",
           "author": null,
           "description": "",
@@ -211,16 +221,6 @@
           "wordCount": null,
           "title": "Top 20 Bản Nhạc EDM Mix Cực Phiêu Gây Nghiện Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vCUVfiZQFYI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vCUVfiZQFYI",
-          "publishedOn": "2024-12-29T12:01:10.000Z",
-          "wordCount": null,
-          "title": "TOP 15 Bản EDM Mix Cực Phiêu \"Buff Cảm Hứng Cực Mạnh\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -235,6 +235,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hjl7tevqo6s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hjl7tevqo6s",
+          "publishedOn": "2025-01-16T10:13:22.000Z",
+          "wordCount": null,
+          "title": "Winter in Takamatsu, Japan #takamatsu  Japan travel Vlog",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ie-HETupsAc",
           "author": null,
@@ -276,16 +286,6 @@
           "publishedOn": "2024-12-24T07:30:14.000Z",
           "wordCount": null,
           "title": "你握对了吗？10种稳定器握法｜姿势不对，画面浪费！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zs9iEX4gHhI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zs9iEX4gHhI",
-          "publishedOn": "2024-12-18T13:30:31.000Z",
-          "wordCount": null,
-          "title": "用对光才是王道！3个摄影布光技巧超实用",
           "imageUrl": null
         }
       ]
@@ -513,16 +513,6 @@
           "publishedOn": "2024-12-20T12:00:51.000Z",
           "wordCount": null,
           "title": "2024年12月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #6",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QTloi7ILoes",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QTloi7ILoes",
-          "publishedOn": "2024-12-18T12:00:38.000Z",
-          "wordCount": null,
-          "title": "2024年12月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #5",
           "imageUrl": null
         }
       ]
@@ -760,13 +750,44 @@
       "title": "FUJIFILM X Series",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FSge2pUXewY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FSge2pUXewY",
+          "publishedOn": "2025-01-16T06:51:22.000Z",
+          "wordCount": null,
+          "title": "[B2B] Aerial Mapping Project with GFX100 IRBy Z-Air in Canada / FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eTMuz6p7TdI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eTMuz6p7TdI",
+          "publishedOn": "2025-01-16T06:50:58.000Z",
+          "wordCount": null,
+          "title": "[B2B] GFX100S | GigaPanography as a multimedia interpretation technique / FUJIFILM",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Audio Library — Music for content creators",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F-fRdgaDkwU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F-fRdgaDkwU",
+          "publishedOn": "2025-01-16T12:00:27.000Z",
+          "wordCount": null,
+          "title": "Fade – Snoozy Beats (No Copyright Music)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Put6WyjVYos",
           "author": null,
@@ -905,16 +926,6 @@
           "publishedOn": "2025-01-02T12:00:26.000Z",
           "wordCount": null,
           "title": "Stormwind – Hotham (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JoyIRE5k2Yo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JoyIRE5k2Yo",
-          "publishedOn": "2025-01-01T12:00:21.000Z",
-          "wordCount": null,
-          "title": "Daylight – Alex-Productions (No Copyright Music)",
           "imageUrl": null
         }
       ]
