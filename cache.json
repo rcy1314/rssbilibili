@@ -52,6 +52,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=W2-huXLBl10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W2-huXLBl10",
+          "publishedOn": "2025-01-19T12:58:39.000Z",
+          "wordCount": null,
+          "title": "EDM ĐÓN TẾT - MỪNG XUÂN 2025 ♫ Tracks 12 Bản Nhạc EDM Mix Hay Quẩy TẾT Cực Phiêu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZnpsZuByk3Q",
           "author": null,
           "description": "",
@@ -189,16 +199,6 @@
           "publishedOn": "2025-01-03T12:00:54.000Z",
           "wordCount": null,
           "title": "🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Cực Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=36K20mBXtfg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=36K20mBXtfg",
-          "publishedOn": "2025-01-01T12:00:03.000Z",
-          "wordCount": null,
-          "title": "RYVN & Sana Arora - Someone You Loved [ Fury Release ]",
           "imageUrl": null
         }
       ]
@@ -628,16 +628,6 @@
           "publishedOn": "2024-12-29T10:15:04.000Z",
           "wordCount": null,
           "title": "大疆Pocket 3 + Mic Mini 完美的旅行Vlog组合 10个使用技巧让你的Vlog的声音更好听 #djimicmini",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hoJYR0cpq80",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hoJYR0cpq80",
-          "publishedOn": "2024-12-21T10:15:05.000Z",
-          "wordCount": null,
-          "title": "这样的悉尼，会让我爱上无数次！|附旅行攻略 超全照片打卡点",
           "imageUrl": null
         }
       ]
