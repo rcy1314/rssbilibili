@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=e_Sd03jNiLY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e_Sd03jNiLY",
+          "publishedOn": "2025-01-26T12:00:22.000Z",
+          "wordCount": null,
+          "title": "Top 15 Bản Nhạc EDM Nghe Hoài Không Chán ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=i0PNduR2YPk",
           "author": null,
           "description": "",
@@ -220,16 +230,6 @@
           "publishedOn": "2025-01-08T12:10:00.000Z",
           "wordCount": null,
           "title": "TOP 12 Bản EDM Mix Cực Phiêu \"Xoá Tan Mọi Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L43BcDqrwa8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L43BcDqrwa8",
-          "publishedOn": "2025-01-07T12:00:23.000Z",
-          "wordCount": null,
-          "title": "Tezis - Cupid [ Fury Release ]",
           "imageUrl": null
         }
       ]

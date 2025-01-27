@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-26T01:46:57.915Z</id>
+    <id>urn:2025-01-27T01:46:18.515Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-26T01:46:57.915Z</updated>
+    <updated>2025-01-27T01:46:18.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Nghe Hoài Không Chán ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=e_Sd03jNiLY</id>
+        <link href="https://www.youtube.com/watch?v=e_Sd03jNiLY"/>
+        <updated>2025-01-26T12:00:22.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2003年的中国发生了什么？【激荡四十年·2003】]]></title>
         <id>https://www.youtube.com/watch?v=QXp5V5uB7c0</id>
@@ -552,15 +561,6 @@
         <updated>2025-01-08T12:00:55.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tezis - Cupid [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=L43BcDqrwa8</id>
-        <link href="https://www.youtube.com/watch?v=L43BcDqrwa8"/>
-        <updated>2025-01-07T12:00:23.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
