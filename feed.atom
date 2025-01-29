@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-28T01:43:44.097Z</id>
+    <id>urn:2025-01-29T01:43:49.242Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T01:43:44.097Z</updated>
+    <updated>2025-01-29T01:43:49.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EDM ĐÓN TẾT - MỪNG XUÂN 2025 ♫ Tracks 12 Bản Nhạc EDM Mix Hay Quẩy TẾT Cực Phiêu]]></title>
+        <id>https://www.youtube.com/watch?v=8YSj53EEs6I</id>
+        <link href="https://www.youtube.com/watch?v=8YSj53EEs6I"/>
+        <updated>2025-01-28T12:36:32.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我都ok啊十萬線下見面會✌️]]></title>
+        <id>https://www.youtube.com/watch?v=5o5s-mvinI0</id>
+        <link href="https://www.youtube.com/watch?v=5o5s-mvinI0"/>
+        <updated>2025-01-28T03:08:22.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年15款射擊類 Shooter 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
         <id>https://www.youtube.com/watch?v=uOhsmuDTGIQ</id>
@@ -555,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 12 Bản EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=_W2mPs0nnKo</id>
-        <link href="https://www.youtube.com/watch?v=_W2mPs0nnKo"/>
-        <updated>2025-01-08T12:10:00.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
         <id>https://www.youtube.com/watch?v=ogtS9UDW53w</id>
         <link href="https://www.youtube.com/watch?v=ogtS9UDW53w"/>
@@ -660,33 +669,6 @@
         <updated>2025-01-01T12:00:15.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拍照是一件單純而快樂的事情！擁抱旅拍的不確定性！ft. FUJIFILM X100VI]]></title>
-        <id>https://www.youtube.com/watch?v=mpI8OAwA6mc</id>
-        <link href="https://www.youtube.com/watch?v=mpI8OAwA6mc"/>
-        <updated>2024-12-30T12:30:48.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15款2025年最讓人期待的手機遊戲推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品~]]></title>
-        <id>https://www.youtube.com/watch?v=PoJM_1HotOc</id>
-        <link href="https://www.youtube.com/watch?v=PoJM_1HotOc"/>
-        <updated>2024-12-30T12:00:34.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加 Ace 5 Pro 评测：从“外挂芯片”到“算法内核”]]></title>
-        <id>https://www.youtube.com/watch?v=4Mfr_GGIiMc</id>
-        <link href="https://www.youtube.com/watch?v=4Mfr_GGIiMc"/>
-        <updated>2024-12-30T04:26:14.000Z</updated>
-        <author>
-            <name>爱否科技</name>
         </author>
     </entry>
 </feed>
