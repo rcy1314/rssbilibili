@@ -21,7 +21,18 @@
       "title": "文广同学X",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
       "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RUjb6b5ZNcw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RUjb6b5ZNcw",
+          "publishedOn": "2025-01-29T06:06:09.000Z",
+          "wordCount": null,
+          "title": "兄弟们 新年快乐🎊🎊感谢大家长期的陪伴和支持",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "黄杨ME",
@@ -82,6 +93,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W2f7UrTPxqQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W2f7UrTPxqQ",
+          "publishedOn": "2025-01-29T12:01:54.000Z",
+          "wordCount": null,
+          "title": "EDM Tết 2025 - TOP 12 Bản Nhạc EDM Mix Phiêu Chào Xuân Ất Tỵ ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8YSj53EEs6I",
           "author": null,
@@ -220,16 +241,6 @@
           "publishedOn": "2025-01-11T12:00:23.000Z",
           "wordCount": null,
           "title": "TOP 12 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=isKl5CjB-Bg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=isKl5CjB-Bg",
-          "publishedOn": "2025-01-09T12:00:58.000Z",
-          "wordCount": null,
-          "title": "TOP Nhạc EDM Style Alan Walker Mix Cực Phiêu Nghe Cực Cuốn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
         }
       ]
@@ -405,6 +416,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SfgLcFqkZHw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SfgLcFqkZHw",
+          "publishedOn": "2025-01-29T12:00:38.000Z",
+          "wordCount": null,
+          "title": "2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #9",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uOhsmuDTGIQ",
           "author": null,
@@ -778,6 +799,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BVy4MGZxBio",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BVy4MGZxBio",
+          "publishedOn": "2025-01-29T16:00:17.000Z",
+          "wordCount": null,
+          "title": "Eclipse - Next Route (No Copyright Music) | Release Preview",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SyPUvzEkPyc",
           "author": null,
           "description": "",
@@ -915,16 +946,6 @@
           "publishedOn": "2025-01-05T12:00:20.000Z",
           "wordCount": null,
           "title": "The Pools Closed :( – MusicbyAden (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=If1_ikmYH6U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=If1_ikmYH6U",
-          "publishedOn": "2025-01-04T12:00:20.000Z",
-          "wordCount": null,
-          "title": "Break Away – LiQWYD (No Copyright Music)",
           "imageUrl": null
         }
       ]
