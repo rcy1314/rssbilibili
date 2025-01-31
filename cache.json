@@ -94,6 +94,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rptqoijmy2s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rptqoijmy2s",
+          "publishedOn": "2025-01-30T12:01:13.000Z",
+          "wordCount": null,
+          "title": "TOP 12 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=W2f7UrTPxqQ",
           "author": null,
           "description": "",
@@ -231,16 +241,6 @@
           "publishedOn": "2025-01-13T12:00:57.000Z",
           "wordCount": null,
           "title": "TOP 12 Bản Nhạc EDM Mix Cực Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ETPRPgW7290",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ETPRPgW7290",
-          "publishedOn": "2025-01-11T12:00:23.000Z",
-          "wordCount": null,
-          "title": "TOP 12 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
         }
       ]
@@ -544,16 +544,6 @@
           "publishedOn": "2025-01-03T12:00:56.000Z",
           "wordCount": null,
           "title": "2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F0ZX9pIMEIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F0ZX9pIMEIo",
-          "publishedOn": "2025-01-01T12:00:15.000Z",
-          "wordCount": null,
-          "title": "2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #1",
           "imageUrl": null
         }
       ]
