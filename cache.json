@@ -94,6 +94,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hWP-ZxHDWGE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hWP-ZxHDWGE",
+          "publishedOn": "2025-02-02T12:01:02.000Z",
+          "wordCount": null,
+          "title": "TOP 12 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rptqoijmy2s",
           "author": null,
           "description": "",
@@ -231,16 +241,6 @@
           "publishedOn": "2025-01-14T12:00:26.000Z",
           "wordCount": null,
           "title": "Depth - Fury Team [ Fury Release ]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4EEE3opgEJE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4EEE3opgEJE",
-          "publishedOn": "2025-01-13T12:00:57.000Z",
-          "wordCount": null,
-          "title": "TOP 12 Bản Nhạc EDM Mix Cực Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
         }
       ]
