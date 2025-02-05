@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-04T01:44:38.948Z</id>
+    <id>urn:2025-02-05T01:45:41.015Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T01:44:38.948Z</updated>
+    <updated>2025-02-05T01:45:41.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Cực Phiêu Cực Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=bBQaj2HzwOE</id>
+        <link href="https://www.youtube.com/watch?v=bBQaj2HzwOE"/>
+        <updated>2025-02-04T12:00:49.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年15款動作角色扮演 ARPG 類手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
         <id>https://www.youtube.com/watch?v=WgE8s8DvFM8</id>
@@ -438,15 +447,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Depth - Fury Team [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=iJa-ymCclS4</id>
-        <link href="https://www.youtube.com/watch?v=iJa-ymCclS4"/>
-        <updated>2025-01-14T12:00:26.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stopping By The Café – MusicbyAden (No Copyright Music)]]></title>
         <id>https://www.youtube.com/watch?v=0OB1ETSEh34</id>
         <link href="https://www.youtube.com/watch?v=0OB1ETSEh34"/>
@@ -640,33 +640,6 @@
         <id>https://www.youtube.com/watch?v=4WAn6Nx0Rpk</id>
         <link href="https://www.youtube.com/watch?v=4WAn6Nx0Rpk"/>
         <updated>2025-01-07T12:00:06.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FujiFilm 底片模擬的奧秘！真的有那麼好用嗎？詳細分析給你聽！Ft. FUJIFILM X-T50]]></title>
-        <id>https://www.youtube.com/watch?v=tc2G1E0UyDU</id>
-        <link href="https://www.youtube.com/watch?v=tc2G1E0UyDU"/>
-        <updated>2025-01-06T12:31:00.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年15款 MMORPG 大型多人在線角色扮演手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=ijEB1gb95tM</id>
-        <link href="https://www.youtube.com/watch?v=ijEB1gb95tM"/>
-        <updated>2025-01-06T12:30:41.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glory – Jay Someday (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=eRAN5w-6khc</id>
-        <link href="https://www.youtube.com/watch?v=eRAN5w-6khc"/>
-        <updated>2025-01-06T12:00:53.000Z</updated>
         <author>
             <name>Audio Library — Music for content creators</name>
         </author>
