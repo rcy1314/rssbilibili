@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-06T01:46:07.736Z</id>
+    <id>urn:2025-02-07T01:46:30.952Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T01:46:07.736Z</updated>
+    <updated>2025-02-07T01:46:30.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Royel Otis - Oysters in My Pocket (The Chainsmokers Remix)]]></title>
+        <id>https://www.youtube.com/watch?v=1jmM3Vm_43w</id>
+        <link href="https://www.youtube.com/watch?v=1jmM3Vm_43w"/>
+        <updated>2025-02-06T16:32:21.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 13 Bản Nhạc EDM Mix "Buff Cảm Hứng" Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=1fN50WyvywE</id>
+        <link href="https://www.youtube.com/watch?v=1fN50WyvywE"/>
+        <updated>2025-02-06T12:00:19.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NiSi JetMag Pro 魔術套裝濾鏡組合]]></title>
+        <id>https://www.youtube.com/watch?v=y-24MXsP4dE</id>
+        <link href="https://www.youtube.com/watch?v=y-24MXsP4dE"/>
+        <updated>2025-02-06T04:46:25.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[张千里2024年度作品盘点【纯享版】]]></title>
         <id>https://www.youtube.com/watch?v=3mgd4VjeUbg</id>
@@ -276,7 +303,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一輩子值得擁有的一台相機！GRIII 跟 GRIIIx 該怎麼選？ft. RICOH GRIII GRIIIx]]></title>
+        <title type="html"><![CDATA[一輩子值得擁有的一台相機！GRIII 跟 GRIIIx 該怎麼選？ft. NiSi JetMag Pro 魔術快裝｜ft. RICOH GRIII GRIIIx]]></title>
         <id>https://www.youtube.com/watch?v=_mOQza6sAmQ</id>
         <link href="https://www.youtube.com/watch?v=_mOQza6sAmQ"/>
         <updated>2025-01-20T12:30:27.000Z</updated>
@@ -381,15 +408,6 @@
         <updated>2025-01-17T10:00:17.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VietNam A - Fury Team [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=S15xY7YIUx8</id>
-        <link href="https://www.youtube.com/watch?v=S15xY7YIUx8"/>
-        <updated>2025-01-16T12:00:34.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -633,24 +651,6 @@
         <updated>2025-01-08T16:55:41.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #3]]></title>
-        <id>https://www.youtube.com/watch?v=ogtS9UDW53w</id>
-        <link href="https://www.youtube.com/watch?v=ogtS9UDW53w"/>
-        <updated>2025-01-08T12:01:10.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolution – Alex-Productions (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=hwQwbsI1p80</id>
-        <link href="https://www.youtube.com/watch?v=hwQwbsI1p80"/>
-        <updated>2025-01-08T12:00:55.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
 </feed>
