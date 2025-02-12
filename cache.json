@@ -104,6 +104,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=y_TaIUuzeQc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y_TaIUuzeQc",
+          "publishedOn": "2025-02-11T12:00:45.000Z",
+          "wordCount": null,
+          "title": "Top 15 Bản Nhạc EDM Mix \"Buff Cảm Hứng\" Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6b_bVFehW4Q",
           "author": null,
           "description": "",
@@ -241,16 +251,6 @@
           "publishedOn": "2025-01-20T12:00:09.000Z",
           "wordCount": null,
           "title": "Happy Spring - Fury Team [ Fury Release ]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W2-huXLBl10",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W2-huXLBl10",
-          "publishedOn": "2025-01-19T12:58:39.000Z",
-          "wordCount": null,
-          "title": "EDM ĐÓN TẾT - MỪNG XUÂN 2025 ♫ Tracks 12 Bản Nhạc EDM Mix Hay Quẩy TẾT Cực Phiêu",
           "imageUrl": null
         }
       ]
@@ -412,16 +412,6 @@
           "wordCount": null,
           "title": "2001年的中国发生了什么？【激荡四十年·2001】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4-HcoQux6Cg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4-HcoQux6Cg",
-          "publishedOn": "2025-01-13T11:00:08.000Z",
-          "wordCount": null,
-          "title": "暴君、傀儡、赌徒、硬汉、商业思想家，任正非的多重面孔【奔流·任正非】",
-          "imageUrl": null
         }
       ]
     },
@@ -566,16 +556,6 @@
           "wordCount": null,
           "title": "2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #5",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sW9-iPHpm8s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sW9-iPHpm8s",
-          "publishedOn": "2025-01-13T12:01:12.000Z",
-          "wordCount": null,
-          "title": "2025年15款大型開放世界 Open World 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1",
-          "imageUrl": null
         }
       ]
     },
@@ -583,18 +563,7 @@
       "title": "Hantao TB",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvrZmNng7An3edE6Db13mnw",
       "siteUrl": "https://www.youtube.com/channel/UCvrZmNng7An3edE6Db13mnw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Mawex0S6OLE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Mawex0S6OLE",
-          "publishedOn": "2025-01-13T09:00:11.000Z",
-          "wordCount": null,
-          "title": "在日本南九州拍了一吨的照片 | 徕卡m10+叙Thypoch 50mmf1.4/小米14Ultra",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "爱否科技",
@@ -744,16 +713,6 @@
           "wordCount": null,
           "title": "一輩子值得擁有的一台相機！GRIII 跟 GRIIIx 該怎麼選？ft. NiSi JetMag Pro 魔術快裝｜ft. RICOH GRIII GRIIIx",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ChlwMDbVjGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ChlwMDbVjGU",
-          "publishedOn": "2025-01-13T12:30:11.000Z",
-          "wordCount": null,
-          "title": "所以說，淺景深怎麼了嗎？",
-          "imageUrl": null
         }
       ]
     },
@@ -857,16 +816,6 @@
           "publishedOn": "2025-01-14T12:00:02.000Z",
           "wordCount": null,
           "title": "Stopping By The Café – MusicbyAden (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CbOrQSfsPNY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CbOrQSfsPNY",
-          "publishedOn": "2025-01-13T12:00:14.000Z",
-          "wordCount": null,
-          "title": "Dreaming Journey II – GalaxyTones (No Copyright Music)",
           "imageUrl": null
         }
       ]
