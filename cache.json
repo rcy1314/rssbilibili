@@ -104,6 +104,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4GfiBGVdWEo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4GfiBGVdWEo",
+          "publishedOn": "2025-02-12T12:01:32.000Z",
+          "wordCount": null,
+          "title": "Autumn And Nostalgia - Fury Team [ Fury Release ]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=y_TaIUuzeQc",
           "author": null,
           "description": "",
@@ -241,16 +251,6 @@
           "publishedOn": "2025-01-21T12:00:42.000Z",
           "wordCount": null,
           "title": "TOP 12 Bản EDM Mix Cực Phiêu \"Xoá Tan Mọi Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5c3BTjBFWkQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5c3BTjBFWkQ",
-          "publishedOn": "2025-01-20T12:00:09.000Z",
-          "wordCount": null,
-          "title": "Happy Spring - Fury Team [ Fury Release ]",
           "imageUrl": null
         }
       ]
@@ -421,11 +421,11 @@
       "siteUrl": "https://www.youtube.com/channel/UCm4cFzs3Iotlu27fOP_KwlA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=dCH1OIYo7-E",
+          "id": "https://www.youtube.com/watch?v=SBJ9RpEPQWg",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=dCH1OIYo7-E",
-          "publishedOn": "2025-02-08T12:00:56.000Z",
+          "link": "https://www.youtube.com/watch?v=SBJ9RpEPQWg",
+          "publishedOn": "2025-02-12T05:30:16.000Z",
           "wordCount": null,
           "title": "時隔兩年，完整講述【艾爾登法環】史詩級故事#1",
           "imageUrl": null
@@ -437,6 +437,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pgILJMhA2Qc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pgILJMhA2Qc",
+          "publishedOn": "2025-02-12T12:01:16.000Z",
+          "wordCount": null,
+          "title": "2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Yol10H-KbU8",
           "author": null,
@@ -661,7 +671,7 @@
           "link": "https://www.youtube.com/watch?v=2--HGOa2YRw",
           "publishedOn": "2025-02-10T12:30:01.000Z",
           "wordCount": null,
-          "title": "兩條北海道自駕路線推薦！只帶一台隨身相機旅行可以拍什麼？ ft. Leica Q2",
+          "title": "兩條北海道自駕路線推薦！只帶一台隨身相機旅行可以拍什麼？",
           "imageUrl": null
         },
         {
@@ -759,6 +769,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6vXASXLG-FY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6vXASXLG-FY",
+          "publishedOn": "2025-02-12T16:00:06.000Z",
+          "wordCount": null,
+          "title": "Happy - Next Route (No Copyright Music) | Release Preview",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BVy4MGZxBio",
           "author": null,
           "description": "",
@@ -806,16 +826,6 @@
           "publishedOn": "2025-01-15T12:00:40.000Z",
           "wordCount": null,
           "title": "Kokua – Luke Bergs (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0OB1ETSEh34",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0OB1ETSEh34",
-          "publishedOn": "2025-01-14T12:00:02.000Z",
-          "wordCount": null,
-          "title": "Stopping By The Café – MusicbyAden (No Copyright Music)",
           "imageUrl": null
         }
       ]
