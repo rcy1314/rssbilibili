@@ -104,6 +104,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-ulfNOnQ_Fo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-ulfNOnQ_Fo",
+          "publishedOn": "2025-02-14T12:00:00.000Z",
+          "wordCount": null,
+          "title": "VietNam B - Fury Team [ Fury Release ]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7EVkcAKGTCU",
           "author": null,
           "description": "",
@@ -242,16 +252,6 @@
           "wordCount": null,
           "title": "TOP 12 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=66fnc69pSkY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=66fnc69pSkY",
-          "publishedOn": "2025-01-22T12:00:16.000Z",
-          "wordCount": null,
-          "title": "Flowers Bloom - Fury Team [ Fury Release ]",
-          "imageUrl": null
         }
       ]
     },
@@ -265,18 +265,7 @@
       "title": "JJJason自由攝影師",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=hjl7tevqo6s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hjl7tevqo6s",
-          "publishedOn": "2025-01-16T10:13:22.000Z",
-          "wordCount": null,
-          "title": "Winter in Takamatsu, Japan #takamatsu  Japan travel Vlog",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "D2izy +.+",
@@ -437,6 +426,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kyWIJuTIwos",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kyWIJuTIwos",
+          "publishedOn": "2025-02-14T12:01:10.000Z",
+          "wordCount": null,
+          "title": "2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #4",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pgILJMhA2Qc",
           "author": null,
@@ -720,26 +719,6 @@
           "wordCount": null,
           "title": "2025 New Year Greeting / FUJIFILM",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FSge2pUXewY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FSge2pUXewY",
-          "publishedOn": "2025-01-16T06:51:22.000Z",
-          "wordCount": null,
-          "title": "[B2B] Aerial Mapping Project with GFX100 IR By Z-Air in Canada / FUJIFILM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eTMuz6p7TdI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eTMuz6p7TdI",
-          "publishedOn": "2025-01-16T06:50:58.000Z",
-          "wordCount": null,
-          "title": "[B2B] GFX100S | GigaPanography as a multimedia interpretation technique / FUJIFILM",
-          "imageUrl": null
         }
       ]
     },
@@ -786,16 +765,6 @@
           "publishedOn": "2025-01-17T12:01:23.000Z",
           "wordCount": null,
           "title": "New Light – LiQWYD (No Copyright Music)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F-fRdgaDkwU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F-fRdgaDkwU",
-          "publishedOn": "2025-01-16T12:00:27.000Z",
-          "wordCount": null,
-          "title": "Fade – Snoozy Beats (No Copyright Music)",
           "imageUrl": null
         }
       ]

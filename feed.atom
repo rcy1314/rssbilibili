@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-14T01:46:10.109Z</id>
+    <id>urn:2025-02-15T01:45:04.333Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T01:46:10.109Z</updated>
+    <updated>2025-02-15T01:45:04.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #4]]></title>
+        <id>https://www.youtube.com/watch?v=kyWIJuTIwos</id>
+        <link href="https://www.youtube.com/watch?v=kyWIJuTIwos"/>
+        <updated>2025-02-14T12:01:10.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VietNam B - Fury Team [ Fury Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=-ulfNOnQ_Fo</id>
+        <link href="https://www.youtube.com/watch?v=-ulfNOnQ_Fo"/>
+        <updated>2025-02-14T12:00:00.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社交属性拉满的法兰西M口旁轴相机——Pixii Max｜原来这么毒 第117集]]></title>
         <id>https://www.youtube.com/watch?v=8Mdp6IKg12Y</id>
@@ -420,15 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flowers Bloom - Fury Team [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=66fnc69pSkY</id>
-        <link href="https://www.youtube.com/watch?v=66fnc69pSkY"/>
-        <updated>2025-01-22T12:00:16.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[北海道必去景點之一！？新千歲機場超好逛！]]></title>
         <id>https://www.youtube.com/watch?v=8Nm_2Cl3T4c</id>
         <link href="https://www.youtube.com/watch?v=8Nm_2Cl3T4c"/>
@@ -516,42 +525,6 @@
         <updated>2025-01-17T10:00:17.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fade – Snoozy Beats (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=F-fRdgaDkwU</id>
-        <link href="https://www.youtube.com/watch?v=F-fRdgaDkwU"/>
-        <updated>2025-01-16T12:00:27.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter in Takamatsu, Japan #takamatsu  Japan travel Vlog]]></title>
-        <id>https://www.youtube.com/watch?v=hjl7tevqo6s</id>
-        <link href="https://www.youtube.com/watch?v=hjl7tevqo6s"/>
-        <updated>2025-01-16T10:13:22.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[B2B] Aerial Mapping Project with GFX100 IR By Z-Air in Canada / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=FSge2pUXewY</id>
-        <link href="https://www.youtube.com/watch?v=FSge2pUXewY"/>
-        <updated>2025-01-16T06:51:22.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[B2B] GFX100S | GigaPanography as a multimedia interpretation technique / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=eTMuz6p7TdI</id>
-        <link href="https://www.youtube.com/watch?v=eTMuz6p7TdI"/>
-        <updated>2025-01-16T06:50:58.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
