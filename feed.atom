@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-16T01:53:39.290Z</id>
+    <id>urn:2025-02-17T01:50:00.764Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T01:53:39.290Z</updated>
+    <updated>2025-02-17T01:50:00.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[VietNam C - Fury Team [ Fury Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=aydefmyMpLw</id>
+        <link href="https://www.youtube.com/watch?v=aydefmyMpLw"/>
+        <updated>2025-02-16T12:00:07.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【黑白色调】还在直接去色？黑白影像这样调才对！]]></title>
+        <id>https://www.youtube.com/watch?v=N2oihwW_aXw</id>
+        <link href="https://www.youtube.com/watch?v=N2oihwW_aXw"/>
+        <updated>2025-02-16T02:00:19.000Z</updated>
+        <author>
+            <name>文广同学X</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伦敦全体验【上集】：看过等于来过，经典路线独享世界大都会。｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=Hl5XPPel3Bk</id>
+        <link href="https://www.youtube.com/watch?v=Hl5XPPel3Bk"/>
+        <updated>2025-02-16T02:00:10.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black and White vs. Color #beautiful #beautifulgirl]]></title>
         <id>https://www.youtube.com/watch?v=3NOnSOV71qQ</id>
@@ -366,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 15 Bản Nhạc EDM Nghe Hoài Không Chán ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=e_Sd03jNiLY</id>
-        <link href="https://www.youtube.com/watch?v=e_Sd03jNiLY"/>
-        <updated>2025-01-26T12:00:22.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2003年的中国发生了什么？【激荡四十年·2003】]]></title>
         <id>https://www.youtube.com/watch?v=QXp5V5uB7c0</id>
         <link href="https://www.youtube.com/watch?v=QXp5V5uB7c0"/>
@@ -489,15 +507,6 @@
         <updated>2025-01-20T05:00:01.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timeless – Alex-Productions (No Copyright Music)]]></title>
-        <id>https://www.youtube.com/watch?v=SyPUvzEkPyc</id>
-        <link href="https://www.youtube.com/watch?v=SyPUvzEkPyc"/>
-        <updated>2025-01-18T12:00:38.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
 </feed>
