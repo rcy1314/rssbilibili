@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T01:46:12.006Z</id>
+    <id>urn:2025-02-19T01:47:22.009Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T01:46:12.006Z</updated>
+    <updated>2025-02-19T01:47:22.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[時隔兩年，完整講述【艾爾登法環】史詩級故事#2]]></title>
+        <id>https://www.youtube.com/watch?v=o6LlMk87rpQ</id>
+        <link href="https://www.youtube.com/watch?v=o6LlMk87rpQ"/>
+        <updated>2025-02-18T12:01:13.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 後端工程師專題班｜線上說明會 2/17 (一)  20:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=aQdFDMRqVXM</id>
@@ -498,33 +507,6 @@
         <updated>2025-01-21T12:40:57.000Z</updated>
         <author>
             <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一輩子值得擁有的一台相機！GRIII 跟 GRIIIx 該怎麼選？ft. NiSi JetMag Pro 魔術快裝｜ft. RICOH GRIII GRIIIx]]></title>
-        <id>https://www.youtube.com/watch?v=_mOQza6sAmQ</id>
-        <link href="https://www.youtube.com/watch?v=_mOQza6sAmQ"/>
-        <updated>2025-01-20T12:30:27.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年15款角色扮演 RPG 類手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=rfkfHXbR4oA</id>
-        <link href="https://www.youtube.com/watch?v=rfkfHXbR4oA"/>
-        <updated>2025-01-20T12:01:09.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 New Year Greeting / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=0qXs9c321cs</id>
-        <link href="https://www.youtube.com/watch?v=0qXs9c321cs"/>
-        <updated>2025-01-20T05:00:01.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>

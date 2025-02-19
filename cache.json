@@ -420,6 +420,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm4cFzs3Iotlu27fOP_KwlA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=o6LlMk87rpQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o6LlMk87rpQ",
+          "publishedOn": "2025-02-18T12:01:13.000Z",
+          "wordCount": null,
+          "title": "時隔兩年，完整講述【艾爾登法環】史詩級故事#2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SBJ9RpEPQWg",
           "author": null,
           "description": "",
@@ -554,16 +564,6 @@
           "publishedOn": "2025-01-22T12:01:18.000Z",
           "wordCount": null,
           "title": "2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rfkfHXbR4oA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rfkfHXbR4oA",
-          "publishedOn": "2025-01-20T12:01:09.000Z",
-          "wordCount": null,
-          "title": "2025年15款角色扮演 RPG 類手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1",
           "imageUrl": null
         }
       ]
@@ -712,16 +712,6 @@
           "wordCount": null,
           "title": "北海道必去景點之一！？新千歲機場超好逛！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_mOQza6sAmQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_mOQza6sAmQ",
-          "publishedOn": "2025-01-20T12:30:27.000Z",
-          "wordCount": null,
-          "title": "一輩子值得擁有的一台相機！GRIII 跟 GRIIIx 該怎麼選？ft. NiSi JetMag Pro 魔術快裝｜ft. RICOH GRIII GRIIIx",
-          "imageUrl": null
         }
       ]
     },
@@ -729,18 +719,7 @@
       "title": "FUJIFILM X Series",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=0qXs9c321cs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0qXs9c321cs",
-          "publishedOn": "2025-01-20T05:00:01.000Z",
-          "wordCount": null,
-          "title": "2025 New Year Greeting / FUJIFILM",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Audio Library — Music for content creators",
