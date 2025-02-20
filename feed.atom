@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T01:47:22.009Z</id>
+    <id>urn:2025-02-20T01:47:35.319Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T01:47:22.009Z</updated>
+    <updated>2025-02-20T01:47:35.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「週三八點半」那些過去累積的東西會成就今天嗎？｜a6700 vs XT50？｜閃燈要多少瓦數才夠力？]]></title>
+        <id>https://www.youtube.com/watch?v=tnOQermfQeA</id>
+        <link href="https://www.youtube.com/watch?v=tnOQermfQeA"/>
+        <updated>2025-02-19T14:26:47.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Eternal Garden in a Bottle: Digital Life and Art in Unstable Systems / Che-Yu Wu, 2024]]></title>
+        <id>https://www.youtube.com/watch?v=bTx4lC3oA_Y</id>
+        <link href="https://www.youtube.com/watch?v=bTx4lC3oA_Y"/>
+        <updated>2025-02-19T12:12:57.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #5]]></title>
+        <id>https://www.youtube.com/watch?v=jd0YHlCodfw</id>
+        <link href="https://www.youtube.com/watch?v=jd0YHlCodfw"/>
+        <updated>2025-02-19T12:01:07.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM TikTok Tiếng Anh US - UK Mix Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=rRHDfI7LRwg</id>
+        <link href="https://www.youtube.com/watch?v=rRHDfI7LRwg"/>
+        <updated>2025-02-19T12:00:32.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[時隔兩年，完整講述【艾爾登法環】史詩級故事#2]]></title>
         <id>https://www.youtube.com/watch?v=o6LlMk87rpQ</id>
@@ -366,15 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EDM Tết 2025 - TOP 12 Bản Nhạc EDM Mix Phiêu Chào Xuân Ất Tỵ ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=W2f7UrTPxqQ</id>
-        <link href="https://www.youtube.com/watch?v=W2f7UrTPxqQ"/>
-        <updated>2025-01-29T12:01:54.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年1月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #9]]></title>
         <id>https://www.youtube.com/watch?v=SfgLcFqkZHw</id>
         <link href="https://www.youtube.com/watch?v=SfgLcFqkZHw"/>
@@ -498,15 +525,6 @@
         <updated>2025-01-22T03:14:23.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的Mac效率设置和喜爱软件（2024）]]></title>
-        <id>https://www.youtube.com/watch?v=4okZ80jpT4Q</id>
-        <link href="https://www.youtube.com/watch?v=4okZ80jpT4Q"/>
-        <updated>2025-01-21T12:40:57.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
         </author>
     </entry>
 </feed>
